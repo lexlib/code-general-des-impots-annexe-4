@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-07-01
+Version Consolidée au 1981-07-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -11328,21 +11328,21 @@ _Abrogé par_:
 
 Le tarif des salaires  visé à l'article 290 de l'annexe III au code général des impôts  exigibles pour la délivrance des
 copies et des extraits des fiches personnelles de propriétaire et des fiches d'immeuble est fixé  quel que soit leur mode
-d'établissement  à :
-
-3 F par annotation de formalité portée au tableau III de ces fiches ;
-
-3 F par face de fiche pour la reproduction des tableaux I et II.
+d'établissement, à 5 F par face de fiche.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1981-07-24 art. 1 JORF 29 juillet 1981
 
 _Cite_:
 
   - CGIAN3 290
 
-**Liens**:
+_Abrogé par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°85-842 du 5 août 1985 - art. 11 (V) JORF 9 août 1985 date d'application 1er octobre 1985
 
 
 ### DROITS DE TIMBRE<a id=258></a>
