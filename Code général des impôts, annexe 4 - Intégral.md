@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-08-04
+Version Consolidée au 1981-09-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -220,11 +220,11 @@ Version Consolidée au 1981-08-04
       - [Titre II : Dispositions diverses (art. 165 à 169)](#217)
         - [Section I : Impôts directs et taxes assimilées (art. 165 à 166)](#218)
         - [Section III : Enregistrement, publicité foncière et timbre (art. 169)](#219)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 3 à 170 ter)](#220)
-    - [IMPOTS D'ETAT (art. 3 à 121 V ter)](#221)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 3 à 23 L ter)](#222)
-        - [IMPOT SUR LE REVENU (art. 3 à 17 septies)](#223)
-          - [BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*. (art. 3 à 4 quinquies)](#224)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 4 C bis à 170 ter)](#220)
+    - [IMPOTS D'ETAT (art. 4 C bis à 121 V ter)](#221)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 4 C bis à 23 L ter)](#222)
+        - [IMPOT SUR LE REVENU (art. 4 C bis à 17 septies)](#223)
+          - [BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*. (art. 4 C bis à 4 quinquies)](#224)
           - [TRAITEMENTS ET SALAIRES. (art. 5 A)](#225)
           - [REVENU DES CAPITAUX MOBILIERS. (art. 6 ter à 17 D)](#226)
           - [REVENU GLOBAL. (art. 17 E à 17 septies)](#227)
@@ -8104,51 +8104,6 @@ commercial.
 #### IMPOT SUR LE REVENU<a id=223></a>
 
 ##### BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*.<a id=224></a>
-
-###### Article 3
-
-Pour les exercices clos avant le 22 septembre 1972, la dotation annuelle de la provision prévue à l'article 2 peut atteindre
-10 % du bénéfice comptable de chaque exercice  en ce qui concerne la caisse nationale des marchés de l'Etat  et 5 % de ce
-bénéfice pour les autres entreprises  à l'exception du crédit national sans que le montant global de ladite provision puisse
-toutefois excéder 5 % du montant des crédits à moyen et à long terme effectivement utilisés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1981-09-15
-
-**Liens**:
-
-  - PEREMPTION: Arrêté 1981-09-15 art. 3 JORF 18 septembre 1981 : DEVENU SANS OBJET
-  - HISTO: EDITION 1979-07-01
-
-_Cite_:
-
-  - CGIAN4 2
-
-
-###### Article 4
-
-Pour les exercices clos avant le 22 septembre 1972, en ce qui concerne le crédit national  la provision visée à l'article 2
-est représentée par la dotation annuelle faite à la réserve spéciale pour risques de contrats en cours que cet organisme est
-déjà tenu de constituer en exécution des conventions qu'il a passées avec l'Etat.
-
-Le montant global de la provision ainsi constituée à partir de la clôture de l'exercice 1945 ne peut excéder 10 % du montant
-des crédits à moyen et à long terme consentis par le crédit national et effectivement utilisés.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - PEREMPTION: Arrêté 1981-09-15  art. 4 JORF 18 septembre 1981 : devenu sans
-  - HISTO: EDITION 1979-07-01
-  - HISTO: objet)
-
-_Cite_:
-
-  - CGIAN4 2
-
 
 ###### Article 4 C bis
 
