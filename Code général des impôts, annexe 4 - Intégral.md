@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1979-12-26
+Version Consolidée au 1979-12-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -58,7 +58,7 @@ Version Consolidée au 1979-12-26
               - [C : Aliments pour le bétail, les animaux de basse-cour, les poissons d'élevage et les abeilles (art. 31)](#55)
           - [Section V : Obligations des redevables (art. 35 à 50 sexies G)](#56)
             - [I : Obligations générales (art. 35 à 39 bis)](#57)
-              - [A : Déclarations d'existence et comptabilité. Déclarations de recettes (art. 35 à 38)](#58)
+              - [A : Déclarations d'existence et comptabilité. Déclarations de recettes (art. 35 à 41)](#58)
               - [Déclarations d'existence et comptabilité - Déclarations de recettes. (art. 33 à 39 bis)](#59)
             - [II : Obligations particulières (art. 42 à 50 sexies G)](#60)
               - [A : Bâtiments de mer. Bâteaux. Pêche maritime. Aéronefs (art. 42 à 46)](#61)
@@ -2065,6 +2065,60 @@ _Abrogé par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 287
+
+
+###### Article 40
+
+1. Les assujettis à la taxe sur la valeur ajoutée doivent mentionner sur la déclaration prévue au 1 de l'article 287 du code
+général des impôts le rapport mentionné à l'article 214 de l'annexe II au code général des impôts qu'ils appliquent durant
+l'année en cours.
+
+2. Les entreprises visées à l'article 213 de l'annexe II au code général des impôts qui adoptent un rapport distinct par
+secteur d'activité doivent dans les quinze jours en faire la déclaration au service des impôts.
+
+Les entreprises assujetties à la taxe sur la valeur ajoutée doivent, dans les mêmes conditions, déclarer les modifications
+aboutissant à la création d'un secteur exonéré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1981-09-15
+
+_Cite_:
+
+  - CGI 287 1
+  - CGIAN2 213, 214
+
+_Modifié par_:
+
+  - Décret n°79-1163 du 29 décembre 1979 - art. 9 (V) JORF 31 décembre 1979
+
+
+###### Article 41
+
+A l'appui de la déclaration mentionnée au 1 de l'article 287 du code général des impôts qu'elles déposent avant le 25 du mois
+qui suit celui de leur création ou de leur prise de position d'assujetties les entreprises doivent déclarer le rapport
+provisoire prévu par l'article 214 de l'annexe II au code général des impôts.
+
+Les entreprises nouvellement assujetties doivent, pour les biens soumis à amortissement qu'elles détiennent, mentionner
+également sur cette déclaration la taxe sur la valeur ajoutée déterminée dans les conditions fixées à l'article 226 de
+l'annexe susvisée  ainsi que la valeur correspondante, taxe comprise, des mêmes biens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1981-09-15
+
+_Cite_:
+
+  - CGI 287 1
+  - CGIAN2 214, 226
+
+_Modifié par_:
+
+  - Décret n°79-1163 du 29 décembre 1979 - art. 9 (V) JORF 31 décembre 1979
 
 
 ##### Déclarations d'existence et comptabilité - Déclarations de recettes.<a id=59></a>
@@ -8828,55 +8882,6 @@ faire la déclaration [*délai, formalité obligatoire*] au service qui a reçu 
 _Cite_:
 
   - CGIAN4 32
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 40
-
-1. Les assujettis à la taxe sur la valeur ajoutée doivent mentionner sur la déclaration [*de recettes*] prévue à l'article
-287-1 du code général des impôts le pourcentage de déduction visé à l'article 214 de l'annexe II au code général des impôts
-qu'ils appliquent durant l'année en cours.
-
-2. Les entreprises [*exploitant des secteurs d'activité différents*] visées à l'article 213 de l'annexe II au code général
-des impôts qui adoptent un pourcentage de déduction [*prorata*] distinct par secteur d'activité doivent dans les quinze jours
-en faire la déclaration au service des impôts.
-
-Les entreprises assujetties à la taxe sur la valeur ajoutée doivent  dans les mêmes conditions  déclarer les modifications
-aboutissant à la création d'un secteur exonéré.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 287 1
-  - CGIAN2 213
-  - CGIAN2 214
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 41
-
-A l'appui de la déclaration [*de recettes*] visée à l'article 287-1 du code général des impôts qu'elles déposent avant le 25
-du mois qui suit celui de leur création ou de leur prise de position d'assujetties [*date limite de dépôt*] les entreprises
-doivent déclarer le pourcentage provisoire prévu à l'article 225 de l'annexe II au code général des impôts [*prorata*].
-
-Les entreprises nouvellement assujetties doivent  pour les biens soumis à amortissement qu'elles détiennent  mentionner
-également sur cette déclaration la taxe sur la valeur ajoutée déterminée dans les conditions fixées à l'article 226 de
-l'annexe susvisée  ainsi que la valeur correspondante  taxe comprise  des mêmes biens.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 287 1
-  - CGIAN2 225
-  - CGIAN2 226
 
 **Liens**:
 
