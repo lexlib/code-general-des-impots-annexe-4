@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-12-31
+Version Consolidée au 1987-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -14509,14 +14509,14 @@ suit :
 
 ------------------------------------------------------------------ !                                       !   Pour la
 période du   ! !             DESIGNATION               ! 1er janvier au 31      ! !                                       !
-décembre 1986.  F.  ! ------------------------------------------------------------------ ! Véhicules automobiles de transport
+décembre 1987.  F.  ! ------------------------------------------------------------------ ! Véhicules automobiles de transport
 de !                        ! ! marchandises dont le P.A.T.C. (1)     !                        ! ! est égal ou supérieur à
-3,5 tonnes    !                        ! ! et inférieur à 6 tonnes ..............!         240            ! ! Véhicules
+3,5 tonnes    !                        ! ! et inférieur à 6 tonnes ..............!         257            ! ! Véhicules
 automobiles de transport de !                        ! ! marchandises dont le P.A.T.C. est égal!                        ! !ou
 supérieur à 6 tonnes et inférieur   !                        ! !à 11 tonnes............................!
-360            ! ! Véhicules automobiles de transport de !                        ! ! marchandises dont le P.A.T.C. est
+385            ! ! Véhicules automobiles de transport de !                        ! ! marchandises dont le P.A.T.C. est
 égal!                        ! !ou supérieur à 11 tonnes ..............!                        ! ! Tracteurs
-routiers....................!         540            ! ! Véhicules de transport en commun de   !                        ! !
+routiers....................!         578            ! ! Véhicules de transport en commun de   !                        ! !
 voyageurs ............................!                        !
 ------------------------------------------------------------------ ! (1) Poids total autorisé en
 charge.                            ! ---------------------------------------------------------------
@@ -14525,11 +14525,11 @@ charge.                            ! -------------------------------------------
 
 _Modifié par_:
 
-  - Arrêté 1985-12-31 art. 1 JORF 9 janvier 1986
+  - Arrêté 1986-12-29 art. 1 JORF 1 janvier 1987
 
 _Codifié par_:
 
-  - Arrêté 1986-10-07
+  - Arrêté 1987-11-23
 
 _Cite_:
 
