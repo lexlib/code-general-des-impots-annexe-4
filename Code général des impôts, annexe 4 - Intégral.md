@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-04-13
+Version Consolidée au 1980-05-10
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -13253,18 +13253,22 @@ esters),          etc.                Ex B          Gommes esters               
 ###### Article 159 AL bis
 
 Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé pour la période du 1er janvier
-1978 au 31 décembre 1979 à 0,95 % dont 0,70 % affecté au comité professionnel interrégional de l'horlogerie et 0,25 % affecté
+1978 au 31 décembre 1980 à 0,95 % dont 0,70 % affecté au comité professionnel interrégional de l'horlogerie et 0,25 % affecté
 au centre technique de l'industrie horlogère.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté 1980-05-07 art. 1 JORF 10 mai 1980
+
+_Codifié par_:
+
+  - Arrêté 1981-09-15
+
 _Cite_:
 
   - CGIAN2 345
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 #### TAXE PARAFISCALE SUR LES TEXTILES.<a id=277></a>
