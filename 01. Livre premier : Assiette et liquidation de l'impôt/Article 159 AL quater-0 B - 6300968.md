@@ -1,17 +1,18 @@
 # Article 159 AL quater-0 B
 
-Le taux de la taxe prévue à l'article 363 DA de l'annexe II au code général des impôts est fixé à 500 F à compter de l'année
-1998.
+En application de l'article 363 DA de l'annexe II au code général des impôts, le taux de la taxe parafiscale forfaitaire due
+par les exploitants agricoles au titre de leurs activités agricoles au profit de l'Association nationale pour le
+développement agricole est fixé à 500 F pour l'année 2001.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1997-12-26 art. 1 JORF 28 décembre 1997
+  - Arrêté 2000-12-26 art. 1 JORF 30 décembre 2000
 
 _Codifié par_:
 
-  - Arrêté 1998-05-22
+  - Arrêté 2001-05-21
 
 _Cite_:
 
@@ -19,4 +20,4 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
+  - HISTO: Edition du 31 mars 2001
