@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1983-01-13
+Version Consolidée au 1983-01-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -13951,25 +13951,27 @@ _Cite_:
 
 ###### Article 159 AM
 
-Le taux de la taxe perçue au profit du comité des fruits à cidre et des productions cidricoles est fixé comme suit (1) :
+Le taux de la taxe mentionnée à l'article 358 de l'annexe II au code général des impôts est fixé comme suit (1) :
 
-0,40 F par quintal de fruits à cidre et à poiré;
+0,43 F par quintal de fruits à cidre et à poiré;
 
-0,53 F par hectolitre de cidre  de poiré ou de moût de pommes ou de poires;
+0,57 F par hectolitre de cidre et de poiré ou par hectolitre de de moûts de pommes ou de poires ;
 
-10 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de cidre ou de poiré;
+10,80 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de cidre ou de poiré;
 
-10 F par hectolitre d'alcool pur pour les alcools de cidre ou de poiré réservés à l'Etat.
+10,80 F par hectolitre d'alcool pur pour les alcools de cidre et de poiré réservés à l'Etat.
 
-Elle est supportée par l'acheteur et le vendeur [*redevables*] chacun pour moitié.
-
-(1) A compter du 1er septembre 1977.
+(1) Taux applicables à compter du 1er septembre 1982.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Arrêté 1983-10-06
+
+_Cite_:
+
+  - CGIAN2 358
 
 
 #### TAXES PARAFISCALE SUR CERTAINES VIANDES.<a id=300></a>
