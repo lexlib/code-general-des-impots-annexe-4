@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1988-09-11
+Version Consolidée au 1989-01-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -293,8 +293,8 @@ Version Consolidée au 1988-09-11
       - [Titre II : Dispositions diverses (art. 165 à 170 sexies)](#290)
         - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#291)
         - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#292)
-        - [Section IV : Dispositions communes (art. 170 septies à 170 sexies)](#293)
-          - [Octroi de certains agréments fiscaux (art. 170 septies à 170 sexies)](#294)
+        - [Section IV : Dispositions communes (art. 170 quinquies à 170 sexies)](#293)
+          - [Octroi de certains agréments fiscaux (art. 170 quinquies à 170 sexies)](#294)
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 17 quinquies A à 170 septies A)](#295)
     - [IMPOTS D'ETAT (art. 17 quinquies A à 48)](#296)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 17 quinquies A)](#297)
@@ -15556,6 +15556,52 @@ _Modifié par_:
 
 ##### Octroi de certains agréments fiscaux<a id=294></a>
 
+###### Article 170 quinquies
+
+Il est statué sur les demandes d'agrément présentées pour l'application des articles 697, 721 et 1465 du code général des
+impôts :
+
+1° Par le ministre chargé du budget, après avis du comité interministériel des aides à la localisation des activités institué
+par l'article 1er de l'arrêté du 10 juillet 1982 :
+
+a) pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 50 millions de francs
+d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à un milliard de francs
+ou dont le capital est détenu à plus de 50 p. 100 par une entreprise dont le chiffre d'affaires consolidé dépasse un milliard
+de francs ;
+
+b) pour les créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique ;
+
+c) pour les opérations au titre desquelles l'entreprise a également demandé une prime d'aménagement du territoire dont
+l'attribution est décidée par le ministre chargé de l'aménagement du territoire conformément aux dispositions de l'article 9
+du décret n° 82-379 du 6 mai 1982, modifié par l'article 4 du décret n° 87-580 du 22 juillet 1987 ;
+
+d) pour les opérations présentant des difficultés particulières et évoquées par le ministre.
+
+2° Dans les autres cas, par le directeur régional des impôts dont dépend le lieu de situation de l'établissement (1).
+
+(1) Ces dispositions sont applicables aux demandes d'agrément déposées à compter du 1er janvier 1989.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1982-07-10 art. 1
+  - CGI 1465
+  - CGI 697
+  - CGI 721
+  - Décret n°82-379 1982-05-06 art. 9 2°, 3°, 4°
+  - Décret n°87-580 1987-07-22 art. 4
+
+_Modifié par_:
+
+  - Arrêté 1988-12-23 art. 1 JORF 12 janvier 1989
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (V)
+
+
 ###### Article 170 septies
 
 Il est statué par le directeur régional des impôts compétent sur les demandes d'agrément présentées en application de
@@ -15853,57 +15899,6 @@ _Modifié par_:
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
-
-
-###### Article 170 quinquies
-
-Il est statué sur les demandes d'agrément présentées pour l'application des articles 39 quinquies D, 697, 721 et 1465 du code
-général des impôts :
-
-1° Par le ministre de l'économie, des finances et du budget, après avis du comité interministériel des aides à la
-localisation des activités institué par l'article 1er de l'arrêté du 10 juillet 1982 :
-
-a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 25 millions F
-d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 500 millions F ou
-dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse 500 millions F ;
-
-b. Pour les créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique ;
-
-c. Pour les opérations au titre desquelles l'entreprise a également demandé une prime d'aménagement du territoire dont
-l'attribution relève du niveau central en application des 2°, 3° et 4° de l'article 9 du décret n° 82-379 du 6 mai 1982
-relatif à la prime d'aménagement du territoire ;
-
-d. Pour les opérations présentant des difficultés particulières et évoquées par le ministre ;
-
-2° Dans les autres cas, par le directeur régional des impôts dont dépend le lieu de situation de l'établissement (1).
-
-(1) Dispositions applicables aux demandes d'agrément déposées à compter du 1er janvier 1984. Les agréments délivrés par les
-directeurs des services fiscaux sur des demandes déposées avant cette date peuvent être retirés soit par le directeur des
-services fiscaux qui a délivré l'agrément, soit par le directeur régional des impôts territorialement compétent.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1982-07-10 art. 1
-  - CGI 1465
-  - CGI 39 quinquies D
-  - CGI 697
-  - CGI 721
-  - Décret n°82-379 1982-05-06 art. 9 2°, 3°, 4°
-
-_Créé par_:
-
-  - Arrêté 1983-12-16 art. 12 JORF 20 décembre 1983
-
-_Codifié par_:
-
-  - Arrêté 1984-10-01
-
-_Cité par_:
-
-  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (V)
 
 
 ##### OCTROI DE CERTAINS AGREMENTS FISCAUX.<a id=313></a>
