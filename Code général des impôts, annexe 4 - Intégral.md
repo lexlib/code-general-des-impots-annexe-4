@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-12-30
+Version Consolidée au 1981-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -276,68 +276,67 @@ Version Consolidée au 1980-12-30
       - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 159 AL sexies à 159 AL quater)](#273)
         - [TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES. (art. 157 bis)](#274)
         - [BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA* (art. 159 ter A)](#275)
-        - [CENTRE D'ETUDES TECHNIQUES DES INDUSTRIES DE L'HABILLEMENT. (art. 159 A)](#276)
-        - [FONDS NATIONAL DU LIVRE (art. 159 AB à 159 AD)](#277)
-        - [FONDS D'ORIENTATION ET DE REGULARISATION DES MARCHES AGRICOLES (art. 159 AJ)](#278)
-        - [COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE. (art. 159 AL bis)](#279)
-        - [TAXE PARAFISCALE SUR LES TEXTILES. (art. 159 AL ter)](#280)
-        - [TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT. (art. 159 AL quater)](#281)
-      - [CONTRIBUTIONS INDIRECTES (art. 159 AQ à 159 AP)](#282)
-        - [COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES. (art. 159 AM)](#283)
-        - [TAXES PARAFISCALE SUR CERTAINES VIANDES. (art. 159 AO)](#284)
-        - [TAXE PARAFISCALE SUR LES VINS. (art. 159 AP)](#285)
-      - [ENREGISTREMENT (art. 159 quinquies à 159 septies)](#286)
-        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE. (art. 159 quinquies)](#287)
-        - [TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION. (art. 159 sexies)](#288)
-        - [REGION D'ILE-DE-FRANCE. (art. 159 sexies A)](#289)
-        - [TAXE AU PROFIT DE L'ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANS LES TRANSPORTS. (art. 159 septies)](#290)
-    - [DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS* (art. 161 A)](#291)
-      - [FRAIS D'ASSIETTE ET DE PERCEPTION (art. 161 A)](#292)
-        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 161 A)](#293)
-    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 164 F bis à 170 ter)](#294)
-      - [ASSIETTE ET CONTROLE DE L'IMPOT (art. 164 F bis à 164 M)](#295)
-        - [OBLIGATIONS DES REDEVABLES (art. 164 F bis à 164 F undecies)](#296)
-          - [DECLARATION DES COMPTES FINANCIERS. (art. 164 FA)](#297)
-          - [BONS DE REMIS. (art. 164 F decies à 164 F undecies)](#298)
-        - [CENTRES DE GESTION AGREES. (art. 164 F unvicies)](#299)
-        - [ARTISANS. (art. 164 G à 164 K)](#300)
-        - [REGLEMENTATION DES MACHINES A TIMBRER. (art. 164 AD à 164 M)](#301)
-      - [DISPOSITIONS DIVERSES (art. 167 à 170 ter)](#302)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 167)](#303)
-        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 170)](#304)
-        - [DISPOSITIONS COMMUNES. (art. 170 quater à 170 ter)](#305)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#306)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#307)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#308)
-        - [3 : Paiement de l'impôt (art. 187 à 188)](#309)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#310)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#311)
-      - [Section III : Contributions indirectes (art. 193)](#312)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 septies)](#313)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#314)
-        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#315)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#316)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#317)
-        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#318)
-      - [Section V : Dispositions communes (art. 199 à 204)](#319)
-        - [2° : Paiement par chèques (art. 199 à 204)](#320)
-    - [Chapitre I bis : Pénalités (art. 207 quater A)](#321)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#322)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#323)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#324)
-  - [RECOUVREMENT DE L'IMPOT (art. 188 H à 211)](#325)
-    - [PAIEMENT DE L'IMPOT (art. 188 H à 207 quater B)](#326)
-      - [RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES. (art. 188 H)](#327)
-      - [PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE (art. 188 I)](#328)
-      - [CONTRIBUTIONS INDIRECTES. (art. 194)](#329)
-      - [PENALITES (art. 207 quater B)](#330)
-    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#331)
-      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#332)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 207 B à 207 N)](#333)
-      - [SURSIS DE PAIEMENT. (art. 207 A à 207 N)](#334)
-    - [DROIT DE COMMUNICATION (art. 208 à 211)](#335)
-      - [OBLIGATIONS DES CAISSES DE SECURITE SOCIALE. (art. 208 à 210)](#336)
-      - [OBLIGATIONS DES DIRECTEURS DE LABORATOIRES D'ANALYSES MEDICALES. (art. 211)](#337)
+        - [FONDS NATIONAL DU LIVRE (art. 159 AB à 159 AD)](#276)
+        - [FONDS D'ORIENTATION ET DE REGULARISATION DES MARCHES AGRICOLES (art. 159 AJ)](#277)
+        - [COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE. (art. 159 AL bis)](#278)
+        - [TAXE PARAFISCALE SUR LES TEXTILES. (art. 159 AL ter)](#279)
+        - [TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT. (art. 159 AL quater)](#280)
+      - [CONTRIBUTIONS INDIRECTES (art. 159 AQ à 159 AP)](#281)
+        - [COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES. (art. 159 AM)](#282)
+        - [TAXES PARAFISCALE SUR CERTAINES VIANDES. (art. 159 AO)](#283)
+        - [TAXE PARAFISCALE SUR LES VINS. (art. 159 AP)](#284)
+      - [ENREGISTREMENT (art. 159 quinquies à 159 septies)](#285)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE. (art. 159 quinquies)](#286)
+        - [TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION. (art. 159 sexies)](#287)
+        - [REGION D'ILE-DE-FRANCE. (art. 159 sexies A)](#288)
+        - [TAXE AU PROFIT DE L'ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANS LES TRANSPORTS. (art. 159 septies)](#289)
+    - [DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS* (art. 161 A)](#290)
+      - [FRAIS D'ASSIETTE ET DE PERCEPTION (art. 161 A)](#291)
+        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 161 A)](#292)
+    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 164 F bis à 170 ter)](#293)
+      - [ASSIETTE ET CONTROLE DE L'IMPOT (art. 164 F bis à 164 M)](#294)
+        - [OBLIGATIONS DES REDEVABLES (art. 164 F bis à 164 F undecies)](#295)
+          - [DECLARATION DES COMPTES FINANCIERS. (art. 164 FA)](#296)
+          - [BONS DE REMIS. (art. 164 F decies à 164 F undecies)](#297)
+        - [CENTRES DE GESTION AGREES. (art. 164 F unvicies)](#298)
+        - [ARTISANS. (art. 164 G à 164 K)](#299)
+        - [REGLEMENTATION DES MACHINES A TIMBRER. (art. 164 AD à 164 M)](#300)
+      - [DISPOSITIONS DIVERSES (art. 167 à 170 ter)](#301)
+        - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 167)](#302)
+        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 170)](#303)
+        - [DISPOSITIONS COMMUNES. (art. 170 quater à 170 ter)](#304)
+  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#305)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#306)
+      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#307)
+        - [3 : Paiement de l'impôt (art. 187 à 188)](#308)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#309)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#310)
+      - [Section III : Contributions indirectes (art. 193)](#311)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 septies)](#312)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#313)
+        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#314)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#315)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#316)
+        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#317)
+      - [Section V : Dispositions communes (art. 199 à 204)](#318)
+        - [2° : Paiement par chèques (art. 199 à 204)](#319)
+    - [Chapitre I bis : Pénalités (art. 207 quater A)](#320)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#321)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#322)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#323)
+  - [RECOUVREMENT DE L'IMPOT (art. 188 H à 211)](#324)
+    - [PAIEMENT DE L'IMPOT (art. 188 H à 207 quater B)](#325)
+      - [RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES. (art. 188 H)](#326)
+      - [PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE (art. 188 I)](#327)
+      - [CONTRIBUTIONS INDIRECTES. (art. 194)](#328)
+      - [PENALITES (art. 207 quater B)](#329)
+    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#330)
+      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#331)
+    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 207 B à 207 N)](#332)
+      - [SURSIS DE PAIEMENT. (art. 207 A à 207 N)](#333)
+    - [DROIT DE COMMUNICATION (art. 208 à 211)](#334)
+      - [OBLIGATIONS DES CAISSES DE SECURITE SOCIALE. (art. 208 à 210)](#335)
+      - [OBLIGATIONS DES DIRECTEURS DE LABORATOIRES D'ANALYSES MEDICALES. (art. 211)](#336)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -13065,168 +13064,128 @@ _Cite_:
 
 ###### Article 159 ter A
 
-Le tarif forfaitaire de la taxe spéciale sur les produits alimentaires importés dans lesquels sont incorporées des huiles
-végétales fluides ou concrètes ou des huiles d'animaux marins  visé à l'article 333-0 A de l'annexe III au code général des
-impôts est fixé comme suit :
+1. La taxe prévue par l'article 1618 quinquies du code général des impôts est perçue en fonction du poids net des huiles
+végétales et des huiles d'animaux marins incorporées. Ce poids, ainsi que la nature des huiles, doit être expressément
+mentionné sur les         é déclarations d'importation des produits alimentaires en cause.
 
-NUMERO DU TARIF : Ex 07-02                 Unité            Quotité                                       de perception
-(en francs) DESIGNATION DES MARCHANDISES   Légumes et plantes potagères, cuites ou non, à l'état congelé :
+2. Le tarif forfaitaire dont le redevable peut demander l'application est fixé comme suit (1) :
 
-- dans lesquels ont été incorporées   des huiles végétales ou des huiles   d'animaux marins dans une proportion :
+NUMERO DU TARIF                            Unité    SOMME A PERCEVOIR     DOUANIER    : Ex 07-02            de perception
+(en francs) DESIGNATION DES MARCHANDISES   Légumes et plantes potagères, cuits ou non, à l'état congelé :
 
-- - inférieure ou égale à 15 %           100 kg nets          2,4 - - comprise entre 15 et 25 %                 -
-4,1 - - égale ou supérieure à 25 %                -               6,6 NUMERO DU TARIF : 15-13 DESIGNATION DES MARCHANDISES
-Margarine                                   -              22,4   Simili-saindoux et autres graisses    alimentaires
-préparées                     -              25,7
+auxquels ont été incorporées   des huiles végétales ou des huiles   d'animaux marins dans une proportion :
 
-NUMERO DU TARIF : Ex 16-02              UNITE             QUOTITE                                       de perception     (en
-francs) DESIGNATION DES MARCHANDISES   Autres préparations et conserves   de viandes ou d'abats :
+- inférieure ou égale à 15 %           100 kg nets          3,3   - comprise entre 15 et 25 %                 -
+5,6   - égale ou supérieure à 25 %                -               9 NUMERO DU TARIF : 15-13 DESIGNATION DES MARCHANDISES
+Margarine et assimilés                             Non applicable
 
-- dans lesquelles ont été     incorporées des huiles végétales     ou des huiles d'animaux marins     dans une proportion :
+NUMERO DU TARIF : Ex 16-02 DESIGNATION DES MARCHANDISES   Autres préparations et conserves   de viandes ou d'abats auxquelles
+ont   été incorporés des huiles végétales   ou des huiles d'animaux marins dans   une proportion :
 
-- - inférieure ou égale à 15 %              -               2,4   - - comprise entre 15 et 25 %               -
-4,1   - - égale ou supérieure à 25 %              -               6,6 NUMERO DU TARIF : 16-03 DESIGNATION DES MARCHANDISES
-Extraits et jus de viande et extraits   de poissons :
+- inférieure ou égale à 15 %            100 kg nets       3,3   - comprise entre 15 et 25 %               -               5,6
+- égale ou supérieure à 25 %              -               9 NUMERO DU TARIF : 16-03 DESIGNATION DES MARCHANDISES   Extraits
+et jus de viande et extraits   de poissons auxquels ont été incorporées     des huiles végétales ou des huiles     d'animaux
+marins dans une proportion :
 
-- dans lesquelles ont été incorporées     des huiles végétales ou des huiles     d'animaux marins dans une proportion :
+- inférieure ou égale à 15 %                 -            3,3     - comprise entre 15 et 25 %                  -
+5,6     - égale ou supérieure à 25 %                 -            9
 
-- - inférieure ou égale à 15 %                 -            2,4   - - comprise entre 15 et 25 %                  -
-4,1   - - égale ou supérieure à 25 %                 -            6,6
+NUMERO DU TARIF : Ex 16-04 DESIGNATION DES MARCHANDISES :
 
-NUMERO DU TARIF : Ex 16-04                 UNITE DE         QUOTITE DESIGNATION DES MARCHANDISES :           PERCEPTION
-(en francs) Préparations et conserves de    poissons, y compris le caviar    et ses succédanés, à l'exclusion    des
-conserves contenant moins de    5 % d'huile au kg demi-brut et des    conserves de type "pilchard" :
+Préparations et conserves de    poissons, y compris le caviar    et ses succédanés, à l'exclusion    des conserves contenant
+moins de    5 % d'huile au kg demi-brut :
 
-- à l'huile d'olive                  100 kg demi-bruts      7,4   - à l'huile végétale autre ou à     l'huile d'animaux
-marins                     -            6,6   - à la tomate et à l'huile végétale     ou à l'huile d'animaux marins,
-contenant une proportion d'huile :
+- à l'huile d'olive                  100 kg demi-bruts     10,1   - à une autre huile végétale ou     à l'huile d'animaux
+marins                    -           9   - à la tomate, cette sauce contenant     une proportion d'huile végétale ou
+d'animaux marins :
 
-- - inférieure ou égale à 15 %                   -           2,4  - - comprise entre 15 et 25 %                    -
-4,1  - - égale ou supérieure à 25 %                   -           6,6
+- inférieure ou égale à 15 %                   -           3,3    - comprise entre 15 et 25 %                    -
+5,6    - égale ou supérieure à 25 %                   -           9
 
-NUMERO DU TARIF : Ex 16-05 A et B II           UNITE       QUOTITE DESIGNATION DES MARCHANDISES             DE PERCEPTION
-(en francs)   Crustacés, mollusques et coquillages   préparés ou conservés :
+NUMERO DU TARIF : Ex 16-05 DESIGNATION DES MARCHANDISES   Crustacés, mollusques et coquillages   préparés ou conservés :
+100 kg demi-bruts  - à l'huile d'olive                              -          10,1  - à une autre huile végétale ou à
+l'huile d'animaux marins                       -           9
 
-- à l'huile d'olive                              -           7,4  - à l'huile végétale autre ou à    l'huile d'animaux marins
--           6,6
+NUMERO DU TARIF : Ex 17-04 DESIGNATION DES MARCHANDISES   Sucreries sans cacao auxquelles ont été   incorporées des huiles
+végétales ou   des huiles d'animaux marins dans une   proportion :
 
-NUMERO DU TARIF : Ex 17-04 DESIGNATION DES MARCHANDISES   Sucreries sans cacao :
+- inférieure ou égale à 15 %               100 kg nets        3,3   - comprise entre 15 et 25 %                    -
+5,6   - égale ou supérieure à 25 %                   -              9
 
-- dans lesquelles ont été incorporées     des huiles végétales ou des huiles     d'animaux marins dans une proportion :
+NUMERO DU TARIF : Ex 18-06 B, C, D DESIGNATION DES MARCHANDISES   Chocolat et autres préparations   alimentaires contenant du
+cacao   auxquels ont été incorporées des   des huiles végétales ou des huiles   d'animaux marins dans une proportion :
 
-- - inférieure ou égale à 15 %               100 kg nets        2,4 - - comprise entre 15 et 25 %                    -
-4,1 - - égale ou supérieure à 25 %                   -              6,6
-
-NUMERO DU TARIF : Ex 18-06 B, C, D            UNITE         QUOTITE DESIGNATION DES MARCHANDISES             DE PERCEPTION
-(francs)   Chocolat et autres préparations   alimentaires contenant du cacao :
-
-- dans lesquelles ont été incorporées   des huiles végétales ou des huiles   d'animaux marins dans une proportion :
-
-- - inférieure ou égale à 15 %                   -              2,4 - - comprise entre 15 % et 25 %                  -
-4,1 - - égale ou supérieure à 25 %                   -              6,6
+- inférieure ou égale à 15 %                   -              3,3   - comprise entre 15 % et 25 %                  -
+5,6   - égale ou supérieure à 25 %                   -              9
 
 NUMERO DU TARIF : Ex 19-02 B DESIGNATION DES MARCHANDISES   Préparations pour l'alimentation des    enfants ou pour usages
-diététiques    ou culinaires :
+diététiques    ou culinaires à base de farines,    semoules, amidons, fécules ou extraits    de malt auxquelles ont été
+incorporées    des huiles végétales,    des huiles d'animaux marins dans    une proportion :
 
-- dans lesquelles ont été incorporées    des huiles végétales ou des huiles    d'animaux marins dans une proportion :
+- inférieure ou égale à 15 %                     -            3,3   - comprise entre 15 % et 25 %                    -
+5,6   - égale ou supérieure à 25 %                     -            9
 
-- - inférieure ou égale à 15 %                     -            2,4 - - comprise entre 15 % et 25 %                    -
-4,1 - - égale ou supérieure à 25 %                     -            6,6
+NUMERO DU TARIF : Ex 19-08 DESIGNATION DES MARCHANDISES   Produits de boulangerie fine, de la   pâtisserie et de la
+biscuiterie, même   additionnés de cacao en toutes proportions :
 
-NUMERO DU TARIF : Ex 19-08                      UNITE        QUOTITE DESIGNATION DES MARCHANDISES               DE PERCEPTION
-(en francs   Produits de boulangerie fine, de la   pâtisserie et de la biscuiterie, même   additionnés de cacao en toutes
-proportions :
+a. Produits de la biscuiterie auxquels ont      été incorporées des huiles végétales ou      des huiles d'animaux marins dans
+une      proportion :
 
-- produits de la biscuiterie :
+- inférieure ou égale à 15 %                    -           3,3     - comprise entre 15 et 25 %                     -
+5,6     - égale ou supérieure à 25 %                    -           9   b. Autres :
 
-- - dans lesquels ont été incorporées des       huiles végétales ou des huiles       d'animaux marins dans une proportion :
+- produits de la boulangerie fine               -           1,1     - produits de la pâtisserie                    -
+5,6
 
-- - inférieure ou égale à 15 %                    -           2,4   - - comprise entre 15 et 25 %                     -
-4,1   - - égale ou supérieure à 25 %                    -           6,6   - autres :
+NUMERO DU TARIF : Ex 20-02 DESIGNATION DES MARCHANDISES   Légumes et plantes potagères   préparés ou conservés sans
+vinaigre ou acide acétique :
 
-- - dans lesquels ont été incorporées des       huiles d'animaux marins :
+- auxquels ont été incorporées     des huiles végétales ou des huiles     d'animaux marins dans une proportion :
 
-- - produits de la boulangerie fine               -           0,8   - - produits de la pâtisserie                    -
-4,1
+- inférieure ou égale à 15 %                    -           3,3     - comprise entre 15 et 25 %                     -
+5,6     - égale ou supérieure à 25 %                    -           9   - pommes chips                                    -
+18
 
-NUMERO DU TARIF : Ex 20-02                     UNITE         QUOTITE DESIGNATION DES MARCHANDISES               DE PERCEPTION
-(en francs)   Légumes et plantes potagères   préparées ou conservées sans   vinaigre ni acide acétique :
+NUMERO DU TARIF : Ex 20-06 A DESIGNATION DES MARCHANDISES   Fruits à coques (y compris les   arachides) grillés auxquels ont
+été   incorporées des huiles végétales ou   des huiles d'animaux marins dans une   proportion :
 
-- dans lesquels ont été incorporées     des huiles végétales ou des huiles     d'animaux marins dans une proportion :
+- inférieure ou égale à 15 %                    -         3,3     - comprise entre 15 % et 25 %                   -
+5,6     - égale ou supérieure à 25 %                    -         9   - pomme chips                                     -
+18
 
-- - inférieure ou égale à 15 %                    -           2,4   - - comprise entre 15 et 25 %                     -
-4,1   - - égale ou supérieure à 25 %                    -           6,6   - pommes chips                                    -
-13,2
+NATURE DU TARIF : Ex 21-03 B DESIGNATION DES MARCHANDISES   Moutarde préparée dans laquelle              100 kg nets    5,6
+ont été incorporées des huiles végétales   ou des huiles d'animaux marins.
 
-NUMERO DU TARIF : Ex 20-06 A                    UNITE       QUOTITE DESIGNATION DES MARCHANDISES              DE PERCEPTION
-(en francs)   Fruits à coques :
+NATURE DU TARIF : Ex 21-04 DESIGNATION DES MARCHANDISES   Sauces, condiments et assaisonnements    composés auxquels ont été
+incorporées    des huiles végétales ou des huiles    d'animaux marins dans une proportion :
 
-- dans lesquels ont été incorporées     des huiles végétales ou des huiles     d'animaux marins dans une proportion :
+- inférieure ou égale à 25 %                      -         9   - comprise entre 25 et 50 %                       -        18
+- supérieure à 50 % et inférieure à 75 %          -        23,8   - égale ou supérieure à 75 %                      -
+36,2
 
-- - inférieure ou égale à 15 %                    -         2,4   - - comprise entre 15 % et 25 %                   -
-4,1   - - égale ou supérieure à 25 %                    -         6,6
+NUMERO DU TARIF : Ex 21-05 A DESIGNATION DES MARCHANDISES   Préparations pour soupes, potages ou    bouillons ; soupes,
+potages ou bouillons    préparés ; préparations alimentaires    composites homogénéisées                        -
+5,6
 
-NATURE DU TARIF : Ex 21-03 DESIGNATION DES MARCHANDISES   Farines de moutarde et moutarde préparée :
+NUMERO DU TARIF : Ex 21-07 DESIGNATION DES MARCHANDISES   Préparations alimentaires non dénommées    ni comprises ailleurs
+auxquelles ont été    incorporées des huiles végétales ou des    huiles d'animaux marins dans une    proportion :
 
-- ex B. Moutarde préparée :
+- inférieure ou égale à 15 %                     -           3,3    - comprise entre 15 et 25 %                      -
+5,6    - égale ou supérieure à 25 %                     -           9
 
-- - dans laquelle ont été incorporées des       huiles végétales ou des       huiles d'animaux marins                       -
-4,1
+NATURE DU TARIF : 22-02  DESIGNATION DES MARCHANDISES    Boissons non alcooliques auxquelles ont    été incorporées des
+huiles végétales ou    des huiles d'animaux marins dans une    proportion :
 
-NATURE DU TARIF : Ex 21-04 DESIGNATION DES MARCHANDISES   Sauces, condiments et assaisonnements    composés :
+- inférieure ou égale à 15 %                      -         3,3    - comprise entre 15 et 25 %                       -
+5,6    - égale ou supérieure à 25 %                      -         9
 
-- dans lesquels ont été incorporées des     huiles végétales ou des huiles d'animaux     marins dans une proportion :
-
-- - inférieure ou égale à 25 %                   -           6,6   - - comprise entre 25 et 50 %                    -
-13,2   - - supérieure à 50 % et inférieure à 75 %       -          17,4   - - égale ou supérieure à 75 %                   -
-26,5
-
-NUMERO DU TARIF : Ex 21-05                     UNITE DE     QUOTITE DESIGNATION DES MARCHANDISES               PERCEPTION
-(en francs)   Préparations pour soupes, potages ou    bouillons ; soupes, potages ou bouillons    préparés :
-
-- dans lesquels ont été incorporées des    huiles végétales ou des huiles    d'animaux marins
--           4,1
-
-NUMERO DU TARIF : Ex 21-07                      UNITE DE     QUOTITE DESIGNATION DES MARCHANDISES                  PERCEPTION
-(en francs)   Préparations alimentaires non dénommées    ni comprises ailleurs :
-
-- dans lesquelles ont été incorporées des    huiles végétales ou des huiles d'animaux    marins dans une proportion :
-
-- - inférieure ou égale à 15 %                     -           2,4  - - comprise entre 15 et 25 %                      -
-4,1  - - égale ou supérieure à 25 %                     -           6,6
-
-NATURE DU TARIF : 22-02                      UNITE DE     QUOTITE  DESIGNATION DES MARCHANDISES                PERCEPTION
-(en francs)    Limonades, eaux gazeuses aromatisées    et autres boissons non alcooliques,    à l'exclusion des jus de fruits
-et de    légumes du n° 20-07 :
-
-- dans lesquelles ont été incorporées des    huiles d'animaux marins dans une    proportion :
-
-- - inférieure ou égale à 15 %                      -         2,4  - - comprise entre 15 et 25 %                       -
-4,1  - - égale ou supérieure à 25 %                      -         6,6.
+(1) Applicable à compter du 1er janvier 1981.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGIAN3 333-0 A
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-#### CENTRE D'ETUDES TECHNIQUES DES INDUSTRIES DE L'HABILLEMENT.<a id=276></a>
-
-###### Article 159 A
-
-Le taux de la cotisation à verser au centre d'études techniques des industries de l'habillement par les entreprises visées à
-l'article 335 de l'annexe II au code général des impôts est fixé à 0,062 %.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Arrêté 1980-12-31 ART. 3 JONC 1ER JANVIER 1981
+  - Arrêté 1980-12-31 art. 1, art. 2 JORF 1er janvier 1981
 
 _Codifié par_:
 
@@ -13234,14 +13193,10 @@ _Codifié par_:
 
 _Cite_:
 
-  - CGIAN2 335
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
+  - CGI 1618 quinquies
 
 
-#### FONDS NATIONAL DU LIVRE<a id=277></a>
+#### FONDS NATIONAL DU LIVRE<a id=276></a>
 
 ###### Article 159 AB
 
@@ -13317,7 +13272,7 @@ Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 
   - HISTO: EDITION 1979-07-01
 
 
-#### FONDS D'ORIENTATION ET DE REGULARISATION DES MARCHES AGRICOLES<a id=278></a>
+#### FONDS D'ORIENTATION ET DE REGULARISATION DES MARCHES AGRICOLES<a id=277></a>
 
 ###### Article 159 AJ
 
@@ -13360,7 +13315,7 @@ esters),          etc.                Ex B          Gommes esters               
   - HISTO: EDITION 1979-07-01
 
 
-#### COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE.<a id=279></a>
+#### COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE.<a id=278></a>
 
 ###### Article 159 AL bis
 
@@ -13383,7 +13338,7 @@ _Cite_:
   - CGIAN2 345
 
 
-#### TAXE PARAFISCALE SUR LES TEXTILES.<a id=280></a>
+#### TAXE PARAFISCALE SUR LES TEXTILES.<a id=279></a>
 
 ###### Article 159 AL ter
 
@@ -13401,7 +13356,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT.<a id=281></a>
+#### TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT.<a id=280></a>
 
 ###### Article 159 AL quater
 
@@ -13420,7 +13375,7 @@ _Cite_:
   - CGIAN2 363 A
 
 
-### CONTRIBUTIONS INDIRECTES<a id=282></a>
+### CONTRIBUTIONS INDIRECTES<a id=281></a>
 
 ###### Article 159 AQ
 
@@ -13443,7 +13398,7 @@ _Cite_:
   - CGIAN2 363 T
 
 
-#### COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.<a id=283></a>
+#### COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.<a id=282></a>
 
 ###### Article 159 AM
 
@@ -13468,7 +13423,7 @@ Elle est supportée par l'acheteur et le vendeur [*redevables*] chacun pour moit
   - HISTO: EDITION 1979-07-01
 
 
-#### TAXES PARAFISCALE SUR CERTAINES VIANDES.<a id=284></a>
+#### TAXES PARAFISCALE SUR CERTAINES VIANDES.<a id=283></a>
 
 ###### Article 159 AO
 
@@ -13500,7 +13455,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### TAXE PARAFISCALE SUR LES VINS.<a id=285></a>
+#### TAXE PARAFISCALE SUR LES VINS.<a id=284></a>
 
 ###### Article 159 AP
 
@@ -13521,9 +13476,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### ENREGISTREMENT<a id=286></a>
+### ENREGISTREMENT<a id=285></a>
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.<a id=287></a>
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.<a id=286></a>
 
 ###### Article 159 quinquies
 
@@ -13573,7 +13528,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION.<a id=288></a>
+#### TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION.<a id=287></a>
 
 ###### Article 159 sexies
 
@@ -13594,7 +13549,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### REGION D'ILE-DE-FRANCE.<a id=289></a>
+#### REGION D'ILE-DE-FRANCE.<a id=288></a>
 
 ###### Article 159 sexies A
 
@@ -13665,7 +13620,7 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-#### TAXE AU PROFIT DE L'ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANS LES TRANSPORTS.<a id=290></a>
+#### TAXE AU PROFIT DE L'ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANS LES TRANSPORTS.<a id=289></a>
 
 ###### Article 159 septies
 
@@ -13700,11 +13655,11 @@ _Cite_:
   - CGIAN2 341
 
 
-## DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS*<a id=291></a>
+## DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS*<a id=290></a>
 
-### FRAIS D'ASSIETTE ET DE PERCEPTION<a id=292></a>
+### FRAIS D'ASSIETTE ET DE PERCEPTION<a id=291></a>
 
-#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=293></a>
+#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=292></a>
 
 ###### Article 161 A
 
@@ -13727,11 +13682,11 @@ _Cite_:
   - PEREMPTION: Loi n°87-1060 du 30 décembre 1987 - art. 42 (P) JORF 31 décembre 1987
 
 
-## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=294></a>
+## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=293></a>
 
-### ASSIETTE ET CONTROLE DE L'IMPOT<a id=295></a>
+### ASSIETTE ET CONTROLE DE L'IMPOT<a id=294></a>
 
-#### OBLIGATIONS DES REDEVABLES<a id=296></a>
+#### OBLIGATIONS DES REDEVABLES<a id=295></a>
 
 ###### Article 164 F bis
 
@@ -13842,7 +13797,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### DECLARATION DES COMPTES FINANCIERS.<a id=297></a>
+##### DECLARATION DES COMPTES FINANCIERS.<a id=296></a>
 
 ###### Article 164 FA
 
@@ -13872,7 +13827,7 @@ _Cite_:
   - CGIAN2 58
 
 
-##### BONS DE REMIS.<a id=298></a>
+##### BONS DE REMIS.<a id=297></a>
 
 ###### Article 164 F decies
 
@@ -14370,7 +14325,7 @@ _Abrogé par_:
   - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
-#### CENTRES DE GESTION AGREES.<a id=299></a>
+#### CENTRES DE GESTION AGREES.<a id=298></a>
 
 ###### Article 164 F unvicies
 
@@ -14398,7 +14353,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### ARTISANS.<a id=300></a>
+#### ARTISANS.<a id=299></a>
 
 ###### Article 164 G
 
@@ -14544,7 +14499,7 @@ _Cite_:
   - Code du travail - art. L323-9 (Ab)
 
 
-#### REGLEMENTATION DES MACHINES A TIMBRER.<a id=301></a>
+#### REGLEMENTATION DES MACHINES A TIMBRER.<a id=300></a>
 
 ###### Article 164 AD
 
@@ -14633,9 +14588,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### DISPOSITIONS DIVERSES<a id=302></a>
+### DISPOSITIONS DIVERSES<a id=301></a>
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=303></a>
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=302></a>
 
 ###### Article 167
 
@@ -14714,7 +14669,7 @@ _Modifié par_:
   - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
 
 
-#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=304></a>
+#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=303></a>
 
 ###### Article 170
 
@@ -14774,7 +14729,7 @@ _Modifié par_:
   - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
 
 
-#### DISPOSITIONS COMMUNES.<a id=305></a>
+#### DISPOSITIONS COMMUNES.<a id=304></a>
 
 ###### Article 170 quater
 
@@ -14819,13 +14774,13 @@ _Cite_:
   - CGIAN3 266
 
 
-# Livre II : Recouvrement de l'impôt<a id=306></a>
+# Livre II : Recouvrement de l'impôt<a id=305></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=307></a>
+## Chapitre premier : Paiement de l'impôt<a id=306></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=308></a>
+### Section I : Impôts directs et taxes assimilées<a id=307></a>
 
-#### 3 : Paiement de l'impôt<a id=309></a>
+#### 3 : Paiement de l'impôt<a id=308></a>
 
 ###### Article 187
 
@@ -14855,7 +14810,7 @@ _Abrogé par_:
   - Décret n°2015-1136 du 14 septembre 2015 - art. 4
 
 
-### Section I bis : Intérêts des bons de caisse<a id=310></a>
+### Section I bis : Intérêts des bons de caisse<a id=309></a>
 
 ###### Article 188 B
 
@@ -14933,7 +14888,7 @@ intérêt.
 
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=311></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=310></a>
 
 ###### Article 189
 
@@ -14968,7 +14923,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section III : Contributions indirectes<a id=312></a>
+### Section III : Contributions indirectes<a id=311></a>
 
 ###### Article 193
 
@@ -14985,9 +14940,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=313></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=312></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=314></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=313></a>
 
 ###### Article 196 A
 
@@ -15035,7 +14990,7 @@ _Cite_:
   - PEREMPTION: Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
 
 
-#### 2 : Paiement en valeurs du Trésor.<a id=315></a>
+#### 2 : Paiement en valeurs du Trésor.<a id=314></a>
 
 ###### Article 198 bis
 
@@ -15149,7 +15104,7 @@ _Cite_:
   - Loi n°50-135 1950-01-31 ART. 41, ART. 42
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=316></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=315></a>
 
 ###### Article 198 quinquies
 
@@ -15160,7 +15115,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=317></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=316></a>
 
 ###### Article 198 sexies
 
@@ -15175,7 +15130,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=318></a>
+#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=317></a>
 
 ###### Article 198 septies
 
@@ -15195,9 +15150,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section V : Dispositions communes<a id=319></a>
+### Section V : Dispositions communes<a id=318></a>
 
-#### 2° : Paiement par chèques<a id=320></a>
+#### 2° : Paiement par chèques<a id=319></a>
 
 ###### Article 199
 
@@ -15276,9 +15231,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-## Chapitre I bis : Pénalités<a id=321></a>
+## Chapitre I bis : Pénalités<a id=320></a>
 
-### I : Impôts directs et taxes assimilées<a id=322></a>
+### I : Impôts directs et taxes assimilées<a id=321></a>
 
 ###### Article 207 quater A
 
@@ -15287,9 +15242,9 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=323></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=322></a>
 
-### Publicité du privilège du Trésor<a id=324></a>
+### Publicité du privilège du Trésor<a id=323></a>
 
 ###### Article 207 sexies
 
@@ -15318,11 +15273,11 @@ _Cite_:
   - CGIAN2 396 bis
 
 
-# RECOUVREMENT DE L'IMPOT<a id=325></a>
+# RECOUVREMENT DE L'IMPOT<a id=324></a>
 
-## PAIEMENT DE L'IMPOT<a id=326></a>
+## PAIEMENT DE L'IMPOT<a id=325></a>
 
-### RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES.<a id=327></a>
+### RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES.<a id=326></a>
 
 ###### Article 188 H
 
@@ -15356,7 +15311,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE<a id=328></a>
+### PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE<a id=327></a>
 
 ###### Article 188 I
 
@@ -15381,7 +15336,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### CONTRIBUTIONS INDIRECTES.<a id=329></a>
+### CONTRIBUTIONS INDIRECTES.<a id=328></a>
 
 ###### Article 194
 
@@ -15403,7 +15358,7 @@ _Modifié par_:
   - Arrêté 1980-03-27 art. 1 JORF 30 mars 1980
 
 
-### PENALITES<a id=330></a>
+### PENALITES<a id=329></a>
 
 ###### Article 207 quater B
 
@@ -15429,9 +15384,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. A225 A-1
 
 
-## SURETES ET PRIVILEGES<a id=331></a>
+## SURETES ET PRIVILEGES<a id=330></a>
 
-### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=332></a>
+### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=331></a>
 
 ###### Article 207 quinquies
 
@@ -15450,7 +15405,7 @@ _Cite_:
   - CGI 1929 quater 4
 
 
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=333></a>
+## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=332></a>
 
 ###### Article 207 B
 
@@ -15474,7 +15429,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### SURSIS DE PAIEMENT.<a id=334></a>
+### SURSIS DE PAIEMENT.<a id=333></a>
 
 ###### Article 207 A
 
@@ -15771,9 +15726,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales, art. A277-10
 
 
-## DROIT DE COMMUNICATION<a id=335></a>
+## DROIT DE COMMUNICATION<a id=334></a>
 
-### OBLIGATIONS DES CAISSES DE SECURITE SOCIALE.<a id=336></a>
+### OBLIGATIONS DES CAISSES DE SECURITE SOCIALE.<a id=335></a>
 
 ###### Article 208
 
@@ -15867,7 +15822,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. A97-2
 
 
-### OBLIGATIONS DES DIRECTEURS DE LABORATOIRES D'ANALYSES MEDICALES.<a id=337></a>
+### OBLIGATIONS DES DIRECTEURS DE LABORATOIRES D'ANALYSES MEDICALES.<a id=336></a>
 
 ###### Article 211
 
