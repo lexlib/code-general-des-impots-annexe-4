@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2000-06-30
+Version Consolidée au 2000-09-03
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -17982,17 +17982,23 @@ _Cité par_:
 
 ###### Article 170 octies
 
-Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies F sont exercées
-par le délégué régional dans la région d'Ile-de-France, par le directeur des services fiscaux de la Corse du Sud dans les
-départements de Corse et par les directeurs des services fiscaux compétent dans les départements d'outre-mer (1).
+Les compétences attribuées aux directeurs des services fiscaux du département au chef-lieu duquel est localisée une direction
+de contr<cb>le fiscal par les articles 170 quinquies à 170 septies F sont exercées pour la région d'Ile-de-France, par le
+directeur chargé de la direction spécialisée des imp<cb>ts pour la région d'Ile-de-France et pour Paris et dans les
+départements d'outre-mer par le directeur des services fiscaux territorialement compétent.
 
-(1) Ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 29 août 1996.
+</cb></cb>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1996-08-21 art. 2, art. 3 JORF 29 août 1996
+  - Arrêté 2000-08-31 art. 6 JORF 3 septembre 2000
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 2000-08-31 art. 8
+  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
 
 _Cite_:
 
@@ -18001,11 +18007,6 @@ _Cite_:
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
 
 
 ###### Article 170 quinquies
