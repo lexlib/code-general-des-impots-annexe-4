@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1988-02-11
+Version Consolidée au 1988-03-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -196,8 +196,8 @@ Version Consolidée au 1988-02-11
           - [Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social. (art. 121 K ter)](#193)
         - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 121 VA)](#194)
           - [Institutions à caractère social (art. 121 VA)](#195)
-      - [Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre (art. 121 V nonies à 121 Z bis)](#196)
-        - [Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer (art. 121 V nonies à 121 V undecies)](#197)
+      - [Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre (art. 121 V bis à 121 Z bis)](#196)
+        - [Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer (art. 121 V bis à 121 V undecies)](#197)
         - [Chapitre II : Déclaration des immeubles bâtis situés dans les communes recensées (art. 121 Z bis)](#198)
     - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 121 quinquies DB à 164)](#199)
       - [Titre premier : Impositions communales (art. 121 quinquies DB à 155 B)](#200)
@@ -286,7 +286,7 @@ Version Consolidée au 1988-02-11
         - [Section IV : Dispositions communes (art. 170 septies à 170 sexies)](#283)
           - [Octroi de certains agréments fiscaux (art. 170 septies à 170 sexies)](#284)
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 4 J à 170 septies A)](#285)
-    - [IMPOTS D'ETAT (art. 4 J à 121 V bis)](#286)
+    - [IMPOTS D'ETAT (art. 4 J à 121 KM)](#286)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 4 J à 17 quinquies A)](#287)
         - [IMPOT SUR LE REVENU (art. 4 J à 17 quinquies A)](#288)
           - [BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*. (art. 4 J)](#289)
@@ -303,61 +303,59 @@ Version Consolidée au 1988-02-11
         - [OBLIGATIONS DIVERSES. (art. 66)](#300)
       - [DROITS DE TIMBRE (art. 121 KA à 121 KM)](#301)
         - [DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES. (art. 121 KA à 121 KM)](#302)
-      - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE (art. 121 V bis)](#303)
-        - [ENTREPRISES EXERCANT LEUR ACTIVITE DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*. (art. 121 V bis)](#304)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 121 quinquies DD à 121 quinquies E)](#305)
-      - [IMPOSITIONS COMMUNALES (art. 121 quinquies DD à 121 sexies)](#306)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies DD à 121 sexies)](#307)
-          - [COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES. (art. 121 quinquies DD)](#308)
-          - [AUTRES IMPOSITIONS. (art. 121 sexies)](#309)
-      - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES (art. 121 quinquies E)](#310)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#311)
-          - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#312)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 157 bis à 159 sexies A)](#313)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 157 bis à 159 AD)](#314)
-        - [TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES. (art. 157 bis)](#315)
-        - [FONDS NATIONAL DU LIVRE (art. 159 AD)](#316)
-      - [CONTRIBUTIONS INDIRECTES (art. 159 AM)](#317)
-        - [COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES. (art. 159 AM)](#318)
-      - [ENREGISTREMENT (art. 159 sexies à 159 sexies A)](#319)
-        - [TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION. (art. 159 sexies)](#320)
-        - [REGION D'ILE-DE-FRANCE. (art. 159 sexies A)](#321)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 159 sexies B)](#322)
-      - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 sexies B)](#323)
-        - [ENREGISTREMENT (art. 159 sexies B)](#324)
-          - [REGIONS. (art. 159 sexies B)](#325)
-    - [DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS* (art. 161 B)](#326)
-      - [FRAIS D'ASSIETTE ET DE PERCEPTION (art. 161 B)](#327)
-        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 161 B)](#328)
-    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 170 octies à 170 septies A)](#329)
-      - [DISPOSITIONS DIVERSES (art. 170 octies à 170 septies A)](#330)
-        - [DISPOSITIONS COMMUNES. (art. 170 octies à 170 septies A)](#331)
-          - [OCTROI DE CERTAINS AGREMENTS FISCAUX. (art. 170 septies A)](#332)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#333)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 207 quinquies)](#334)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#335)
-        - [3 : Paiement de l'impôt (art. 187 à 188)](#336)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#337)
-      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H)](#338)
-      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#339)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#340)
-      - [Section III : Contributions indirectes (art. 193 à 194)](#341)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#342)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#343)
-        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#344)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#345)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#346)
-        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#347)
-        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#348)
-      - [Section V : Dispositions communes (art. 199 à 204)](#349)
-        - [2° : Paiement par chèques (art. 199 à 204)](#350)
-      - [Chapitre I bis A : Sûretés et privilèges (art. 207 quinquies)](#351)
-        - [Publicité du privilège du Trésor. (art. 207 quinquies)](#352)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#353)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#354)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#355)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#356)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#357)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 121 quinquies DD à 121 quinquies E)](#303)
+      - [IMPOSITIONS COMMUNALES (art. 121 quinquies DD à 121 sexies)](#304)
+        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies DD à 121 sexies)](#305)
+          - [COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES. (art. 121 quinquies DD)](#306)
+          - [AUTRES IMPOSITIONS. (art. 121 sexies)](#307)
+      - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES (art. 121 quinquies E)](#308)
+        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#309)
+          - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#310)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 157 bis à 159 sexies A)](#311)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 157 bis à 159 AD)](#312)
+        - [TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES. (art. 157 bis)](#313)
+        - [FONDS NATIONAL DU LIVRE (art. 159 AD)](#314)
+      - [CONTRIBUTIONS INDIRECTES (art. 159 AM)](#315)
+        - [COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES. (art. 159 AM)](#316)
+      - [ENREGISTREMENT (art. 159 sexies à 159 sexies A)](#317)
+        - [TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION. (art. 159 sexies)](#318)
+        - [REGION D'ILE-DE-FRANCE. (art. 159 sexies A)](#319)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 159 sexies B)](#320)
+      - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 sexies B)](#321)
+        - [ENREGISTREMENT (art. 159 sexies B)](#322)
+          - [REGIONS. (art. 159 sexies B)](#323)
+    - [DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS* (art. 161 B)](#324)
+      - [FRAIS D'ASSIETTE ET DE PERCEPTION (art. 161 B)](#325)
+        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 161 B)](#326)
+    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 170 octies à 170 septies A)](#327)
+      - [DISPOSITIONS DIVERSES (art. 170 octies à 170 septies A)](#328)
+        - [DISPOSITIONS COMMUNES. (art. 170 octies à 170 septies A)](#329)
+          - [OCTROI DE CERTAINS AGREMENTS FISCAUX. (art. 170 septies A)](#330)
+  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#331)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 207 quinquies)](#332)
+      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#333)
+        - [3 : Paiement de l'impôt (art. 187 à 188)](#334)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#335)
+      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H)](#336)
+      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#337)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#338)
+      - [Section III : Contributions indirectes (art. 193 à 194)](#339)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#340)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#341)
+        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#342)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#343)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#344)
+        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#345)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#346)
+      - [Section V : Dispositions communes (art. 199 à 204)](#347)
+        - [2° : Paiement par chèques (art. 199 à 204)](#348)
+      - [Chapitre I bis A : Sûretés et privilèges (art. 207 quinquies)](#349)
+        - [Publicité du privilège du Trésor. (art. 207 quinquies)](#350)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#351)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#352)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#353)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#354)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#355)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -10891,6 +10889,70 @@ _Cite_:
 
 #### Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer<a id=197></a>
 
+###### Article 121 V bis
+
+Dans chacun des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et dans la collectivité
+territoriale de Saint-Pierre-et-Miquelon , la commission locale instituée par l'article 18 du décret n° 52-152 du 13 février
+1952 est composée comme suit :
+
+Le préfet du département, le préfet représentant de l'Etat dans la collectivité territoriale de Saint-Pierre-et-Miquelon ou
+leur représentant, président ;
+
+Le trésorier payeur général ;
+
+Le secrétaire général des affaires économiques ou le fonctionnaire en tenant lieu ;
+
+Le directeur des services fiscaux ;
+
+Le directeur de la concurrence et de la consommation ;
+
+Le chef du service dont relève l'activité à encourager ;
+
+Le directeur local de la SOCREDOM ;
+
+Le directeur régional des douanes et des droits indirects, ou leurs représentants ;
+
+Le représentant local du ministère de l'industrie ;
+
+Le représentant local de l'INSEE, membre de la commission à titre consultatif.
+
+Le secrétariat de la commission est assuré par un agent de la direction générale des impôts désigné par le préfet du
+département ou le préfet, représentant de l'Etat dans la collectivité territoriale de Saint-Pierre-et-Miquelon, sur
+proposition du directeur des services fiscaux.
+
+La commission se réunit sur la convocation du préfet du département ou du préfet représentant l'Etat dans la collectivité
+territoriale de Saint-Pierre-et-Miquelon . Sauf en cas d'urgence dûment motivé, ses membres sont convoqués dix jours au moins
+[*delai minimum*] avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins six membres
+présents. En cas de partage égal des voix, la voix du président est prépondérante.
+
+La commission entend, à titre consultatif, les personnalités et experts dont elle estime utile de prendre l'avis.
+
+Les membres de la commission, ainsi que les personnalités ou experts entendus à titre consultatif, sont tenus au secret
+professionnel.
+
+Les avis sont émis par la commission en présence uniquement des membres ayant voix délibérative, ainsi que du représentant de
+l'INSEE.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1988-10-20
+  - Arrêté 1994-10-17
+
+_Cite_:
+
+  - Décret n°52-152 du 13 février 1952 - art. 18, v. init.
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 121 V nonies
 
 La commission centrale donne un avis motivé :
@@ -15308,76 +15370,13 @@ _Modifié par_:
   - Loi n°86-1318 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
 
 
-### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE<a id=303></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=303></a>
 
-#### ENTREPRISES EXERCANT LEUR ACTIVITE DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*.<a id=304></a>
+### IMPOSITIONS COMMUNALES<a id=304></a>
 
-###### Article 121 V bis
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=305></a>
 
-Dans chacun des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et dans la collectivité
-territoriale de Saint-Pierre-et-Miquelon , la commission locale instituée par l'article 18 du décret n° 52-152 du 13 février
-1952 est composée comme suit :
-
-Le commissaire de la République du département, le préfet commissaire de la République de la collectivité territoriale de
-Saint-Pierre-et-Miquelon ou leur représentant, président;
-
-Le trésorier payeur général;
-
-Le secrétaire général des affaires économiques ou le fonctionnaire en tenant lieu ;
-
-Le directeur des services fiscaux ;
-
-Le directeur de la concurrence et de la consommation ;
-
-Le chef du service dont relève l'activité à encourager;
-
-Le directeur local de la SOCREDOM ;
-
-Le directeur régional des douanes et des droits indirects, ou leurs représentants ;
-
-Le représentant local du ministère de l'industrie ;
-
-Le représentant local de l'INSEE, membre de la commission à titre consultatif.
-
-Le secrétariat de la commission est assuré par un agent de la direction générale des impôts désigné par le commissaire de la
-République ou le préfet représentant de l'Etat dans la collectivité territoriale, sur proposition du directeur des services
-fiscaux. La commission se réunit sur la convocation du commissaire de la République ou du préfet représentant l'Etat dans la
-collectivité territoriale. Sauf en cas d'urgence dûment motivé, ses membres sont convoqués dix jours au moins [*delai
-minimum*] avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins six membres
-présents [*quorum*].
-
-En cas de partage égal des voix, la voix du président est prépondérante.
-
-La commission entend, à titre consultatif, les personnalités et experts dont elle estime utile de prendre l'avis.
-
-Les membres de la commission, ainsi que les personnalités ou experts entendus à titre consultatif, sont tenus au secret
-professionnel.
-
-Les avis sont émis par la commission en présence uniquement des membres ayant voix délibérative, ainsi que du représentant de
-l'INSEE.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1987-11-23
-
-_Cite_:
-
-  - Décret n°52-152 du 13 février 1952 - art. 18, v. init.
-
-_Modifié par_:
-
-  - Loi n°86-1358 1986-12-24 art. 2 JORF 31 décembre 1986
-
-
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=305></a>
-
-### IMPOSITIONS COMMUNALES<a id=306></a>
-
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=307></a>
-
-##### COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES.<a id=308></a>
+##### COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES.<a id=306></a>
 
 ###### Article 121 quinquies DD
 
@@ -15436,7 +15435,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DE (M)
 
 
-##### AUTRES IMPOSITIONS.<a id=309></a>
+##### AUTRES IMPOSITIONS.<a id=307></a>
 
 ###### Article 121 sexies
 
@@ -15463,11 +15462,11 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES<a id=310></a>
+### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES<a id=308></a>
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=311></a>
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=309></a>
 
-##### AUTRES IMPOSITIONS.<a id=312></a>
+##### AUTRES IMPOSITIONS.<a id=310></a>
 
 ###### Article 121 quinquies E
 
@@ -15484,11 +15483,11 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=313></a>
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=311></a>
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES<a id=314></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES<a id=312></a>
 
-#### TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.<a id=315></a>
+#### TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.<a id=313></a>
 
 ###### Article 157 bis
 
@@ -15514,7 +15513,7 @@ _Cite_:
   - CGI 1613 II 1°
 
 
-#### FONDS NATIONAL DU LIVRE<a id=316></a>
+#### FONDS NATIONAL DU LIVRE<a id=314></a>
 
 ###### Article 159 AD
 
@@ -15544,9 +15543,9 @@ Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 
   - HISTO: EDITION 1979-07-01
 
 
-### CONTRIBUTIONS INDIRECTES<a id=317></a>
+### CONTRIBUTIONS INDIRECTES<a id=315></a>
 
-#### COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.<a id=318></a>
+#### COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.<a id=316></a>
 
 ###### Article 159 AM
 
@@ -15575,9 +15574,9 @@ _Modifié par_:
   - Loi n°85-695 1986-07-11 art. 19 JORF 12 juillet 1986
 
 
-### ENREGISTREMENT<a id=319></a>
+### ENREGISTREMENT<a id=317></a>
 
-#### TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION.<a id=320></a>
+#### TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION.<a id=318></a>
 
 ###### Article 159 sexies
 
@@ -15598,7 +15597,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### REGION D'ILE-DE-FRANCE.<a id=321></a>
+#### REGION D'ILE-DE-FRANCE.<a id=319></a>
 
 ###### Article 159 sexies A
 
@@ -15669,13 +15668,13 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=322></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=320></a>
 
-### IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=323></a>
+### IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=321></a>
 
-#### ENREGISTREMENT<a id=324></a>
+#### ENREGISTREMENT<a id=322></a>
 
-##### REGIONS.<a id=325></a>
+##### REGIONS.<a id=323></a>
 
 ###### Article 159 sexies B
 
@@ -15702,11 +15701,11 @@ _Créé par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
 
 
-## DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS*<a id=326></a>
+## DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS*<a id=324></a>
 
-### FRAIS D'ASSIETTE ET DE PERCEPTION<a id=327></a>
+### FRAIS D'ASSIETTE ET DE PERCEPTION<a id=325></a>
 
-#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=328></a>
+#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=326></a>
 
 ###### Article 161 B
 
@@ -15733,11 +15732,11 @@ _Cite_:
   - PEREMPTION: Loi n°88-1149 1988-12-232 art. 38 Finances pour 1989 JORF 28 décembre 1988, incorporée à l'annexe 4 le 14 juillet 1989
 
 
-## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=329></a>
+## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=327></a>
 
-### DISPOSITIONS DIVERSES<a id=330></a>
+### DISPOSITIONS DIVERSES<a id=328></a>
 
-#### DISPOSITIONS COMMUNES.<a id=331></a>
+#### DISPOSITIONS COMMUNES.<a id=329></a>
 
 ###### Article 170 octies
 
@@ -15837,7 +15836,7 @@ _Cite_:
   - CGIAN3 266
 
 
-##### OCTROI DE CERTAINS AGREMENTS FISCAUX.<a id=332></a>
+##### OCTROI DE CERTAINS AGREMENTS FISCAUX.<a id=330></a>
 
 ###### Article 170 septies A
 
@@ -15867,13 +15866,13 @@ _Cite_:
   - CGI 302 ter
 
 
-# Livre II : Recouvrement de l'impôt<a id=333></a>
+# Livre II : Recouvrement de l'impôt<a id=331></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=334></a>
+## Chapitre premier : Paiement de l'impôt<a id=332></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=335></a>
+### Section I : Impôts directs et taxes assimilées<a id=333></a>
 
-#### 3 : Paiement de l'impôt<a id=336></a>
+#### 3 : Paiement de l'impôt<a id=334></a>
 
 ###### Article 187
 
@@ -15903,7 +15902,7 @@ _Abrogé par_:
   - Décret n°2015-1136 du 14 septembre 2015 - art. 4
 
 
-### Section I bis : Intérêts des bons de caisse<a id=337></a>
+### Section I bis : Intérêts des bons de caisse<a id=335></a>
 
 ###### Article 188 B
 
@@ -15981,7 +15980,7 @@ intérêt.
 
 
 
-### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=338></a>
+### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=336></a>
 
 ###### Article 188 H
 
@@ -16019,7 +16018,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 I (VD)
 
 
-### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=339></a>
+### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=337></a>
 
 ###### Article 188 I
 
@@ -16052,7 +16051,7 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=340></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=338></a>
 
 ###### Article 189
 
@@ -16109,7 +16108,7 @@ _Cite_:
   - CGIAN4 194
 
 
-### Section III : Contributions indirectes<a id=341></a>
+### Section III : Contributions indirectes<a id=339></a>
 
 ###### Article 193
 
@@ -16146,9 +16145,9 @@ _Modifié par_:
   - Arrêté 1981-10-30 art. 1 JORF 31 octobre 1981
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=342></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=340></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=343></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=341></a>
 
 ###### Article 196 A
 
@@ -16196,7 +16195,7 @@ _Cite_:
   - PEREMPTION: Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
 
 
-#### 2 : Paiement en valeurs du Trésor.<a id=344></a>
+#### 2 : Paiement en valeurs du Trésor.<a id=342></a>
 
 ###### Article 198 bis
 
@@ -16310,7 +16309,7 @@ _Cite_:
   - Loi n°50-135 1950-01-31 ART. 41, ART. 42
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=345></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=343></a>
 
 ###### Article 198 quinquies
 
@@ -16321,7 +16320,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=346></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=344></a>
 
 ###### Article 198 sexies
 
@@ -16336,7 +16335,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=347></a>
+#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=345></a>
 
 ###### Article 198 septies
 
@@ -16356,7 +16355,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=348></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=346></a>
 
 ###### Article 198 octies
 
@@ -16373,9 +16372,9 @@ _Codifié par_:
   - Arrêté 1985-09-24
 
 
-### Section V : Dispositions communes<a id=349></a>
+### Section V : Dispositions communes<a id=347></a>
 
-#### 2° : Paiement par chèques<a id=350></a>
+#### 2° : Paiement par chèques<a id=348></a>
 
 ###### Article 199
 
@@ -16453,9 +16452,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-### Chapitre I bis A : Sûretés et privilèges<a id=351></a>
+### Chapitre I bis A : Sûretés et privilèges<a id=349></a>
 
-#### Publicité du privilège du Trésor.<a id=352></a>
+#### Publicité du privilège du Trésor.<a id=350></a>
 
 ###### Article 207 quinquies
 
@@ -16481,9 +16480,9 @@ _Cite_:
   - PEREMPTION: Loi n°94-475 du 10 juin 1994 - art. 1
 
 
-## Chapitre I bis : Pénalités<a id=353></a>
+## Chapitre I bis : Pénalités<a id=351></a>
 
-### I : Impôts directs et taxes assimilées<a id=354></a>
+### I : Impôts directs et taxes assimilées<a id=352></a>
 
 ###### Article 207 quater A
 
@@ -16492,7 +16491,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=355></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=353></a>
 
 ###### Article 207 quater A bis
 
@@ -16518,9 +16517,9 @@ _Cite_:
   - HISTO: Edition du 10 juillet 1983
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=356></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=354></a>
 
-### Publicité du privilège du Trésor<a id=357></a>
+### Publicité du privilège du Trésor<a id=355></a>
 
 ###### Article 207 sexies
 
