@@ -3,15 +3,15 @@
 Les taux d'imposition de la taxe visée à l'article 302 bis ZD du code général des impôts sont fixés par tranche d'achats
 mensuels hors taxe sur la valeur ajoutée à :
 
-0,5 p. 100 jusqu'à 125 000 F ;
+2 % jusqu'à 125 000 F ;
 
-0,9 p. 100 au-delà de 125 000 F.
+3,8 % au-delà de 125 000 F.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1996-12-31 art. 1 JORF 7 janvier 1997
+  - Arrêté 2000-12-29 art. 1 JORF 31 décembre 2000
 
 _Cite_:
 
@@ -19,4 +19,4 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 31 mars 2001
