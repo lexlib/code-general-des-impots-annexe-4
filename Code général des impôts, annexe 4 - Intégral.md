@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1987-08-10
+Version Consolidée au 1987-09-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -327,9 +327,9 @@ Version Consolidée au 1987-08-10
         - [ENREGISTREMENT (art. 159 quinquies A à 159 sexies B)](#324)
           - [FONDS DE GARANTIE POUR L'INDEMNISATION DES VICTIMES D'ACTES DE TERRORISME. (art. 159 quinquies A)](#325)
           - [REGIONS. (art. 159 sexies B)](#326)
-    - [DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS* (art. 161 A)](#327)
-      - [FRAIS D'ASSIETTE ET DE PERCEPTION (art. 161 A)](#328)
-        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 161 A)](#329)
+    - [DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS* (art. 161 A à 161 B)](#327)
+      - [FRAIS D'ASSIETTE ET DE PERCEPTION (art. 161 A à 161 B)](#328)
+        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 161 A à 161 B)](#329)
     - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 164 F bis à 170 septies A)](#330)
       - [ASSIETTE ET CONTROLE DE L'IMPOT (art. 164 F bis à 164 M)](#331)
         - [OBLIGATIONS DES REDEVABLES (art. 164 F bis à 164 F undecies)](#332)
@@ -14770,6 +14770,31 @@ _Cite_:
 
   - HISTO: EDITION 1979-07-01
   - PEREMPTION: Loi n°87-1060 du 30 décembre 1987 - art. 42 (P) JORF 31 décembre 1987
+
+
+###### Article 161 B
+
+Le taux du prélèvement représentant les frais d'assiette et de perception à opérer sur les recouvrements effectués au titre
+de la contribution additionnelle complémentaire prévue au 2° de l'article 1635 bis A du code général des impôts est fixé à 2
+%.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1987-09-23 art. 2 JORF 25 septembre 1987
+
+_Codifié par_:
+
+  - Arrêté 1988-10-20
+
+_Cite_:
+
+  - CGI 1635 bis A 2°
+
+**Liens**:
+
+  - PEREMPTION: Loi n°88-1149 1988-12-232 art. 38 Finances pour 1989 JORF 28 décembre 1988, incorporée à l'annexe 4 le 14 juillet 1989
 
 
 ## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=330></a>
