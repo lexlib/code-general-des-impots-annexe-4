@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-09-03
+Version Consolidée au 1986-10-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -14257,25 +14257,27 @@ _Cite_:
 
 Le taux de la taxe mentionnée à l'article 358 de l'annexe II au code général des impôts est fixé comme suit (1) :
 
-0,52 F par quintal de fruits à cidre et à poiré;
+0,59 F par quintal de fruits à cidre et à poiré;
 
-0,68 F par hectolitre de cidre et de poiré ou par hectolitre de de moûts de pommes ou de poires ;
+0,78 F par hectolitre de cidre et de poiré ou par hectolitre de de moûts de pommes et de poires;
 
-13,07 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de cidre ou de poiré;
+14,94 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de cidre et de poiré.
 
-13,07 F par hectolitre d'alcool pur pour les alcools de cidre et de poiré réservés à l'Etat.
-
-(1) Taux applicables à compter du 1er septembre 1983.
+(1) Taux applicables à compter du 1er septembre 1986.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Arrêté 1985-09-24
+  - Arrêté 1987-11-23
 
 _Cite_:
 
   - CGIAN2 358
+
+_Modifié par_:
+
+  - Loi n°85-695 1986-07-11 art. 19 JORF 12 juillet 1986
 
 
 #### TAXES PARAFISCALE SUR CERTAINES VIANDES.<a id=311></a>
