@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-09-25
+Version Consolidée au 1985-10-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -283,8 +283,8 @@ Version Consolidée au 1985-09-25
         - [GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE (art. 56 J BIS)](#280)
       - [MONOPOLES FISCAUX (art. 56 AQ)](#281)
         - [TABACS. (art. 56 AQ)](#282)
-      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 66 à 69)](#283)
-        - [OBLIGATIONS DIVERSES. (art. 66 à 69)](#284)
+      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 66)](#283)
+        - [OBLIGATIONS DIVERSES. (art. 66)](#284)
       - [DROITS DE TIMBRE (art. 121 KA à 121 KM)](#285)
         - [DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES. (art. 121 KA à 121 KM)](#286)
       - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE (art. 121 V bis à 121 V ter)](#287)
@@ -13960,50 +13960,6 @@ _Cite_:
 
   - PEREMPTION: Décret n°82-389 1982-05-10 art. 31 JORF 11 mai 1988
   - HISTO: EDITION 1979-07-01
-
-
-###### Article 68
-
-Le tarif des salaires  visé à l'article 290 de l'annexe III au code général des impôts  exigibles pour la délivrance des
-copies intégrales et des extraits littéraux des documents publiés est fixé quel que soit leur mode d'établissement  à 3 F par
-page. Le papier utilisé ne doit pas être d'un format inférieur à 21 x 27 cm.
-
-Toute page commencée est comptée pour une page entière.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 290
-
-_Abrogé par_:
-
-  - Décret n°85-842 du 5 août 1985 - art. 11 (V) JORF 9 août 1985, date d'application 1er octobre 1985
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 69
-
-Le tarif des salaires  visé à l'article 290 de l'annexe III au code général des impôts  exigibles pour la délivrance des
-copies et des extraits des fiches personnelles de propriétaire et des fiches d'immeuble est fixé  quel que soit leur mode
-d'établissement, à 5 F par face de fiche.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1981-07-24 art. 1 JORF 29 juillet 1981
-
-_Cite_:
-
-  - CGIAN3 290
-
-_Abrogé par_:
-
-  - Décret n°85-842 du 5 août 1985 - art. 11 (V) JORF 9 août 1985 date d'application 1er octobre 1985
 
 
 ### DROITS DE TIMBRE<a id=285></a>
