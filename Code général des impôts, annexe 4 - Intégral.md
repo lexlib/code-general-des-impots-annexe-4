@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-01-16
+Version Consolidée au 1985-02-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -14456,15 +14456,18 @@ _Cite_:
 
 ###### Article 159 AL quater
 
-Le taux de la taxe parafiscale sur les ventes de meubles et de sièges prévue à l'article 363 A de l'annexe II au code général
-des impôts est fixé à 0,30 % pour la période du 1er février 1979 au 31 décembre 1981 [*date*].
+Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,45 % du montant hors
+taxes des ventes.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Créé par_:
 
-  - SPEC_APPLI: Arrêté 1982-10-15 : ARTICLE PERIME (Décret 81-1101 1981-12-14 ART. 1 JORF 16 DECEMBRE 1981)
-  - HISTO: EDITION 1979-07-01
+  - Arrêté 1985-01-30 art. 1 JORF 1er février 1985
+
+_Codifié par_:
+
+  - Arrêté 1985-09-24
 
 _Cite_:
 
