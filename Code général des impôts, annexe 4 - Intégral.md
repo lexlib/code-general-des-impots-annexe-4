@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1999-04-11
+Version Consolidée au 1999-05-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -80,8 +80,8 @@ Version Consolidée au 1999-04-11
               - [A bis : Equipements spéciaux pour personnes handicapées (art. 30-0 B à 30-0 C)](#77)
               - [B : Hôtels de tourisme et villages de vacances (art. 30)](#78)
               - [C : Aliments pour le bétail, les animaux de basse-cour, les poissons d'élevage et les abeilles (art. 31)](#79)
-          - [Section V : Obligations des redevables (art. 32 à 50 sexies I)](#80)
-            - [I : Obligations générales (art. 32 à 41 sexies)](#81)
+          - [Section V : Obligations des redevables (art. 41 octies à 50 sexies I)](#80)
+            - [I : Obligations générales (art. 41 octies à 41 sexies)](#81)
               - [A : Déclarations d'existence et comptabilité. Déclarations de recettes (art. 32 à 41)](#82)
               - [B : Tenue des registres (art. 41 bis à 41 ter)](#83)
               - [C : Déclaration des échanges de biens entre Etats membres de la Communauté européenne (art. 41 sexies)](#84)
@@ -4770,6 +4770,75 @@ Lécithines.
 ##### Section V : Obligations des redevables<a id=80></a>
 
 ##### I : Obligations générales<a id=81></a>
+
+###### Article 41 octies
+
+I. - 1. Les entreprises mentionnées au I de l'article 41 septies qui veulent utiliser un système de télétransmission de
+factures doivent déposer une déclaration conforme au modèle figurant en annexe. Cette déclaration indique que le système de
+télétransmission est conforme aux normes prévues et décrit les caractéristiques principales du système. Elle doit comprendre
+les éléments suivants :
+
+A. - Renseignements relatifs à l'entreprise :
+
+a) La dénomination, l'adresse et l'activité de l'entreprise ;
+
+b) Son numéro SIRET ;
+
+c) Le lieu de situation de la (des) station(s) de dématérialisation ;
+
+d) Les coordonnées du service responsable de la télétransmission ;
+
+e) Le cas échéant, la dénomination, l'adresse et le numéro SIRET du prestataire assurant la dématérialisation ;
+
+f) La qualité de fournisseur/émetteur et/ou de client/récepteur ;
+
+g) La date de la première mise en oeuvre de la télétransmission des factures.
+
+B. - Renseignements relatifs au logiciel :
+
+a) Le nom du logiciel et sa version ;
+
+b) Son développement interne ou externe. Dans ce dernier cas, le nom et l'adresse de la société ayant développé le logiciel ;
+
+c) Le numéro de référencement délivré initialement par l'administration lorsque le système de télétransmission de factures
+qui doit être utilisé a été autorisé et référencé par l'administration dans le cadre du régime précédent.
+
+C. - Renseignements concernant la ou les structures du message facture :
+
+- ses normes et les versions utilisées.
+
+D. - Renseignements relatifs au matériel :
+
+- son modèle et son système d'exploitation.
+
+E. - Renseignements relatifs aux partenaires :
+
+- la liste des dix principaux partenaires.
+
+2. Les entreprises qui utilisaient, avant l'entrée en vigueur du nouveau dispositif, un système autorisé et référencé par
+l'administration sont dispensées de déclaration. Elles peuvent continuer à télétransmettre leurs factures comme précédemment.
+
+II. - En cas de modification du système de télétransmission utilisé, les entreprises utilisatrices doivent déposer une
+déclaration rectificative qui doit signaler toutes les modifications apportées au système de télétransmission.
+
+III. - Les déclarations, initiale ou rectificative, doivent être déposées au plus tard dix jours avant la mise en oeuvre du
+système ou du système modifié auprès de la direction des vérifications nationales et internationales. La déclaration est
+souscrite, sur papier ou par informatique, selon les modalités prévues par l'administration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1999-05-03 art. 1 JORF 4 mai 1999
+
+_Cite_:
+
+  - CGIAN4 41 septies
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
+
 
 ##### A : Déclarations d'existence et comptabilité. Déclarations de recettes<a id=82></a>
 
