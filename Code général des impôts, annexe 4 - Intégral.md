@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2001-01-31
+Version Consolidée au 2001-03-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -78,7 +78,7 @@ Version Consolidée au 2001-01-31
             - [I : Obligations générales (art. 32 à 41 septies)](#75)
               - [A : Déclarations d'existence et comptabilité. Déclarations de recettes (art. 32 à 41)](#76)
               - [B : Tenue des registres (art. 41 bis à 41 ter)](#77)
-              - [C : Déclaration des échanges de biens entre Etats membres de la Communauté européenne (art. 41 sexies)](#78)
+              - [C : Déclaration des échanges de biens entre Etats membres de la Communauté européenne (art. 41 sexies à 41 sexies A)](#78)
               - [D : Factures transmises par voie télématique (art. 41 octies à 41 septies)](#79)
             - [II : Obligations particulières (art. 42 à 50 sexies I)](#80)
               - [A : Bâtiments de mer. Bâteaux. Pêche maritime. Aéronefs (art. 42 à 46)](#81)
@@ -4354,6 +4354,36 @@ _Cite_:
 **Liens**:
 
   - HISTO: Edition du 11 avril 1997
+
+
+###### Article 41 sexies A
+
+I. - La position spécifique de la nomenclature combinée visée au a et au d du 3 de l'article 96 L de l'annexe III au code
+général des impôts est identifiée par le code 99500000.
+
+II. - Le montant en valeur du seuil de transaction visé au d du 3 de l'article 96 L de l'annexe III au code général des
+impôts est fixé à 700 F.
+
+III. - Le montant total figurant sous la nomenclature spécifique prévue au I ne peut dépasser 10 000 F par déclaration
+mensuelle pour les opérateurs dont le montant annuel des échanges intracommunautaires dépasse le seuil de simplification.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2000-12-26 art. 1, art. 2, art. 3 JORF 30 décembre 2000
+
+_Codifié par_:
+
+  - Arrêté 2001-05-21
+
+_Cite_:
+
+  - CGIAN3 96 L
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
 
 
 ##### D : Factures transmises par voie télématique<a id=79></a>
