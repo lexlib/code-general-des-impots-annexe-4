@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-02-20
+Version Consolidée au 1985-02-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -232,8 +232,8 @@ Version Consolidée au 1985-02-20
       - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AL)](#229)
         - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#230)
           - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#231)
-        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F vicies à 164 F tervicies)](#232)
-          - [Section I : Centres de gestion agréés (art. 164 F vicies à 164 F unvicies F)](#233)
+        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F unvicies à 164 F tervicies)](#232)
+          - [Section I : Centres de gestion agréés (art. 164 F unvicies à 164 F unvicies F)](#233)
             - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#234)
           - [Section II : Associations agréées des professions libérales (art. 164 F duovicies à 164 F tervicies)](#235)
         - [Chapitre III : Réglementation des machines à timbrer (art. 164 N à 164 AL)](#236)
@@ -9947,6 +9947,40 @@ _Cite_:
 #### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=232></a>
 
 ##### Section I : Centres de gestion agréés<a id=233></a>
+
+###### Article 164 F unvicies
+
+Les ratios et autres éléments caractérisant la situation financière et économique des entreprises qui doivent figurer dans
+les dossiers de gestion prévus à l'article 371 E de l'annexe II au code général des impôts sont fixés pour les entreprises
+industrielles commerciales et artisanales par l'arrêté du 4 février 1985 et pour les entreprises agricoles par l'arrêté du 14
+mars 1979 (1).
+
+(1) Dispositions applicables aux exercices clos postérieurement au 31 décembre 1978.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1979-03-14
+  - CGIAN2 371 E
+
+_Modifié par_:
+
+  - Arrêté 1985-02-04 art. 1, art. 3 JORF 16 février 1985
+
+_Codifié par_:
+
+  - Arrêté 1985-09-24
+
+**Liens**:
+
+  - DISJOINT: Arrêté du 7 avril 2009 - art. 1 (V)
+  - HISTO: Edition du 15 juillet 1985
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 E (VD)
+
 
 ###### Article 164 F vicies
 
