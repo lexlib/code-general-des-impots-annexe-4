@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-07-31
+Version Consolidée au 1986-08-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -15920,17 +15920,16 @@ de la veille de leur remise et s'ils sont transmis par la poste du jour même de
 
 ###### Article 201
 
-Les chèques doivent être émis ou endossés à l'ordre du comptable intéressé  sans mention du nom personnel de ce comptable et
-barré en inscrivant entre les deux barres les mots : " Banque de France ".
+Les chèques doivent être émis à l'ordre du Trésor public et barrés.
 
-Faute de se conformer à ces prescriptions les redevables s'exposent aux conséquences de droit qui peuvent résulter d'un
+Faute de se conformer à cette prescription, les contribuables s'exposent aux conséquences de droit qui peuvent résulter d'un
 encaissement frauduleux.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Arrêté 1986-07-09 art. 1 JORF 14 août 1986
 
 
 ###### Article 202
