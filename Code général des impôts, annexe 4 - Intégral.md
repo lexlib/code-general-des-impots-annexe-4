@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-07-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -42,8 +42,8 @@ Version Consolidée au 1985-07-12
             - [Exonérations et régimes particuliers - Sociétés agréées pour le financement des télécommunications. (art. 23 bis)](#39)
           - [Section II : Lieu d'imposition (art. 23 ter)](#40)
             - [Lieu d'imposition des personnes morales qui exercent des activités en France ou y possèdent des biens, sans y avoir leur siège social (art. 23 ter)](#41)
-          - [Section III : Obligations des personnes morales (art. 23 C à 23 I bis)](#42)
-            - [1° : Déclaration d'existence, de modification du pacte social et des conditions d'exercice de la profession (art. 23 C à 23 G)](#43)
+          - [Section III : Obligations des personnes morales (art. 23 A à 23 I bis)](#42)
+            - [1° : Déclaration d'existence, de modification du pacte social et des conditions d'exercice de la profession (art. 23 A à 23 G)](#43)
             - [2° : Déclaration des bénéfices répartis aux associés, actionnaires ou porteurs de parts (art. 23 H à 23 I)](#44)
             - [3° : Entreprises dont la construction de logements ne constitue pas l'activité exclusive. (art. 23 I bis)](#45)
         - [Chapitre III : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés (art. 23 J à 23 L bis)](#46)
@@ -2234,6 +2234,75 @@ _Modifié par_:
 ##### Section III : Obligations des personnes morales<a id=42></a>
 
 ##### 1° : Déclaration d'existence, de modification du pacte social et des conditions d'exercice de la profession<a id=43></a>
+
+###### Article 23 A
+
+Les sociétés visées à l'article 206 du code général des impôts sont tenues de déposer, dans le mois de leur constitution
+définitive ou, le cas échéant, du jour où elles deviennent passibles de l'impôt sur les sociétés une déclaration indiquant : 
+
+1° La raison sociale, la forme juridique, l'objet principal, la durée, le siège de la société, ainsi que le lieu de son
+principal établissement ; 
+
+2° La date de l'acte constitutif ; 
+
+3° Les nom, prénoms et domicile des dirigeants ou gérants et, pour les sociétés dont le capital n'est pas divisé en actions,
+les nom prénoms et domicile de chacun des associés ; 
+
+4° La nature et la valeur des biens mobiliers et immobiliers constituant les apports ; 
+
+5° Le nombre, la forme et le montant : 
+
+a. Des titres négociables émis, en distinguant les actions des obligations et en précisant, pour les premières, la somme dont
+chaque titre est libéré et, pour les secondes, la durée de l'amortissement et le taux de l'intérêt ; 
+
+b. Des parts sociales (parts de capital) non représentées par des titres négociables ; 
+
+c. Des autres droits de toute nature attribués aux associés dans le partage des bénéfices ou de l'actif social, que ces
+droits soient ou non constatés par des titres.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1985-02-07 art. 1 JORF 16 février 1985
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 13 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 23 B (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 23 C (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 23 D (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 23 G (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 206 (V)
+
+
+###### Article 23 B
+
+En cas de modification de la raison sociale, de la forme juridique, de l'objet, de la durée, du siège de la société ou du
+lieu de son principal établissement, d'augmentation, de réduction ou d'amortissement du capital, de libération totale ou
+partielle des actions d'émission de remboursement ou d'amortissement d'emprunts représentés par des titres négociables de
+remplacement d'un ou plusieurs dirigeants ou gérants ou, dans les sociétés dont le capital n'est pas divisé en actions d'un
+ou plusieurs associés, les sociétés visées à l'article 23 A doivent en faire la déclaration dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 13 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 23 C (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 23 D (V)
+
+_Cite_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 23 A (V)
+
+_Modifié par_:
+
+  - arrêté 1985-02-07 art. 2 JORF 16 février 1985
+
 
 ###### Article 23 C
 
