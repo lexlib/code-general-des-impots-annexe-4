@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1999-05-04
+Version Consolidée au 1999-07-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -5005,16 +5005,15 @@ _Cite_:
 
 ###### Article 39
 
-1. 1° La date limite à laquelle les redevables sont tenus de remettre ou d'envoyer au service des impôts la déclaration
-prescrite par le 1 de l'article 287 du code général des impôts est fixée comme suit :
+1. 1° La date limite à laquelle les redevables sont tenus de remettre ou d'envoyer au service des impôts ((la déclaration ou
+le paiement mentionnés aux 1 et 3 de l'article 287)) (M)  du code général des impôts est fixé comme suit :
 
 a. Pour les taxes dues au titre du trimestre civil précédent par les redevables placés sous le régime simplifié de
 l'agriculture  au plus tard le 5 des mois de mai  août  novembre et février.
 
-b. Pour les taxes dues, selon le cas, au titre du mois, du trimestre ou d'une autre période définie en application du 3 de
-l'article 287 du code général des impôts par les redevables placés sous le régime de la déclaration et dont le lieu
-d'imposition est situé à Paris ainsi que dans les départements des Hauts-de-Seine  de la Seine-Saint-Denis et du Val-de-
-Marne :
+b. Pour les taxes dues, selon le cas, ((au titre du mois ou du trimestre)) (M) par les redevables placés sous le régime de la
+déclaration et dont le lieu d'imposition est situé à Paris ainsi que dans les départements des Hauts-de-Seine  de la Seine-
+Saint-Denis et du Val-de-Marne :
 
 Entreprises individuelles  selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
 
@@ -5041,9 +5040,8 @@ Sociétés anonymes :
 
 Autres redevables : au plus tard le 24 du mois suivant.
 
-c. Pour les taxes dues, selon le cas, au titre du mois, du trimestre ou d'une autre période définie en application du 3 de
-l'article 287 du code général des impôts par les redevables placés sous le régime de la déclaration et dont le lieu
-d'imposition est situé dans les autres départements :
+c. Pour les taxes dues, selon le cas, ((au titre du mois ou du trimestre)) (M) par les redevables placés sous le régime de la
+déclaration et dont le lieu d'imposition est situé dans les autres départements :
 
 Entreprises individuelles, selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
 
@@ -5059,7 +5057,11 @@ Sociétés anonymes : au plus tard le 24 du mois suivant ;
 
 Autres redevables : au plus tard le 24 du mois suivant.
 
-2° (périmé) (M).
+((d) Pour les redevables placés sous le régime simplifié d'imposition et tenus de verser des acomptes en avril, juillet,
+octobre et décembre, en application du 3 de l'article 287 du code général des impôts, les jours limites de paiement au cours
+de ces mois sont ceux prévus aux b et c)) (M).
+
+2° (périmé).
 
 3° La date limite visée au présent article est reportée au premier jour ouvrable suivant lorsqu'elle coïncide avec un jour
 férié ou réputé férié à l'égard des recettes des impôts.
@@ -5077,21 +5079,13 @@ les périodes de fermeture de leurs établissements.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Arrêté 1999-05-18
+  - Arrêté 1999-06-30 art. 1 JORF 1er juillet 1999
 
 _Cite_:
 
   - CGI 287 1
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
-
-_Modifié par_:
-
-  - Loi - art. 7 (V) JORF 31 décembre 1998
 
 _Cité par_:
 
