@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-08-14
+Version Consolidée au 1986-09-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -87,200 +87,200 @@ Version Consolidée au 1986-08-14
             - [II : Corse (art. 50 duodecies A)](#84)
             - [III : Opérations portant sur les animaux de boucherie et de charcuterie (art. 50 duodecies B)](#85)
               - [Utilisation de machines à timbrer les documents d'accompagnement des animaux vivants. (art. 50 duodecies B)](#86)
-      - [Titre III : Contributions indirectes (art. 50 B à 56 AP)](#87)
-        - [Chapitre premier : Boissons (art. 50 B à 55 D)](#88)
-          - [Section I : Alcools (art. 50 B à 54)](#89)
-            - [I : Production (art. 50 B à 52)](#90)
-              - [A : Alambics (art. 50 B à 51)](#91)
-              - [B : Rachat des alambics par l'État (art. 51 A à 51 H)](#92)
-              - [C : Dispositions générales. Conditions d'exercice de la profession de distillateur (art. 51 ter)](#93)
-              - [D : Règlement des distilleries (art. 51 septies à 51 octies E)](#94)
-                - [1° : Régime général (art. 51 septies à 51 septies I)](#95)
-                - [2° : Régime spécial (art. 51 octies à 51 octies E)](#96)
-              - [E : Teneur en alcool des produits de parfumerie et de toilette (art. 52)](#97)
-            - [III : Régime fiscal (art. 53 à 54)](#98)
-              - [Produits à base d'alcool susceptibles de bénéficier du droit réduit de fabrication. (art. 53 à 54)](#99)
-          - [Section I bis : Circulation (art. 54-0 A à 54 octies)](#100)
-            - [I : Capsules représentatives de droits (art. 54-0 A à 54-0 CD)](#101)
-              - [A : Capsules représentatives des droits sur les vins et les cidres (art. 54-0 C à 54-0 Z)](#102)
-                - [1 : Caractéristiques des capsules (art. 54-0 C à 54-0 F)](#103)
-                - [2 : Fabrication des capsules (art. 54-0 G à 54-0 T)](#104)
-                - [3 : Utilisation des capsules (art. 54-0 AA à 54-0 Z)](#105)
-              - [C : Capsules représentatives des droits sur les spiritueux (art. 54-0 BB à 54-0 BU)](#106)
-                - [1 : Caractéristiques des capsules. (art. 54-0 BB à 54-0 BH)](#107)
-                - [2 : Fabrication des capsules. (art. 54-0 BI)](#108)
-                - [3 : Utilisation des capsules. (art. 54-0 BK à 54-0 BU)](#109)
-              - [D : Emploi des capsules représentatives des droits par les récoltants (art. 54-0 BW à 54-0 CD)](#110)
-                - [2 : Capsules banalisées (art. 54-0 BZ à 54-0 CD)](#111)
-            - [II : Factures-congés (art. 54 B à 54 J)](#112)
-            - [IV : Utilisation de machines à timbrer (art. 54 septies à 54 octies)](#113)
-              - [A : Machines à timbrer les capsules représentatives des droits indirects sur les vins et cidres. (art. 54 septies à 54 sexies)](#114)
-              - [B : Machines à timbrer les capsules représentatives des droits indirects sur les spiritueux. (art. 54 nonies à 54 octies)](#115)
-          - [Section II : Conditionnement des spiritueux. (art. 55 à 55 D)](#116)
-        - [Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine (art. 56 J quater)](#117)
-          - [2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations. (art. 56 J quater)](#118)
-        - [Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer. (art. 56 A ter à 56 C ter)](#119)
-        - [Chapitre II : Tabacs (art. 56 AB à 56 AP)](#120)
-      - [Titre III : Contributions indirectes et monopoles fiscaux (art. 50 A à 56 AN)](#121)
-        - [Chapitre premier : Boissons (art. 50 A à 56 J ter)](#122)
-          - [Section I : Alcools (art. 50 A à 52 bis)](#123)
-            - [I : Production (art. 50 A à 51 octies A)](#124)
-              - [A : Alambics. (art. 50 A à 50 E)](#125)
-              - [B : Rachat des alambics par l'État. (art. 51 B à 51 F)](#126)
-              - [C : Dispositions générales - Conditions d'exercice de la profession de distillateur. (art. 51 bis)](#127)
-              - [D : Règlement des distilleries (art. 51 septies A à 51 octies A)](#128)
-                - [Régime général. (art. 51 septies A à 51 septies J)](#129)
-                - [Régime spécial. (art. 51 octies A)](#130)
-            - [II : Régime économique (art. 52 bis)](#131)
-              - [Répartition du contingent des rhums. (art. 52 bis)](#132)
-          - [Section I bis : Circulation (art. 54-0 B à 54 terdecies)](#133)
-            - [I : Capsules représentatives de droits (art. 54-0 B à 54-0 BY)](#134)
-              - [A : Capsules représentatives des droits sur les vins et les cidres (art. 54-0 B à 54-0 AD)](#135)
-                - [1 : Caractéristiques des capsules. (art. 54-0 B)](#136)
-                - [2 : Fabrication des capsules. (art. 54-0 H à 54-0 I)](#137)
-                - [3 : Utilisation des capsules. (art. 54-0 AB à 54-0 AD)](#138)
-              - [C : Capsules représentatives des droits sur les spiritueux (art. 54-0 BJ à 54-0 BT)](#139)
-                - [3 : Utilisation des capsules. (art. 54-0 BJ à 54-0 BT)](#140)
-              - [D : Emploi des capsules représentatives des droits par les récoltants. (art. 54-0 BV à 54-0 BY)](#141)
-                - [2 : Capsules banalisées. (art. 54-0 BY)](#142)
-            - [II : Factures-congés. (art. 54 A à 54 I)](#143)
-            - [III : Exemption des formalités à la circulation. (art. 54 bis à 54 ter)](#144)
-            - [IV : Utilisation de machines à timbrer (art. 54 decies à 54 terdecies)](#145)
-              - [C : Machines à timbrer les factures-congés "Boissons". (art. 54 decies)](#146)
-              - [D : Machines à timbrer les acquits-à-caution. (art. 54 duodecies à 54 terdecies)](#147)
-          - [Section II : Conditionnement des spiritueux. (art. 55 B)](#148)
-          - [Chapitre I ter A : Garantie des matières d'or, d'argent et de platine. (art. 56 J ter)](#149)
-        - [Chapitre I quinquies : Céréales (art. 56 D quater)](#150)
-          - [Section 1 : Utilisation de machines à timbrer. (art. 56 D quater)](#151)
-        - [Chapitre II : Monopoles (art. 56 AA à 56 AN)](#152)
-          - [Section unique : Tabacs. (art. 56 AA à 56 AN)](#153)
-      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 60 à 121 VA)](#154)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 60 à 67)](#155)
-          - [Section I : Dispositions générales : des formalités (art. 60 à 60 A)](#156)
-            - [1° : Actes dispensés de la formalité de l'enregistrement (art. 60)](#157)
-            - [2° : Bureaux compétents (art. 60 A)](#158)
-          - [Section II : Obligations diverses (art. 61 à 67)](#159)
-            - [I : Obligations des redevables - Mutations de jouissance (art. 61 à 65)](#160)
-              - [Modalités de dépôt et forme des déclarations. (art. 61 à 65)](#161)
-            - [II : Obligations des agents de l'administration (art. 67)](#162)
-              - [Salaires des conservateurs des hypothèques (art. 67)](#163)
-        - [Chapitre II : Droits de timbre (art. 71 à 121 KL ter)](#164)
-          - [Section I : Droits de timbre proprement dits (art. 71 à 121 A bis)](#165)
-            - [I : Machines à timbrer (art. 71 à 75)](#166)
-            - [I bis : Timbre de dimension (art. 93 A à 93 I)](#167)
-              - [A : Pouvoirs destinés à la représentation aux assemblées générales des membres des sociétés par actions. (art. 93 A à 93 F)](#168)
-              - [B : Bulletins de souscription d'actions (art. 93 H bis à 93 H ter)](#169)
-              - [B ter : Autres actes (paiement sur états) (art. 93 H quater C à 93 H quater E)](#170)
-              - [C : Paiement par timbres mobiles (art. 93 H quinquies)](#171)
-              - [D : Actes destinés à être reproduits par photocopie. (art. 93 I)](#172)
-            - [I ter : Timbre des effets de commerce négociables. (art. 93 J à 93 L)](#173)
-            - [III : Timbre des quittances. (art. 99 à 101)](#174)
-            - [IV : Timbre des contrats de transports (art. 113 à 121 A bis)](#175)
-              - [A : Transports par chemins de fer (art. 113)](#176)
-                - [Compagnies de chemins de fer autres que la SNCF - Bulletins de bagages. (art. 113)](#177)
-              - [B : Expéditions en groupage. (art. 116 à 120)](#178)
-              - [C : Transports routiers de marchandises. (art. 121 A à 121 A bis)](#179)
-          - [Section II : Droits de délivrance de documents et perceptions diverses (art. 121 KB à 121 KL ter)](#180)
-            - [IV : Régies de recettes des préfectures et sous-préfectures (art. 121 KB à 121 KL)](#181)
-            - [IV bis : Formules de chèques (art. 121 KL bis à 121 KL ter)](#182)
-        - [Chapitre III : Autres droits et taxes (art. 121 K ter)](#183)
-          - [Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social. (art. 121 K ter)](#184)
-        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 121 VA)](#185)
-          - [Institutions à caractère social (art. 121 VA)](#186)
-      - [Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre (art. 121 V nonies à 121 Z bis)](#187)
-        - [Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer (art. 121 V nonies à 121 V undecies)](#188)
-        - [Chapitre II : Déclaration des immeubles bâtis situés dans les communes recensées (art. 121 Z bis)](#189)
-    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 121 quinquies DB à 164)](#190)
-      - [Titre premier : Impositions communales (art. 121 quinquies DB à 155 B)](#191)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 121 quinquies DB à 121 quinquies DF)](#192)
-          - [Section II : Taxe professionnelle (art. 121 quinquies DB à 121 quinquies DB ter)](#193)
-            - [Exonération des meubles classés dans les conditions prévues a l'article 58-I de la loi n° 65-997 du 29 novembre 1965. (art. 121 quinquies DB)](#194)
-            - [Exonération temporaire accordée dans le cadre de l'aménagement du territoire. (art. 121 quinquies DB bis à 121 quinquies DB ter)](#195)
-          - [Section III : Commission consultative départementale des évaluations foncières (art. 121 quinquies DC à 121 quinquies DF)](#196)
-        - [Chapitre II : Contributions indirectes (art. 124 à 154)](#197)
-          - [Section unique : Impôt sur les spectacles, jeux et divertissements (art. 124 à 153)](#198)
-            - [I : Dispositions générales (art. 124 à 141)](#199)
-              - [1° : Déclaration d'existence (art. 124)](#200)
-              - [2° : Classement des spectacles (art. 126)](#201)
-              - [5° : Contrôle des entrées dans les salles. Billets (art. 127 à 131)](#202)
-              - [6° : Assiette et contrôle de la taxe (art. 138 à 139)](#203)
-              - [7° : Fermeture des établissements (art. 141)](#204)
-            - [II : Dispositions particulières (art. 147 à 153)](#205)
-              - [2° : Cercles et maisons de jeux (art. 147 à 153)](#206)
-          - [Impôt sur les spectacles, jeux et divertissements (art. 126 A à 154)](#207)
-            - [I : Dispositions générales (art. 126 A à 137)](#208)
-              - [Appareils automatiques. (art. 126 A à 126 E)](#209)
-              - [Réunions sportives. (art. 126 F)](#210)
-              - [Contrôle des entrées dans les salles - Billets. (art. 129 à 130)](#211)
-              - [Assiette et contrôle de la taxe. (art. 137)](#212)
-            - [II : Dispositions particulières (art. 145 à 154)](#213)
-              - [Établissements où il est d'usage de consommer. (art. 145)](#214)
-              - [Cercles et maisons de jeux. (art. 146 à 154)](#215)
-        - [Chapitre III : Enregistrement (art. 155 A à 155 B)](#216)
-          - [Section unique : Taxe locale d'équipement (art. 155 A à 155 B)](#217)
-      - [Titre I bis : Impositions départementales (art. 155 E à 155 Q)](#218)
-        - [Chapitre premier : Taxe sur les véhicules à moteur. (art. 155 E à 155 M)](#219)
-        - [Chapitre premier : Taxes sur les véhicules à moteur. (art. 155 C à 155 I)](#220)
-        - [Chapitre II : Droits d'enregistrement et taxe de publicité foncière (art. 155 N à 155 Q)](#221)
-          - [Réduction accordée dans le cadre de l'aménagement du territoire (art. 155 N à 155 Q)](#222)
-      - [Titre I ter : Impositions régionales (art. 155 bis)](#223)
-        - [Région de Corse. (art. 155 bis)](#224)
-      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 156 à 159 quater A)](#225)
-        - [Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 156 à 159 AL)](#226)
-          - [Section I : Taxe sur les produits des exploitations forestières. (art. 156 à 157)](#227)
-          - [Section II : Budget annexe des prestations sociales agricoles (art. 159 bis à 159 ter A)](#228)
-            - [I : Taxe de 1,20 % sur les produits des exploitations forestières. (art. 159 bis)](#229)
-            - [III : Huiles. (art. 159 ter A)](#230)
-          - [Section IV : Fonds national du livre (art. 159 AA)](#231)
-            - [I : Redevance sur l'édition des ouvrages de librairie. (art. 159 AA)](#232)
-          - [Section VII : Fonds d'orientation et de régularisation des marchés agricoles. (art. 159 AJ à 159 AL)](#233)
-        - [Chapitre II bis : Contributions indirectes (art. 159 AM bis)](#234)
-          - [Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins. (art. 159 AM bis)](#235)
-        - [Chapitre III : Enregistrement (art. 159 quater A)](#236)
-          - [Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole (art. 159 quater A)](#237)
-            - [Contribution des employeurs assurés. (art. 159 quater A)](#238)
-      - [Titre III : Dispositions communes (art. 162 à 164)](#239)
-        - [Frais d'assiette et de perception (art. 162 à 164)](#240)
-          - [Section II : Contributions indirectes. (art. 162 à 164)](#241)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 164 FB à 170 sexies)](#242)
-      - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AL)](#243)
-        - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#244)
-          - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#245)
-        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F unvicies à 164 F tervicies)](#246)
-          - [Section I : Centres de gestion agréés (art. 164 F unvicies à 164 F unvicies F)](#247)
-            - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#248)
-          - [Section II : Associations agréées des professions libérales (art. 164 F duovicies à 164 F tervicies)](#249)
-        - [Chapitre III : Réglementation des machines à timbrer (art. 164 N à 164 AL)](#250)
-          - [II : Dispositions communes (art. 164 N à 164 AL)](#251)
-            - [A : Caractéristiques générales des machines (art. 164 N à 164 O)](#252)
-            - [B : Agrément des machines (art. 164 P à 164 S)](#253)
-            - [C : Autorisation de placer les machines chez les usagers (art. 164 T à 164 V)](#254)
-            - [D : Obligations des concessionnaires (art. 164 AA à 164 Z)](#255)
-            - [E : Obligations des usagers (art. 164 AE à 164 AG)](#256)
-            - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#257)
-            - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#258)
-      - [Titre II : Dispositions diverses (art. 165 à 170 sexies)](#259)
-        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#260)
-        - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#261)
-        - [Section IV : Dispositions communes (art. 170 septies à 170 sexies)](#262)
-          - [Octroi de certains agréments fiscaux (art. 170 septies à 170 sexies)](#263)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 4 C bis à 170 septies D)](#264)
-    - [IMPOTS D'ETAT (art. 4 C bis à 121 V bis)](#265)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 4 C bis à 17 quinquies B)](#266)
-        - [IMPOT SUR LE REVENU (art. 4 C bis à 17 quinquies B)](#267)
-          - [BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*. (art. 4 C bis à 4 L)](#268)
-          - [REVENU DES CAPITAUX MOBILIERS. (art. 16 bis)](#269)
-          - [REVENU GLOBAL. (art. 17 quinquies A à 17 quinquies B)](#270)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 48 à 50 undecies)](#271)
-        - [TAXE SUR LA VALEUR AJOUTEE (art. 48 à 50 undecies)](#272)
-          - [OBLIGATIONS DES REDEVABLES. (art. 48)](#273)
-          - [IMPORTATIONS. (art. 50 nonies)](#274)
-          - [REGIMES SPECIAUX. (art. 50 duodecies à 50 undecies)](#275)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 28 A)](#276)
-        - [TAXES SUR LA VALEUR AJOUTEE *TVA* (art. 28 A)](#277)
-          - [LIQUIDATION DE LA TAXE. (art. 28 A)](#278)
-      - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES (art. 50 quindecies)](#279)
-        - [RECEPISSE DE CONSIGNATION. (art. 50 quindecies)](#280)
+      - [Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires (art. 50 quindecies)](#87)
+        - [Chapitre premier : Récépissé de consignation (art. 50 quindecies)](#88)
+      - [Titre III : Contributions indirectes (art. 50 B à 56 AP)](#89)
+        - [Chapitre premier : Boissons (art. 50 B à 55 D)](#90)
+          - [Section I : Alcools (art. 50 B à 54)](#91)
+            - [I : Production (art. 50 B à 52)](#92)
+              - [A : Alambics (art. 50 B à 51)](#93)
+              - [B : Rachat des alambics par l'État (art. 51 A à 51 H)](#94)
+              - [C : Dispositions générales. Conditions d'exercice de la profession de distillateur (art. 51 ter)](#95)
+              - [D : Règlement des distilleries (art. 51 septies à 51 octies E)](#96)
+                - [1° : Régime général (art. 51 septies à 51 septies I)](#97)
+                - [2° : Régime spécial (art. 51 octies à 51 octies E)](#98)
+              - [E : Teneur en alcool des produits de parfumerie et de toilette (art. 52)](#99)
+            - [III : Régime fiscal (art. 53 à 54)](#100)
+              - [Produits à base d'alcool susceptibles de bénéficier du droit réduit de fabrication. (art. 53 à 54)](#101)
+          - [Section I bis : Circulation (art. 54-0 A à 54 octies)](#102)
+            - [I : Capsules représentatives de droits (art. 54-0 A à 54-0 CD)](#103)
+              - [A : Capsules représentatives des droits sur les vins et les cidres (art. 54-0 C à 54-0 Z)](#104)
+                - [1 : Caractéristiques des capsules (art. 54-0 C à 54-0 F)](#105)
+                - [2 : Fabrication des capsules (art. 54-0 G à 54-0 T)](#106)
+                - [3 : Utilisation des capsules (art. 54-0 AA à 54-0 Z)](#107)
+              - [C : Capsules représentatives des droits sur les spiritueux (art. 54-0 BB à 54-0 BU)](#108)
+                - [1 : Caractéristiques des capsules. (art. 54-0 BB à 54-0 BH)](#109)
+                - [2 : Fabrication des capsules. (art. 54-0 BI)](#110)
+                - [3 : Utilisation des capsules. (art. 54-0 BK à 54-0 BU)](#111)
+              - [D : Emploi des capsules représentatives des droits par les récoltants (art. 54-0 BW à 54-0 CD)](#112)
+                - [2 : Capsules banalisées (art. 54-0 BZ à 54-0 CD)](#113)
+            - [II : Factures-congés (art. 54 B à 54 J)](#114)
+            - [IV : Utilisation de machines à timbrer (art. 54 septies à 54 octies)](#115)
+              - [A : Machines à timbrer les capsules représentatives des droits indirects sur les vins et cidres. (art. 54 septies à 54 sexies)](#116)
+              - [B : Machines à timbrer les capsules représentatives des droits indirects sur les spiritueux. (art. 54 nonies à 54 octies)](#117)
+          - [Section II : Conditionnement des spiritueux. (art. 55 à 55 D)](#118)
+        - [Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine (art. 56 J quater)](#119)
+          - [2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations. (art. 56 J quater)](#120)
+        - [Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer. (art. 56 A ter à 56 C ter)](#121)
+        - [Chapitre II : Tabacs (art. 56 AB à 56 AP)](#122)
+      - [Titre III : Contributions indirectes et monopoles fiscaux (art. 50 A à 56 AN)](#123)
+        - [Chapitre premier : Boissons (art. 50 A à 56 J ter)](#124)
+          - [Section I : Alcools (art. 50 A à 52 bis)](#125)
+            - [I : Production (art. 50 A à 51 octies A)](#126)
+              - [A : Alambics. (art. 50 A à 50 E)](#127)
+              - [B : Rachat des alambics par l'État. (art. 51 B à 51 F)](#128)
+              - [C : Dispositions générales - Conditions d'exercice de la profession de distillateur. (art. 51 bis)](#129)
+              - [D : Règlement des distilleries (art. 51 septies A à 51 octies A)](#130)
+                - [Régime général. (art. 51 septies A à 51 septies J)](#131)
+                - [Régime spécial. (art. 51 octies A)](#132)
+            - [II : Régime économique (art. 52 bis)](#133)
+              - [Répartition du contingent des rhums. (art. 52 bis)](#134)
+          - [Section I bis : Circulation (art. 54-0 B à 54 terdecies)](#135)
+            - [I : Capsules représentatives de droits (art. 54-0 B à 54-0 BY)](#136)
+              - [A : Capsules représentatives des droits sur les vins et les cidres (art. 54-0 B à 54-0 AD)](#137)
+                - [1 : Caractéristiques des capsules. (art. 54-0 B)](#138)
+                - [2 : Fabrication des capsules. (art. 54-0 H à 54-0 I)](#139)
+                - [3 : Utilisation des capsules. (art. 54-0 AB à 54-0 AD)](#140)
+              - [C : Capsules représentatives des droits sur les spiritueux (art. 54-0 BJ à 54-0 BT)](#141)
+                - [3 : Utilisation des capsules. (art. 54-0 BJ à 54-0 BT)](#142)
+              - [D : Emploi des capsules représentatives des droits par les récoltants. (art. 54-0 BV à 54-0 BY)](#143)
+                - [2 : Capsules banalisées. (art. 54-0 BY)](#144)
+            - [II : Factures-congés. (art. 54 A à 54 I)](#145)
+            - [III : Exemption des formalités à la circulation. (art. 54 bis à 54 ter)](#146)
+            - [IV : Utilisation de machines à timbrer (art. 54 decies à 54 terdecies)](#147)
+              - [C : Machines à timbrer les factures-congés "Boissons". (art. 54 decies)](#148)
+              - [D : Machines à timbrer les acquits-à-caution. (art. 54 duodecies à 54 terdecies)](#149)
+          - [Section II : Conditionnement des spiritueux. (art. 55 B)](#150)
+          - [Chapitre I ter A : Garantie des matières d'or, d'argent et de platine. (art. 56 J ter)](#151)
+        - [Chapitre I quinquies : Céréales (art. 56 D quater)](#152)
+          - [Section 1 : Utilisation de machines à timbrer. (art. 56 D quater)](#153)
+        - [Chapitre II : Monopoles (art. 56 AA à 56 AN)](#154)
+          - [Section unique : Tabacs. (art. 56 AA à 56 AN)](#155)
+      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 60 à 121 VA)](#156)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 60 à 67)](#157)
+          - [Section I : Dispositions générales : des formalités (art. 60 à 60 A)](#158)
+            - [1° : Actes dispensés de la formalité de l'enregistrement (art. 60)](#159)
+            - [2° : Bureaux compétents (art. 60 A)](#160)
+          - [Section II : Obligations diverses (art. 61 à 67)](#161)
+            - [I : Obligations des redevables - Mutations de jouissance (art. 61 à 65)](#162)
+              - [Modalités de dépôt et forme des déclarations. (art. 61 à 65)](#163)
+            - [II : Obligations des agents de l'administration (art. 67)](#164)
+              - [Salaires des conservateurs des hypothèques (art. 67)](#165)
+        - [Chapitre II : Droits de timbre (art. 71 à 121 KL ter)](#166)
+          - [Section I : Droits de timbre proprement dits (art. 71 à 121 A bis)](#167)
+            - [I : Machines à timbrer (art. 71 à 75)](#168)
+            - [I bis : Timbre de dimension (art. 93 A à 93 I)](#169)
+              - [A : Pouvoirs destinés à la représentation aux assemblées générales des membres des sociétés par actions. (art. 93 A à 93 F)](#170)
+              - [B : Bulletins de souscription d'actions (art. 93 H bis à 93 H ter)](#171)
+              - [B ter : Autres actes (paiement sur états) (art. 93 H quater C à 93 H quater E)](#172)
+              - [C : Paiement par timbres mobiles (art. 93 H quinquies)](#173)
+              - [D : Actes destinés à être reproduits par photocopie. (art. 93 I)](#174)
+            - [I ter : Timbre des effets de commerce négociables. (art. 93 J à 93 L)](#175)
+            - [III : Timbre des quittances. (art. 99 à 101)](#176)
+            - [IV : Timbre des contrats de transports (art. 113 à 121 A bis)](#177)
+              - [A : Transports par chemins de fer (art. 113)](#178)
+                - [Compagnies de chemins de fer autres que la SNCF - Bulletins de bagages. (art. 113)](#179)
+              - [B : Expéditions en groupage. (art. 116 à 120)](#180)
+              - [C : Transports routiers de marchandises. (art. 121 A à 121 A bis)](#181)
+          - [Section II : Droits de délivrance de documents et perceptions diverses (art. 121 KB à 121 KL ter)](#182)
+            - [IV : Régies de recettes des préfectures et sous-préfectures (art. 121 KB à 121 KL)](#183)
+            - [IV bis : Formules de chèques (art. 121 KL bis à 121 KL ter)](#184)
+        - [Chapitre III : Autres droits et taxes (art. 121 K ter)](#185)
+          - [Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social. (art. 121 K ter)](#186)
+        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 121 VA)](#187)
+          - [Institutions à caractère social (art. 121 VA)](#188)
+      - [Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre (art. 121 V nonies à 121 Z bis)](#189)
+        - [Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer (art. 121 V nonies à 121 V undecies)](#190)
+        - [Chapitre II : Déclaration des immeubles bâtis situés dans les communes recensées (art. 121 Z bis)](#191)
+    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 121 quinquies DB à 164)](#192)
+      - [Titre premier : Impositions communales (art. 121 quinquies DB à 155 B)](#193)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 121 quinquies DB à 121 quinquies DF)](#194)
+          - [Section II : Taxe professionnelle (art. 121 quinquies DB à 121 quinquies DB ter)](#195)
+            - [Exonération des meubles classés dans les conditions prévues a l'article 58-I de la loi n° 65-997 du 29 novembre 1965. (art. 121 quinquies DB)](#196)
+            - [Exonération temporaire accordée dans le cadre de l'aménagement du territoire. (art. 121 quinquies DB bis à 121 quinquies DB ter)](#197)
+          - [Section III : Commission consultative départementale des évaluations foncières (art. 121 quinquies DC à 121 quinquies DF)](#198)
+        - [Chapitre II : Contributions indirectes (art. 124 à 154)](#199)
+          - [Section unique : Impôt sur les spectacles, jeux et divertissements (art. 124 à 153)](#200)
+            - [I : Dispositions générales (art. 124 à 141)](#201)
+              - [1° : Déclaration d'existence (art. 124)](#202)
+              - [2° : Classement des spectacles (art. 126)](#203)
+              - [5° : Contrôle des entrées dans les salles. Billets (art. 127 à 131)](#204)
+              - [6° : Assiette et contrôle de la taxe (art. 138 à 139)](#205)
+              - [7° : Fermeture des établissements (art. 141)](#206)
+            - [II : Dispositions particulières (art. 147 à 153)](#207)
+              - [2° : Cercles et maisons de jeux (art. 147 à 153)](#208)
+          - [Impôt sur les spectacles, jeux et divertissements (art. 126 A à 154)](#209)
+            - [I : Dispositions générales (art. 126 A à 137)](#210)
+              - [Appareils automatiques. (art. 126 A à 126 E)](#211)
+              - [Réunions sportives. (art. 126 F)](#212)
+              - [Contrôle des entrées dans les salles - Billets. (art. 129 à 130)](#213)
+              - [Assiette et contrôle de la taxe. (art. 137)](#214)
+            - [II : Dispositions particulières (art. 145 à 154)](#215)
+              - [Établissements où il est d'usage de consommer. (art. 145)](#216)
+              - [Cercles et maisons de jeux. (art. 146 à 154)](#217)
+        - [Chapitre III : Enregistrement (art. 155 A à 155 B)](#218)
+          - [Section unique : Taxe locale d'équipement (art. 155 A à 155 B)](#219)
+      - [Titre I bis : Impositions départementales (art. 155 E à 155 Q)](#220)
+        - [Chapitre premier : Taxe sur les véhicules à moteur. (art. 155 E à 155 M)](#221)
+        - [Chapitre premier : Taxes sur les véhicules à moteur. (art. 155 C à 155 I)](#222)
+        - [Chapitre II : Droits d'enregistrement et taxe de publicité foncière (art. 155 N à 155 Q)](#223)
+          - [Réduction accordée dans le cadre de l'aménagement du territoire (art. 155 N à 155 Q)](#224)
+      - [Titre I ter : Impositions régionales (art. 155 bis)](#225)
+        - [Région de Corse. (art. 155 bis)](#226)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 156 à 159 quater A)](#227)
+        - [Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 156 à 159 AL)](#228)
+          - [Section I : Taxe sur les produits des exploitations forestières. (art. 156 à 157)](#229)
+          - [Section II : Budget annexe des prestations sociales agricoles (art. 159 bis à 159 ter A)](#230)
+            - [I : Taxe de 1,20 % sur les produits des exploitations forestières. (art. 159 bis)](#231)
+            - [III : Huiles. (art. 159 ter A)](#232)
+          - [Section IV : Fonds national du livre (art. 159 AA)](#233)
+            - [I : Redevance sur l'édition des ouvrages de librairie. (art. 159 AA)](#234)
+          - [Section VII : Fonds d'orientation et de régularisation des marchés agricoles. (art. 159 AJ à 159 AL)](#235)
+        - [Chapitre II bis : Contributions indirectes (art. 159 AM bis)](#236)
+          - [Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins. (art. 159 AM bis)](#237)
+        - [Chapitre III : Enregistrement (art. 159 quater A)](#238)
+          - [Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole (art. 159 quater A)](#239)
+            - [Contribution des employeurs assurés. (art. 159 quater A)](#240)
+      - [Titre III : Dispositions communes (art. 162 à 164)](#241)
+        - [Frais d'assiette et de perception (art. 162 à 164)](#242)
+          - [Section II : Contributions indirectes. (art. 162 à 164)](#243)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 164 FB à 170 sexies)](#244)
+      - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AL)](#245)
+        - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#246)
+          - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#247)
+        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F unvicies à 164 F tervicies)](#248)
+          - [Section I : Centres de gestion agréés (art. 164 F unvicies à 164 F unvicies F)](#249)
+            - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#250)
+          - [Section II : Associations agréées des professions libérales (art. 164 F duovicies à 164 F tervicies)](#251)
+        - [Chapitre III : Réglementation des machines à timbrer (art. 164 N à 164 AL)](#252)
+          - [II : Dispositions communes (art. 164 N à 164 AL)](#253)
+            - [A : Caractéristiques générales des machines (art. 164 N à 164 O)](#254)
+            - [B : Agrément des machines (art. 164 P à 164 S)](#255)
+            - [C : Autorisation de placer les machines chez les usagers (art. 164 T à 164 V)](#256)
+            - [D : Obligations des concessionnaires (art. 164 AA à 164 Z)](#257)
+            - [E : Obligations des usagers (art. 164 AE à 164 AG)](#258)
+            - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#259)
+            - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#260)
+      - [Titre II : Dispositions diverses (art. 165 à 170 sexies)](#261)
+        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#262)
+        - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#263)
+        - [Section IV : Dispositions communes (art. 170 septies à 170 sexies)](#264)
+          - [Octroi de certains agréments fiscaux (art. 170 septies à 170 sexies)](#265)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 4 C bis à 170 septies D)](#266)
+    - [IMPOTS D'ETAT (art. 4 C bis à 121 V bis)](#267)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 4 C bis à 17 quinquies B)](#268)
+        - [IMPOT SUR LE REVENU (art. 4 C bis à 17 quinquies B)](#269)
+          - [BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*. (art. 4 C bis à 4 L)](#270)
+          - [REVENU DES CAPITAUX MOBILIERS. (art. 16 bis)](#271)
+          - [REVENU GLOBAL. (art. 17 quinquies A à 17 quinquies B)](#272)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 48 à 50 undecies)](#273)
+        - [TAXE SUR LA VALEUR AJOUTEE (art. 48 à 50 undecies)](#274)
+          - [OBLIGATIONS DES REDEVABLES. (art. 48)](#275)
+          - [IMPORTATIONS. (art. 50 nonies)](#276)
+          - [REGIMES SPECIAUX. (art. 50 duodecies à 50 undecies)](#277)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 28 A)](#278)
+        - [TAXES SUR LA VALEUR AJOUTEE *TVA* (art. 28 A)](#279)
+          - [LIQUIDATION DE LA TAXE. (art. 28 A)](#280)
       - [CONTRIBUTIONS INDIRECTES (art. 51 quater à 56 J BIS)](#281)
         - [BOISSONS (art. 51 quater à 51 sexies)](#282)
           - [ALCOOLS (art. 51 quater à 51 sexies)](#283)
@@ -4176,15 +4176,55 @@ _Cite_:
   - HISTO: Edition du 1er janvier 2007
 
 
-### Titre III : Contributions indirectes<a id=87></a>
+### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires<a id=87></a>
 
-#### Chapitre premier : Boissons<a id=88></a>
+#### Chapitre premier : Récépissé de consignation<a id=88></a>
 
-##### Section I : Alcools<a id=89></a>
+###### Article 50 quindecies
 
-##### I : Production<a id=90></a>
+Le montant de la somme à déposer en vue de la délivrance du récépissé de consignation prévu à l'article 302 octies du code
+général des impôts est fixé aux chiffres indiqués ci-après :
 
-##### A : Alambics<a id=91></a>
+CARACTERISTIQUES DE L'ACTIVITE : Activité de vente de marchandises ou de prestations de services exercée sans vehicule
+
+MONTANT de la somme à consigner (en francs) 1000.
+
+CARACTERISTIQUES DE L'ACTIVITE : Majoration pour utilisation d'un véhicule
+
+MONTANT de la somme à consigner (en francs) 500.
+
+CARACTERISTIQUES DE L'ACTIVITE :
+
+Majoration pour utilisation de deux vehicules
+
+MONTANT de la somme à consigner (en francs) 1000.
+
+CARACTERISTIQUES DE L'ACTIVITE :
+
+Majoration pour utilisation de plus de deux vehicules
+
+MONTANT de la somme à consigner (en francs) 2000.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 302 octies
+
+_Modifié par_:
+
+  - arrêté 1986-08-08 art. 1 JORF 15 août 1986, en vigueur le 1er septembre 1986
+
+
+### Titre III : Contributions indirectes<a id=89></a>
+
+#### Chapitre premier : Boissons<a id=90></a>
+
+##### Section I : Alcools<a id=91></a>
+
+##### I : Production<a id=92></a>
+
+##### A : Alambics<a id=93></a>
 
 ###### Article 50 B
 
@@ -4233,7 +4273,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L29 (V)
 
 
-##### B : Rachat des alambics par l'État<a id=92></a>
+##### B : Rachat des alambics par l'État<a id=94></a>
 
 ###### Article 51 A
 
@@ -4281,7 +4321,7 @@ En cas de refus, il ne peut déposer de nouvelle demande de rachat avant un an, 
 
 
 
-##### C : Dispositions générales. Conditions d'exercice de la profession de distillateur<a id=93></a>
+##### C : Dispositions générales. Conditions d'exercice de la profession de distillateur<a id=95></a>
 
 ###### Article 51 ter
 
@@ -4295,9 +4335,9 @@ c. Eventuellement, la date et la nature des autorisations obtenues par le requé
 
 
 
-##### D : Règlement des distilleries<a id=94></a>
+##### D : Règlement des distilleries<a id=96></a>
 
-##### 1° : Régime général<a id=95></a>
+##### 1° : Régime général<a id=97></a>
 
 ###### Article 51 septies
 
@@ -4405,7 +4445,7 @@ _Cite_:
   - Code général des impôts annexe 1, CGIAN1. - art. 73 (V)
 
 
-##### 2° : Régime spécial<a id=96></a>
+##### 2° : Régime spécial<a id=98></a>
 
 ###### Article 51 octies
 
@@ -4658,7 +4698,7 @@ _Cite_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### E : Teneur en alcool des produits de parfumerie et de toilette<a id=97></a>
+##### E : Teneur en alcool des produits de parfumerie et de toilette<a id=99></a>
 
 ###### Article 52
 
@@ -4710,9 +4750,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 349 (V)
 
 
-##### III : Régime fiscal<a id=98></a>
+##### III : Régime fiscal<a id=100></a>
 
-##### Produits à base d'alcool susceptibles de bénéficier du droit réduit de fabrication.<a id=99></a>
+##### Produits à base d'alcool susceptibles de bénéficier du droit réduit de fabrication.<a id=101></a>
 
 ###### Article 53
 
@@ -4784,9 +4824,9 @@ _Cite_:
   - PEREMPTION: Loi - art. 47 (V) JORF 31 décembre 1998
 
 
-##### Section I bis : Circulation<a id=100></a>
+##### Section I bis : Circulation<a id=102></a>
 
-##### I : Capsules représentatives de droits<a id=101></a>
+##### I : Capsules représentatives de droits<a id=103></a>
 
 ###### Article 54-0 A
 
@@ -4810,9 +4850,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 B (V)
 
 
-##### A : Capsules représentatives des droits sur les vins et les cidres<a id=102></a>
+##### A : Capsules représentatives des droits sur les vins et les cidres<a id=104></a>
 
-##### 1 : Caractéristiques des capsules<a id=103></a>
+##### 1 : Caractéristiques des capsules<a id=105></a>
 
 ###### Article 54-0 C
 
@@ -4931,7 +4971,7 @@ _Abrogé par_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### 2 : Fabrication des capsules<a id=104></a>
+##### 2 : Fabrication des capsules<a id=106></a>
 
 ###### Article 54-0 G
 
@@ -5122,7 +5162,7 @@ côté de la caisse ou de la boîte portant ces indications.
 
 
 
-##### 3 : Utilisation des capsules<a id=105></a>
+##### 3 : Utilisation des capsules<a id=107></a>
 
 ###### Article 54-0 AA
 
@@ -5289,9 +5329,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
 
 
-##### C : Capsules représentatives des droits sur les spiritueux<a id=106></a>
+##### C : Capsules représentatives des droits sur les spiritueux<a id=108></a>
 
-##### 1 : Caractéristiques des capsules.<a id=107></a>
+##### 1 : Caractéristiques des capsules.<a id=109></a>
 
 ###### Article 54-0 BB
 
@@ -5446,7 +5486,7 @@ _Abrogé par_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### 2 : Fabrication des capsules.<a id=108></a>
+##### 2 : Fabrication des capsules.<a id=110></a>
 
 ###### Article 54-0 BI
 
@@ -5469,7 +5509,7 @@ _Cite_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### 3 : Utilisation des capsules.<a id=109></a>
+##### 3 : Utilisation des capsules.<a id=111></a>
 
 ###### Article 54-0 BK
 
@@ -5630,7 +5670,7 @@ _Abrogé par_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### D : Emploi des capsules représentatives des droits par les récoltants<a id=110></a>
+##### D : Emploi des capsules représentatives des droits par les récoltants<a id=112></a>
 
 ###### Article 54-0 BW
 
@@ -5685,7 +5725,7 @@ _Cite_:
   - CGIAN4 54-0 BW, 54-0 BY à 54-0 CD
 
 
-##### 2 : Capsules banalisées<a id=111></a>
+##### 2 : Capsules banalisées<a id=113></a>
 
 ###### Article 54-0 BZ
 
@@ -5771,7 +5811,7 @@ _Cite_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### II : Factures-congés<a id=112></a>
+##### II : Factures-congés<a id=114></a>
 
 ###### Article 54 B
 
@@ -5858,9 +5898,9 @@ _Cite_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### IV : Utilisation de machines à timbrer<a id=113></a>
+##### IV : Utilisation de machines à timbrer<a id=115></a>
 
-##### A : Machines à timbrer les capsules représentatives des droits indirects sur les vins et cidres.<a id=114></a>
+##### A : Machines à timbrer les capsules représentatives des droits indirects sur les vins et cidres.<a id=116></a>
 
 ###### Article 54 septies
 
@@ -5923,7 +5963,7 @@ _Cite_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### B : Machines à timbrer les capsules représentatives des droits indirects sur les spiritueux.<a id=115></a>
+##### B : Machines à timbrer les capsules représentatives des droits indirects sur les spiritueux.<a id=117></a>
 
 ###### Article 54 nonies
 
@@ -5982,7 +6022,7 @@ _Cite_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### Section II : Conditionnement des spiritueux.<a id=116></a>
+##### Section II : Conditionnement des spiritueux.<a id=118></a>
 
 ###### Article 55
 
@@ -6075,9 +6115,9 @@ _Cite_:
   - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
 
 
-#### Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine<a id=117></a>
+#### Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine<a id=119></a>
 
-##### 2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations.<a id=118></a>
+##### 2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations.<a id=120></a>
 
 ###### Article 56 J quater
 
@@ -6103,7 +6143,7 @@ _Cite_:
   - HISTO: Edition du 31 août 2004
 
 
-#### Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer.<a id=119></a>
+#### Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer.<a id=121></a>
 
 ###### Article 56 A ter
 
@@ -6164,7 +6204,7 @@ _Cite_:
   - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
 
 
-#### Chapitre II : Tabacs<a id=120></a>
+#### Chapitre II : Tabacs<a id=122></a>
 
 ###### Article 56 AB
 
@@ -6290,15 +6330,15 @@ _Cite_:
   - CGIAN4 56 AA à CGIAN4 56 AO
 
 
-### Titre III : Contributions indirectes et monopoles fiscaux<a id=121></a>
+### Titre III : Contributions indirectes et monopoles fiscaux<a id=123></a>
 
-#### Chapitre premier : Boissons<a id=122></a>
+#### Chapitre premier : Boissons<a id=124></a>
 
-##### Section I : Alcools<a id=123></a>
+##### Section I : Alcools<a id=125></a>
 
-##### I : Production<a id=124></a>
+##### I : Production<a id=126></a>
 
-##### A : Alambics.<a id=125></a>
+##### A : Alambics.<a id=127></a>
 
 ###### Article 50 A
 
@@ -6345,7 +6385,7 @@ résidence  au cédant  au loueur  au réparateur ou au transformateur des appar
   - HISTO: EDITION 1979-07-01
 
 
-##### B : Rachat des alambics par l'État.<a id=126></a>
+##### B : Rachat des alambics par l'État.<a id=128></a>
 
 ###### Article 51 B
 
@@ -6392,7 +6432,7 @@ _Modifié par_:
   - Décret n°82-389 1982-05-10 art. 28 JORF 11 mai 1982
 
 
-##### C : Dispositions générales - Conditions d'exercice de la profession de distillateur.<a id=127></a>
+##### C : Dispositions générales - Conditions d'exercice de la profession de distillateur.<a id=129></a>
 
 ###### Article 51 bis
 
@@ -6411,9 +6451,9 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### D : Règlement des distilleries<a id=128></a>
+##### D : Règlement des distilleries<a id=130></a>
 
-##### Régime général.<a id=129></a>
+##### Régime général.<a id=131></a>
 
 ###### Article 51 septies A
 
@@ -6559,7 +6599,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Régime spécial.<a id=130></a>
+##### Régime spécial.<a id=132></a>
 
 ###### Article 51 octies A
 
@@ -6575,9 +6615,9 @@ débarrassés des dépôts susceptibles de fausser l'échelle des contenances.
   - HISTO: EDITION 1979-07-01
 
 
-##### II : Régime économique<a id=131></a>
+##### II : Régime économique<a id=133></a>
 
-##### Répartition du contingent des rhums.<a id=132></a>
+##### Répartition du contingent des rhums.<a id=134></a>
 
 ###### Article 52 bis
 
@@ -6620,13 +6660,13 @@ _Modifié par_:
   - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 rectificatif JORF 13 juillet 1985
 
 
-##### Section I bis : Circulation<a id=133></a>
+##### Section I bis : Circulation<a id=135></a>
 
-##### I : Capsules représentatives de droits<a id=134></a>
+##### I : Capsules représentatives de droits<a id=136></a>
 
-##### A : Capsules représentatives des droits sur les vins et les cidres<a id=135></a>
+##### A : Capsules représentatives des droits sur les vins et les cidres<a id=137></a>
 
-##### 1 : Caractéristiques des capsules.<a id=136></a>
+##### 1 : Caractéristiques des capsules.<a id=138></a>
 
 ###### Article 54-0 B
 
@@ -6655,7 +6695,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2 : Fabrication des capsules.<a id=137></a>
+##### 2 : Fabrication des capsules.<a id=139></a>
 
 ###### Article 54-0 H
 
@@ -6690,7 +6730,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 3 : Utilisation des capsules.<a id=138></a>
+##### 3 : Utilisation des capsules.<a id=140></a>
 
 ###### Article 54-0 AB
 
@@ -6739,9 +6779,9 @@ de boissons qu'elles représentent;
   - HISTO: EDITION 1979-07-01
 
 
-##### C : Capsules représentatives des droits sur les spiritueux<a id=139></a>
+##### C : Capsules représentatives des droits sur les spiritueux<a id=141></a>
 
-##### 3 : Utilisation des capsules.<a id=140></a>
+##### 3 : Utilisation des capsules.<a id=142></a>
 
 ###### Article 54-0 BJ
 
@@ -6792,7 +6832,7 @@ _Cite_:
   - CGI L82
 
 
-##### D : Emploi des capsules représentatives des droits par les récoltants.<a id=141></a>
+##### D : Emploi des capsules représentatives des droits par les récoltants.<a id=143></a>
 
 ###### Article 54-0 BV
 
@@ -6814,7 +6854,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2 : Capsules banalisées.<a id=142></a>
+##### 2 : Capsules banalisées.<a id=144></a>
 
 ###### Article 54-0 BY
 
@@ -6830,7 +6870,7 @@ sur les capsules expédiées sous le couvert d'acquits-à-caution aux récoltant
   - HISTO: EDITION 1979-07-01
 
 
-##### II : Factures-congés.<a id=143></a>
+##### II : Factures-congés.<a id=145></a>
 
 ###### Article 54 A
 
@@ -6970,7 +7010,7 @@ _Modifié par_:
   - arrêté 1986-03-03 art. 9 JORF 12 mars 1986
 
 
-##### III : Exemption des formalités à la circulation.<a id=144></a>
+##### III : Exemption des formalités à la circulation.<a id=146></a>
 
 ###### Article 54 bis
 
@@ -7038,9 +7078,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### IV : Utilisation de machines à timbrer<a id=145></a>
+##### IV : Utilisation de machines à timbrer<a id=147></a>
 
-##### C : Machines à timbrer les factures-congés "Boissons".<a id=146></a>
+##### C : Machines à timbrer les factures-congés "Boissons".<a id=148></a>
 
 ###### Article 54 decies
 
@@ -7078,7 +7118,7 @@ _Modifié par_:
   - arrêté 1986-03-03 art. 5 JORF 12 mars 1986
 
 
-##### D : Machines à timbrer les acquits-à-caution.<a id=147></a>
+##### D : Machines à timbrer les acquits-à-caution.<a id=149></a>
 
 ###### Article 54 duodecies
 
@@ -7158,7 +7198,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section II : Conditionnement des spiritueux.<a id=148></a>
+##### Section II : Conditionnement des spiritueux.<a id=150></a>
 
 ###### Article 55 B
 
@@ -7172,7 +7212,7 @@ demande motivée à la direction des services fiscaux de leur département.
   - HISTO: EDITION 1979-07-01
 
 
-##### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine.<a id=149></a>
+##### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine.<a id=151></a>
 
 ###### Article 56 J ter
 
@@ -7202,9 +7242,9 @@ _Cite_:
   - CGI 521
 
 
-#### Chapitre I quinquies : Céréales<a id=150></a>
+#### Chapitre I quinquies : Céréales<a id=152></a>
 
-##### Section 1 : Utilisation de machines à timbrer.<a id=151></a>
+##### Section 1 : Utilisation de machines à timbrer.<a id=153></a>
 
 ###### Article 56 D quater
 
@@ -7249,9 +7289,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre II : Monopoles<a id=152></a>
+#### Chapitre II : Monopoles<a id=154></a>
 
-##### Section unique : Tabacs.<a id=153></a>
+##### Section unique : Tabacs.<a id=155></a>
 
 ###### Article 56 AA
 
@@ -7438,13 +7478,13 @@ constitue la souche.
   - HISTO: EDITION 1979-07-01
 
 
-### Titre IV : Enregistrement, publicité foncière, timbre<a id=154></a>
+### Titre IV : Enregistrement, publicité foncière, timbre<a id=156></a>
 
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=155></a>
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=157></a>
 
-##### Section I : Dispositions générales : des formalités<a id=156></a>
+##### Section I : Dispositions générales : des formalités<a id=158></a>
 
-##### 1° : Actes dispensés de la formalité de l'enregistrement<a id=157></a>
+##### 1° : Actes dispensés de la formalité de l'enregistrement<a id=159></a>
 
 ###### Article 60
 
@@ -7485,7 +7525,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 384 bis A (V)
 
 
-##### 2° : Bureaux compétents<a id=158></a>
+##### 2° : Bureaux compétents<a id=160></a>
 
 ###### Article 60 A
 
@@ -7496,11 +7536,11 @@ France.
 
 
 
-##### Section II : Obligations diverses<a id=159></a>
+##### Section II : Obligations diverses<a id=161></a>
 
-##### I : Obligations des redevables - Mutations de jouissance<a id=160></a>
+##### I : Obligations des redevables - Mutations de jouissance<a id=162></a>
 
-##### Modalités de dépôt et forme des déclarations.<a id=161></a>
+##### Modalités de dépôt et forme des déclarations.<a id=163></a>
 
 ###### Article 61
 
@@ -7620,9 +7660,9 @@ _Codifié par_:
   - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1998
 
 
-##### II : Obligations des agents de l'administration<a id=162></a>
+##### II : Obligations des agents de l'administration<a id=164></a>
 
-##### Salaires des conservateurs des hypothèques<a id=163></a>
+##### Salaires des conservateurs des hypothèques<a id=165></a>
 
 ###### Article 67
 
@@ -7649,11 +7689,11 @@ _Cite_:
   - CGI 884
 
 
-#### Chapitre II : Droits de timbre<a id=164></a>
+#### Chapitre II : Droits de timbre<a id=166></a>
 
-##### Section I : Droits de timbre proprement dits<a id=165></a>
+##### Section I : Droits de timbre proprement dits<a id=167></a>
 
-##### I : Machines à timbrer<a id=166></a>
+##### I : Machines à timbrer<a id=168></a>
 
 ###### Article 71
 
@@ -7808,9 +7848,9 @@ _Codifié par_:
   - PEREMPTION: Arrêté 1997-05-28 art. 1 JORF 1er juin 1997
 
 
-##### I bis : Timbre de dimension<a id=167></a>
+##### I bis : Timbre de dimension<a id=169></a>
 
-##### A : Pouvoirs destinés à la représentation aux assemblées générales des membres des sociétés par actions.<a id=168></a>
+##### A : Pouvoirs destinés à la représentation aux assemblées générales des membres des sociétés par actions.<a id=170></a>
 
 ###### Article 93 A
 
@@ -7916,7 +7956,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales A37-1 1°
 
 
-##### B : Bulletins de souscription d'actions<a id=169></a>
+##### B : Bulletins de souscription d'actions<a id=171></a>
 
 ###### Article 93 H bis
 
@@ -8052,7 +8092,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater (V)
 
 
-##### B ter : Autres actes (paiement sur états)<a id=170></a>
+##### B ter : Autres actes (paiement sur états)<a id=172></a>
 
 ###### Article 93 H quater C
 
@@ -8152,7 +8192,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales A37-1 2°
 
 
-##### C : Paiement par timbres mobiles<a id=171></a>
+##### C : Paiement par timbres mobiles<a id=173></a>
 
 ###### Article 93 H quinquies
 
@@ -8164,7 +8204,7 @@ première page de chaque feuille.
 
 
 
-##### D : Actes destinés à être reproduits par photocopie.<a id=172></a>
+##### D : Actes destinés à être reproduits par photocopie.<a id=174></a>
 
 ###### Article 93 I
 
@@ -8200,7 +8240,7 @@ _Codifié par_:
   - PEREMPTION: Loi n°2004-1485 2004-12-30 art. 95 Finances rectificative pour 2004 JORF 31 décembre 2004
 
 
-##### I ter : Timbre des effets de commerce négociables.<a id=173></a>
+##### I ter : Timbre des effets de commerce négociables.<a id=175></a>
 
 ###### Article 93 J
 
@@ -8284,7 +8324,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales A37-1 3°
 
 
-##### III : Timbre des quittances.<a id=174></a>
+##### III : Timbre des quittances.<a id=176></a>
 
 ###### Article 99
 
@@ -8332,11 +8372,11 @@ _Cite_:
   - CGI L82
 
 
-##### IV : Timbre des contrats de transports<a id=175></a>
+##### IV : Timbre des contrats de transports<a id=177></a>
 
-##### A : Transports par chemins de fer<a id=176></a>
+##### A : Transports par chemins de fer<a id=178></a>
 
-##### Compagnies de chemins de fer autres que la SNCF - Bulletins de bagages.<a id=177></a>
+##### Compagnies de chemins de fer autres que la SNCF - Bulletins de bagages.<a id=179></a>
 
 ###### Article 113
 
@@ -8369,7 +8409,7 @@ _Modifié par_:
   - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF 19 janvier 1980
 
 
-##### B : Expéditions en groupage.<a id=178></a>
+##### B : Expéditions en groupage.<a id=180></a>
 
 ###### Article 116
 
@@ -8495,7 +8535,7 @@ _Cite_:
   - CGIAN4 116
 
 
-##### C : Transports routiers de marchandises.<a id=179></a>
+##### C : Transports routiers de marchandises.<a id=181></a>
 
 ###### Article 121 A
 
@@ -8581,9 +8621,9 @@ _Codifié par_:
   - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
-##### Section II : Droits de délivrance de documents et perceptions diverses<a id=180></a>
+##### Section II : Droits de délivrance de documents et perceptions diverses<a id=182></a>
 
-##### IV : Régies de recettes des préfectures et sous-préfectures<a id=181></a>
+##### IV : Régies de recettes des préfectures et sous-préfectures<a id=183></a>
 
 ###### Article 121 KB
 
@@ -8720,7 +8760,7 @@ l'inspection des machines au relevé des compteurs et à la consultation des ban
 
 
 
-##### IV bis : Formules de chèques<a id=182></a>
+##### IV bis : Formules de chèques<a id=184></a>
 
 ###### Article 121 KL bis
 
@@ -8767,9 +8807,9 @@ _Cite_:
   - CGIAN4 121 KL bis
 
 
-#### Chapitre III : Autres droits et taxes<a id=183></a>
+#### Chapitre III : Autres droits et taxes<a id=185></a>
 
-##### Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social.<a id=184></a>
+##### Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social.<a id=186></a>
 
 ###### Article 121 K ter
 
@@ -8799,9 +8839,9 @@ _Cite_:
   - CGI 990 D
 
 
-#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=185></a>
+#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=187></a>
 
-##### Institutions à caractère social<a id=186></a>
+##### Institutions à caractère social<a id=188></a>
 
 ###### Article 121 VA
 
@@ -8825,9 +8865,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1066 (V)
 
 
-### Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre<a id=187></a>
+### Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre<a id=189></a>
 
-#### Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer<a id=188></a>
+#### Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer<a id=190></a>
 
 ###### Article 121 V nonies
 
@@ -9020,7 +9060,7 @@ _Cite_:
   - CGI 1655 bis
 
 
-#### Chapitre II : Déclaration des immeubles bâtis situés dans les communes recensées<a id=189></a>
+#### Chapitre II : Déclaration des immeubles bâtis situés dans les communes recensées<a id=191></a>
 
 ###### Article 121 Z bis
 
@@ -9044,15 +9084,15 @@ _Cite_:
   - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1998
 
 
-## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=190></a>
+## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=192></a>
 
-### Titre premier : Impositions communales<a id=191></a>
+### Titre premier : Impositions communales<a id=193></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=192></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=194></a>
 
-##### Section II : Taxe professionnelle<a id=193></a>
+##### Section II : Taxe professionnelle<a id=195></a>
 
-##### Exonération des meubles classés dans les conditions prévues a l'article 58-I de la loi n° 65-997 du 29 novembre 1965.<a id=194></a>
+##### Exonération des meubles classés dans les conditions prévues a l'article 58-I de la loi n° 65-997 du 29 novembre 1965.<a id=196></a>
 
 ###### Article 121 quinquies DB
 
@@ -9082,7 +9122,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Exonération temporaire accordée dans le cadre de l'aménagement du territoire.<a id=195></a>
+##### Exonération temporaire accordée dans le cadre de l'aménagement du territoire.<a id=197></a>
 
 ###### Article 121 quinquies DB bis
 
@@ -9312,7 +9352,7 @@ _Codifié par_:
   - Arrêté 1981-09-15
 
 
-##### Section III : Commission consultative départementale des évaluations foncières<a id=196></a>
+##### Section III : Commission consultative départementale des évaluations foncières<a id=198></a>
 
 ###### Article 121 quinquies DC
 
@@ -9357,13 +9397,13 @@ La commission entend les fonctionnaires ainsi que toutes les personnalités dont
 
 
 
-#### Chapitre II : Contributions indirectes<a id=197></a>
+#### Chapitre II : Contributions indirectes<a id=199></a>
 
-##### Section unique : Impôt sur les spectacles, jeux et divertissements<a id=198></a>
+##### Section unique : Impôt sur les spectacles, jeux et divertissements<a id=200></a>
 
-##### I : Dispositions générales<a id=199></a>
+##### I : Dispositions générales<a id=201></a>
 
-##### 1° : Déclaration d'existence<a id=200></a>
+##### 1° : Déclaration d'existence<a id=202></a>
 
 ###### Article 124
 
@@ -9385,7 +9425,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1565 (V)
 
 
-##### 2° : Classement des spectacles<a id=201></a>
+##### 2° : Classement des spectacles<a id=203></a>
 
 ###### Article 126
 
@@ -9410,7 +9450,7 @@ _Cite_:
   - Loi du 1er juillet 1901 (V)
 
 
-##### 5° : Contrôle des entrées dans les salles. Billets<a id=202></a>
+##### 5° : Contrôle des entrées dans les salles. Billets<a id=204></a>
 
 ###### Article 127
 
@@ -9485,7 +9525,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 127 (V)
 
 
-##### 6° : Assiette et contrôle de la taxe<a id=203></a>
+##### 6° : Assiette et contrôle de la taxe<a id=205></a>
 
 ###### Article 138
 
@@ -9530,7 +9570,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 127 (V)
 
 
-##### 7° : Fermeture des établissements<a id=204></a>
+##### 7° : Fermeture des établissements<a id=206></a>
 
 ###### Article 141
 
@@ -9545,9 +9585,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1822 (V)
 
 
-##### II : Dispositions particulières<a id=205></a>
+##### II : Dispositions particulières<a id=207></a>
 
-##### 2° : Cercles et maisons de jeux<a id=206></a>
+##### 2° : Cercles et maisons de jeux<a id=208></a>
 
 ###### Article 147
 
@@ -9603,11 +9643,11 @@ _Cite_:
   - Livre des procédures fiscales - art. A26-4 (V)
 
 
-##### Impôt sur les spectacles, jeux et divertissements<a id=207></a>
+##### Impôt sur les spectacles, jeux et divertissements<a id=209></a>
 
-##### I : Dispositions générales<a id=208></a>
+##### I : Dispositions générales<a id=210></a>
 
-##### Appareils automatiques.<a id=209></a>
+##### Appareils automatiques.<a id=211></a>
 
 ###### Article 126 A
 
@@ -9673,7 +9713,7 @@ service des impôts et qui est communiqué à la première demande des agents du
   - HISTO: EDITION 1979-07-01
 
 
-##### Réunions sportives.<a id=210></a>
+##### Réunions sportives.<a id=212></a>
 
 ###### Article 126 F
 
@@ -9699,7 +9739,7 @@ _Cite_:
   - CGI 1561 3° b AL. 1
 
 
-##### Contrôle des entrées dans les salles - Billets.<a id=211></a>
+##### Contrôle des entrées dans les salles - Billets.<a id=213></a>
 
 ###### Article 129
 
@@ -9774,7 +9814,7 @@ Les exploitants de spectacles sont comptables des recettes représentées par le
   - HISTO: EDITION 1979-07-01
 
 
-##### Assiette et contrôle de la taxe.<a id=212></a>
+##### Assiette et contrôle de la taxe.<a id=214></a>
 
 ###### Article 137
 
@@ -9799,9 +9839,9 @@ _Cite_:
   - CGI L82
 
 
-##### II : Dispositions particulières<a id=213></a>
+##### II : Dispositions particulières<a id=215></a>
 
-##### Établissements où il est d'usage de consommer.<a id=214></a>
+##### Établissements où il est d'usage de consommer.<a id=216></a>
 
 ###### Article 145
 
@@ -9851,7 +9891,7 @@ _Cite_:
   - CGIAN4 129
 
 
-##### Cercles et maisons de jeux.<a id=215></a>
+##### Cercles et maisons de jeux.<a id=217></a>
 
 ###### Article 146
 
@@ -10038,9 +10078,9 @@ l'établissement de la déclaration des recettes décadaires ou mensuelles.
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre III : Enregistrement<a id=216></a>
+#### Chapitre III : Enregistrement<a id=218></a>
 
-##### Section unique : Taxe locale d'équipement<a id=217></a>
+##### Section unique : Taxe locale d'équipement<a id=219></a>
 
 ###### Article 155 A
 
@@ -10108,9 +10148,9 @@ l'article 328 D quater de l'annexe III au présent code.
 
 
 
-### Titre I bis : Impositions départementales<a id=218></a>
+### Titre I bis : Impositions départementales<a id=220></a>
 
-#### Chapitre premier : Taxe sur les véhicules à moteur.<a id=219></a>
+#### Chapitre premier : Taxe sur les véhicules à moteur.<a id=221></a>
 
 ###### Article 155 E
 
@@ -10427,7 +10467,7 @@ _Cite_:
   - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 
-#### Chapitre premier : Taxes sur les véhicules à moteur.<a id=220></a>
+#### Chapitre premier : Taxes sur les véhicules à moteur.<a id=222></a>
 
 ###### Article 155 C
 
@@ -10554,9 +10594,9 @@ _Codifié par_:
   - HISTO: Edition du 20 juillet 1984
 
 
-#### Chapitre II : Droits d'enregistrement et taxe de publicité foncière<a id=221></a>
+#### Chapitre II : Droits d'enregistrement et taxe de publicité foncière<a id=223></a>
 
-##### Réduction accordée dans le cadre de l'aménagement du territoire<a id=222></a>
+##### Réduction accordée dans le cadre de l'aménagement du territoire<a id=224></a>
 
 ###### Article 155 N
 
@@ -10709,9 +10749,9 @@ _Abrogé par_:
   - Loi n°89-936 1989-12-29 art. 20 Finances rectificative pour 1989 JORF 30 décembre 1989
 
 
-### Titre I ter : Impositions régionales<a id=223></a>
+### Titre I ter : Impositions régionales<a id=225></a>
 
-#### Région de Corse.<a id=224></a>
+#### Région de Corse.<a id=226></a>
 
 ###### Article 155 bis
 
@@ -10733,11 +10773,11 @@ _Modifié par_:
   - Loi n°85-695 1985-07-11 art. 18-1 JORF 12 juillet 1985
 
 
-### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=225></a>
+### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=227></a>
 
-#### Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=226></a>
+#### Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=228></a>
 
-##### Section I : Taxe sur les produits des exploitations forestières.<a id=227></a>
+##### Section I : Taxe sur les produits des exploitations forestières.<a id=229></a>
 
 ###### Article 156
 
@@ -10790,9 +10830,9 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section II : Budget annexe des prestations sociales agricoles<a id=228></a>
+##### Section II : Budget annexe des prestations sociales agricoles<a id=230></a>
 
-##### I : Taxe de 1,20 % sur les produits des exploitations forestières.<a id=229></a>
+##### I : Taxe de 1,20 % sur les produits des exploitations forestières.<a id=231></a>
 
 ###### Article 159 bis
 
@@ -10816,7 +10856,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Huiles.<a id=230></a>
+##### III : Huiles.<a id=232></a>
 
 ###### Article 159 ter A
 
@@ -10837,9 +10877,9 @@ _Cite_:
   - CGI 1618 quinquies
 
 
-##### Section IV : Fonds national du livre<a id=231></a>
+##### Section IV : Fonds national du livre<a id=233></a>
 
-##### I : Redevance sur l'édition des ouvrages de librairie.<a id=232></a>
+##### I : Redevance sur l'édition des ouvrages de librairie.<a id=234></a>
 
 ###### Article 159 AA
 
@@ -10858,7 +10898,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section VII : Fonds d'orientation et de régularisation des marchés agricoles.<a id=233></a>
+##### Section VII : Fonds d'orientation et de régularisation des marchés agricoles.<a id=235></a>
 
 ###### Article 159 AJ
 
@@ -10950,9 +10990,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre II bis : Contributions indirectes<a id=234></a>
+#### Chapitre II bis : Contributions indirectes<a id=236></a>
 
-##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.<a id=235></a>
+##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.<a id=237></a>
 
 ###### Article 159 AM bis
 
@@ -10974,11 +11014,11 @@ _Cite_:
   - HISTO: Edition du 31 juillet 1986
 
 
-#### Chapitre III : Enregistrement<a id=236></a>
+#### Chapitre III : Enregistrement<a id=238></a>
 
-##### Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole<a id=237></a>
+##### Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole<a id=239></a>
 
-##### Contribution des employeurs assurés.<a id=238></a>
+##### Contribution des employeurs assurés.<a id=240></a>
 
 ###### Article 159 quater A
 
@@ -11013,11 +11053,11 @@ _Cite_:
   - PEREMPTION: Loi - art. 68 () JORF 29 décembre 2001
 
 
-### Titre III : Dispositions communes<a id=239></a>
+### Titre III : Dispositions communes<a id=241></a>
 
-#### Frais d'assiette et de perception<a id=240></a>
+#### Frais d'assiette et de perception<a id=242></a>
 
-##### Section II : Contributions indirectes.<a id=241></a>
+##### Section II : Contributions indirectes.<a id=243></a>
 
 ###### Article 162
 
@@ -11071,13 +11111,13 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=242></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=244></a>
 
-### Titre premier : Assiette et contrôle de l'impôt<a id=243></a>
+### Titre premier : Assiette et contrôle de l'impôt<a id=245></a>
 
-#### Chapitre premier : Obligations déclaratives<a id=244></a>
+#### Chapitre premier : Obligations déclaratives<a id=246></a>
 
-##### I : Déclaration des comptes financiers<a id=245></a>
+##### I : Déclaration des comptes financiers<a id=247></a>
 
 ###### Article 164 FB
 
@@ -11219,9 +11259,9 @@ _Cite_:
   - CGI 164 FB à 164 FE
 
 
-#### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=246></a>
+#### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=248></a>
 
-##### Section I : Centres de gestion agréés<a id=247></a>
+##### Section I : Centres de gestion agréés<a id=249></a>
 
 ###### Article 164 F unvicies
 
@@ -11291,7 +11331,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 C (V)
 
 
-##### Tenue des documents comptables de certains adhérents<a id=248></a>
+##### Tenue des documents comptables de certains adhérents<a id=250></a>
 
 ###### Article 164 F unvicies A
 
@@ -11464,7 +11504,7 @@ _Codifié par_:
   - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 
-##### Section II : Associations agréées des professions libérales<a id=249></a>
+##### Section II : Associations agréées des professions libérales<a id=251></a>
 
 ###### Article 164 F duovicies
 
@@ -11612,11 +11652,11 @@ _Cite_:
   - DISJOINT: Arrêté du 7 avril 2009 - art. 1 (V)
 
 
-#### Chapitre III : Réglementation des machines à timbrer<a id=250></a>
+#### Chapitre III : Réglementation des machines à timbrer<a id=252></a>
 
-##### II : Dispositions communes<a id=251></a>
+##### II : Dispositions communes<a id=253></a>
 
-##### A : Caractéristiques générales des machines<a id=252></a>
+##### A : Caractéristiques générales des machines<a id=254></a>
 
 ###### Article 164 N
 
@@ -11651,7 +11691,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### B : Agrément des machines<a id=253></a>
+##### B : Agrément des machines<a id=255></a>
 
 ###### Article 164 P
 
@@ -11700,7 +11740,7 @@ des télécommunications (groupement de mécanisation postale). Ce dépôt ne do
 
 
 
-##### C : Autorisation de placer les machines chez les usagers<a id=254></a>
+##### C : Autorisation de placer les machines chez les usagers<a id=256></a>
 
 ###### Article 164 T
 
@@ -11761,7 +11801,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### D : Obligations des concessionnaires<a id=255></a>
+##### D : Obligations des concessionnaires<a id=257></a>
 
 ###### Article 164 AA
 
@@ -11877,7 +11917,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### E : Obligations des usagers<a id=256></a>
+##### E : Obligations des usagers<a id=258></a>
 
 ###### Article 164 AE
 
@@ -11922,7 +11962,7 @@ l'absence d'un représentant du concessionnaire  la présence de l'utilisateur �
   - HISTO: EDITION 1979-07-01
 
 
-##### F : Responsabilités attachées à l'utilisation des machines<a id=257></a>
+##### F : Responsabilités attachées à l'utilisation des machines<a id=259></a>
 
 ###### Article 164 AH
 
@@ -11978,7 +12018,7 @@ des machines louées par les concessionnaires.
   - HISTO: EDITION 1979-07-01
 
 
-##### G : Révocation des autorisations de placer et d'utiliser les machines<a id=258></a>
+##### G : Révocation des autorisations de placer et d'utiliser les machines<a id=260></a>
 
 ###### Article 164 AL
 
@@ -12001,9 +12041,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 54 A (V)
 
 
-### Titre II : Dispositions diverses<a id=259></a>
+### Titre II : Dispositions diverses<a id=261></a>
 
-#### Section I : Impôts directs et taxes assimilées<a id=260></a>
+#### Section I : Impôts directs et taxes assimilées<a id=262></a>
 
 ###### Article 165
 
@@ -12128,7 +12168,7 @@ _Cite_:
   - CGIAN4 166 1
 
 
-#### Section III : Enregistrement, publicité foncière et timbre<a id=261></a>
+#### Section III : Enregistrement, publicité foncière et timbre<a id=263></a>
 
 ###### Article 169
 
@@ -12209,9 +12249,9 @@ _Modifié par_:
   - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
 
 
-#### Section IV : Dispositions communes<a id=262></a>
+#### Section IV : Dispositions communes<a id=264></a>
 
-##### Octroi de certains agréments fiscaux<a id=263></a>
+##### Octroi de certains agréments fiscaux<a id=265></a>
 
 ###### Article 170 septies
 
@@ -12345,15 +12385,15 @@ _Cite_:
   - CGI 209 II
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=264></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=266></a>
 
-## IMPOTS D'ETAT<a id=265></a>
+## IMPOTS D'ETAT<a id=267></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=266></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=268></a>
 
-#### IMPOT SUR LE REVENU<a id=267></a>
+#### IMPOT SUR LE REVENU<a id=269></a>
 
-##### BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*.<a id=268></a>
+##### BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*.<a id=270></a>
 
 ###### Article 4 C bis
 
@@ -12446,7 +12486,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### REVENU DES CAPITAUX MOBILIERS.<a id=269></a>
+##### REVENU DES CAPITAUX MOBILIERS.<a id=271></a>
 
 ###### Article 16 bis
 
@@ -12480,7 +12520,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### REVENU GLOBAL.<a id=270></a>
+##### REVENU GLOBAL.<a id=272></a>
 
 ###### Article 17 quinquies A
 
@@ -12531,11 +12571,11 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES<a id=271></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES<a id=273></a>
 
-#### TAXE SUR LA VALEUR AJOUTEE<a id=272></a>
+#### TAXE SUR LA VALEUR AJOUTEE<a id=274></a>
 
-##### OBLIGATIONS DES REDEVABLES.<a id=273></a>
+##### OBLIGATIONS DES REDEVABLES.<a id=275></a>
 
 ###### Article 48
 
@@ -12573,7 +12613,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### IMPORTATIONS.<a id=274></a>
+##### IMPORTATIONS.<a id=276></a>
 
 ###### Article 50 nonies
 
@@ -12602,7 +12642,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### REGIMES SPECIAUX.<a id=275></a>
+##### REGIMES SPECIAUX.<a id=277></a>
 
 ###### Article 50 duodecies
 
@@ -13531,11 +13571,11 @@ _Cite_:
   - HISTO: Edition du 1er juillet 1981
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES<a id=276></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES<a id=278></a>
 
-#### TAXES SUR LA VALEUR AJOUTEE *TVA*<a id=277></a>
+#### TAXES SUR LA VALEUR AJOUTEE *TVA*<a id=279></a>
 
-##### LIQUIDATION DE LA TAXE.<a id=278></a>
+##### LIQUIDATION DE LA TAXE.<a id=280></a>
 
 ###### Article 28 A
 
@@ -13562,26 +13602,6 @@ _Cite_:
 **Liens**:
 
   - TXT_ASSOCIE: CGIAN2 242-OP
-
-
-### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES<a id=279></a>
-
-#### RECEPISSE DE CONSIGNATION.<a id=280></a>
-
-###### Article 50 quindecies
-
-Le montant de la somme à déposer en vue de la délivrance du récépissé de consignation prévu à l'article 302 octies du code
-général des impôts est fixé aux chiffres indiqués ci-après :
-
-NATURE DES MARCHANDISES MISES EN VENTE       MONTANT DE LA                                                    SOMME A
-CONSIGNER              ------------                             ---------- Fleurs coupées et produits alimentaires
-500 F Autres articles                                         700 F.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 302 octies
 
 
 ### CONTRIBUTIONS INDIRECTES<a id=281></a>
