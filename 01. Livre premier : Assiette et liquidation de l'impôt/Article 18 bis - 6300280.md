@@ -10,6 +10,14 @@ chaude, cuve à fioul, citerne à gaz et pompe à chaleur ;
 
 3. Acquisition de gros équipements sanitaires : acquisition d'une cabine hammam ou sauna prête à poser.
 
+4. Intégration à un logement neuf ou acquisition d'équipements de production d'énergie utilisant une source d'énergie
+renouvelable :
+
+équipements de chauffage et de fourniture d'eau chaude fonctionnant à l'énergie solaire, systèmes de fourniture d'électricité
+à partir de l'énergie solaire, éolienne, hydraulique ou de biomasse, pompes à chaleur autres que celles mentionnées au 1,
+équipements de chauffage ou de production d'eau chaude fonctionnant au bois ou autres biomasses tels que les poêles, les
+foyers fermés, les inserts des cheminées intérieures et les chaudières autres que celles mentionnées au 1.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -35,14 +43,10 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 30-0 D (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2000-02-17 art. 1 JORF 23 février 2000
+  - Arrêté 2001-06-11 art. 1 JORF 16 juin 2001
 
 _Cite_:
 
   - CGI 200 quater
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
