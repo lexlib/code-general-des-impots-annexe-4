@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1983-01-07
+Version Consolidée au 1983-01-11
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -11552,18 +11552,14 @@ _Cite_:
 
 En application de l'article 242-0P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
 ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0M de la même annexe
-est fixé, pour 1981 et 1982 , à 1200 F pour les demandes déposées au titre d'un trimestre civil et à 160 F pour les demandes
-déposées au titre d'une année civile.
+est fixé, pour 1981, 1982 et 1983 , à 1200 F pour les demandes déposées au titre d'un trimestre civil et à 160 F pour les
+demandes déposées au titre d'une année civile.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Arrêté 1982-01-29 art. 1 JORF 4 février 1982
-
 _Codifié par_:
 
-  - Arrêté 1982-10-15
+  - Arrêté 1983-10-06
 
 _Cite_:
 
