@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-12-21
+Version Consolidée au 1986-12-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -14288,18 +14288,8 @@ _Modifié par_:
 
 ###### Article 159 AO
 
-Le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est fixé comme suit, par kilogramme
-net :
-
-1° Pour l'année 1985 :
-
-Viande de boeuf et la viande de veau : 0,030 F;
-
-Viande de porc : 0,034 F;
-
-Viande de mouton : 0,025 F.
-
-2° Pour l'année 1986 :
+Pour l'année 1987, le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est fixé comme
+suit, par kilogramme net :
 
 Viande de boeuf et la viande de veau : 0,031 F;
 
@@ -14307,21 +14297,23 @@ Viande de porc : 0,034 F;
 
 Viande de mouton : 0,025 F.
 
+Viandes des espèces chevaline, asine et leurs croisements :
+
+0,031 F.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1981-01-15
-  - Arrêté 1982-01-04
-  - CGIAN2 363 D V
 
 _Modifié par_:
 
-  - Arrêté 1985-09-24 art. 1 JORF 25 septembre 1985
+  - Arrêté 1986-12-26 art. 1 JORF 30 décembre 1986
 
 _Codifié par_:
 
-  - Arrêté 1986-10-07
+  - Arrêté 1987-11-23
+
+_Cite_:
+
+  - CGIAN2 363 D
 
 
 #### TAXE PARAFISCALE SUR LES VINS.<a id=313></a>
