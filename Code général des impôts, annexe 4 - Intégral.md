@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-07-11
+Version Consolidée au 1982-07-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -225,7 +225,7 @@ Version Consolidée au 1982-07-11
             - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#222)
             - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#223)
       - [Titre II : Dispositions diverses (art. 165 à 169)](#224)
-        - [Section I : Impôts directs et taxes assimilées (art. 165 à 166)](#225)
+        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#225)
         - [Section III : Enregistrement, publicité foncière et timbre (art. 169)](#226)
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 4 C bis à 170 ter)](#227)
     - [IMPOTS D'ETAT (art. 4 C bis à 121 V ter)](#228)
@@ -321,36 +321,35 @@ Version Consolidée au 1982-07-11
         - [CENTRES DE GESTION AGREES. (art. 164 F unvicies)](#318)
         - [ARTISANS. (art. 164 G à 164 K)](#319)
         - [REGLEMENTATION DES MACHINES A TIMBRER. (art. 164 AD à 164 M)](#320)
-      - [DISPOSITIONS DIVERSES (art. 167 à 170 ter)](#321)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 167)](#322)
-        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 170)](#323)
-        - [DISPOSITIONS COMMUNES. (art. 170 quater à 170 ter)](#324)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#325)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#326)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#327)
-        - [3 : Paiement de l'impôt (art. 187 à 188)](#328)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#329)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#330)
-      - [Section III : Contributions indirectes (art. 193 à 194)](#331)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 septies)](#332)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#333)
-        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#334)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#335)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#336)
-        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#337)
-      - [Section V : Dispositions communes (art. 199 à 204)](#338)
-        - [2° : Paiement par chèques (art. 199 à 204)](#339)
-    - [Chapitre I bis : Pénalités (art. 207 quater A)](#340)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#341)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#342)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#343)
-  - [RECOUVREMENT DE L'IMPOT (art. 188 H à 207 quinquies)](#344)
-    - [PAIEMENT DE L'IMPOT (art. 188 H à 207 quater B)](#345)
-      - [RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES. (art. 188 H)](#346)
-      - [PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE (art. 188 I)](#347)
-      - [PENALITES (art. 207 quater B)](#348)
-    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#349)
-      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#350)
+      - [DISPOSITIONS DIVERSES (art. 170 à 170 ter)](#321)
+        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 170)](#322)
+        - [DISPOSITIONS COMMUNES. (art. 170 quater à 170 ter)](#323)
+  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#324)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#325)
+      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#326)
+        - [3 : Paiement de l'impôt (art. 187 à 188)](#327)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#328)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#329)
+      - [Section III : Contributions indirectes (art. 193 à 194)](#330)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 septies)](#331)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#332)
+        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#333)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#334)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#335)
+        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#336)
+      - [Section V : Dispositions communes (art. 199 à 204)](#337)
+        - [2° : Paiement par chèques (art. 199 à 204)](#338)
+    - [Chapitre I bis : Pénalités (art. 207 quater A)](#339)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#340)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#341)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#342)
+  - [RECOUVREMENT DE L'IMPOT (art. 188 H à 207 quinquies)](#343)
+    - [PAIEMENT DE L'IMPOT (art. 188 H à 207 quater B)](#344)
+      - [RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES. (art. 188 H)](#345)
+      - [PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE (art. 188 I)](#346)
+      - [PENALITES (art. 207 quater B)](#347)
+    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#348)
+      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#349)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -8754,6 +8753,78 @@ _Cite_:
   - Code général des impôts, CGI. - art. 206 (V)
 
 
+###### Article 167
+
+1. Sont notamment soumis au régime prévu à l'article 165-1 :
+
+L'office national de la navigation;
+
+La caisse nationale de prévoyance;
+
+La caisse nationale du crédit agricole;
+
+Les chambres de commerce et d'industrie et ports autonomes;
+
+Le comité national interprofessionnel des viandes;
+
+L'entreprise de recherches et d'activités pétrolières (E.R.A.P.);
+
+L'entreprise minière et chimique;
+
+Les régies municipales  intercommunales et départementales exploitant des services à caractère industriel et commercial;
+
+Le service des alcools.
+
+2. Sont notamment soumis au régime prévu à l'article 165-2 :
+
+Les manufactures nationales;
+
+L'administration des monnaies et médailles;
+
+L'imprimerie nationale;
+
+Les arsenaux  poudreries et usines mécaniques de l'Etat.
+
+3. Sont notamment soumis au régime prévu à l'article 166-1 :
+
+La caisse des dépôts et consignations;
+
+L'établissement national des invalides de la marine;
+
+La caisse des retraites des inscrits maritimes;
+
+La caisse des retraites des agents du service général;
+
+La caisse de prévoyance des marins français;
+
+La caisse générale de garantie des assurances sociales;
+
+La caisse de retraite des ouvriers mineurs;
+
+La caisse de compensation pour la décentralisation de l'industrie aéronautique;
+
+Les chambres d'agriculture;
+
+Les chambres de métiers;
+
+Les sections de l'office de répartition des produits industriels;
+
+L'office national interprofessionnel des céréales;
+
+L'office national des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1982-09-01
+
+_Cite_:
+
+  - CGIAN4 165 1, 2
+  - CGIAN4 166 1
+
+
 #### Section III : Enregistrement, publicité foncière et timbre<a id=226></a>
 
 ###### Article 169
@@ -15012,86 +15083,7 @@ _Cite_:
 
 ### DISPOSITIONS DIVERSES<a id=321></a>
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=322></a>
-
-###### Article 167
-
-1. Sont notamment soumis au régime prévu à l'article 165-1 :
-
-L'office national de la navigation;
-
-La caisse nationale de prévoyance;
-
-La caisse nationale du crédit agricole;
-
-Les chambres de commerce et d'industrie et ports autonomes;
-
-Le comité national interprofessionnel des viandes;
-
-L'entreprise de recherches et d'activités pétrolières (E.R.A.P.);
-
-L'entreprise minière et chimique;
-
-Les régies municipales  intercommunales et départementales exploitant des services à caractère industriel et commercial;
-
-2. Sont notamment soumis au régime prévu à l'article 165-2 :
-
-Les manufactures nationales;
-
-Le service des alcools;
-
-L'administration des monnaies et médailles;
-
-L'imprimerie nationale;
-
-Les arsenaux  poudreries et usines mécaniques de l'Etat.
-
-3. Sont notamment soumis au régime prévu à l'article 166-1 :
-
-La caisse des dépôts et consignations;
-
-L'établissement national des invalides de la marine;
-
-La caisse des retraites des inscrits maritimes;
-
-La caisse des retraites des agents du service général;
-
-La caisse de prévoyance des marins français;
-
-La caisse générale de garantie des assurances sociales;
-
-La caisse de retraite des ouvriers mineurs;
-
-La caisse de compensation pour la décentralisation de l'industrie aéronautique;
-
-Les chambres d'agriculture;
-
-Les chambres de métiers;
-
-Les sections de l'office de répartition des produits industriels;
-
-L'office national interprofessionnel des céréales;
-
-L'office national des anciens combattants et victimes de guerre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1981-09-15
-
-_Cite_:
-
-  - CGIAN4 165 1, 2
-  - CGIAN4 166 1
-
-_Modifié par_:
-
-  - Loi n°80-495 1980-07-02 art. 1 JORF 3 juillet 1980
-  - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
-
-
-#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=323></a>
+#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=322></a>
 
 ###### Article 170
 
@@ -15151,7 +15143,7 @@ _Modifié par_:
   - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
 
 
-#### DISPOSITIONS COMMUNES.<a id=324></a>
+#### DISPOSITIONS COMMUNES.<a id=323></a>
 
 ###### Article 170 quater
 
@@ -15196,13 +15188,13 @@ _Cite_:
   - CGIAN3 266
 
 
-# Livre II : Recouvrement de l'impôt<a id=325></a>
+# Livre II : Recouvrement de l'impôt<a id=324></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=326></a>
+## Chapitre premier : Paiement de l'impôt<a id=325></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=327></a>
+### Section I : Impôts directs et taxes assimilées<a id=326></a>
 
-#### 3 : Paiement de l'impôt<a id=328></a>
+#### 3 : Paiement de l'impôt<a id=327></a>
 
 ###### Article 187
 
@@ -15232,7 +15224,7 @@ _Abrogé par_:
   - Décret n°2015-1136 du 14 septembre 2015 - art. 4
 
 
-### Section I bis : Intérêts des bons de caisse<a id=329></a>
+### Section I bis : Intérêts des bons de caisse<a id=328></a>
 
 ###### Article 188 B
 
@@ -15310,7 +15302,7 @@ intérêt.
 
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=330></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=329></a>
 
 ###### Article 189
 
@@ -15345,7 +15337,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section III : Contributions indirectes<a id=331></a>
+### Section III : Contributions indirectes<a id=330></a>
 
 ###### Article 193
 
@@ -15382,9 +15374,9 @@ _Modifié par_:
   - Arrêté 1981-10-30 art. 1 JORF 31 octobre 1981
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=332></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=331></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=333></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=332></a>
 
 ###### Article 196 A
 
@@ -15432,7 +15424,7 @@ _Cite_:
   - PEREMPTION: Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
 
 
-#### 2 : Paiement en valeurs du Trésor.<a id=334></a>
+#### 2 : Paiement en valeurs du Trésor.<a id=333></a>
 
 ###### Article 198 bis
 
@@ -15546,7 +15538,7 @@ _Cite_:
   - Loi n°50-135 1950-01-31 ART. 41, ART. 42
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=335></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=334></a>
 
 ###### Article 198 quinquies
 
@@ -15557,7 +15549,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=336></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=335></a>
 
 ###### Article 198 sexies
 
@@ -15572,7 +15564,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=337></a>
+#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=336></a>
 
 ###### Article 198 septies
 
@@ -15592,9 +15584,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section V : Dispositions communes<a id=338></a>
+### Section V : Dispositions communes<a id=337></a>
 
-#### 2° : Paiement par chèques<a id=339></a>
+#### 2° : Paiement par chèques<a id=338></a>
 
 ###### Article 199
 
@@ -15673,9 +15665,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-## Chapitre I bis : Pénalités<a id=340></a>
+## Chapitre I bis : Pénalités<a id=339></a>
 
-### I : Impôts directs et taxes assimilées<a id=341></a>
+### I : Impôts directs et taxes assimilées<a id=340></a>
 
 ###### Article 207 quater A
 
@@ -15684,9 +15676,9 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=342></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=341></a>
 
-### Publicité du privilège du Trésor<a id=343></a>
+### Publicité du privilège du Trésor<a id=342></a>
 
 ###### Article 207 sexies
 
@@ -15715,11 +15707,11 @@ _Cite_:
   - CGIAN2 396 bis
 
 
-# RECOUVREMENT DE L'IMPOT<a id=344></a>
+# RECOUVREMENT DE L'IMPOT<a id=343></a>
 
-## PAIEMENT DE L'IMPOT<a id=345></a>
+## PAIEMENT DE L'IMPOT<a id=344></a>
 
-### RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES.<a id=346></a>
+### RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES.<a id=345></a>
 
 ###### Article 188 H
 
@@ -15753,7 +15745,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE<a id=347></a>
+### PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE<a id=346></a>
 
 ###### Article 188 I
 
@@ -15778,7 +15770,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### PENALITES<a id=348></a>
+### PENALITES<a id=347></a>
 
 ###### Article 207 quater B
 
@@ -15804,9 +15796,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. A225 A-1
 
 
-## SURETES ET PRIVILEGES<a id=349></a>
+## SURETES ET PRIVILEGES<a id=348></a>
 
-### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=350></a>
+### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=349></a>
 
 ###### Article 207 quinquies
 
