@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-09-01
+Version Consolidée au 1982-10-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -338,17 +338,18 @@ Version Consolidée au 1982-09-01
         - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#335)
       - [Section V : Dispositions communes (art. 199 à 204)](#336)
         - [2° : Paiement par chèques (art. 199 à 204)](#337)
-    - [Chapitre I bis : Pénalités (art. 207 quater A)](#338)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#338)
       - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#339)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#340)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#341)
-  - [RECOUVREMENT DE L'IMPOT (art. 188 H à 207 quinquies)](#342)
-    - [PAIEMENT DE L'IMPOT (art. 188 H à 207 quater B)](#343)
-      - [RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES. (art. 188 H)](#344)
-      - [PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE (art. 188 I)](#345)
-      - [PENALITES (art. 207 quater B)](#346)
-    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#347)
-      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#348)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#340)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#341)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#342)
+  - [RECOUVREMENT DE L'IMPOT (art. 188 H à 207 quinquies)](#343)
+    - [PAIEMENT DE L'IMPOT (art. 188 H à 207 quater B)](#344)
+      - [RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES. (art. 188 H)](#345)
+      - [PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE (art. 188 I)](#346)
+      - [PENALITES (art. 207 quater B)](#347)
+    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#348)
+      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#349)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -15760,9 +15761,35 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=340></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=340></a>
 
-### Publicité du privilège du Trésor<a id=341></a>
+###### Article 207 quater A bis
+
+L'amende prévue à l'article 1788 quater du code général des impôts est recouvrée par les comptables de la direction générale
+des impôts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1982-10-01 art. 1 JORF 6 octobre 1982
+
+_Codifié par_:
+
+  - Arrêté 1983-07-10
+
+_Cite_:
+
+  - CGI 1788 quater
+
+**Liens**:
+
+  - HISTO: Edition du 10 juillet 1983
+
+
+## Chapitre I bis A : Sûretés et privilèges<a id=341></a>
+
+### Publicité du privilège du Trésor<a id=342></a>
 
 ###### Article 207 sexies
 
@@ -15791,11 +15818,11 @@ _Cite_:
   - CGIAN2 396 bis
 
 
-# RECOUVREMENT DE L'IMPOT<a id=342></a>
+# RECOUVREMENT DE L'IMPOT<a id=343></a>
 
-## PAIEMENT DE L'IMPOT<a id=343></a>
+## PAIEMENT DE L'IMPOT<a id=344></a>
 
-### RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES.<a id=344></a>
+### RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES.<a id=345></a>
 
 ###### Article 188 H
 
@@ -15829,7 +15856,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE<a id=345></a>
+### PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE<a id=346></a>
 
 ###### Article 188 I
 
@@ -15854,7 +15881,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### PENALITES<a id=346></a>
+### PENALITES<a id=347></a>
 
 ###### Article 207 quater B
 
@@ -15880,9 +15907,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. A225 A-1
 
 
-## SURETES ET PRIVILEGES<a id=347></a>
+## SURETES ET PRIVILEGES<a id=348></a>
 
-### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=348></a>
+### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=349></a>
 
 ###### Article 207 quinquies
 
