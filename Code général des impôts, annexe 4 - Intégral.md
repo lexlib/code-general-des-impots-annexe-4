@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-10-17
+Version Consolidée au 1982-12-03
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -6414,6 +6414,41 @@ _Codifié par_:
   - HISTO: Edition du 11 avril 1997
 
 
+###### Article 93 K
+
+Le montant des droits est versé au comptable des impôts qui a accordé l'autorisation, selon une périodicité trimestrielle et
+dans les vingt premiers jours du mois suivant l'expiration de chaque période.
+
+La période susvisée débute le 1er du mois suivant celui de la notification de l'autorisation.
+
+A l'appui du versement, il est produit un état faisant connaître ;
+
+- le nombre des effets domiciliés créés au cours du trimestre considéré, ainsi que le montant de l'impôt correspondant ;
+
+- le nombre des effets non domiciliés créés au cours du même mois et le montant de l'impôt correspondant.
+
+Cet état, certifié conforme aux écritures, est fourni en double exemplaire ; l'un de ces doubles est rendu au déposant après
+avoir été revêtu de l'acquit du comptable des impôts compétent; l'autre est conservé par le service à l'appui de la recette
+des droits de timbre.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1982-11-10 art. 1, art. 2 JONC 3 décembre 1982
+  - Arrêté 1997-05-28 art. 1 JORF 1er juin 1997
+
+_Codifié par_:
+
+  - Arrêté 1983-10-06
+  - Arrêté 1997-05-28
+
+**Liens**:
+
+  - HISTO: Edition du 10 juillet 1983
+  - HISTO: Edition du 11 avril 1997
+
+
 ###### Article 93 L
 
 Le répertoire ou document dont la tenue est prescrite par l'article 93 J et tous autres documents de comptabilité nécessaires
@@ -12478,28 +12513,6 @@ _Cite_:
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater (V)
-
-
-###### Article 93 K
-
-Le montant des droits est versé au comptable des impôts qui a accordé l'autorisation  à l'expiration de chaque mois et dans
-les vingt premiers jours du mois suivant [*délai, date de paiement*].
-
-A l'appui de ce versement  il est produit un état faisant connaître [*mentions*] :
-
-le nombre des effets domiciliés créés au cours du mois considéré ainsi que le montant de l'impôt correspondant;
-
-le nombre des effets non domiciliés créés au cours du même mois et le montant de l'impôt correspondant.
-
-Cet état  certifié conforme aux écritures  est fourni en double exemplaire; l'un de ces doubles est rendu au déposant après
-avoir été revêtu de l'acquit du comptable des impôts compétent; l'autre est conservé par le service à l'appui de la recette
-des droits de timbre.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 107
