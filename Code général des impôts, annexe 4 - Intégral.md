@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1983-01-14
+Version Consolidée au 1983-03-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -331,7 +331,7 @@ Version Consolidée au 1983-01-14
       - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#328)
         - [3 : Paiement de l'impôt (art. 187 à 188)](#329)
       - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#330)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#331)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#331)
       - [Section III : Contributions indirectes (art. 193 à 194)](#332)
       - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 septies)](#333)
         - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#334)
@@ -15362,6 +15362,28 @@ _Cité par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 192 bis
+
+Lorsqu'un redevable est admis au bénéfice du paiement par obligations cautionnées dans les conditions prévues à l'article
+1692 du code général des impôts, le taux de l'intérêt pour les crédits concédés prévu à l'article 194 est fixé à 12,50 % l'an
+en France continentale.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 1983-02-25 JORF 5 mars 1983)
+
+_Codifié par_:
+
+  - Arrêté 1983-07-10
+
+_Cite_:
+
+  - CGI 1692
+  - CGIAN4 194
 
 
 ### Section III : Contributions indirectes<a id=332></a>
