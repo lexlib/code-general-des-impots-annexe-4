@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-05-31
+Version Consolidée au 1980-07-19
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -262,8 +262,8 @@ Version Consolidée au 1980-05-31
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies DD à 121 sexies)](#259)
           - [COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES. (art. 121 quinquies DD)](#260)
           - [AUTRES IMPOSITIONS. (art. 121 sexies)](#261)
-        - [CONTRIBUTIONS INDIRECTES (art. 134 à 136)](#262)
-          - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 134 à 136)](#263)
+        - [CONTRIBUTIONS INDIRECTES (art. 132 à 136)](#262)
+          - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 132 à 136)](#263)
       - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES (art. 121 quinquies E à 153)](#264)
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#265)
           - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#266)
@@ -12494,6 +12494,35 @@ _Cité par_:
 
 ##### IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS.<a id=263></a>
 
+###### Article 132
+
+Quelles que soient les stipulations des cahiers des charges l'exemption de l'impôt prévue à l'article 1561-6° du code général
+des impôts s'applique, en raison de leurs fonctions, au médecin, à l'officier ou sous-officier, au commissaire de police ou
+au chef de la police municipale de service, au personnel rémunéré de l'établissement et aux journalistes membres de la
+critique sportive.
+
+Cette exemption s'applique également aux membres de la commission centrale, départementale ou communale de sécurité contre
+l'incendie, titulaires d'une carte d'identité spéciale délivrée par le ministre de l'intérieur, le préfet ou le maire.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1980-07-04 art. 1 JORF 19 juillet 1980
+
+_Codifié par_:
+
+  - Arrêté 1985-09-24
+
+_Cite_:
+
+  - CGI 1561 6°
+
+_Abrogé par_:
+
+  - Loi n°84-1208 1984-12-29 art. 84 I 2 finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+
 ###### Article 134
 
 Les entrées exonérées ne peuvent  en aucun cas  donner lieu  en faveur des exploitants de spectacles  au paiement d'une
@@ -12667,32 +12696,6 @@ haltérophilie  handball  hockey sur gazon  judo  karaté  lutte pelote basque  
 _Cite_:
 
   - CGI 1561 3° b AL. 1
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 132
-
-Quelles que soient les stipulations des cahiers des charges l'exemption [*exonération*] de l'impôt prévue à l'article 1561-6o
-du code général des impôts s'applique, en raison de leurs fonctions, au médecin à l'officier ou sous-officier, au commissaire
-de police ou au chef de la police municipale de service et au personnel rémunéré de l'établissement.
-
-Cette exemption s'applique également :
-
-Aux membres de la critique sportive accrédités par leur association ou par le syndicat de la presse auprès du directeur des
-services fiscaux qui leur délivre une carte rigoureusement personnelle et individuelle. La validité de cette carte cesse dès
-que les raisons qui ont motivé sa délivrance n'existent plus. Le renouvellement annuel de ces cartes est obligatoire;
-
-Aux membres de la commission centrale  départementale ou communale de sécurité contre l'incendie  titulaires d'une carte
-d'identité spéciale délivrée par le ministre de l'intérieur  le préfet ou le maire.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1561 6°
 
 **Liens**:
 
