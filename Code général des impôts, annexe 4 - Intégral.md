@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-12-31
+Version Consolidée au 1983-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -12727,19 +12727,19 @@ _Cité par_:
 Les débitants de tabac perçoivent sur le prix de vente des papiers timbrés et timbres mobiles de toute nature, dont ils
 assurent la débite, une remise calculée au moyen du barème ci-après :
 
-4 % jusqu'à 5.000 F de ventes annuelles;
+4 % jusqu'à 7.000 F de ventes annuelles;
 
-3 % de 5.001 à 25.000 F de ventes annuelles;
+3 % de 7.001 à 35.000 F de ventes annuelles;
 
-2 % de 25.001 à 60.000 F de ventes annuelles;
+2 % de 35.001 à 80.000 F de ventes annuelles;
 
-1 % au-dessus de 60.000 F de ventes annuelles (1).
+1 % au-dessus de 80.000 F de ventes annuelles (1).
 
 La remise est liquidée et payée semestriellement.
 
 Les dispositions du présent article s'appliquent dans les départements de la Corse.
 
-(1) Barème applicable à compter du 1er janvier 1980.
+(1) Barème applicable à compter du 1er janvier 1983.
 
 **Liens relatifs à cet article**
 
@@ -12750,12 +12750,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté 1978-03-17 art. 1 JONC 6 avril 1978
-  - Arrêté 1980-01-08 art. 1 JONC 30 janvier 1980
+  - Arrêté 1983-02-25 art. 1 JONC 30 mars 1983, en vigueur le 1er janvier 1983
 
 _Codifié par_:
 
-  - Arrêté 1981-09-15
+  - Arrêté 1983-10-06
 
 
 ### AUTRES DROITS ET TAXES<a id=273></a>
