@@ -53,6 +53,16 @@ télégestion de chaufferie assurant les fonctions de régulation et de programm
 régulation centrale des équipements de production d'eau chaude sanitaire dans le cas de production combinée d'eau chaude
 sanitaire et d'eau destinée au chauffage.
 
+7. Installation ou remplacement d'équipements spécialement conçus pour les personnes âgées ou handicapées :
+
+a) Equipements sanitaires attachés à perpétuelle demeure : éviers et lavabos à hauteur réglable ; baignoires à porte ;
+cabines de douche intégrales ; bacs et portes de douche, sièges de douche muraux, WC pour personnes handicapées ;
+
+b) Autres équipements de sécurité et d'accessibilité attachés à perpétuelle demeure : mains courantes, barres de maintien ou
+d'appui, poignées de rappel de portes ; rampes fixes ; systèmes de commande, de signalisation ou d'alerte ; dispositifs de
+fermeture, d'ouverture ou systèmes de commande des installations électriques, d'eau, de gaz et de chauffage ; mobiliers à
+hauteur réglable.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -80,7 +90,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté 2002-04-12 art. 1 JORF 20 avril 2002
+  - Arrêté 2004-03-24 art. 1 JORF 28 mars 2004
 
 _Cite_:
 
@@ -88,4 +98,4 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2002
+  - HISTO: Edition du 1er janvier 2004
