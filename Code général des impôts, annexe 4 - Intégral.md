@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1984-06-26
+Version Consolidée au 1984-07-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -184,183 +184,182 @@ Version Consolidée au 1984-06-26
             - [Exonération temporaire accordée dans le cadre de l'aménagement du territoire. (art. 121 quinquies DB bis à 121 quinquies DB ter)](#181)
           - [Section III : Commission consultative départementale des évaluations foncières (art. 121 quinquies DC à 121 quinquies DF)](#182)
         - [Chapitre II : Contributions indirectes (art. 124 à 154)](#183)
-          - [Section unique : Impôt sur les spectacles, jeux et divertissements (art. 124 à 149)](#184)
+          - [Section unique : Impôt sur les spectacles, jeux et divertissements (art. 124 à 153)](#184)
             - [I : Dispositions générales (art. 124 à 141)](#185)
               - [1° : Déclaration d'existence (art. 124)](#186)
               - [2° : Classement des spectacles (art. 126)](#187)
               - [5° : Contrôle des entrées dans les salles. Billets (art. 127 à 131)](#188)
               - [6° : Assiette et contrôle de la taxe (art. 139)](#189)
               - [7° : Fermeture des établissements (art. 141)](#190)
-            - [II : Dispositions particulières (art. 147 à 149)](#191)
-              - [2° : Cercles et maisons de jeux (art. 147 à 149)](#192)
+            - [II : Dispositions particulières (art. 147 à 153)](#191)
+              - [2° : Cercles et maisons de jeux (art. 147 à 153)](#192)
           - [Impôt sur les spectacles, jeux et divertissements (art. 126 A à 154)](#193)
             - [I : Dispositions générales (art. 126 A à 137)](#194)
               - [Appareils automatiques. (art. 126 A à 126 E)](#195)
               - [Contrôle des entrées dans les salles - Billets. (art. 129 à 130)](#196)
               - [Assiette et contrôle de la taxe. (art. 137)](#197)
-            - [II : Dispositions particulières (art. 146 à 154)](#198)
-              - [Cercles et maisons de jeux. (art. 146 à 154)](#199)
-        - [Chapitre III : Enregistrement (art. 155 A à 155 B)](#200)
-          - [Section unique : Taxe locale d'équipement (art. 155 A à 155 B)](#201)
-      - [Titre I bis : Impositions départementales (art. 155 O à 155 Q)](#202)
-        - [Chapitre II : Droits d'enregistrement et taxe de publicité foncière (art. 155 O à 155 Q)](#203)
-          - [Réduction accordée dans le cadre de l'aménagement du territoire (art. 155 O à 155 Q)](#204)
-      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 156 à 159 quater A)](#205)
-        - [Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 156 à 159 AL)](#206)
-          - [Section I : Taxe sur les produits des exploitations forestières. (art. 156 à 157)](#207)
-          - [Section II : Budget annexe des prestations sociales agricoles (art. 159 bis)](#208)
-            - [I : Taxe de 1,20 % sur les produits des exploitations forestières. (art. 159 bis)](#209)
-          - [Section IV : Fonds national du livre (art. 159 AA)](#210)
-            - [I : Redevance sur l'édition des ouvrages de librairie. (art. 159 AA)](#211)
-          - [Section VII : Fonds d'orientation et de régularisation des marchés agricoles. (art. 159 AJ à 159 AL)](#212)
-        - [Chapitre III : Enregistrement (art. 159 quater A)](#213)
-          - [Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole (art. 159 quater A)](#214)
-            - [Contribution des employeurs assurés. (art. 159 quater A)](#215)
-      - [Titre III : Dispositions communes (art. 162 à 164)](#216)
-        - [Frais d'assiette et de perception (art. 162 à 164)](#217)
-          - [Section II : Contributions indirectes. (art. 162 à 164)](#218)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 164 FB à 170 sexies)](#219)
-      - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AL)](#220)
-        - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#221)
-          - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#222)
-        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F vicies à 164 F tervicies)](#223)
-          - [Section I : Centres de gestion agréés (art. 164 F vicies à 164 F unvicies F)](#224)
-            - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#225)
-          - [Section II : Associations agréées des professions libérales (art. 164 F duovicies à 164 F tervicies)](#226)
-        - [Chapitre III : Réglementation des machines à timbrer (art. 164 N à 164 AL)](#227)
-          - [II : Dispositions communes (art. 164 N à 164 AL)](#228)
-            - [A : Caractéristiques générales des machines (art. 164 N à 164 O)](#229)
-            - [B : Agrément des machines (art. 164 P à 164 S)](#230)
-            - [C : Autorisation de placer les machines chez les usagers (art. 164 T à 164 V)](#231)
-            - [D : Obligations des concessionnaires (art. 164 AA à 164 Z)](#232)
-            - [E : Obligations des usagers (art. 164 AE à 164 AG)](#233)
-            - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#234)
-            - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#235)
-      - [Titre II : Dispositions diverses (art. 165 à 170 sexies)](#236)
-        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#237)
-        - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#238)
-        - [Section IV : Dispositions communes (art. 170 septies à 170 sexies)](#239)
-          - [Octroi de certains agréments fiscaux (art. 170 septies à 170 sexies)](#240)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 4 C bis à 170 ter)](#241)
-    - [IMPOTS D'ETAT (art. 4 C bis à 121 V ter)](#242)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 4 C bis à 23 L ter)](#243)
-        - [IMPOT SUR LE REVENU (art. 4 C bis à 17 quinquies B)](#244)
-          - [BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*. (art. 4 C bis à 4 L)](#245)
-          - [REVENU DES CAPITAUX MOBILIERS. (art. 6 ter à 17 B)](#246)
-          - [REVENU GLOBAL. (art. 17 E à 17 quinquies B)](#247)
-        - [IMPOT SUR LE REVENU (art. 17 H à 17 L)](#248)
-          - [REVENU GLOBAL. (art. 17 H à 17 L)](#249)
-        - [IMPOT SUR LES SOCIETES (art. 22 à 23 B)](#250)
-          - [CHAMP D'APPLICATION. (art. 22)](#251)
-          - [OBLIGATIONS DES PERSONNES MORALES (art. 23 A à 23 B)](#252)
-        - [DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS* (art. 23 L ter)](#253)
-          - [DEDUCTION FISCALE EN FAVEUR DES INVESTISSEMENTS REALISES OUTRE-MER. (art. 23 L ter)](#254)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 23 O à 50 undecies)](#255)
-        - [TAXE SUR LA VALEUR AJOUTEE (art. 23 O à 50 undecies)](#256)
-          - [CHAMP D'APPLICATION. (art. 23 O)](#257)
-          - [CALCUL DE LA TAXE (art. 31 ter)](#258)
-          - [OBLIGATIONS DES REDEVABLES. (art. 48 à 50 sexies E)](#259)
-          - [IMPORTATIONS. (art. 50 nonies)](#260)
-          - [REGIMES SPECIAUX. (art. 50 duodecies à 50 undecies)](#261)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 28 A)](#262)
-        - [TAXES SUR LA VALEUR AJOUTEE *TVA* (art. 28 A)](#263)
-          - [LIQUIDATION DE LA TAXE. (art. 28 A)](#264)
-      - [TAXE SUR LE CHIFFRE D'AFFAIRES (art. 31 quater)](#265)
-        - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 31 quater)](#266)
-          - [CALCUL DE LA TAXE (art. 31 quater)](#267)
-      - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES (art. 50 quindecies)](#268)
-        - [RECEPISSE DE CONSIGNATION. (art. 50 quindecies)](#269)
-      - [CONTRIBUTIONS INDIRECTES (art. 54 decies à 56 J BIS)](#270)
-        - [BOISSONS (art. 54 decies à 54 K)](#271)
-          - [ALCOOLS (art. 51 quater à 53)](#272)
-          - [CIRCULATION. (art. 54 A à 54 K)](#273)
-        - [GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE (art. 56 J BIS)](#274)
-      - [MONOPOLES FISCAUX (art. 56 AQ)](#275)
-        - [TABACS. (art. 56 AQ)](#276)
-      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 66 à 69)](#277)
-        - [OBLIGATIONS DIVERSES. (art. 66 à 69)](#278)
-      - [DROITS DE TIMBRE (art. 121 KA à 121 KM)](#279)
-        - [DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES. (art. 121 KA à 121 KM)](#280)
-      - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE (art. 121 V bis à 121 V ter)](#281)
-        - [ENTREPRISES EXERCANT LEUR ACTIVITE DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*. (art. 121 V bis à 121 V ter)](#282)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 121 quinquies DD à 155 N)](#283)
-      - [IMPOSITIONS COMMUNALES (art. 121 quinquies DD à 138)](#284)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies DD à 121 sexies)](#285)
-          - [COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES. (art. 121 quinquies DD)](#286)
-          - [AUTRES IMPOSITIONS. (art. 121 sexies)](#287)
-        - [CONTRIBUTIONS INDIRECTES (art. 126 F à 138)](#288)
-          - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 126 F à 138)](#289)
-      - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES (art. 121 quinquies E à 153)](#290)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#291)
-          - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#292)
-        - [CONTRIBUTIONS INDIRECTES (art. 145 à 153)](#293)
-          - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 145 à 153)](#294)
-      - [IMPOSITIONS DEPARTEMENTALES. (art. 155 C à 155 L)](#295)
-      - [IMPOSITIONS REGIONALES. (art. 155 N)](#296)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 AL quater A à 159 septies)](#297)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 159 AL quater A à 159 AL quater)](#298)
-        - [TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES. (art. 157 bis)](#299)
-        - [BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA* (art. 159 ter A)](#300)
-        - [FONDS NATIONAL DU LIVRE (art. 159 AD)](#301)
-        - [COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE. (art. 159 AL bis)](#302)
-        - [TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT. (art. 159 AL quater)](#303)
-      - [TAXE PARAFISCALE DES INDUSTRIES DE L'HABILLEMENT ET DE LA MAILLE. (art. 159 AL sexies)](#304)
-      - [CONTRIBUTIONS INDIRECTES (art. 159 AQ à 159 AP)](#305)
-        - [COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES. (art. 159 AM)](#306)
-        - [TAXES PARAFISCALE SUR CERTAINES VIANDES. (art. 159 AO)](#307)
-        - [TAXE PARAFISCALE SUR LES VINS. (art. 159 AP)](#308)
-      - [ENREGISTREMENT (art. 159 quinquies à 159 septies)](#309)
-        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE. (art. 159 quinquies)](#310)
-        - [TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION. (art. 159 sexies)](#311)
-        - [REGION D'ILE-DE-FRANCE. (art. 159 sexies A)](#312)
-        - [TAXE AU PROFIT DE L'ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANS LES TRANSPORTS. (art. 159 septies)](#313)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 159 sexies B)](#314)
-      - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 sexies B)](#315)
-        - [ENREGISTREMENT (art. 159 sexies B)](#316)
-          - [REGIONS. (art. 159 sexies B)](#317)
-    - [DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS* (art. 161 A)](#318)
-      - [FRAIS D'ASSIETTE ET DE PERCEPTION (art. 161 A)](#319)
-        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 161 A)](#320)
-    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 164 F bis à 170 ter)](#321)
-      - [ASSIETTE ET CONTROLE DE L'IMPOT (art. 164 F bis à 164 M)](#322)
-        - [OBLIGATIONS DES REDEVABLES (art. 164 F bis à 164 F undecies)](#323)
-          - [BONS DE REMIS. (art. 164 F bis à 164 F undecies)](#324)
-        - [BONS DE REMIS (art. 164 F quindecies)](#325)
-          - [OBLIGATIONS DES REDEVABLES (art. 164 F quindecies)](#326)
-            - [BONS DE REMIS. (art. 164 F quindecies)](#327)
-        - [CENTRES DE GESTION AGREES. (art. 164 F unvicies)](#328)
-        - [ARTISANS. (art. 164 G à 164 K)](#329)
-        - [REGLEMENTATION DES MACHINES A TIMBRER. (art. 164 AD à 164 M)](#330)
-      - [DISPOSITIONS DIVERSES (art. 170 octies à 170 ter)](#331)
-        - [DISPOSITIONS COMMUNES. (art. 170 octies à 170 ter)](#332)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#333)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#334)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#335)
-        - [3 : Paiement de l'impôt (art. 187 à 188)](#336)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#337)
-      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H)](#338)
-      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#339)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#340)
-      - [Section III : Contributions indirectes (art. 193 à 194)](#341)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#342)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#343)
-        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#344)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#345)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#346)
-        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#347)
-        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#348)
-      - [Section V : Dispositions communes (art. 199 à 204)](#349)
-        - [2° : Paiement par chèques (art. 199 à 204)](#350)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#351)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#352)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#353)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#354)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#355)
-  - [RECOUVREMENT DE L'IMPOT (art. 207 quater B à 207 quinquies)](#356)
-    - [PAIEMENT DE L'IMPOT (art. 207 quater B)](#357)
-      - [PENALITES (art. 207 quater B)](#358)
-    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#359)
-      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#360)
+            - [II : Dispositions particulières (art. 145 à 154)](#198)
+              - [Établissements où il est d'usage de consommer. (art. 145)](#199)
+              - [Cercles et maisons de jeux. (art. 146 à 154)](#200)
+        - [Chapitre III : Enregistrement (art. 155 A à 155 B)](#201)
+          - [Section unique : Taxe locale d'équipement (art. 155 A à 155 B)](#202)
+      - [Titre I bis : Impositions départementales (art. 155 E à 155 Q)](#203)
+        - [Chapitre premier : Taxe sur les véhicules à moteur. (art. 155 E à 155 M)](#204)
+        - [Chapitre premier : Taxes sur les véhicules à moteur. (art. 155 H à 155 I)](#205)
+        - [Chapitre II : Droits d'enregistrement et taxe de publicité foncière (art. 155 O à 155 Q)](#206)
+          - [Réduction accordée dans le cadre de l'aménagement du territoire (art. 155 O à 155 Q)](#207)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 156 à 159 quater A)](#208)
+        - [Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 156 à 159 AL)](#209)
+          - [Section I : Taxe sur les produits des exploitations forestières. (art. 156 à 157)](#210)
+          - [Section II : Budget annexe des prestations sociales agricoles (art. 159 bis)](#211)
+            - [I : Taxe de 1,20 % sur les produits des exploitations forestières. (art. 159 bis)](#212)
+          - [Section IV : Fonds national du livre (art. 159 AA)](#213)
+            - [I : Redevance sur l'édition des ouvrages de librairie. (art. 159 AA)](#214)
+          - [Section VII : Fonds d'orientation et de régularisation des marchés agricoles. (art. 159 AJ à 159 AL)](#215)
+        - [Chapitre III : Enregistrement (art. 159 quater A)](#216)
+          - [Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole (art. 159 quater A)](#217)
+            - [Contribution des employeurs assurés. (art. 159 quater A)](#218)
+      - [Titre III : Dispositions communes (art. 162 à 164)](#219)
+        - [Frais d'assiette et de perception (art. 162 à 164)](#220)
+          - [Section II : Contributions indirectes. (art. 162 à 164)](#221)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 164 FB à 170 sexies)](#222)
+      - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AL)](#223)
+        - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#224)
+          - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#225)
+        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F vicies à 164 F tervicies)](#226)
+          - [Section I : Centres de gestion agréés (art. 164 F vicies à 164 F unvicies F)](#227)
+            - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#228)
+          - [Section II : Associations agréées des professions libérales (art. 164 F duovicies à 164 F tervicies)](#229)
+        - [Chapitre III : Réglementation des machines à timbrer (art. 164 N à 164 AL)](#230)
+          - [II : Dispositions communes (art. 164 N à 164 AL)](#231)
+            - [A : Caractéristiques générales des machines (art. 164 N à 164 O)](#232)
+            - [B : Agrément des machines (art. 164 P à 164 S)](#233)
+            - [C : Autorisation de placer les machines chez les usagers (art. 164 T à 164 V)](#234)
+            - [D : Obligations des concessionnaires (art. 164 AA à 164 Z)](#235)
+            - [E : Obligations des usagers (art. 164 AE à 164 AG)](#236)
+            - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#237)
+            - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#238)
+      - [Titre II : Dispositions diverses (art. 165 à 170 sexies)](#239)
+        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#240)
+        - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#241)
+        - [Section IV : Dispositions communes (art. 170 septies à 170 sexies)](#242)
+          - [Octroi de certains agréments fiscaux (art. 170 septies à 170 sexies)](#243)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 4 C bis à 170 ter)](#244)
+    - [IMPOTS D'ETAT (art. 4 C bis à 121 V ter)](#245)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 4 C bis à 23 L ter)](#246)
+        - [IMPOT SUR LE REVENU (art. 4 C bis à 17 quinquies B)](#247)
+          - [BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*. (art. 4 C bis à 4 L)](#248)
+          - [REVENU DES CAPITAUX MOBILIERS. (art. 6 ter à 17 B)](#249)
+          - [REVENU GLOBAL. (art. 17 E à 17 quinquies B)](#250)
+        - [IMPOT SUR LE REVENU (art. 17 H à 17 L)](#251)
+          - [REVENU GLOBAL. (art. 17 H à 17 L)](#252)
+        - [IMPOT SUR LES SOCIETES (art. 22 à 23 B)](#253)
+          - [CHAMP D'APPLICATION. (art. 22)](#254)
+          - [OBLIGATIONS DES PERSONNES MORALES (art. 23 A à 23 B)](#255)
+        - [DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS* (art. 23 L ter)](#256)
+          - [DEDUCTION FISCALE EN FAVEUR DES INVESTISSEMENTS REALISES OUTRE-MER. (art. 23 L ter)](#257)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 23 O à 50 undecies)](#258)
+        - [TAXE SUR LA VALEUR AJOUTEE (art. 23 O à 50 undecies)](#259)
+          - [CHAMP D'APPLICATION. (art. 23 O)](#260)
+          - [CALCUL DE LA TAXE (art. 31 ter)](#261)
+          - [OBLIGATIONS DES REDEVABLES. (art. 48 à 50 sexies E)](#262)
+          - [IMPORTATIONS. (art. 50 nonies)](#263)
+          - [REGIMES SPECIAUX. (art. 50 duodecies à 50 undecies)](#264)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 28 A)](#265)
+        - [TAXES SUR LA VALEUR AJOUTEE *TVA* (art. 28 A)](#266)
+          - [LIQUIDATION DE LA TAXE. (art. 28 A)](#267)
+      - [TAXE SUR LE CHIFFRE D'AFFAIRES (art. 31 quater)](#268)
+        - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 31 quater)](#269)
+          - [CALCUL DE LA TAXE (art. 31 quater)](#270)
+      - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES (art. 50 quindecies)](#271)
+        - [RECEPISSE DE CONSIGNATION. (art. 50 quindecies)](#272)
+      - [CONTRIBUTIONS INDIRECTES (art. 54 decies à 56 J BIS)](#273)
+        - [BOISSONS (art. 54 decies à 54 K)](#274)
+          - [ALCOOLS (art. 51 quater à 53)](#275)
+          - [CIRCULATION. (art. 54 A à 54 K)](#276)
+        - [GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE (art. 56 J BIS)](#277)
+      - [MONOPOLES FISCAUX (art. 56 AQ)](#278)
+        - [TABACS. (art. 56 AQ)](#279)
+      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 66 à 69)](#280)
+        - [OBLIGATIONS DIVERSES. (art. 66 à 69)](#281)
+      - [DROITS DE TIMBRE (art. 121 KA à 121 KM)](#282)
+        - [DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES. (art. 121 KA à 121 KM)](#283)
+      - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE (art. 121 V bis à 121 V ter)](#284)
+        - [ENTREPRISES EXERCANT LEUR ACTIVITE DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*. (art. 121 V bis à 121 V ter)](#285)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 121 quinquies DD à 155 N)](#286)
+      - [IMPOSITIONS COMMUNALES (art. 121 quinquies DD à 138)](#287)
+        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies DD à 121 sexies)](#288)
+          - [COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES. (art. 121 quinquies DD)](#289)
+          - [AUTRES IMPOSITIONS. (art. 121 sexies)](#290)
+        - [CONTRIBUTIONS INDIRECTES (art. 126 F à 138)](#291)
+          - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 126 F à 138)](#292)
+      - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES (art. 121 quinquies E)](#293)
+        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#294)
+          - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#295)
+      - [IMPOSITIONS DEPARTEMENTALES. (art. 155 C à 155 L)](#296)
+      - [IMPOSITIONS REGIONALES. (art. 155 N)](#297)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 AL quater A à 159 septies)](#298)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 159 AL quater A à 159 AL quater)](#299)
+        - [TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES. (art. 157 bis)](#300)
+        - [BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA* (art. 159 ter A)](#301)
+        - [FONDS NATIONAL DU LIVRE (art. 159 AD)](#302)
+        - [COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE. (art. 159 AL bis)](#303)
+        - [TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT. (art. 159 AL quater)](#304)
+      - [TAXE PARAFISCALE DES INDUSTRIES DE L'HABILLEMENT ET DE LA MAILLE. (art. 159 AL sexies)](#305)
+      - [CONTRIBUTIONS INDIRECTES (art. 159 AQ à 159 AP)](#306)
+        - [COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES. (art. 159 AM)](#307)
+        - [TAXES PARAFISCALE SUR CERTAINES VIANDES. (art. 159 AO)](#308)
+        - [TAXE PARAFISCALE SUR LES VINS. (art. 159 AP)](#309)
+      - [ENREGISTREMENT (art. 159 quinquies à 159 septies)](#310)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE. (art. 159 quinquies)](#311)
+        - [TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION. (art. 159 sexies)](#312)
+        - [REGION D'ILE-DE-FRANCE. (art. 159 sexies A)](#313)
+        - [TAXE AU PROFIT DE L'ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANS LES TRANSPORTS. (art. 159 septies)](#314)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 159 sexies B)](#315)
+      - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 sexies B)](#316)
+        - [ENREGISTREMENT (art. 159 sexies B)](#317)
+          - [REGIONS. (art. 159 sexies B)](#318)
+    - [DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS* (art. 161 A)](#319)
+      - [FRAIS D'ASSIETTE ET DE PERCEPTION (art. 161 A)](#320)
+        - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 161 A)](#321)
+    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 164 F bis à 170 ter)](#322)
+      - [ASSIETTE ET CONTROLE DE L'IMPOT (art. 164 F bis à 164 M)](#323)
+        - [OBLIGATIONS DES REDEVABLES (art. 164 F bis à 164 F undecies)](#324)
+          - [BONS DE REMIS. (art. 164 F bis à 164 F undecies)](#325)
+        - [BONS DE REMIS (art. 164 F quindecies)](#326)
+          - [OBLIGATIONS DES REDEVABLES (art. 164 F quindecies)](#327)
+            - [BONS DE REMIS. (art. 164 F quindecies)](#328)
+        - [CENTRES DE GESTION AGREES. (art. 164 F unvicies)](#329)
+        - [ARTISANS. (art. 164 G à 164 K)](#330)
+        - [REGLEMENTATION DES MACHINES A TIMBRER. (art. 164 AD à 164 M)](#331)
+      - [DISPOSITIONS DIVERSES (art. 170 octies à 170 ter)](#332)
+        - [DISPOSITIONS COMMUNES. (art. 170 octies à 170 ter)](#333)
+  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#334)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#335)
+      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#336)
+        - [3 : Paiement de l'impôt (art. 187 à 188)](#337)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#338)
+      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H)](#339)
+      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#340)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#341)
+      - [Section III : Contributions indirectes (art. 193 à 194)](#342)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#343)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#344)
+        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#345)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#346)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#347)
+        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#348)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#349)
+      - [Section V : Dispositions communes (art. 199 à 204)](#350)
+        - [2° : Paiement par chèques (art. 199 à 204)](#351)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#352)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#353)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#354)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#355)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#356)
+  - [RECOUVREMENT DE L'IMPOT (art. 207 quinquies)](#357)
+    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#358)
+      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#359)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -8245,6 +8244,24 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
+###### Article 153
+
+Tous les carnets et registres visés aux articles 149 à 152 sont servis sans rature ni surcharge (1). 
+
+(1) Voir également livre des procédures fiscales, art. A 26-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1984-10-01
+
+_Cite_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 149 (V)
+  - Livre des procédures fiscales - art. A26-4 (V)
+
+
 ##### Impôt sur les spectacles, jeux et divertissements<a id=193></a>
 
 ##### I : Dispositions générales<a id=194></a>
@@ -8417,7 +8434,57 @@ _Cite_:
 
 ##### II : Dispositions particulières<a id=198></a>
 
-##### Cercles et maisons de jeux.<a id=199></a>
+##### Établissements où il est d'usage de consommer.<a id=199></a>
+
+###### Article 145
+
+Les établissements visés à l'article 1563, deuxième alinéa  du code général des impôts sont tenus de se conformer aux
+prescriptions des articles 127, 128 et 129 lorsqu'un prix spécial est établi pour l'entrée. Ils doivent  en outre  dans tous
+les cas  qu'il y ait prix d'entrée ou non tenir un livre spécial [*obligation*] aux pages numérotées sur lequel ils
+inscrivent jour par jour sans blanc ni rature [*mentions*] :
+
+a. Chacune des ventes de denrées  marchandises  fournitures ou objets qu'ils ont effectuées;
+
+b. Chacun des prix encaissés de location  vestiaire  programme etc. La tenue du livre spécial peut ne pas être prescrite
+lorsque la comptabilité habituelle de l'établissement permet de déterminer le chiffre des recettes dont il s'agit.
+
+Le produit de la vente des billets d'entrée ne doit pas être confondu avec les autres recettes de l'établissement qui toutes
+sans exception et de quelque nature qu'elles soient  doivent figurer sur le registre dont il est question ci-dessus. Les
+opérations au comptant pour des valeurs inférieures à 0,10 F peuvent être inscrites globalement à la fin de chaque journée.
+Le montant des opérations inscrites sur le livre est totalisé chaque jour et arrêté par décade ou par mois.
+
+Les directeurs, entrepreneurs, propriétaires des établissements visés au premier alinéa sont tenus en outre de remettre dans
+les trois premiers jours de chaque décade ou de chaque mois, selon les indications qu'ils reçoivent à ce sujet, au service
+des impôts qui leur est désigné un relevé indiquant le montant total du chiffre des recettes effectuées pendant la décade ou
+le mois précédent et d'acquitter, dans les trois jours suivants, le montant de l'impôt exigible d'après ce relevé (1).
+
+Le livre prescrit par le présent article  ainsi que la comptabilité et les pièces justificatives des opérations effectuées
+par les établissements soumis à l'impôt  doivent être conservés par l'établissement pendant le délai prévu à l'article L. 82
+du livre des procédures fiscales [*obligation de conservation*] pour être représentés à tout vérificateur.
+
+Lorsqu'un établissement  par la nature de ses opérations  n'est assujetti à l'impôt sur les spectacles qu'à certaines heures
+de la journée  ou pour des salles spéciales  les opérations à inscrire sur le carnet visé au présent article ne concernent
+que celles pour lesquelles l'impôt sur les spectacles est dû. Il y a lieu d'opérer dans ce cas comme s'il y avait  en fait
+deux établissements entièrement distincts.
+
+(1) En ce qui concerne les obligations relatives au contrôle, voir livre des procédures fiscales, art. A 85-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1984-10-01
+
+_Cite_:
+
+  - CGI 1563 AL. 2
+  - CGI L82
+  - CGIAN4 127
+  - CGIAN4 128
+  - CGIAN4 129
+
+
+##### Cercles et maisons de jeux.<a id=200></a>
 
 ###### Article 146
 
@@ -8604,9 +8671,9 @@ l'établissement de la déclaration des recettes décadaires ou mensuelles.
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre III : Enregistrement<a id=200></a>
+#### Chapitre III : Enregistrement<a id=201></a>
 
-##### Section unique : Taxe locale d'équipement<a id=201></a>
+##### Section unique : Taxe locale d'équipement<a id=202></a>
 
 ###### Article 155 A
 
@@ -8674,11 +8741,291 @@ l'article 328 D quater de l'annexe III au présent code.
 
 
 
-### Titre I bis : Impositions départementales<a id=202></a>
+### Titre I bis : Impositions départementales<a id=203></a>
 
-#### Chapitre II : Droits d'enregistrement et taxe de publicité foncière<a id=203></a>
+#### Chapitre premier : Taxe sur les véhicules à moteur.<a id=204></a>
 
-##### Réduction accordée dans le cadre de l'aménagement du territoire<a id=204></a>
+###### Article 155 E
+
+Les distributeurs auxiliaires et les débitants visés à l'article 155 D peuvent recevoir, à titre de dépôt, et dans des
+conditions fixées par l'administration, un approvisionnement de vignettes dont ils sont comptables vis-à-vis du Trésor.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1956-10-19 art. 3 JORF 23 octobre 1956
+
+_Abrogé par_:
+
+  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
+
+_Cite_:
+
+  - CGIAN4 155 D
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 20 juillet 1984
+
+_Modifié par_:
+
+  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+
+###### Article 155 F
+
+La vignette est délivrée sur présentation du certificat d'immatriculation du véhicule.
+
+Le numéro minéralogique du véhicule est inscrit sur le reçu par le préposé chargé de la délivrance qui appose au verso le
+cachet de la recette ou du débit distributeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
+
+_Abrogé par_:
+
+  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 20 juillet 1984
+
+_Modifié par_:
+
+  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+
+###### Article 155 G
+
+En cas de changement du numéro minéralogique du véhicule, le numéro de l'ancien certificat d'immatriculation est maintenu sur
+le reçu. Le numéro du nouveau certificat est inscrit immédiatement au-dessus par les soins du service chargé de la remise du
+nouveau certificat d'immatriculation. Le cachet de ce service est apposé au verso.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
+
+_Abrogé par_:
+
+  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 20 juillet 1984
+
+_Modifié par_:
+
+  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+
+###### Article 155 M
+
+Sont exonérés de la taxe différentielle sur les véhicules à moteur instituée par l'article 1599 C du code général des impôts,
+les véhicules spéciaux dont la liste suit :
+
+1° Les fourgons funéraires et corbillards automobiles ;
+
+2° Les bennes à ordures ménagères, les arroseuses, les balayeuses ;
+
+3° Les ambulances ;
+
+4° Les tonnes de vidange ;
+
+5° Les engins considérés pour l'application des articles R 110 à R 117 du code de la route comme matériels de travaux publics
+et énumérés ci-après :
+
+a. Pompes centrifuges, groupes moto-pompes, pompes ou stations de pompages mobiles, fixés à demeure sur camion ;
+
+b. Sonnettes avec mouton bloc et treuil à moteur, sonnettes à vapeur complètes sur galets, derricks, moutons blocs à déclic,
+moutons à vapeur (genre Tifine ou Lacour), moutons diesel, marteaux trépideurs (batteurs et arracheurs), fixés à demeure sur
+camion ;
+
+c. Groupes moto-compresseurs mobiles, fixés à demeure sur camion ;
+
+d. Grues, grues derricks, sapins ou pylônes, sur camion ;
+
+e. Postes automobiles d'enrobage mobile type Central-Plant ou Maintoner-Plant pour enrobés à chaud, postes automobiles
+d'enrobage type Travel-Plant pour enrobés à froid ;
+
+f. Citernes mobiles de stockage de liants (cuves de transport de liants) et fondoirs, sur camion ;
+
+g. Répandeurs, finisseurs sur camion ;
+
+h. Générateurs de vapeur, bacs de chauffage (réchauffeurs des produits bitumeux et autres liants), tonnes répandeuses (y
+compris les arroseurs), sur camion ;
+
+i. Appareils gravillonneurs sableurs, chargeurs, élévateurs de gravillon, balayeuses mécaniques, sur camion ;
+
+j. Chasse-neige sur camion ;
+
+k. Concasseurs mobiles, gravillonneurs granulateurs et broyeurs mobiles, cribleurs ou trommels, groupes concasseurs mobiles
+(type Iowa), sur camion ;
+
+l. Bétonnières, tambours cylindriques, pompes à béton, sur camion ;
+
+m. Groupes électrogènes mobiles, groupes convertisseurs ou transformateurs mobiles, postes mobiles de soudure, sur camion ;
+
+n. Soudeuses mobiles, sur camion ;
+
+o. Postes automobiles de dégraissage et de gonflage ;
+
+6° Les camions ateliers, dépanneurs munis d'un engin de levage ;
+
+7° Le matériel d'incendie automobile énuméré ci-après :
+
+a. Matériel d'incendie de premier secours ordinaire ;
+
+b. Matériel d'incendie de premier secours à mousse ;
+
+c. Citerne automobile d'incendie ;  
+
+d. Auto-pompe ;
+
+e. Fourgon-pompe ;
+
+f. Fourgon d'incendie ;
+
+g. Echelle ;
+
+h. Dévidoir ;
+
+i. Accessoires divers ;
+
+8° Le matériel sanitaire automobile ci-après :
+
+a. Chirurgical ;
+
+b. Radiologie ;
+
+c. Stérilisateur ;
+
+d. Epurateur d'eau ;
+
+e. Désinfection et désinfectisation ;
+
+9° Le matériel de radiodiffusion et de télévision ci-après, fixé à demeure sur camion, camionnette ou fourgon automobile :
+
+a. Appareils émetteurs de T.S.F. ;
+
+b. Appareils de prise de son et de prise de vue ;
+
+c. Appareils de mesure de son ;
+
+d. Laboratoire de développement de films ;
+
+10° Les véhicules militaires faisant l'objet d'une immatriculation particulière ;
+
+11° Les véhicules aménagés spécialement pour le transport du lait, du vin, du bétail et de la viande, ne transportant que ces
+produits et ne sortant pas des limites de la zone courte à laquelle ils sont rattachés ;
+
+12° Les véhicules répondant aux normes figurant au III de l'annexe I du décret n° 79-80 du 25 janvier 1979 relatif aux
+transports sanitaires privés utilisés par une entreprise agréée conformément à l'article 1er dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1956-10-09 art. 1 JORF 23 octobre 1956
+
+_Modifié par_:
+
+  - Arrêté 1981-02-24 art. 1 JORF 27 février 1981
+  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+_Codifié par_:
+
+  - Arrêté 1984-10-01
+  - Arrêté 2007-03-30
+
+_Cite_:
+
+  - CGI 1599 C
+  - Décret n°79-80 1979-01-25 art. 1, annexe I, III
+  - Décret n°79-80 du 25 janvier 1979 - art. 1 ()
+  - Code de la route R110 à R117
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007
+  - HISTO: Edition du 20 juillet 1984
+  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+
+#### Chapitre premier : Taxes sur les véhicules à moteur.<a id=205></a>
+
+###### Article 155 H
+
+Le reçu est conservé par le conducteur du véhicule pour être présenté à toute réquisition des agents et fonctionnaires
+désignés aux articles L. 213 et R. 213-1 du livre des procédures fiscales. Le timbre adhésif doit être directement fixé dans
+l'angle inférieur droit du pare-brise du véhicule automobile de manière que les mentions qu'il comporte soient lisibles de
+l'extérieur de ce véhicule.
+
+Ces dispositions s'appliquent aux vignettes de la série normale comme aux vignettes spéciales et gratuites prévues à
+l'article 155 C.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
+
+_Codifié par_:
+
+  - Arrêté 1984-10-01
+
+_Cite_:
+
+  - CGIAN4 155 C
+  - Livre des procédures fiscales - art. L213 (M)
+  - Livre des procédures fiscales L213, R213-1
+
+**Liens**:
+
+  - HISTO: Edition du 20 juillet 1984
+
+_Modifié par_:
+
+  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+
+###### Article 155 I
+
+Un duplicata peut être délivré, en cas de destruction, de perte ou de vol d'une vignette, sur demande écrite du contribuable
+adressée à la recette des impôts qui a vendu ou dans le ressort de laquelle a été vendue cette vignette.
+
+La demande doit indiquer, indépendamment des circonstances de la perte, la date précise de l'acquisition et, le cas échéant,
+le nom et l'adresse du distributeur auxiliaire ou du débitant qui l'a vendue.
+
+Les duplicata sont utilisés dans les mêmes conditions que les vignettes de la série normale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1956-10-19 art. 7 JORF 23 octobre 1956, Arrêté 1967-12-14 art. 2 JORF 5 janvier 1968, Loi 83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+_Codifié par_:
+
+  - Arrêté 1984-10-01
+
+**Liens**:
+
+  - HISTO: Edition du 20 juillet 1984
+
+
+#### Chapitre II : Droits d'enregistrement et taxe de publicité foncière<a id=206></a>
+
+##### Réduction accordée dans le cadre de l'aménagement du territoire<a id=207></a>
 
 ###### Article 155 O
 
@@ -8801,11 +9148,11 @@ _Abrogé par_:
   - Loi n°89-936 1989-12-29 art. 20 Finances rectificative pour 1989 JORF 30 décembre 1989
 
 
-### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=205></a>
+### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=208></a>
 
-#### Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=206></a>
+#### Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=209></a>
 
-##### Section I : Taxe sur les produits des exploitations forestières.<a id=207></a>
+##### Section I : Taxe sur les produits des exploitations forestières.<a id=210></a>
 
 ###### Article 156
 
@@ -8858,9 +9205,9 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section II : Budget annexe des prestations sociales agricoles<a id=208></a>
+##### Section II : Budget annexe des prestations sociales agricoles<a id=211></a>
 
-##### I : Taxe de 1,20 % sur les produits des exploitations forestières.<a id=209></a>
+##### I : Taxe de 1,20 % sur les produits des exploitations forestières.<a id=212></a>
 
 ###### Article 159 bis
 
@@ -8884,9 +9231,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section IV : Fonds national du livre<a id=210></a>
+##### Section IV : Fonds national du livre<a id=213></a>
 
-##### I : Redevance sur l'édition des ouvrages de librairie.<a id=211></a>
+##### I : Redevance sur l'édition des ouvrages de librairie.<a id=214></a>
 
 ###### Article 159 AA
 
@@ -8905,7 +9252,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Section VII : Fonds d'orientation et de régularisation des marchés agricoles.<a id=212></a>
+##### Section VII : Fonds d'orientation et de régularisation des marchés agricoles.<a id=215></a>
 
 ###### Article 159 AJ
 
@@ -8997,11 +9344,11 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre III : Enregistrement<a id=213></a>
+#### Chapitre III : Enregistrement<a id=216></a>
 
-##### Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole<a id=214></a>
+##### Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole<a id=217></a>
 
-##### Contribution des employeurs assurés.<a id=215></a>
+##### Contribution des employeurs assurés.<a id=218></a>
 
 ###### Article 159 quater A
 
@@ -9036,11 +9383,11 @@ _Cite_:
   - PEREMPTION: Loi - art. 68 () JORF 29 décembre 2001
 
 
-### Titre III : Dispositions communes<a id=216></a>
+### Titre III : Dispositions communes<a id=219></a>
 
-#### Frais d'assiette et de perception<a id=217></a>
+#### Frais d'assiette et de perception<a id=220></a>
 
-##### Section II : Contributions indirectes.<a id=218></a>
+##### Section II : Contributions indirectes.<a id=221></a>
 
 ###### Article 162
 
@@ -9094,13 +9441,13 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=219></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=222></a>
 
-### Titre premier : Assiette et contrôle de l'impôt<a id=220></a>
+### Titre premier : Assiette et contrôle de l'impôt<a id=223></a>
 
-#### Chapitre premier : Obligations déclaratives<a id=221></a>
+#### Chapitre premier : Obligations déclaratives<a id=224></a>
 
-##### I : Déclaration des comptes financiers<a id=222></a>
+##### I : Déclaration des comptes financiers<a id=225></a>
 
 ###### Article 164 FB
 
@@ -9242,9 +9589,9 @@ _Cite_:
   - CGI 164 FB à 164 FE
 
 
-#### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=223></a>
+#### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=226></a>
 
-##### Section I : Centres de gestion agréés<a id=224></a>
+##### Section I : Centres de gestion agréés<a id=227></a>
 
 ###### Article 164 F vicies
 
@@ -9280,7 +9627,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 C (V)
 
 
-##### Tenue des documents comptables de certains adhérents<a id=225></a>
+##### Tenue des documents comptables de certains adhérents<a id=228></a>
 
 ###### Article 164 F unvicies A
 
@@ -9453,7 +9800,7 @@ _Codifié par_:
   - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 
-##### Section II : Associations agréées des professions libérales<a id=226></a>
+##### Section II : Associations agréées des professions libérales<a id=229></a>
 
 ###### Article 164 F duovicies
 
@@ -9601,11 +9948,11 @@ _Cite_:
   - DISJOINT: Arrêté du 7 avril 2009 - art. 1 (V)
 
 
-#### Chapitre III : Réglementation des machines à timbrer<a id=227></a>
+#### Chapitre III : Réglementation des machines à timbrer<a id=230></a>
 
-##### II : Dispositions communes<a id=228></a>
+##### II : Dispositions communes<a id=231></a>
 
-##### A : Caractéristiques générales des machines<a id=229></a>
+##### A : Caractéristiques générales des machines<a id=232></a>
 
 ###### Article 164 N
 
@@ -9640,7 +9987,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### B : Agrément des machines<a id=230></a>
+##### B : Agrément des machines<a id=233></a>
 
 ###### Article 164 P
 
@@ -9689,7 +10036,7 @@ des télécommunications (groupement de mécanisation postale). Ce dépôt ne do
 
 
 
-##### C : Autorisation de placer les machines chez les usagers<a id=231></a>
+##### C : Autorisation de placer les machines chez les usagers<a id=234></a>
 
 ###### Article 164 T
 
@@ -9750,7 +10097,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### D : Obligations des concessionnaires<a id=232></a>
+##### D : Obligations des concessionnaires<a id=235></a>
 
 ###### Article 164 AA
 
@@ -9866,7 +10213,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### E : Obligations des usagers<a id=233></a>
+##### E : Obligations des usagers<a id=236></a>
 
 ###### Article 164 AE
 
@@ -9911,7 +10258,7 @@ l'absence d'un représentant du concessionnaire  la présence de l'utilisateur �
   - HISTO: EDITION 1979-07-01
 
 
-##### F : Responsabilités attachées à l'utilisation des machines<a id=234></a>
+##### F : Responsabilités attachées à l'utilisation des machines<a id=237></a>
 
 ###### Article 164 AH
 
@@ -9967,7 +10314,7 @@ des machines louées par les concessionnaires.
   - HISTO: EDITION 1979-07-01
 
 
-##### G : Révocation des autorisations de placer et d'utiliser les machines<a id=235></a>
+##### G : Révocation des autorisations de placer et d'utiliser les machines<a id=238></a>
 
 ###### Article 164 AL
 
@@ -9990,9 +10337,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 54 A (V)
 
 
-### Titre II : Dispositions diverses<a id=236></a>
+### Titre II : Dispositions diverses<a id=239></a>
 
-#### Section I : Impôts directs et taxes assimilées<a id=237></a>
+#### Section I : Impôts directs et taxes assimilées<a id=240></a>
 
 ###### Article 165
 
@@ -10117,7 +10464,7 @@ _Cite_:
   - CGIAN4 166 1
 
 
-#### Section III : Enregistrement, publicité foncière et timbre<a id=238></a>
+#### Section III : Enregistrement, publicité foncière et timbre<a id=241></a>
 
 ###### Article 169
 
@@ -10198,9 +10545,9 @@ _Modifié par_:
   - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
 
 
-#### Section IV : Dispositions communes<a id=239></a>
+#### Section IV : Dispositions communes<a id=242></a>
 
-##### Octroi de certains agréments fiscaux<a id=240></a>
+##### Octroi de certains agréments fiscaux<a id=243></a>
 
 ###### Article 170 septies
 
@@ -10259,15 +10606,15 @@ _Cite_:
   - CGI 209 II
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=241></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=244></a>
 
-## IMPOTS D'ETAT<a id=242></a>
+## IMPOTS D'ETAT<a id=245></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=243></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=246></a>
 
-#### IMPOT SUR LE REVENU<a id=244></a>
+#### IMPOT SUR LE REVENU<a id=247></a>
 
-##### BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*.<a id=245></a>
+##### BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*.<a id=248></a>
 
 ###### Article 4 C bis
 
@@ -10360,7 +10707,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### REVENU DES CAPITAUX MOBILIERS.<a id=246></a>
+##### REVENU DES CAPITAUX MOBILIERS.<a id=249></a>
 
 ###### Article 6 ter
 
@@ -10736,7 +11083,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### REVENU GLOBAL.<a id=247></a>
+##### REVENU GLOBAL.<a id=250></a>
 
 ###### Article 17 E
 
@@ -10869,9 +11216,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### IMPOT SUR LE REVENU<a id=248></a>
+#### IMPOT SUR LE REVENU<a id=251></a>
 
-##### REVENU GLOBAL.<a id=249></a>
+##### REVENU GLOBAL.<a id=252></a>
 
 ###### Article 17 H
 
@@ -11095,9 +11442,9 @@ _Modifié par_:
   - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
 
 
-#### IMPOT SUR LES SOCIETES<a id=250></a>
+#### IMPOT SUR LES SOCIETES<a id=253></a>
 
-##### CHAMP D'APPLICATION.<a id=251></a>
+##### CHAMP D'APPLICATION.<a id=254></a>
 
 ###### Article 22
 
@@ -11138,7 +11485,7 @@ _Cite_:
   - CGI 206 3
 
 
-##### OBLIGATIONS DES PERSONNES MORALES<a id=252></a>
+##### OBLIGATIONS DES PERSONNES MORALES<a id=255></a>
 
 ###### Article 23 A
 
@@ -11211,9 +11558,9 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*<a id=253></a>
+#### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*<a id=256></a>
 
-##### DEDUCTION FISCALE EN FAVEUR DES INVESTISSEMENTS REALISES OUTRE-MER.<a id=254></a>
+##### DEDUCTION FISCALE EN FAVEUR DES INVESTISSEMENTS REALISES OUTRE-MER.<a id=257></a>
 
 ###### Article 23 L ter
 
@@ -11243,11 +11590,11 @@ _Cite_:
   - Code minier 3
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES<a id=255></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES<a id=258></a>
 
-#### TAXE SUR LA VALEUR AJOUTEE<a id=256></a>
+#### TAXE SUR LA VALEUR AJOUTEE<a id=259></a>
 
-##### CHAMP D'APPLICATION.<a id=257></a>
+##### CHAMP D'APPLICATION.<a id=260></a>
 
 ###### Article 23 O
 
@@ -11284,7 +11631,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### CALCUL DE LA TAXE<a id=258></a>
+##### CALCUL DE LA TAXE<a id=261></a>
 
 ###### Article 31 ter
 
@@ -11319,7 +11666,7 @@ _Cite_:
   - Décret n°62-1179 1962-10-12
 
 
-##### OBLIGATIONS DES REDEVABLES.<a id=259></a>
+##### OBLIGATIONS DES REDEVABLES.<a id=262></a>
 
 ###### Article 48
 
@@ -11410,7 +11757,7 @@ _Modifié par_:
   - Arrêté 1980-11-21 art. 2 JORF 30 novembre 1980
 
 
-##### IMPORTATIONS.<a id=260></a>
+##### IMPORTATIONS.<a id=263></a>
 
 ###### Article 50 nonies
 
@@ -11439,7 +11786,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### REGIMES SPECIAUX.<a id=261></a>
+##### REGIMES SPECIAUX.<a id=264></a>
 
 ###### Article 50 duodecies
 
@@ -12431,11 +12778,11 @@ _Cite_:
   - HISTO: Edition du 1er juillet 1981
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES<a id=262></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES<a id=265></a>
 
-#### TAXES SUR LA VALEUR AJOUTEE *TVA*<a id=263></a>
+#### TAXES SUR LA VALEUR AJOUTEE *TVA*<a id=266></a>
 
-##### LIQUIDATION DE LA TAXE.<a id=264></a>
+##### LIQUIDATION DE LA TAXE.<a id=267></a>
 
 ###### Article 28 A
 
@@ -12456,11 +12803,11 @@ _Cite_:
   - CGIAN2 242-0 P
 
 
-### TAXE SUR LE CHIFFRE D'AFFAIRES<a id=265></a>
+### TAXE SUR LE CHIFFRE D'AFFAIRES<a id=268></a>
 
-#### TAXE SUR LA VALEUR AJOUTEE *TVA*<a id=266></a>
+#### TAXE SUR LA VALEUR AJOUTEE *TVA*<a id=269></a>
 
-##### CALCUL DE LA TAXE<a id=267></a>
+##### CALCUL DE LA TAXE<a id=270></a>
 
 ###### Article 31 quater
 
@@ -12502,9 +12849,9 @@ _Cite_:
   - CGI 281 bis F
 
 
-### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES<a id=268></a>
+### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES<a id=271></a>
 
-#### RECEPISSE DE CONSIGNATION.<a id=269></a>
+#### RECEPISSE DE CONSIGNATION.<a id=272></a>
 
 ###### Article 50 quindecies
 
@@ -12522,9 +12869,9 @@ _Cite_:
   - CGI 302 octies
 
 
-### CONTRIBUTIONS INDIRECTES<a id=270></a>
+### CONTRIBUTIONS INDIRECTES<a id=273></a>
 
-#### BOISSONS<a id=271></a>
+#### BOISSONS<a id=274></a>
 
 ###### Article 54 decies
 
@@ -12600,7 +12947,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### ALCOOLS<a id=272></a>
+##### ALCOOLS<a id=275></a>
 
 ###### Article 51 quater
 
@@ -12725,7 +13072,7 @@ _Cite_:
   - Code de la santé publique - art. L511 (M)
 
 
-##### CIRCULATION.<a id=273></a>
+##### CIRCULATION.<a id=276></a>
 
 ###### Article 54 A
 
@@ -13247,7 +13594,7 @@ _Abrogé par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE<a id=274></a>
+#### GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE<a id=277></a>
 
 ###### Article 56 J BIS
 
@@ -13281,9 +13628,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 191 (V)
 
 
-### MONOPOLES FISCAUX<a id=275></a>
+### MONOPOLES FISCAUX<a id=278></a>
 
-#### TABACS.<a id=276></a>
+#### TABACS.<a id=279></a>
 
 ###### Article 56 AQ
 
@@ -13321,9 +13668,9 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE<a id=277></a>
+### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE<a id=280></a>
 
-#### OBLIGATIONS DIVERSES.<a id=278></a>
+#### OBLIGATIONS DIVERSES.<a id=281></a>
 
 ###### Article 66
 
@@ -13409,9 +13756,9 @@ _Abrogé par_:
   - Décret n°85-842 du 5 août 1985 - art. 11 (V) JORF 9 août 1985 date d'application 1er octobre 1985
 
 
-### DROITS DE TIMBRE<a id=279></a>
+### DROITS DE TIMBRE<a id=282></a>
 
-#### DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES.<a id=280></a>
+#### DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES.<a id=283></a>
 
 ###### Article 121 KA
 
@@ -13504,9 +13851,9 @@ _Codifié par_:
   - Arrêté 1983-10-06
 
 
-### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE<a id=281></a>
+### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE<a id=284></a>
 
-#### ENTREPRISES EXERCANT LEUR ACTIVITE DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*.<a id=282></a>
+#### ENTREPRISES EXERCANT LEUR ACTIVITE DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*.<a id=285></a>
 
 ###### Article 121 V bis
 
@@ -13619,13 +13966,13 @@ _Cite_:
   - CGI 208 quater
 
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=283></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=286></a>
 
-### IMPOSITIONS COMMUNALES<a id=284></a>
+### IMPOSITIONS COMMUNALES<a id=287></a>
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=285></a>
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=288></a>
 
-##### COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES.<a id=286></a>
+##### COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES.<a id=289></a>
 
 ###### Article 121 quinquies DD
 
@@ -13684,7 +14031,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DE (M)
 
 
-##### AUTRES IMPOSITIONS.<a id=287></a>
+##### AUTRES IMPOSITIONS.<a id=290></a>
 
 ###### Article 121 sexies
 
@@ -13711,9 +14058,9 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### CONTRIBUTIONS INDIRECTES<a id=288></a>
+#### CONTRIBUTIONS INDIRECTES<a id=291></a>
 
-##### IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS.<a id=289></a>
+##### IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS.<a id=292></a>
 
 ###### Article 126 F
 
@@ -13872,11 +14219,11 @@ _Cite_:
   - CGIAN4 136
 
 
-### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES<a id=290></a>
+### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES<a id=293></a>
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=291></a>
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=294></a>
 
-##### AUTRES IMPOSITIONS.<a id=292></a>
+##### AUTRES IMPOSITIONS.<a id=295></a>
 
 ###### Article 121 quinquies E
 
@@ -13893,83 +14240,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### CONTRIBUTIONS INDIRECTES<a id=293></a>
-
-##### IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS.<a id=294></a>
-
-###### Article 145
-
-Les établissements visés à l'article 1563, deuxième alinéa  du code général des impôts sont tenus de se conformer aux
-prescriptions des articles 127, 128 et 129 lorsqu'un prix spécial est établi pour l'entrée. Ils doivent  en outre  dans tous
-les cas  qu'il y ait prix d'entrée ou non tenir un livre spécial [*obligation*] aux pages numérotées sur lequel ils
-inscrivent jour par jour sans blanc ni rature [*mentions*] :
-
-a. Chacune des ventes de denrées  marchandises  fournitures ou objets qu'ils ont effectuées;
-
-b. Chacun des prix encaissés de location  vestiaire  programme etc. La tenue du livre spécial peut ne pas être prescrite
-lorsque la comptabilité habituelle de l'établissement permet de déterminer le chiffre des recettes dont il s'agit.
-
-Le produit de la vente des billets d'entrée ne doit pas être confondu avec les autres recettes de l'établissement qui toutes
-sans exception et de quelque nature qu'elles soient  doivent figurer sur le registre dont il est question ci-dessus. Les
-opérations au comptant pour des valeurs inférieures à 0,10 F peuvent être inscrites globalement à la fin de chaque journée.
-Le montant des opérations inscrites sur le livre est totalisé chaque jour et arrêté par décade ou par mois.
-
-Les directeurs  entrepreneurs  propriétaires des établissements visés au premier alinéa sont tenus en outre :
-
-1o De présenter  à première réquisition  leurs registres de comptabilité ou leurs livres aux agents des impôts chargés de la
-perception de l'impôt sur les spectacles  et de leur fournir toutes justifications nécessaires à ce sujet  relativement aux
-inscriptions qui y sont portées et  d'une manière générale  à toutes les opérations effectuées;
-
-2o De remettre dans les trois premiers jours de chaque décade ou de chaque mois  selon les indications qu'ils reçoivent à ce
-sujet  au service des impôts qui leur est désigné un relevé indiquant le montant total du chiffre des recettes effectuées
-pendant la décade ou le mois précédent et d'acquitter  dans les trois jours suivants  le montant de l'impôt exigible d'après
-ce relevé.
-
-Le livre prescrit par le présent article  ainsi que la comptabilité et les pièces justificatives des opérations effectuées
-par les établissements soumis à l'impôt  doivent être conservés par l'établissement pendant le délai prévu à l'article L. 82
-du livre des procédures fiscales [*obligation de conservation*] pour être représentés à tout vérificateur.
-
-Lorsqu'un établissement  par la nature de ses opérations  n'est assujetti à l'impôt sur les spectacles qu'à certaines heures
-de la journée  ou pour des salles spéciales  les opérations à inscrire sur le carnet visé au présent article ne concernent
-que celles pour lesquelles l'impôt sur les spectacles est dû. Il y a lieu d'opérer dans ce cas comme s'il y avait  en fait
-deux établissements entièrement distincts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1981-09-15
-
-_Cite_:
-
-  - CGI 1563 AL. 2
-  - CGI L82
-  - CGIAN4 127
-  - CGIAN4 128
-  - CGIAN4 129
-
-
-###### Article 153
-
-Tous les carnets et registres visés aux articles 149 à 152 sont servis sans rature ni surcharge.
-
-Les cercles et maisons de jeux sont tenus de représenter  à toute réquisition  les carnets d'enregistrement des cagnottes
-dont ils sont détenteurs  sous peine des sanctions prévues par les articles 1791 et 1797 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1981-09-15
-
-_Cite_:
-
-  - CGI 1791
-  - CGI 1797
-  - CGIAN4 149 A CGIAN4 152
-
-
-### IMPOSITIONS DEPARTEMENTALES.<a id=295></a>
+### IMPOSITIONS DEPARTEMENTALES.<a id=296></a>
 
 ###### Article 155 C
 
@@ -14116,7 +14387,7 @@ _Codifié par_:
   - Arrêté 1984-10-01
 
 
-### IMPOSITIONS REGIONALES.<a id=296></a>
+### IMPOSITIONS REGIONALES.<a id=297></a>
 
 ###### Article 155 N
 
@@ -14139,9 +14410,9 @@ _Créé par_:
   - Loi n°83-1179 1983-12-29 art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=297></a>
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=298></a>
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES<a id=298></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES<a id=299></a>
 
 ###### Article 159 AL quater A
 
@@ -14158,7 +14429,7 @@ _Cite_:
   - CGIAN2 357 A
 
 
-#### TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.<a id=299></a>
+#### TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.<a id=300></a>
 
 ###### Article 157 bis
 
@@ -14179,7 +14450,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA*<a id=300></a>
+#### BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA*<a id=301></a>
 
 ###### Article 159 ter A
 
@@ -14311,7 +14582,7 @@ _Cite_:
   - CGI 1618 quinquies
 
 
-#### FONDS NATIONAL DU LIVRE<a id=301></a>
+#### FONDS NATIONAL DU LIVRE<a id=302></a>
 
 ###### Article 159 AD
 
@@ -14341,7 +14612,7 @@ Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 
   - HISTO: EDITION 1979-07-01
 
 
-#### COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE.<a id=302></a>
+#### COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE.<a id=303></a>
 
 ###### Article 159 AL bis
 
@@ -14364,7 +14635,7 @@ _Modifié par_:
   - Décret n°81-903 1981-10-05 art. 1 JORF 7 octobre 1981
 
 
-#### TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT.<a id=303></a>
+#### TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT.<a id=304></a>
 
 ###### Article 159 AL quater
 
@@ -14383,7 +14654,7 @@ _Cite_:
   - CGIAN2 363 A
 
 
-### TAXE PARAFISCALE DES INDUSTRIES DE L'HABILLEMENT ET DE LA MAILLE.<a id=304></a>
+### TAXE PARAFISCALE DES INDUSTRIES DE L'HABILLEMENT ET DE LA MAILLE.<a id=305></a>
 
 ###### Article 159 AL sexies
 
@@ -14405,7 +14676,7 @@ _Cite_:
   - CGIAN2 363 N à CGIAN2 363 S
 
 
-### CONTRIBUTIONS INDIRECTES<a id=305></a>
+### CONTRIBUTIONS INDIRECTES<a id=306></a>
 
 ###### Article 159 AQ
 
@@ -14428,7 +14699,7 @@ _Cite_:
   - CGIAN2 363 T
 
 
-#### COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.<a id=306></a>
+#### COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.<a id=307></a>
 
 ###### Article 159 AM
 
@@ -14459,7 +14730,7 @@ _Cite_:
   - CGIAN2 358
 
 
-#### TAXES PARAFISCALE SUR CERTAINES VIANDES.<a id=307></a>
+#### TAXES PARAFISCALE SUR CERTAINES VIANDES.<a id=308></a>
 
 ###### Article 159 AO
 
@@ -14494,7 +14765,7 @@ _Codifié par_:
   - Arrêté 1983-10-06
 
 
-#### TAXE PARAFISCALE SUR LES VINS.<a id=308></a>
+#### TAXE PARAFISCALE SUR LES VINS.<a id=309></a>
 
 ###### Article 159 AP
 
@@ -14515,9 +14786,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### ENREGISTREMENT<a id=309></a>
+### ENREGISTREMENT<a id=310></a>
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.<a id=310></a>
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.<a id=311></a>
 
 ###### Article 159 quinquies
 
@@ -14571,7 +14842,7 @@ _Cite_:
   - Code des assurances R211-24 AL. 2
 
 
-#### TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION.<a id=311></a>
+#### TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION.<a id=312></a>
 
 ###### Article 159 sexies
 
@@ -14592,7 +14863,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### REGION D'ILE-DE-FRANCE.<a id=312></a>
+#### REGION D'ILE-DE-FRANCE.<a id=313></a>
 
 ###### Article 159 sexies A
 
@@ -14663,7 +14934,7 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-#### TAXE AU PROFIT DE L'ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANS LES TRANSPORTS.<a id=313></a>
+#### TAXE AU PROFIT DE L'ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANS LES TRANSPORTS.<a id=314></a>
 
 ###### Article 159 septies
 
@@ -14698,13 +14969,13 @@ _Cite_:
   - CGIAN2 341
 
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=314></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=315></a>
 
-### IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=315></a>
+### IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=316></a>
 
-#### ENREGISTREMENT<a id=316></a>
+#### ENREGISTREMENT<a id=317></a>
 
-##### REGIONS.<a id=317></a>
+##### REGIONS.<a id=318></a>
 
 ###### Article 159 sexies B
 
@@ -14731,11 +15002,11 @@ _Créé par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
 
 
-## DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS*<a id=318></a>
+## DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS*<a id=319></a>
 
-### FRAIS D'ASSIETTE ET DE PERCEPTION<a id=319></a>
+### FRAIS D'ASSIETTE ET DE PERCEPTION<a id=320></a>
 
-#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=320></a>
+#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=321></a>
 
 ###### Article 161 A
 
@@ -14758,13 +15029,13 @@ _Cite_:
   - PEREMPTION: Loi n°87-1060 du 30 décembre 1987 - art. 42 (P) JORF 31 décembre 1987
 
 
-## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=321></a>
+## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=322></a>
 
-### ASSIETTE ET CONTROLE DE L'IMPOT<a id=322></a>
+### ASSIETTE ET CONTROLE DE L'IMPOT<a id=323></a>
 
-#### OBLIGATIONS DES REDEVABLES<a id=323></a>
+#### OBLIGATIONS DES REDEVABLES<a id=324></a>
 
-##### BONS DE REMIS.<a id=324></a>
+##### BONS DE REMIS.<a id=325></a>
 
 ###### Article 164 F bis
 
@@ -15359,11 +15630,11 @@ _Abrogé par_:
   - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
-#### BONS DE REMIS<a id=325></a>
+#### BONS DE REMIS<a id=326></a>
 
-##### OBLIGATIONS DES REDEVABLES<a id=326></a>
+##### OBLIGATIONS DES REDEVABLES<a id=327></a>
 
-##### BONS DE REMIS.<a id=327></a>
+##### BONS DE REMIS.<a id=328></a>
 
 ###### Article 164 F quindecies
 
@@ -15392,7 +15663,7 @@ _Codifié par_:
   - Arrêté 1981-09-15
 
 
-#### CENTRES DE GESTION AGREES.<a id=328></a>
+#### CENTRES DE GESTION AGREES.<a id=329></a>
 
 ###### Article 164 F unvicies
 
@@ -15420,7 +15691,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### ARTISANS.<a id=329></a>
+#### ARTISANS.<a id=330></a>
 
 ###### Article 164 G
 
@@ -15566,7 +15837,7 @@ _Cite_:
   - Code du travail - art. L323-9 (Ab)
 
 
-#### REGLEMENTATION DES MACHINES A TIMBRER.<a id=330></a>
+#### REGLEMENTATION DES MACHINES A TIMBRER.<a id=331></a>
 
 ###### Article 164 AD
 
@@ -15655,9 +15926,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### DISPOSITIONS DIVERSES<a id=331></a>
+### DISPOSITIONS DIVERSES<a id=332></a>
 
-#### DISPOSITIONS COMMUNES.<a id=332></a>
+#### DISPOSITIONS COMMUNES.<a id=333></a>
 
 ###### Article 170 octies
 
@@ -15762,13 +16033,13 @@ _Cite_:
   - CGIAN3 266
 
 
-# Livre II : Recouvrement de l'impôt<a id=333></a>
+# Livre II : Recouvrement de l'impôt<a id=334></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=334></a>
+## Chapitre premier : Paiement de l'impôt<a id=335></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=335></a>
+### Section I : Impôts directs et taxes assimilées<a id=336></a>
 
-#### 3 : Paiement de l'impôt<a id=336></a>
+#### 3 : Paiement de l'impôt<a id=337></a>
 
 ###### Article 187
 
@@ -15798,7 +16069,7 @@ _Abrogé par_:
   - Décret n°2015-1136 du 14 septembre 2015 - art. 4
 
 
-### Section I bis : Intérêts des bons de caisse<a id=337></a>
+### Section I bis : Intérêts des bons de caisse<a id=338></a>
 
 ###### Article 188 B
 
@@ -15876,7 +16147,7 @@ intérêt.
 
 
 
-### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=338></a>
+### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=339></a>
 
 ###### Article 188 H
 
@@ -15914,7 +16185,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 I (VD)
 
 
-### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=339></a>
+### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=340></a>
 
 ###### Article 188 I
 
@@ -15947,7 +16218,7 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=340></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=341></a>
 
 ###### Article 189
 
@@ -16004,7 +16275,7 @@ _Cite_:
   - CGIAN4 194
 
 
-### Section III : Contributions indirectes<a id=341></a>
+### Section III : Contributions indirectes<a id=342></a>
 
 ###### Article 193
 
@@ -16041,9 +16312,9 @@ _Modifié par_:
   - Arrêté 1981-10-30 art. 1 JORF 31 octobre 1981
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=342></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=343></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=343></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=344></a>
 
 ###### Article 196 A
 
@@ -16091,7 +16362,7 @@ _Cite_:
   - PEREMPTION: Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
 
 
-#### 2 : Paiement en valeurs du Trésor.<a id=344></a>
+#### 2 : Paiement en valeurs du Trésor.<a id=345></a>
 
 ###### Article 198 bis
 
@@ -16205,7 +16476,7 @@ _Cite_:
   - Loi n°50-135 1950-01-31 ART. 41, ART. 42
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=345></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=346></a>
 
 ###### Article 198 quinquies
 
@@ -16216,7 +16487,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=346></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=347></a>
 
 ###### Article 198 sexies
 
@@ -16231,7 +16502,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=347></a>
+#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=348></a>
 
 ###### Article 198 septies
 
@@ -16251,7 +16522,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=348></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=349></a>
 
 ###### Article 198 octies
 
@@ -16268,9 +16539,9 @@ _Codifié par_:
   - Arrêté 1985-09-24
 
 
-### Section V : Dispositions communes<a id=349></a>
+### Section V : Dispositions communes<a id=350></a>
 
-#### 2° : Paiement par chèques<a id=350></a>
+#### 2° : Paiement par chèques<a id=351></a>
 
 ###### Article 199
 
@@ -16349,9 +16620,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-## Chapitre I bis : Pénalités<a id=351></a>
+## Chapitre I bis : Pénalités<a id=352></a>
 
-### I : Impôts directs et taxes assimilées<a id=352></a>
+### I : Impôts directs et taxes assimilées<a id=353></a>
 
 ###### Article 207 quater A
 
@@ -16360,7 +16631,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=353></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=354></a>
 
 ###### Article 207 quater A bis
 
@@ -16386,9 +16657,9 @@ _Cite_:
   - HISTO: Edition du 10 juillet 1983
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=354></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=355></a>
 
-### Publicité du privilège du Trésor<a id=355></a>
+### Publicité du privilège du Trésor<a id=356></a>
 
 ###### Article 207 sexies
 
@@ -16417,39 +16688,11 @@ _Cite_:
   - CGIAN2 396 bis
 
 
-# RECOUVREMENT DE L'IMPOT<a id=356></a>
+# RECOUVREMENT DE L'IMPOT<a id=357></a>
 
-## PAIEMENT DE L'IMPOT<a id=357></a>
+## SURETES ET PRIVILEGES<a id=358></a>
 
-### PENALITES<a id=358></a>
-
-###### Article 207 quater B
-
-Les infractions aux dispositions de l'article 1840 N sexies du code général des impôts sont constatées par des procès-verbaux
-qui peuvent être établis par les agents des impôts, les agents des douanes ainsi que par les agents de la direction générale
-de la concurrence et de la consommation qui ont prêté le serment requis des agents des administrations financières pour
-l'exercice de leurs fonctions.
-
-Les procès-verbaux sont rédigés à la requête du directeur général des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1840 N sexies
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales - art. A225 A-1
-
-
-## SURETES ET PRIVILEGES<a id=359></a>
-
-### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=360></a>
+### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=359></a>
 
 ###### Article 207 quinquies
 
