@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-01-19
+Version Consolidée au 1980-01-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -250,9 +250,9 @@ Version Consolidée au 1980-01-19
         - [TABACS. (art. 56 AM à 56 AQ)](#247)
       - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 66 à 69)](#248)
         - [OBLIGATIONS DIVERSES. (art. 66 à 69)](#249)
-      - [DROITS DE TIMBRE (art. 71 à 121 KL ter)](#250)
+      - [DROITS DE TIMBRE (art. 71 à 121 KM)](#250)
         - [DROITS DE TIMBRE PROPREMENT DITS. (art. 71 à 121 A4)](#251)
-        - [DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES. (art. 121 K à 121 KL ter)](#252)
+        - [DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES. (art. 121 K à 121 KM)](#252)
       - [AUTRES DROITS ET TAXES (art. 121 L à 121 V)](#253)
         - [TAXES SUR LES VEHICULES A MOTEUR. (art. 121 L à 121 V)](#254)
       - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE (art. 121 V bis à 121 V ter)](#255)
@@ -11702,6 +11702,42 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 121 KM
+
+Les débitants de tabac perçoivent sur le prix de vente des papiers timbrés et timbres mobiles de toute nature, dont ils
+assurent la débite, une remise calculée au moyen du barème ci-après :
+
+4 % jusqu'à 5.000 F de ventes annuelles;
+
+3 % de 5.001 à 25.000 F de ventes annuelles;
+
+2 % de 25.001 à 60.000 F de ventes annuelles;
+
+1 % au-dessus de 60.000 F de ventes annuelles (1).
+
+La remise est liquidée et payée semestriellement.
+
+Les dispositions du présent article s'appliquent dans les départements de la Corse.
+
+(1) Barème applicable à compter du 1er janvier 1980.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 22 décembre 2014 - art. Annexe 1 (V)
+  - Arrêté du 25 juin 2019 (V)
+
+_Modifié par_:
+
+  - Arrêté 1978-03-17 art. 1 JONC 6 avril 1978
+  - Arrêté 1980-01-08 art. 1 JONC 30 janvier 1980
+
+_Codifié par_:
+
+  - Arrêté 1981-09-15
 
 
 ### AUTRES DROITS ET TAXES<a id=253></a>
