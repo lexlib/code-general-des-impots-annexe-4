@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2001-08-22
+Version Consolidée au 2001-12-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -194,7 +194,7 @@ Version Consolidée au 2001-08-22
           - [Section unique : Taxe locale d'équipement (art. 155 A à 155 B)](#191)
       - [Titre I bis : Impositions départementales (art. 155 E à 155 N)](#192)
         - [Chapitre premier : Taxe sur les véhicules à moteur. (art. 155 E à 155 M)](#193)
-        - [Chapitre premier : Taxes sur les véhicules à moteur. (art. 155 C à 155 H)](#194)
+        - [Chapitre premier : Taxes sur les véhicules à moteur. (art. 155 C à 155 D)](#194)
         - [Chapitre II : Droits d'enregistrement et taxe de publicité foncière (art. 155 N)](#195)
           - [Réduction accordée dans le cadre de l'aménagement du territoire (art. 155 N)](#196)
       - [Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse. (art. 155 bis)](#197)
@@ -12944,6 +12944,31 @@ _Modifié par_:
   - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
 
 
+###### Article 155 H
+
+Le reçu est conservé par le conducteur du véhicule pour être présenté à toute réquisition des agents et fonctionnaires
+désignés aux articles L. 213 et R. 213-1 du livre des procédures fiscales.
+
+Cette disposition s'applique aux vignettes de la série normale comme aux vignettes spéciales et gratuites prévues à l'article
+155 C.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 2001-10-09 art. 2 JORF 13 octobre 2001 en vigueur le 1er décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 2001-10-09 art. 3
+
+_Cite_:
+
+  - CGIAN4 155 C
+  - Livre des procédures fiscales - art. L213 (M)
+  - Livre des procédures fiscales L213, R213-1
+
+
 ###### Article 155 I
 
 Un duplicata peut être délivré, en cas de destruction, de perte ou de vol d'une vignette, sur demande écrite du contribuable
@@ -13209,34 +13234,30 @@ _Cite_:
 ###### Article 155 C
 
 I. Le paiement de la taxe différentielle sur les véhicules à moteur, instituée par l'article 1599 C du code général des
-impôts, est constaté au moyen de la délivrance d'une vignette mobile constituée d'un reçu et d'un timbre adhésif, dont les
-conditions d'utilisation sont définies à l'article 155 H.
+impôts, est constaté au moyen de la délivrance d'une vignette mobile constituée d'un reçu dont les conditions d'utilisation
+sont définies à l'article 155 H.
 
 II. Outre la série normale des vignettes payantes, dont les types correspondent aux différentes catégories d'imposition, il
 existe une vignette spéciale destinée à la délivrance des duplicata et une vignette gratuite devant permettre d'identifier
-certaines catégories de véhicules exonérés de la taxe. Ces vignettes sont constituées des mêmes éléments que les vignettes
+certaines catégories de véhicules exonérés de la taxe. Ces vignettes sont constituées du même élément que les vignettes
 payantes.
 
 III. Les modèles de vignettes sont fixés par décision du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Arrêté 1985-09-24
+  - Arrêté 2001-10-09 art. 1 JORF 13 octobre 2001 en vigueur le 1er décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 2001-10-09 art. 3
 
 _Cite_:
 
   - CGI 1599 C
   - CGIAN4 155 H
-
-**Liens**:
-
-  - HISTO: Edition du 15 juillet 1985
-
-_Modifié par_:
-
-  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
 
 
 ###### Article 155 D
@@ -13280,41 +13301,6 @@ _Cite_:
 **Liens**:
 
   - HISTO: Edition du 22 avril 1998
-
-
-###### Article 155 H
-
-Le reçu est conservé par le conducteur du véhicule pour être présenté à toute réquisition des agents et fonctionnaires
-désignés aux articles L. 213 et R. 213-1 du livre des procédures fiscales. Le timbre adhésif doit être directement fixé dans
-l'angle inférieur droit du pare-brise du véhicule automobile de manière que les mentions qu'il comporte soient lisibles de
-l'extérieur de ce véhicule.
-
-Ces dispositions s'appliquent aux vignettes de la série normale comme aux vignettes spéciales et gratuites prévues à
-l'article 155 C.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
-
-_Codifié par_:
-
-  - Arrêté 1984-10-01
-
-_Cite_:
-
-  - CGIAN4 155 C
-  - Livre des procédures fiscales - art. L213 (M)
-  - Livre des procédures fiscales L213, R213-1
-
-**Liens**:
-
-  - HISTO: Edition du 20 juillet 1984
-
-_Modifié par_:
-
-  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
 
 
 #### Chapitre II : Droits d'enregistrement et taxe de publicité foncière<a id=195></a>
