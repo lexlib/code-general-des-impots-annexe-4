@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-01-30
+Version Consolidée au 1986-02-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -14286,13 +14286,18 @@ _Cite_:
 
 ###### Article 159 AL quater A
 
-Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,44 %.
+Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,35 %
+[*pourcentage*] jusqu'au 31 décembre 1986 [*date limite*].
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté 1986-02-04 art. 1 JORF 6 février 1986
+
 _Codifié par_:
 
-  - Arrêté 1983-07-10
+  - Arrêté 1986-10-07
 
 _Cite_:
 
@@ -14487,19 +14492,19 @@ Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 
 
 ###### Article 159 AL bis
 
-Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1985 à 0,95
-% dont 0,70 % affecté au comité professionnel de développement de l'horlogerie et 0,25 % affecté au centre technique de
-l'industrie horlogère.
+Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1986 [*date
+limite*] à 0,80 %[*pourcentage*] dont 0,55 % affecté au comité professionnel de développement de l'horlogerie et 0,25 %
+affecté au centre technique de l'industrie horlogère.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1984-11-19 art. 1 JORF 20 novembre 1984
+  - Arrêté 1986-02-04 art. 1 JORF 6 février 1986
 
 _Codifié par_:
 
-  - Arrêté 1985-09-24
+  - Arrêté 1986-10-07
 
 _Cite_:
 
@@ -14510,18 +14515,18 @@ _Cite_:
 
 ###### Article 159 AL quater
 
-Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,45 % du montant hors
-taxes des ventes.
+Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,35 % [*pourcentage*]
+du montant hors taxes des ventes jusqu'au 31 décembre 1986 [*date limite*] et à 30 % pour 1987.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Arrêté 1985-01-30 art. 1 JORF 1er février 1985
+  - Arrêté 1986-02-04 art. 1 JORF 6 février 1986
 
 _Codifié par_:
 
-  - Arrêté 1985-09-24
+  - Arrêté 1986-10-07
 
 _Cite_:
 
@@ -14532,18 +14537,18 @@ _Cite_:
 
 ###### Article 159 AL sexies
 
-1. Le taux de la taxe parafiscale prévue aux articles 363 N à 363 S de l'annexe II au code général des impôts est fixé à 0,22
-%.
-
-2. Le produit de la taxe parafiscale est affecté, pour 1982, au comité interprofessionnel de rénovation des industries du
-textile et de l'habillement, à charge pour lui de reverser une somme de 22 millions de francs au centre d'études techniques
-des industries de l'habillement.
+Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au code général des impôts est fixé à 0,175 %
+[*pourcentage*] jusqu'au 31 décembre 1986 [*date limite*].
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté 1986-02-04 art. 1 JORF 6 février 1986
+
 _Codifié par_:
 
-  - Arrêté 1983-10-06
+  - Arrêté 1986-10-07
 
 _Cite_:
 
