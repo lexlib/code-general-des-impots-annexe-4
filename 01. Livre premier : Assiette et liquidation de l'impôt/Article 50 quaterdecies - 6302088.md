@@ -1,21 +1,30 @@
 # Article 50 quaterdecies
 
-Le tarif de la redevance sanitaire de découpage s'établit comme suit (par tonne) : 
+Le tarif de la redevance sanitaire de découpage s'établit comme suit (par tonne) :
 
-Pour les viandes de boucherie : 11 Francs. 
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┓
+┃                                                   │ EN EUROS  ┃
+┃                                                   ├┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                                   │ Par tonne ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les viandes de boucherie                     │ 1,68      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les viandes de volailles et de lapin         │ 1,35      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les viandes de gibier d'élevage et sauvage : │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ - petit gibier à plumes, petit gibier à poils     │ 1,35      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ - ratites (autruche, émeu, nandou)                │ 2,90      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ - sanglier et ruminants                           │ 1,68      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━┛
+</pre>
 
-Pour les viandes de volailles et de lapin : 9 Francs. 
-
-Pour les viandes de gibier d'élevage : 
-
-- petit gibier à plumes, petit gibier à poils : 9 Francs. 
-
-- ratites (autruche, émeu, nandou) : 19 Francs. 
-
-- sanglier et ruminants : 11 Francs.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 29 avril 1998 - art. 2 JORF 7 mai 1998 en vigueur le 1er juin 1998, v. init.
+  - Arrêté du 17 septembre 1999 - art. 2 JORF 21 septembre 1999 en vigueur le 1er janvier 2002, v. init.
