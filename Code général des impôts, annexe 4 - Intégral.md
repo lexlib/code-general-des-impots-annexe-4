@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-06-14
+Version Consolidée au 1985-06-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -332,7 +332,7 @@ Version Consolidée au 1985-06-14
         - [REGLEMENTATION DES MACHINES A TIMBRER. (art. 164 AD à 164 M)](#329)
       - [DISPOSITIONS DIVERSES (art. 170 octies à 170 septies D)](#330)
         - [DISPOSITIONS COMMUNES. (art. 170 octies à 170 septies D)](#331)
-          - [OCTROI DE CERTAINS AGREMENTS FISCAUX. (art. 170 septies D)](#332)
+          - [OCTROI DE CERTAINS AGREMENTS FISCAUX. (art. 170 septies A à 170 septies D)](#332)
   - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 AM bis)](#333)
     - [CONTRIBUTIONS INDIRECTES (art. 159 AM bis)](#334)
       - [TAXE PARAFISCALE AU PROFIT D'ORGANISMES INTERPROFESSIONNELS DE VIN. (art. 159 AM bis)](#335)
@@ -15830,6 +15830,34 @@ _Cite_:
 
 
 ##### OCTROI DE CERTAINS AGREMENTS FISCAUX.<a id=332></a>
+
+###### Article 170 septies A
+
+Pour les entreprises relevant du régime du forfait ou du régime simplifié de liquidation des taxes sur le chiffre d'affaires
+prévu aux articles 302 ter et 302 septies A du code général des impôts, l'agrément institué par l'article 279-b sexies du
+même code est délivré par le directeur régional des impôts [*autorité compétente*] sur proposition du commissaire de la
+République de région.
+
+Pour les autres entreprises, ou lorsque l'affaire présente des difficultés particulières, l'agrément est délivré
+conjointement par le ministre de l'économie, des finances et du budget et le ministre délégué à la culture, après avis de la
+commission prévue par l'article 279-b sexies précité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1984-12-07 art. 1, art. 2 JORF 8 décembre 1984
+
+_Codifié par_:
+
+  - Arrêté 1985-09-24
+
+_Cite_:
+
+  - CGI 279 b sexies
+  - CGI 302 septies A
+  - CGI 302 ter
+
 
 ###### Article 170 septies D
 
