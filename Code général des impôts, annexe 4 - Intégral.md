@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1999-07-01
+Version Consolidée au 1999-12-27
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -16055,7 +16055,7 @@ _Cite_:
 ###### Article 159 AL bis
 
 Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé à 0,20 % jusqu'au 31 décembre
-((1998)) (M).
+((1999)) (M).
 
 (M) Modification.
 
@@ -16063,11 +16063,11 @@ Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des
 
 _Modifié par_:
 
-  - Arrêté 1997-12-23 art. 1 JORF 27 décembre 1997
+  - Arrêté 1998-12-22 art. 1 JORF 27 décembre 1998
 
 _Codifié par_:
 
-  - Arrêté 1998-05-22
+  - Arrêté 1999-05-18
 
 _Cite_:
 
@@ -16075,7 +16075,7 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
+  - HISTO: Edition du 31 mars 1999
 
 
 ##### Section VII quater A : Taxe parafiscale sur certaines viandes.<a id=231></a>
