@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1989-08-22
+Version Consolidée au 1989-12-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -2866,28 +2866,32 @@ _Cité par_:
 
 ###### Article 23 bis
 
-Sont assimilés aux bénéfices provenant des opérations traitées avec l'administration des postes et télécommunications pour
-l'application de l'article 208-3o quinquies du code général des impôts :
+Sont assimilés aux bénéfices provenant des contrats de crédit-bail conclus avec l'administration des postes et
+télécommunications avant le 1er janvier 1993 pour l'application de l'article 208-3° quinquies du code général des impôts :
 
-1o Les profits retirés par les sociétés agréées pour le financement des télécommunications  du placement à vue ou à court
+1° Les profits retirés par les sociétés agréées pour le financement des télécommunications  du placement à vue ou à court
 terme des sommes en instance d'emploi  dans la mesure où ce placement peut être regardé comme une opération de trésorerie
 accessoire. Cette condition est réputée remplie pour la fraction des placements qui n'excède pas  en valeur nominale  pour
 chaque exercice  la moitié des dépenses annuelles de gestion augmentée du montant des dividendes mis en paiement au cours de
 l'exercice ainsi que du montant de l'augmentation de capital libérée par les actionnaires pendant le même exercice et
 l'exercice précédent;
 
-2o Les intérêts versés par l'administration des postes et télécommunications  à raison des avances sur marchés consenties par
+2° Les intérêts versés par l'administration des postes et télécommunications  à raison des avances sur marchés consenties par
 les sociétés agréées aux constructeurs  fournisseurs et autres ayants droit  avant la livraison des immeubles et équipements.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1989-10-30
 
 _Cite_:
 
   - CGI 208 3° quinquies
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°88-1149 du 23 décembre 1988 - art. 75 (V) JORF 28 décembre 1988 incorporée à l'annexe 4 le 14 juillet 1989
 
 
 ##### Section II : Lieu d'imposition<a id=46></a>
