@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-02-17
+Version Consolidée au 1985-02-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -335,32 +335,35 @@ Version Consolidée au 1985-02-17
         - [REGLEMENTATION DES MACHINES A TIMBRER. (art. 164 AD à 164 M)](#332)
       - [DISPOSITIONS DIVERSES (art. 170 octies à 170 ter)](#333)
         - [DISPOSITIONS COMMUNES. (art. 170 octies à 170 ter)](#334)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#335)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#336)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#337)
-        - [3 : Paiement de l'impôt (art. 187 à 188)](#338)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#339)
-      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H)](#340)
-      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#341)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#342)
-      - [Section III : Contributions indirectes (art. 193 à 194)](#343)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#344)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#345)
-        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#346)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#347)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#348)
-        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#349)
-        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#350)
-      - [Section V : Dispositions communes (art. 199 à 204)](#351)
-        - [2° : Paiement par chèques (art. 199 à 204)](#352)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#353)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#354)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#355)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#356)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#357)
-  - [RECOUVREMENT DE L'IMPOT (art. 207 quinquies)](#358)
-    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#359)
-      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#360)
+  - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 AM bis)](#335)
+    - [CONTRIBUTIONS INDIRECTES (art. 159 AM bis)](#336)
+      - [TAXE PARAFISCALE AU PROFIT D'ORGANISMES INTERPROFESSIONNELS DE VIN. (art. 159 AM bis)](#337)
+  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#338)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#339)
+      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#340)
+        - [3 : Paiement de l'impôt (art. 187 à 188)](#341)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#342)
+      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H)](#343)
+      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#344)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#345)
+      - [Section III : Contributions indirectes (art. 193 à 194)](#346)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#347)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#348)
+        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#349)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#350)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#351)
+        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#352)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#353)
+      - [Section V : Dispositions communes (art. 199 à 204)](#354)
+        - [2° : Paiement par chèques (art. 199 à 204)](#355)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#356)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#357)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#358)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#359)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#360)
+  - [RECOUVREMENT DE L'IMPOT (art. 207 quinquies)](#361)
+    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#362)
+      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#363)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -15736,13 +15739,35 @@ _Cite_:
   - CGIAN3 266
 
 
-# Livre II : Recouvrement de l'impôt<a id=335></a>
+# IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=335></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=336></a>
+## CONTRIBUTIONS INDIRECTES<a id=336></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=337></a>
+### TAXE PARAFISCALE AU PROFIT D'ORGANISMES INTERPROFESSIONNELS DE VIN.<a id=337></a>
 
-#### 3 : Paiement de l'impôt<a id=338></a>
+###### Article 159 AM bis
+
+Le taux de la taxe mentionnée à l'article 361 bis de l'annexe II au code général des impôts est fixé à 4,76 F par hectolitre
+de vin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1985-09-24
+
+_Cite_:
+
+  - CGIAN2 361 bis
+
+
+# Livre II : Recouvrement de l'impôt<a id=338></a>
+
+## Chapitre premier : Paiement de l'impôt<a id=339></a>
+
+### Section I : Impôts directs et taxes assimilées<a id=340></a>
+
+#### 3 : Paiement de l'impôt<a id=341></a>
 
 ###### Article 187
 
@@ -15772,7 +15797,7 @@ _Abrogé par_:
   - Décret n°2015-1136 du 14 septembre 2015 - art. 4
 
 
-### Section I bis : Intérêts des bons de caisse<a id=339></a>
+### Section I bis : Intérêts des bons de caisse<a id=342></a>
 
 ###### Article 188 B
 
@@ -15850,7 +15875,7 @@ intérêt.
 
 
 
-### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=340></a>
+### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=343></a>
 
 ###### Article 188 H
 
@@ -15888,7 +15913,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 I (VD)
 
 
-### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=341></a>
+### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=344></a>
 
 ###### Article 188 I
 
@@ -15921,7 +15946,7 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=342></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=345></a>
 
 ###### Article 189
 
@@ -15978,7 +16003,7 @@ _Cite_:
   - CGIAN4 194
 
 
-### Section III : Contributions indirectes<a id=343></a>
+### Section III : Contributions indirectes<a id=346></a>
 
 ###### Article 193
 
@@ -16015,9 +16040,9 @@ _Modifié par_:
   - Arrêté 1981-10-30 art. 1 JORF 31 octobre 1981
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=344></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=347></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=345></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=348></a>
 
 ###### Article 196 A
 
@@ -16065,7 +16090,7 @@ _Cite_:
   - PEREMPTION: Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
 
 
-#### 2 : Paiement en valeurs du Trésor.<a id=346></a>
+#### 2 : Paiement en valeurs du Trésor.<a id=349></a>
 
 ###### Article 198 bis
 
@@ -16179,7 +16204,7 @@ _Cite_:
   - Loi n°50-135 1950-01-31 ART. 41, ART. 42
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=347></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=350></a>
 
 ###### Article 198 quinquies
 
@@ -16190,7 +16215,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=348></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=351></a>
 
 ###### Article 198 sexies
 
@@ -16205,7 +16230,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=349></a>
+#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=352></a>
 
 ###### Article 198 septies
 
@@ -16225,7 +16250,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=350></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=353></a>
 
 ###### Article 198 octies
 
@@ -16242,9 +16267,9 @@ _Codifié par_:
   - Arrêté 1985-09-24
 
 
-### Section V : Dispositions communes<a id=351></a>
+### Section V : Dispositions communes<a id=354></a>
 
-#### 2° : Paiement par chèques<a id=352></a>
+#### 2° : Paiement par chèques<a id=355></a>
 
 ###### Article 199
 
@@ -16323,9 +16348,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-## Chapitre I bis : Pénalités<a id=353></a>
+## Chapitre I bis : Pénalités<a id=356></a>
 
-### I : Impôts directs et taxes assimilées<a id=354></a>
+### I : Impôts directs et taxes assimilées<a id=357></a>
 
 ###### Article 207 quater A
 
@@ -16334,7 +16359,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=355></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=358></a>
 
 ###### Article 207 quater A bis
 
@@ -16360,9 +16385,9 @@ _Cite_:
   - HISTO: Edition du 10 juillet 1983
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=356></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=359></a>
 
-### Publicité du privilège du Trésor<a id=357></a>
+### Publicité du privilège du Trésor<a id=360></a>
 
 ###### Article 207 sexies
 
@@ -16391,11 +16416,11 @@ _Cite_:
   - CGIAN2 396 bis
 
 
-# RECOUVREMENT DE L'IMPOT<a id=358></a>
+# RECOUVREMENT DE L'IMPOT<a id=361></a>
 
-## SURETES ET PRIVILEGES<a id=359></a>
+## SURETES ET PRIVILEGES<a id=362></a>
 
-### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=360></a>
+### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=363></a>
 
 ###### Article 207 quinquies
 
