@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-02-04
+Version Consolidée au 1982-02-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -252,10 +252,10 @@ Version Consolidée au 1982-02-04
           - [LIQUIDATION DE LA TAXE. (art. 28 A)](#249)
       - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES (art. 50 quindecies)](#250)
         - [RECEPISSE DE CONSIGNATION. (art. 50 quindecies)](#251)
-      - [CONTRIBUTIONS INDIRECTES (art. 54 decies à 54-0 E)](#252)
-        - [BOISSONS (art. 54 decies à 54-0 E)](#253)
+      - [CONTRIBUTIONS INDIRECTES (art. 54 decies à 54 K)](#252)
+        - [BOISSONS (art. 54 decies à 54 K)](#253)
           - [ALCOOLS (art. 51 C à 53)](#254)
-          - [CIRCULATION. (art. 54 A à 54-0 E)](#255)
+          - [CIRCULATION. (art. 54 A à 54 K)](#255)
       - [MONOPOLES FISCAUX (art. 56 AQ)](#256)
         - [TABACS. (art. 56 AQ)](#257)
       - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 66 à 69)](#258)
@@ -3540,7 +3540,8 @@ _Cité par_:
 Le timbre et l'indication des contenances doivent être imprimés :
 
 En vert (étalon M de la norme Afnor NF-X 08-002 homologuée le 31 août 1963) pour les vins tranquilles ou mousseux à
-appellation d'origine contrôlée et les vins doux naturels soumis au régime      l fiscal des vins.
+appellation d'origine contrôlée, les vins délimités de qualité supérieure et les doux naturels soumis au régime fiscal des
+vins.
 
 Pour les vins mousseux à appellation d'origine contrôlée "champagne" et les vins doux naturels bénéficiant du régime fiscal
 des vins  le nom de l'appellation ou la mention "V.D.N." doit être accolé au timbre et imprimé en vert sur fond blanc.
@@ -3551,14 +3552,40 @@ En violet (étalon V de la norme Afnor NF-X 08-002 homologuée le 31 août 1963)
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté 1982-01-25 art. 1 JONC 6 février 1982
+
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 D (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 E (V)
 
-**Liens**:
 
-  - HISTO: EDITION 1979-07-01
+###### Article 54-0 E
+
+Les inscriptions autres que celles prévues à l'article 54-0 D peuvent être imprimées en toutes couleurs, mais en aucun cas la
+couleur verte ne peut être employée sur les capsules apposées sur s des bouteilles contenant des vins ne bénéficiant pas
+d'une appellation d'origine contrôlée ou de l'appellation "Vin délimité de qualité supérieure".
+
+Pour les vins à appellation d'origine contrôlée et les vins délimités de qualité supérieure ces mentions doivent être
+apposées sur fond vert.
+
+Sur les capsules représentatives de droits  les mentions prévues à l'article 54-0 C peuvent être apposées par estampage ou
+être moulées s'il s'agit de capsules en matière plastique.
+
+L'indication desdites mentions doit figurer sur les capsules bandes ou récipients portant impression du timbre avant leur
+livraison au négociant utilisateur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN4 54-0 D, 54-0 C
+
+_Modifié par_:
+
+  - arrêté 1982-01-25 art. 2 JONC 6 février 1982
 
 
 ###### Article 54-0 F
@@ -11560,32 +11587,6 @@ Les bordereaux visés au présent article sont conservés au bureau de déclarat
 _Abrogé par_:
 
   - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54-0 E
-
-Les inscriptions autres que celles prévues à l'article 54-0 D peuvent être imprimées en toutes couleurs  mais en aucun cas la
-couleur verte ne peut être employée sur les capsules apposées sur des bouteilles contenant des vins ne bénéficiant pas d'une
-appellation d'origine contrôlée.
-
-Pour les vins à appellation d'origine contrôlée  ces mentions doivent être apposées sur fond vert.
-
-Sur les capsules représentatives de droits  les mentions prévues à l'article 54-0 C peuvent être apposées par estampage ou
-être moulées s'il s'agit de capsules en matière plastique.
-
-L'indication desdites mentions doit figurer sur les capsules bandes ou récipients portant impression du timbre avant leur
-livraison au négociant utilisateur.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN4 54-0 C
-  - CGIAN4 54-0 D
 
 **Liens**:
 
