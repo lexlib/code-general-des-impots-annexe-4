@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-07-19
+Version Consolidée au 1980-09-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -262,8 +262,8 @@ Version Consolidée au 1980-07-19
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies DD à 121 sexies)](#259)
           - [COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES. (art. 121 quinquies DD)](#260)
           - [AUTRES IMPOSITIONS. (art. 121 sexies)](#261)
-        - [CONTRIBUTIONS INDIRECTES (art. 132 à 136)](#262)
-          - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 132 à 136)](#263)
+        - [CONTRIBUTIONS INDIRECTES (art. 126 F à 136)](#262)
+          - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 126 F à 136)](#263)
       - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES (art. 121 quinquies E à 153)](#264)
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#265)
           - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#266)
@@ -12496,6 +12496,29 @@ _Cité par_:
 
 ##### IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS.<a id=263></a>
 
+###### Article 126 F
+
+L'exemption [*exonération*] totale de l'impôt sur les spectacles prévue par l'article 1561-3o-b premier alinéa du code
+général des impôts est applicable :
+
+aux compétitions relevant des activités sportives ci-après :
+
+athlétisme  aviron  natation  gymnastique et escrime;
+
+jusqu'au 31 décembre 1984 aux compétitions relevant des activités sportives ci-après : aikido  boxe française  canoe-kayak
+haltérophilie  handball  hockey sur gazon  judo  karaté  lutte pelote basque  ski  tennis de table  tir et volley-ball.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1980-08-20 art. 1 JORF 12 septembre 1980
+
+_Cite_:
+
+  - CGI 1561 3° b AL. 1
+
+
 ###### Article 132
 
 Quelles que soient les stipulations des cahiers des charges l'exemption de l'impôt prévue à l'article 1561-6° du code général
@@ -12675,29 +12698,6 @@ _Cite_:
 _Abrogé par_:
 
   - Décret n°82-71 du 22 janvier 1982 - art. 2 (V) JORF 24 JANVIER 1982
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 126 F
-
-L'exemption [*exonération*] totale de l'impôt sur les spectacles prévue par l'article 1561-3o-b premier alinéa du code
-général des impôts est applicable :
-
-aux compétitions relevant des activités sportives ci-après :
-
-athlétisme  aviron  natation  gymnastique et escrime;
-
-jusqu'au 31 décembre 1980 aux compétitions relevant des activités sportives ci-après : aikido  boxe française  canoe-kayak
-haltérophilie  handball  hockey sur gazon  judo  karaté  lutte pelote basque  ski  tennis de table  tir et volley-ball.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1561 3° b AL. 1
 
 **Liens**:
 
