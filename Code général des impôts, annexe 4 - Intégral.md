@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1983-01-11
+Version Consolidée au 1983-01-13
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -296,8 +296,8 @@ Version Consolidée au 1983-01-11
         - [BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA* (art. 159 ter A)](#293)
         - [FONDS NATIONAL DU LIVRE (art. 159 AD)](#294)
         - [COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE. (art. 159 AL bis)](#295)
-        - [TAXE PARAFISCALE SUR LES TEXTILES. (art. 159 AL ter)](#296)
-        - [TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT. (art. 159 AL quater)](#297)
+        - [TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT. (art. 159 AL quater)](#296)
+      - [TAXE PARAFISCALE DES INDUSTRIES DE L'HABILLEMENT ET DE LA MAILLE. (art. 159 AL sexies)](#297)
       - [CONTRIBUTIONS INDIRECTES (art. 159 AQ à 159 AP)](#298)
         - [COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES. (art. 159 AM)](#299)
         - [TAXES PARAFISCALE SUR CERTAINES VIANDES. (art. 159 AO)](#300)
@@ -13681,31 +13681,6 @@ _Cite_:
   - CGIAN2 357 A
 
 
-###### Article 159 AL sexies
-
-1. Le taux de la taxe parafiscale prévue aux articles 363 N à 363 S de l'annexe II au code général des impôts est fixé pour
-1982 à 0,22 %.
-
-2. Le produit de la taxe parafiscale est affecté, pour 1982, au comité interprofessionnel de rénovation des industries du
-textile et de l'habillement, à charge pour lui de reverser une somme de 22 millions de francs au centre d'études techniques
-des industries de l'habillement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1982-10-15
-
-_Cite_:
-
-  - CGIAN2 363 N
-  - CGIAN2 363 O
-  - CGIAN2 363 P
-  - CGIAN2 363 Q
-  - CGIAN2 363 R
-  - CGIAN2 363 S
-
-
 #### TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.<a id=292></a>
 
 ###### Article 157 bis
@@ -13908,29 +13883,7 @@ _Modifié par_:
   - Décret n°81-903 1981-10-05 art. 1 JORF 7 octobre 1981
 
 
-#### TAXE PARAFISCALE SUR LES TEXTILES.<a id=296></a>
-
-###### Article 159 AL ter
-
-Le taux de la taxe parafiscale sur les textiles visée à l'article 352 de l'annexe II au code général des impôts est fixé à
-0,44 % jusqu'au 31 décembre 1982.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1982-10-15
-
-_Cite_:
-
-  - CGIAN2 352
-
-_Abrogé par_:
-
-  - Décret n°82-1242 du 31 décembre 1982 - art. 6 (V) JORF 13 janvier 1983
-
-
-#### TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT.<a id=297></a>
+#### TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT.<a id=296></a>
 
 ###### Article 159 AL quater
 
@@ -13947,6 +13900,28 @@ des impôts est fixé à 0,30 % pour la période du 1er février 1979 au 31 déc
 _Cite_:
 
   - CGIAN2 363 A
+
+
+### TAXE PARAFISCALE DES INDUSTRIES DE L'HABILLEMENT ET DE LA MAILLE.<a id=297></a>
+
+###### Article 159 AL sexies
+
+1. Le taux de la taxe parafiscale prévue aux articles 363 N à 363 S de l'annexe II au code général des impôts est fixé à 0,22
+%.
+
+2. Le produit de la taxe parafiscale est affecté, pour 1982, au comité interprofessionnel de rénovation des industries du
+textile et de l'habillement, à charge pour lui de reverser une somme de 22 millions de francs au centre d'études techniques
+des industries de l'habillement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1983-10-06
+
+_Cite_:
+
+  - CGIAN2 363 N à CGIAN2 363 S
 
 
 ### CONTRIBUTIONS INDIRECTES<a id=298></a>
