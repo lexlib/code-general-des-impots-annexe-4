@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2001-03-31
+Version Consolidée au 2001-05-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -15749,25 +15749,22 @@ passibles.
 ###### Article 164 AF
 
 L'usager ne peut effectuer, ni tolérer que soient effectuées à une machine en service des réparations ayant une répercussion
-sur le mécanisme des compteurs ou sur celui d'apposition des empreintes. Il ne peut modifier  d'une façon quelconque  aucune
+sur le mécanisme des compteurs ou sur celui d'apposition des empreintes. Il ne peut modifier, d'une façon quelconque, aucune
 des parties du mécanisme ou des compteurs.
 
 Toute machine dont le fonctionnement est devenu défectueux doit être immédiatement signalée au concessionnaire ainsi qu'au
-service des impôts ou au service des douanes et droits indirects, pour ce qui le concerne, dont dépend l'usager.
+service des impôts dont dépend l'usager.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
+  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
+  - Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
 
 _Codifié par_:
 
-  - Arrêté 1993-09-24
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
+  - Arrêté 2001-05-21
 
 
 ###### Article 164 AG
