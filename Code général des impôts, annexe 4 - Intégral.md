@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-03-30
+Version Consolidée au 1980-04-13
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -129,8 +129,8 @@ Version Consolidée au 1980-03-30
           - [Section II : Conditionnement des spiritueux. (art. 55 B)](#126)
         - [Chapitre I quinquies : Céréales (art. 56 D quater)](#127)
           - [Section 1 : Utilisation de machines à timbrer. (art. 56 D quater)](#128)
-        - [Chapitre II : Monopoles (art. 56 AD à 56 AN)](#129)
-          - [Section unique : Tabacs. (art. 56 AD à 56 AN)](#130)
+        - [Chapitre II : Monopoles (art. 56 AA à 56 AN)](#129)
+          - [Section unique : Tabacs. (art. 56 AA à 56 AN)](#130)
       - [Titre IV : Enregistrement, publicité foncière, timbre (art. 60 à 121 VA)](#131)
         - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 60 à 67)](#132)
           - [Section I : Dispositions générales : des formalités (art. 60 à 60 A)](#133)
@@ -4489,6 +4489,44 @@ agréée indiquant les types de crédit pour lesquels le cautionnement est accor
 
 
 
+###### Article 56 AK
+
+Le document utilisé pour accompagner chaque livraison à un débitant doit porter, imprimées, les mentions suivantes :
+
+en caractères très apparents : "Document de livraison" ;
+
+nom ou raison sociale, adresse et numéro d'identification du fournisseur ;
+
+ainsi que les indications ci-après :
+
+un numéro d'ordre ;
+
+le nom du débitant destinataire ;
+
+le numéro et l'adresse du débit ;
+
+l'identification des produits avec l'indication des quantités pour chacun d'eux ;
+
+l'échéance du règlement ;
+
+la valeur au prix de détail de la livraison ;
+
+le lieu d'enlèvement des produits ;
+
+le mode et la durée du transport.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1983-10-06
+
+_Modifié par_:
+
+  - Loi n°78-1239 du 29 décembre 1978 - art. 25 (V) JORF 30 décembre 1978
+  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 avril 1980
+
+
 ###### Article 56 AO
 
 En l'absence de document douanier  les transports de tabacs manufacturés doivent être effectués sous le couvert d'un acquit-
@@ -5168,6 +5206,29 @@ _Cite_:
 
 ##### Section unique : Tabacs.<a id=130></a>
 
+###### Article 56 AA
+
+La vente au détail des tabacs manufacturés est effectuée dans les départements français continentaux par les débitants
+préposés par l'administration des impôts pour gérer un débit du monopole. Ces gérants sont tenus de se faire approvisionner
+en fonction de leurs possibilités de ventes par les fournisseurs pourvus d'un numéro d'identification et de céder tous les
+produits reçus au prix fixé par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1983-10-06
+
+_Modifié par_:
+
+  - Loi n°78-1239 du 29 décembre 1978 - art. 25 (V) JORF 30 décembre 1978
+  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 avril 1980
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AP (V)
+
+
 ###### Article 56 AD
 
 Chaque fournisseur est tenu de consentir à tous les débitants les crédits prévus par l'article 282 de l'annexe II au code
@@ -5201,6 +5262,27 @@ par le même fournisseur au cours de l'année précédente diffère de moins de 
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 56 AI
+
+En cas de retrait de sa garantie à un débitant la caution agréée doit en informer  par lettre recommandée avec demande d'avis
+de réception  l'administration des impôts et tous les fournisseurs pourvus d'un numéro d'identification dont la liste lui est
+communiquée par cette administration.
+
+Pour chaque fournisseur  le retrait de la garantie prend effet cinq jours francs après réception de la lettre recommandée et
+rend immédiatement exigibles les sommes dues par le gérant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1983-10-06
+
+_Modifié par_:
+
+  - Loi n°78-1239 du 29 décembre 1978 - art. 25 (V) JORF 30 décembre 1978
+  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 avril 1980
 
 
 ###### Article 56 AJ
@@ -5238,6 +5320,29 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 56 AL
+
+Le document de livraison doit être revêtu de la marque du monopole par l'apposition  dans le cadre réservé à cet effet  d'une
+vignette spéciale fournie par le service des impôts.
+
+Les vignettes sont délivrées par le receveur local des impôts qui y appose au préalable le timbre du fournisseur. A cet effet
+le fournisseur remet au receveur local un timbre humide de forme ronde ayant 20 millimètres de diamètre et portant le nom ou
+la raison sociale et le numéro d'identification de l'intéressé. Les vignettes sont apposées dans l'ordre de leur numérotation
+sur les documents de livraison avant l'enlèvement des produits. Elles doivent être complétées par l'inscription en toutes
+lettres dans les cadres prévus du numéro d'ordre du document de livraison ainsi que des date et heure d'enlèvement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1983-10-06
+
+_Modifié par_:
+
+  - Loi n°78-1239 du 29 décembre 1978 - art. 25 (V) JORF 30 décembre 1978
+  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 avril 1980
 
 
 ###### Article 56 AN
