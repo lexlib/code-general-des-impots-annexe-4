@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1987-02-06
+Version Consolidée au 1987-02-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -17,7 +17,7 @@ Version Consolidée au 1987-02-06
             - [III : Provisions pour reconstitution des gisements (art. 4 A à 4 B)](#14)
               - [a : Entreprises de recherches et d'exploitation d'hydrocarbures. (art. 4 A à 4 B)](#15)
             - [III bis : Provision pour prêts d'installation consentis par les entreprises à leurs salariées. (art. 4 C quater à 4 C ter)](#16)
-            - [VIII : Contrôle des frais généraux. Obligations des entreprises (art. 4 K)](#17)
+            - [VIII : Contrôle des frais généraux. Obligations des entreprises (art. 4 K à 4 L)](#17)
             - [IX : Evaluation des stocks et des travaux en cours (art. 4 LA)](#18)
           - [Section I bis : Bénéfice de l'exploitation agricole (art. 4 M à 4 O)](#19)
             - [1° : Imposition d'après le bénéfice réel (art. 4 M)](#20)
@@ -274,7 +274,7 @@ Version Consolidée au 1987-02-06
     - [IMPOTS D'ETAT (art. 4 C bis à 121 V bis)](#271)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 4 C bis à 17 quinquies B)](#272)
         - [IMPOT SUR LE REVENU (art. 4 C bis à 17 quinquies B)](#273)
-          - [BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*. (art. 4 C bis à 4 L)](#274)
+          - [BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*. (art. 4 C bis à 4 J)](#274)
           - [REVENU DES CAPITAUX MOBILIERS. (art. 16 bis)](#275)
           - [REVENU GLOBAL. (art. 17 quinquies A à 17 quinquies B)](#276)
       - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 48 à 50 undecies)](#277)
@@ -1133,6 +1133,27 @@ _Modifié par_:
 _Cite_:
 
   - CGIAN4 4 J
+
+
+###### Article 4 L
+
+Les entreprises relevant de l'impôt sur le revenu dans la catégorie des bénéfices industriels et commerciaux, à l'exclusion
+de toute société, sont dispensées de produire les renseignements concernant les catégories de frais énumérés sous les
+rubriques 1° à 3° de l'article 4 J.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1982-02-08 art. 1 JORF 17 février 1987
+
+_Codifié par_:
+
+  - Arrêté 1987-11-23
+
+_Cite_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 4 J (V)
 
 
 ##### IX : Evaluation des stocks et des travaux en cours<a id=18></a>
@@ -12621,23 +12642,6 @@ _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 K (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 L (V)
-
-
-###### Article 4 L
-
-Les entreprises relevant de l'impôt sur le revenu dans la catégorie des bénéfices industriels et commerciaux  à l'exclusion
-de toute société  sont dispensées de produire les renseignements concernant les catégories de frais énumérés sous les
-rubriques 1o à 4o de l'article 4 J.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN4 4 J 1°, 2°, 3°, 4°
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ##### REVENU DES CAPITAUX MOBILIERS.<a id=275></a>
