@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-01-23
+Version Consolidée au 1986-01-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -13095,19 +13095,27 @@ _Cite_:
 
 En application de l'article 242-0P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
 ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0M de la même annexe
-est fixé, pour l'année 1985, à 1500 F pour les demandes déposées au titre d'un trimestre civil et à 180 F pour les demandes
+est fixé, pour l'année 1986, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les demandes
 déposées au titre d'une année civile.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté 1986-01-21 art. 1 JORF 30 janvier 1986
+
 _Codifié par_:
 
-  - Arrêté 1985-09-24
+  - Arrêté 1986-10-07
 
 _Cite_:
 
-  - CGIAN2 242-0 M
-  - CGIAN2 242-0 P
+  - CGIAN2 242-OM
+  - CGIAN2 242-OP
+
+**Liens**:
+
+  - TXT_ASSOCIE: CGIAN2 242-OP
 
 
 ### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES<a id=273></a>
