@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1992-07-04
+Version Consolidée au 1992-11-11
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -23,8 +23,8 @@ Version Consolidée au 1992-07-04
           - [Section I bis : Bénéfice de l'exploitation agricole (art. 4 M à 4 P)](#20)
             - [1° : Imposition d'après le bénéfice réel (art. 4 M)](#21)
             - [2° : Dénonciation du forfait par le service des impôts (art. 4 N)](#22)
-            - [Passage du régime du forfait à un régime de bénéfice réel. (art. 4 O)](#23)
-            - [Passage du régime transitoire d'imposition à un régime de bénéfice réel. (art. 4 P)](#24)
+            - [3° : Passage du régime du forfait à un régime de bénéfice réel (art. 4 O)](#23)
+            - [4° : Passage du régime transitoire d'imposition à un régime de bénéfice réel. (art. 4 P)](#24)
           - [Section II : Traitements et salaires (art. 5 à 5 A)](#25)
             - [Déduction supplémentaire pour frais professionnels. (art. 5 à 5 A)](#26)
           - [Section III : Revenus des capitaux mobiliers (art. 6 ter à 17 D)](#27)
@@ -1508,83 +1508,74 @@ Production de gelée royale.
   - HISTO: EDITION 1979-07-01
 
 
-##### Passage du régime du forfait à un régime de bénéfice réel.<a id=23></a>
+##### 3° : Passage du régime du forfait à un régime de bénéfice réel<a id=23></a>
 
 ###### Article 4 O
 
-En cas de passage d'un exploitant agricole du régime du forfait à un régime d'imposition d'après le bénéfice réel  les
-produits de la viticulture en stock à la date de changement de régime sont évalués en appliquant au cours du jour à la même
-date une décote calculée comme suit :
+En cas de passage d'un exploitant agricole du régime du forfait à un régime d'imposition d'après le bénéfice réel, les
+produits de la viticulture en stock à la date de ce changement de régime sont évalués en appliquant au cours du jour du vin
+en vrac à la même date une décote calculée comme suit :
 
 1° Décote applicable aux vins :
 
-Vins provenant de la dernière récolte levée à la date du changement de régime : 0 %;
+a) Vins provenant de la dernière récolte levée à la date du changement de régime : 0% ;
 
-Vins provenant de la deuxième et de la troisième récolte antérieure au changement de régime : 8 %;
+b) Vins provenant de la deuxième et de la troisième récolte antérieure au changement de régime : 8% ;
 
-Vins provenant de la quatrième   de la cinquième et de la sixième récolte antérieure au changement de régime : 20 %;
+c) Vins provenant de la quatrième, de la cinquième et de la sixième récolte antérieure au changement de régime : 20% ;
 
-Vins provenant de récoltes plus anciennes : 30 %.
-
-2° Décote applicable aux eaux-de-vie :
-
-Eaux-de-vie provenant de la dernière récolte levée à la date du changement de régime : 0 %;
-
-Eaux-de-vie provenant de la deuxième et de la troisième récolte antérieure au changement de régime : 5 %;
-
-Eaux-de-vie provenant de la quatrième récolte antérieure au changement de régime : 10 %;
-
-Eaux-de-vie provenant de la cinquième récolte antérieure au changement de régime : 15 %;
-
-Eaux-de-vie provenant de récoltes plus anciennes : 20 %.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### Passage du régime transitoire d'imposition à un régime de bénéfice réel.<a id=24></a>
-
-###### Article 4 P
-
-En cas de passage d'un exploitant agricole du régime transitoire d'imposition à un régime de bénéfice réel, les produits de
-la viticulture levés sous le régime du forfait, en stock à la date de ce changement de régime, sont évalués en appliquant au
-cours du jour à la même date une décote calculée comme suit :
-
-1° Décote applicable aux vins :
-
-Vins provenant de la dernière récolte levée à la date du passage du forfait au régime transitoire : 0 p. 100 ;
-
-Vins provenant de la deuxième et de la troisième récolte antérieure au passage du forfait au régime transitoire : 8 p. 100 ;
-Vins provenant de la quatrième, de la cinquième et de la sixième récolte antérieure au passage du forfait au régime
-transitoire :
-
-20 p. 100 ;
-
-Vins provenant de récoltes plus anciennes : 30 p. 100 ;
+d) Vins provenant d'une récolte plus ancienne : 30%.
 
 2° Décote applicable aux eaux-de-vie :
 
-Eaux-de-vie provenant de la dernière récolte levée à la date du passage du forfait au régime transitoire : 0 p. 100 ;
+a) Eaux-de-vie provenant de la dernière récolte levée à la date du changement de régime : 0% ;
 
-Eaux-de-vie provenant de la deuxième et de la troisième récolte antérieure au passage du forfait au régime transitoire : 5 p.
-100 ;     Eaux-de-vie provenant de la quatrième récolte antérieure au passage du forfait au régime transitoire : 10 p. 100 ;
+b) Eaux-de-vie provenant de la deuxième et de la troisième récolte antérieure au changement de régime : 5% ;
 
-Eaux-de-vie provenant de la cinquième récolte antérieure au passage du forfait au régime transitoire : 15 p. 100 ;
+c) Eaux-de-vie provenant de la quatrième récolte antérieure au changement de régime : 10% ;
 
-Eaux-de-vie provenant de récoltes plus anciennes : 20 p. 100.
+d) Eaux-de-vie provenant de la cinquième récolte antérieure au changement de régime : 15% ;
+
+e)Eaux-de-vie provenant d'une récolte plus ancienne : 20%.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1987-08-06 art. 1 JORF 8 août 1987
+  - Arrêté 1992-11-04 art. 1 JORF 11 novembre 1992
 
 _Codifié par_:
 
-  - Arrêté 1987-11-23
+  - Arrêté 1993-09-24
+
+_Abrogé par_:
+
+  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
+
+
+##### 4° : Passage du régime transitoire d'imposition à un régime de bénéfice réel.<a id=24></a>
+
+###### Article 4 P
+
+En cas de passage d'un exploitant agricole du régime transitoire d'imposition à un régime d'imposition d'après le bénéfice
+réel, les produits de la viticulture en stock à la date de ce changement de régime sont évalués en appliquant au cours du
+jour du vin en vrac à la même date une décote calculée selon les modalités prévues à l'article 4 O.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1992-11-04 art. 2 JORF 11 novembre 1992
+
+**Liens**:
+
+  - PEREMPTION: Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 1er janvier 2006
+
+_Cite_:
+
+  - CGIAN4 4 O
 
 
 ##### Section II : Traitements et salaires<a id=25></a>
