@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1994-09-02
+Version Consolidée au 1994-10-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -288,7 +288,7 @@ Version Consolidée au 1994-09-02
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#285)
           - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#286)
   - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#287)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 207 quinquies)](#288)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#288)
       - [Section I : Impôts directs et taxes assimilées (art. 187 à 188 bis)](#289)
         - [3 : Paiement de l'impôt (art. 187 à 188 bis)](#290)
       - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#291)
@@ -305,13 +305,11 @@ Version Consolidée au 1994-09-02
         - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#302)
       - [Section V : Dispositions communes (art. 199 à 204)](#303)
         - [2° : Paiement par chèques (art. 199 à 204)](#304)
-      - [Chapitre I bis A : Sûretés et privilèges (art. 207 quinquies)](#305)
-        - [Publicité du privilège du Trésor. (art. 207 quinquies)](#306)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#307)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#308)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#309)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#310)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#311)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#305)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#306)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#307)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#308)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#309)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -17837,37 +17835,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-### Chapitre I bis A : Sûretés et privilèges<a id=305></a>
+## Chapitre I bis : Pénalités<a id=305></a>
 
-#### Publicité du privilège du Trésor.<a id=306></a>
-
-###### Article 207 quinquies
-
-Le montant minimum prévu à l'article 1929 quater-4 du code général des impôts pour la publicité obligatoire des sommes
-privilégiées dues au Trésor est fixé à 100.000 F.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1985-03-18 art. 1 JORF 22 mars 1985
-
-_Codifié par_:
-
-  - Arrêté 1994-10-17
-
-_Cite_:
-
-  - CGI 1929 quater 4
-
-**Liens**:
-
-  - PEREMPTION: Loi n°94-475 du 10 juin 1994 - art. 1
-
-
-## Chapitre I bis : Pénalités<a id=307></a>
-
-### I : Impôts directs et taxes assimilées<a id=308></a>
+### I : Impôts directs et taxes assimilées<a id=306></a>
 
 ###### Article 207 quater A
 
@@ -17876,7 +17846,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=309></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=307></a>
 
 ###### Article 207 quater A bis
 
@@ -17902,9 +17872,9 @@ _Cite_:
   - HISTO: Edition du 10 juillet 1983
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=310></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=308></a>
 
-### Publicité du privilège du Trésor<a id=311></a>
+### Publicité du privilège du Trésor<a id=309></a>
 
 ###### Article 207 sexies
 
