@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1991-06-24
+Version Consolidée au 1991-08-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -300,39 +300,36 @@ Version Consolidée au 1991-06-24
         - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#297)
         - [Section IV : Dispositions communes (art. 170 octies à 170 sexies)](#298)
           - [Octroi de certains agréments fiscaux (art. 170 octies à 170 sexies)](#299)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 121 quinquies E à 170 ter)](#300)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 121 quinquies E)](#300)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 121 quinquies E)](#301)
       - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES (art. 121 quinquies E)](#302)
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#303)
           - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#304)
-    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 170 ter)](#305)
-      - [DISPOSITIONS DIVERSES (art. 170 ter)](#306)
-        - [DISPOSITIONS COMMUNES. (art. 170 ter)](#307)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#308)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 207 quinquies)](#309)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#310)
-        - [3 : Paiement de l'impôt (art. 187 à 188)](#311)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#312)
-      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H)](#313)
-      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#314)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#315)
-      - [Section III : Contributions indirectes (art. 193 à 194)](#316)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#317)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#318)
-        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#319)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#320)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#321)
-        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#322)
-        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#323)
-      - [Section V : Dispositions communes (art. 199 à 204)](#324)
-        - [2° : Paiement par chèques (art. 199 à 204)](#325)
-      - [Chapitre I bis A : Sûretés et privilèges (art. 207 quinquies)](#326)
-        - [Publicité du privilège du Trésor. (art. 207 quinquies)](#327)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#328)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#329)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#330)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#331)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#332)
+  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#305)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 207 quinquies)](#306)
+      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#307)
+        - [3 : Paiement de l'impôt (art. 187 à 188)](#308)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#309)
+      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H)](#310)
+      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#311)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#312)
+      - [Section III : Contributions indirectes (art. 193 à 194)](#313)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#314)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#315)
+        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#316)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#317)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#318)
+        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#319)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#320)
+      - [Section V : Dispositions communes (art. 199 à 204)](#321)
+        - [2° : Paiement par chèques (art. 199 à 204)](#322)
+      - [Chapitre I bis A : Sûretés et privilèges (art. 207 quinquies)](#323)
+        - [Publicité du privilège du Trésor. (art. 207 quinquies)](#324)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#325)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#326)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#327)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#328)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#329)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -4596,9 +4593,11 @@ _Modifié par_:
 
 ###### Article 50 duodecies
 
-I. La liste des produits  matériaux de construction  engrais et outillages industriels et agricoles dont l'importation dans
-les départements de la Guadeloupe  de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur
-ajoutée  est fixée ainsi qu'il suit :
+I. La liste des produits, matériaux de construction, engrais et outillages industriels et agricoles dont l'importation dans
+les départements de la Guadeloupe, de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur
+ajoutée, est fixée ainsi qu'il suit :
+
+NUMEROS DU TARIF des droits de douane d'importation
 
 15-15-11-00
 
@@ -4737,7 +4736,22 @@ NUMEROS DU TARIF des droits de douane d'importation
 
 DESIGNATION DES PRODUITS 
 
-Ciments, mortiers, bétons et compositions similaires réfractaires autres que les produits du n° 38-01.
+Ciments, mortiers, bétons et compositions similaires réfractaires autres que les produits du n° 38-01. NUMEROS DU TARIF des
+droits de douane d'importation
+
+3823
+
+DESIGNATION DES PRODUITS 
+
+Produits chimiques non dénommés à usage de peinture pour la construction.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+3901 à 3920
+
+DESIGNATION DES PRODUITS 
+
+Matériaux des numéros ci-contre destinés à la construction (éléments fixes uniquement).
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -4755,6 +4769,18 @@ DESIGNATION DES PRODUITS
 
 Articles d'équipement pour la construction en matières plastiques, non dénommés ni compris ailleurs (éléments fixes
 uniquement).
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+4011
+
+4012
+
+4013
+
+DESIGNATION DES PRODUITS 
+
+Chambres à air et pneumatiques, pour véhicules à traction animale.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -4856,7 +4882,13 @@ Ex 68-03
 
 DESIGNATION DES PRODUITS 
 
-Ardoises pour toitures ou pour façades.
+Ardoises pour toitures ou pour façades. NUMEROS DU TARIF des droits de douane d'importation
+
+6807
+
+DESIGNATION DES PRODUITS 
+
+Chappes d'étanchéité du numéro ci-contre.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -4865,6 +4897,14 @@ NUMEROS DU TARIF des droits de douane d'importation
 DESIGNATION DES PRODUITS 
 
 Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+6812.90
+
+DESIGNATION DES PRODUITS 
+
+Carreaux de revêtement à base d'amiante.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -5214,6 +5254,14 @@ Tous produits de ces positions.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
+8411
+
+DESIGNATION DES PRODUITS 
+
+Turbines à gaz.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
 84-12 
 
 DESIGNATION DES PRODUITS 
@@ -5365,9 +5413,7 @@ NUMEROS DU TARIF des droits de douane d'importation
 
 Ex 84-23-90
 
-DESIGNATION DES PRODUITS
-
-Parties et poids des appareils de la position 84-23-20, 84-23-82, 84-23-89.
+DESIGNATION DES PRODUITS Parties et poids des appareils de la position 84-23-20, 84-23-82, 84-23-89.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -5466,11 +5512,46 @@ d'accouplement, y compris les joints d'articulation pour moteurs des véhicules 
 
 NUMEROS DU TARIF des droits de douane d'importation
 
+8484
+
+DESIGNATION DES PRODUITS 
+
+Joints métalloplastiques, jeux et assortiments de joints de composition différente pour moteurs de véhicules repris aux n°s
+8701, 8702, 8704, 8705.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+8485
+
+DESIGNATION DES PRODUITS 
+
+Parties de machines ou d'appareils, non dénommées ni comprises ailleurs dans le présent chapitre, ne comportant pas de
+connexions électriques, de parties isolées électriquement, de bobinages, de contacts ou d'autres caractéristiques
+électriques.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
 85-01
 
 DESIGNATION DES PRODUITS 
 
 Moteurs et machines génératrices électriques à l'exclusion des groupes électrogènes.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+8503
+
+DESIGNATION DES PRODUITS 
+
+Parties reconnaissables comme étant exclusivement ou principalement destinées aux machines des n°s 8501 ou 8502.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+8504
+
+DESIGNATION DES PRODUITS 
+
+Transformateurs électriques, convertisseurs électriques statiques (redresseurs, par exemple bobines de réactance et selfs).
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -5584,6 +5665,22 @@ Tous les produits de ces positions.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
+8703.2110
+
+8703.2190
+
+8703.2219
+
+8703.2290
+
+8703.2319
+
+DESIGNATION DES PRODUITS 
+
+Ambulances.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
 87-04 à 87-05
 
 DESIGNATION DES PRODUITS 
@@ -5605,6 +5702,14 @@ Ex 87-07
 DESIGNATION DES PRODUITS 
 
 Carrosseries des véhicules automobiles des n°s 87-01, 87-02, 87-04, 87-05 y compris les cabines.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+8709
+
+DESIGNATION DES PRODUITS 
+
+Chariots de manutention automobiles, leurs parties et leurs pièces détachées.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -5664,7 +5769,7 @@ Tous produits de cette position.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 90-25
+90-25
 
 DESIGNATION DES PRODUITS 
 
@@ -5721,7 +5826,7 @@ Meubles en pierre.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 94-05
+94-05
 
 DESIGNATION DES PRODUITS 
 
@@ -5736,13 +5841,17 @@ DESIGNATION DES PRODUITS
 
 Constructions préfabriquées.
 
-II. La liste des produits cités au I est complétée par le pain    (ex 19-05) et le riz (10-06).
+II. La liste des produits cités au I est complétée par le pain (ex 19-05) et le riz (10-06).
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1988-02-02 art. 2, art. 3 JORF 10 mars 1988, en vigueur le 1er janvier 1988
+  - Arrêté 1991-07-24 art. 2 JORF 24 août 1991
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 50 duodecies 1
@@ -5780,415 +5889,271 @@ _Cite_:
 
 ###### Article 50 undecies
 
-1. La liste des matériels d'équipement destinés à l'industrie hôtelière et touristique  dont l'importation dans les
-départements de la Guadeloupe  de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur
-ajoutée  est fixée ainsi qu'il suit     :
+1. La liste des matériels d'équipement destinés à l'industrie hôtelière et touristique dont l'importation dans les
+départements de la Guadeloupe de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée
+est fixée ainsi qu'il suit :
 
-NUMERO DU TARIF des droits de douane d'importation 40-06 à 40-07
+NUMERO DU TARIF des droits de douane d'importation : DESIGNATION DES PRODUITS
 
-DESIGNATION DES PRODUITS
+40-06 à 40-07 : Tous produits de ces positions.
 
-Tous produits de ces positions.
+40-10 : Courroies transporteuses ou de transmission, en caoutchouc vulcanisé.
 
-NUMEROS DU TARIF des droits de douane d'importation 40-10
+Ex 42-05 : Articles de maroquinerie n'ayant pas le caractère de contenant (sous-mains, signets, etc.) en cuir naturel ou
+reconstitué.
 
-DESIGNATION DES PRODUITS
+Ex 44-16 : Futailles, cuves, baquets et autres ouvrages de tonnellerie et leurs parties en bois.
 
-Courroies transporteuses ou de transmission, en caoutchouc vulcanisé.
+44-19 : Articles en bois pour la table ou la cuisine.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 42-05
+Ex 44-21-90 : Ustensiles de ménage en bois.
 
-DESIGNATION DES PRODUITS
+46-01-20 : Nattes, paillassons et claies en matières végétales.
 
-Articles de maroquinerie n'ayant pas le caractère de contenant (sous-mains, signets, etc.) en cuir naturel ou reconstitué.
+46-02 : Ouvrages de vannerie obtenus directement en forme à partir de matières à tresser ou confectionnés à l'aide des
+articles du n° 46-01 ; ouvrages en luffa.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 44-16
+Ex 48-14 : Papiers peints et revêtements muraux similaires.
 
-DESIGNATION DES PRODUITS Futailles, cuves, baquets et autres ouvrages de tonnellerie et leurs parties en bois.
+49-10 : Calendriers de tous genres, imprimés, y compris les blocs de calendriers à effeuiller.
 
-NUMERO DU TARIF des droits de douane d'importation 44-19
+50-07 : Tissus de soie ou de déchets de soie.
 
-DESIGNATION DES PRODUITS Articles en bois pour la table ou la cuisine.
+51-11 à 51-13 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 4420
+52-08 à 52-12 : Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Ouvrages de tabletterie et de petite ébénisterie (boîtes, coffrets, étuis, écrins, plumiers,
-portemanteaux, lampadaires et autres appareils d'éclairage, etc.), objets d'ornement, d'étagère et article de parure en
-bois ; parties en bois de ces ouvrages ou objets.
+53-09 à 53-11 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 44-21-90
+54-07 à 54-08 : Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Ustensiles de ménage en bois.
+55-12 à 55-15 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 46-01-20
+55-16 : Tissus de fibres artificielles discontinues.
 
-DESIGNATION DES PRODUITS Nattes, paillassons et claies en matières végétales.
+56-04 : Fils et cordes de caoutchouc, recouverts de textiles, fils textiles, lames et formes similaires des numéros 54-04 ou
+54-05, imprégnés, enduits, recouverts ou gainés de caoutchouc ou de matières plastique.
 
-NUMERO DU TARIF des droits de douane d'importation 46-02
+57-01 à 57-03 : Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Ouvrages de vannerie obtenus directement en forme à partir de matières à tresser ou confectionnés à
-l'aide des articles du n° 46-01 ; ouvrages en luffa.
+57-05 : Autres tapis et revêtements de sol en matières textiles, même confectionnés.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 48-14
+58-01 à 58-05 : Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Papiers peints et revêtements muraux similaires.
+58-09 à 58-11 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 49-10
+59-02 : Nappes tramées pour pneumatiques obtenues à partir de fils à haute ténacité de nylon ou d'autres polyamides de
+polyesters ou de rayonne viscose.
 
-DESIGNATION DES PRODUITS Calendriers de tous genres, imprimés, y compris les blocs de calendriers à effeuiller.
+59-04 à 59-07 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 50-07
+59-09 : Tuyaux pour pompes et tuyaux similaires en matières textiles, même avec armatures ou accessoires en autres matières.
 
-DESIGNATION DES PRODUITS Tissus de soie ou de déchets de soie.
+Ex 59-11 : Produits et articles textiles pour usages techniques visés à la note 7 du présent chapitre à l'exclusion des gazes
+et toiles à bluter, même confectionnées.
 
-NUMERO DU TARIF des droits de douane d'importation 51-11 à 51-13
+Ex 63-01 : Couvertures autres que les couvertures chauffantes électriques. 
 
-DESIGNATION DES PRODUITS Tous produits de ces positions. NUMERO DU TARIF des droits de douane d'importation 52-08 à 52-12
+63-02 à 63-04 : Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+63-06 : Bâches, voiles pour embarcations, planches à voile ou chars à voile stores d'extérieur, tentes et articles de
+campement.
 
-NUMERO DU TARIF des droits de douane d'importation 53-09 à 53-11
-
-DESIGNATION DES PRODUITS Tous produits de ces positions.
-
-NUMERO DU TARIF des droits de douane d'importation 54-07 à 54-08
-
-Tous produits de ces positions. NUMERO DU TARIF des droits de douane d'importation 55-12 à 55-15
-
-DESIGNATION DES PRODUITS Tous produits de ces positions. NUMERO DU TARIF des droits de douane d'importation 55-16
-
-DESIGNATION DES PRODUITS Tissus de fibres artificielles discontinues. NUMERO DU TARIF des droits de douane d'importation
-56-04
-
-DESIGNATION DES PRODUITS Fils et cordes de caoutchouc, recouverts de textiles, fils textiles, lames et formes similaires des
-numéros 54-04 ou 54-05, imprégnés, enduits, recouverts ou gainés de caoutchouc ou de matières plastique. NUMEROS DU TARIF des
-droits de douane d'importation 57-01 à 57-03 DESIGNATION DES PRODUITS Tous produits de ces positions. NUMERO DU TARIF des
-droits de douane d'importation 57-05 DESIGNATION DES PRODUITS Autres tapis et revêtements de sol en matières textiles, même
-confectionnés. NUMEROS DU TARIF des droits de douane d'importation 58-01 à 58-05 DESIGNATION DES PRODUITS Tous produits de
-ces positions. NUMEROS DU TARIF des droits de douane d'importation 58-09 à 58-11 DESIGNATION DES PRODUITS Tous produits de
-ces positions. NUMERO DU TARIF des droits de douane d'importation 59-02 DESIGNATION DES PRODUITS Nappes tramées pour
-pneumatiques obtenues à partir de fils à haute ténacité de nylon ou d'autres polyamides de polyesters ou de rayonne viscose.
-
-NUMERO DU TARIF des droits de douane d'importation 59-04 à 59-07 DESIGNATION DES PRODUITS Tous produits de ces positions.
-NUMERO DU TARIF des droits de douane d'importation 59-09 DESIGNATION DES PRODUITS Tuyaux pour pompes et tuyaux similaires en
-matières textiles, même avec armatures ou accessoires en autres matières. NUMERO DU TARIF des droits de douane d'importation
-Ex 59-11 DESIGNATION DES PRODUITS Produits et articles textiles pour usages techniques visés à la note 7 du présent chapitre
-à l'exclusion des gazes et toiles à bluter, même confectionnées. NUMERO DU TARIF des droits de douane d'importation Ex 63-01
-DESIGNATION DES PRODUITS Couvertures autres que les couvertures chauffantes électriques. NUMEROS DU TARIF des droits de
-douane d'importation 63-02 à 63-04 DESIGNATION DES PRODUITS Tous produits de ces positions. NUMEROS DU TARIF des droits de
-douane d'importation 63-06 DESIGNATION DES PRODUITS Bâches, voiles pour embarcations, planches à voile ou chars à voile
-stores d'extérieur, tentes et articles de campement. NUMEROS DU TARIF des droits de douane d'importation 63-08 DESIGNATION
-DES PRODUITS Assortiments composés de pièces de tissus et de fils, même avec accessoires pour la confection de tapis, de
+63-08 : Assortiments composés de pièces de tissus et de fils, même avec accessoires pour la confection de tapis, de
 tapisseries, de nappes de table ou de serviettes brodées, ou d'articles textiles similaires, en emballages pour la vente au
-détail. NUMEROS DU TARIF des droits de douane d'importation 66-01 DESIGNATION DES PRODUITS Parapluies, ombrelles et parasols
-(y compris les parapluies cannes, les parasols de jardin et articles similaires). NUMEROS DU TARIF des droits de douane
-d'importation Ex 66-03 DESIGNATION DES PRODUITS Parties, garnitures et accessoires pour articles des n° 66-01. NUMEROS DU
-TARIF des droits de douane d'importation 68-06 DESIGNATION DES PRODUITS Laines de laitier, de scories, de roche et laines
-minérales similaires ; vermiculite expansée, argiles expansées, mousse de scories et produits minéraux similaires expansés ;
-mélanges et ouvrages en matières minérales à usages d'isolants thermiques ou sonores ou pour l'absorption du son, à
-l'exclusion de ceux des numéros 68-11, 68-12 ou de chapitre 69.
+détail.
 
-NUMERO DU TARIF des droits de douane d'importation 69-09 DESIGNATION DES PRODUITS Appareils et articles pour usages chimiques
-ou autres usages techniques, en céramique ; auges, bacs et récipients similaires pour l'économie rurale, en céramique ;
-cruchons et récipients similaires de transport où d'emballage en céramique. NUMERO DU TARIF des droits de douane
-d'importation 69-11 et 69-12 DESIGNATION DES PRODUITS Tous produits de ces positions.
+66-01 : Parapluies, ombrelles et parasols (y compris les parapluies cannes, les parasols de jardin et articles similaires).
 
-NUMERO DU TARIF des droits de douane d'importation 70-07 DESIGNATION DES PRODUITS Verre de sécurité, consistant en verres
-trempés ou formés de feuilles contrecollées. NUMERO DU TARIF des droits de douane d'importation 70-09 DESIGNATION DES
-PRODUITS Miroirs en verre, même encadrés, y compris les miroirs rétroviseurs. NUMERO DU TARIF des droits de douane
-d'importation 70-10-90 Bonbonnes, bouteilles, flacons, bocaux, pots, emballages tubulaires, autres récipients de transport ou
+Ex 66-03 : Parties, garnitures et accessoires pour articles des n° 66-01.
+
+68-06 : Laines de laitier, de scories, de roche et laines minérales similaires ; vermiculite expansée, argiles expansées,
+mousse de scories et produits minéraux similaires expansés ; mélanges et ouvrages en matières minérales à usages d'isolants
+thermiques ou sonores ou pour l'absorption du son, à l'exclusion de ceux des numéros 68-11, 68-12 ou de chapitre 69.
+
+69-09 : Appareils et articles pour usages chimiques ou autres usages techniques, en céramique ; auges, bacs et récipients
+similaires pour l'économie rurale, en céramique ; cruchons et récipients similaires de transport où d'emballage en céramique.
+
+69-11 et 69-12 : Tous produits de ces positions.
+
+70-07 : Verre de sécurité, consistant en verres trempés ou formés de feuilles contrecollées.
+
+70-09 : Miroirs en verre, même encadrés, y compris les miroirs rétroviseurs.
+
+70-10-90 : Bonbonnes, bouteilles, flacons, bocaux, pots, emballages tubulaires, autres récipients de transport ou
 d'emballage, en verre ; bocaux à conserves en verre ; bouchons, couvercles et autres dispositifs de fermeture, en verre.
-NUMERO DU TARIF des droits de douane d'importation 70-13 DESIGNATION DES PRODUITS Objets en verre pour le service de la
-table, pour la cuisine, la toilette, le bureau, l'ornementation des appartements ou usages similaires, autres que ceux des
-n°s 70-10 ou 70-18.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 71-14
+70-13 : Objets en verre pour le service de la table, pour la cuisine, la toilette, le bureau, l'ornementation des
+appartements ou usages similaires, autres que ceux des n°s 70-10 ou 70-18.
 
-DESIGNATION DES PRODUITS Articles d'orfèvrerie et leurs parties, plaqués ou doublés de métaux précieux.
+Ex 71-14 : Articles d'orfèvrerie et leurs parties, plaqués ou doublés de métaux précieux.
 
-NUMERO DU TARIF des droits de douane d'importation 73-10
+73-10 : Tous les produits de cette position. 
 
-DESIGNATION DES PRODUITS Tous les produits de cette position. NUMERO DU TARIF des droits de douane d'importation 73-21 et
-73-22
+73-21 et 73-22 : Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Ex 73-23 : Articles de ménage ou d'économie domestique et leurs parties, en fonte, fer ou acier.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 73-23
+73-26 : Autres ouvrages en fer ou en acier.
 
-DESIGNATION DES PRODUITS Articles de ménage ou d'économie domestique et leurs parties, en fonte, fer ou acier.
+74-17 à 74-19 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 73-28
+75-08 : Autres ouvrages en nickel.
 
-DESIGNATION DES PRODUITS Autres ouvrages en fer ou en acier.
+76-12 : Réservoirs, fûts, tambours, bidons, boîtes et récipients similaires en aluminium (y compris les étuis tubulaires
+rigides ou souples) pour toutes matières (à l'exception des gaz comprimés ou liquéfiés) d'une contenance n'excédant pas 300
+litres, sans dispositifs mécaniques ou thermiques, même avec revêtement intérieur ou calorifuge.
 
-NUMERO DU TARIF des droits de douane d'importation 74-17 à 74-19
+76-15 et 76-16 : Tous produits de ces positions.
 
-Tous produits de ces positions.
+78-04 : Tables, feuilles et bandes en plomb ; poudres et paillettes de plomb.
 
-NUMERO DU TARIF des droits de douane d'importation 75-08
+80-03 : Barres, profilés et fils en étain.
 
-DESIGNATION DES PRODUITS Autres ouvrages en nickel.
+Ex 80-07 : Articles de ménage, d'hygiène, d'économie domestique et leurs parties en étain.
 
-NUMERO DU TARIF des droits de douane d'importation 76-12
+82-01-50 : Sécateurs (y compris les cisailles à volaille) maniés à une main.
 
-DESIGNATION DES PRODUITS Réservoirs, fûts, tambours, bidons, boîtes et récipients similaires en aluminium (y compris les
-étuis tubulaires rigides ou souples) pour toutes matières (à l'exception des gaz comprimés ou liquéfiés) d'une contenance
-n'excédant pas 300 litres, sans dispositifs mécaniques ou thermiques, même avec revêtement intérieur ou calorifuge.
+82-05 à 82-06 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 76-15 et 76-16
+82-10 : Appareils mécaniques actionnés à la main, d'un poids de 10 kg ou moins, utilisés pour préparer, conditionner ou
+servir les aliments ou les boissons.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Ex 82-11 : Couteaux (autres que ceux du n° 82-08) à lame tranchante ou dentelée.
 
-NUMERO DU TARIF des droits de douane d'importation 78-04
+82-12 et 82-13 : Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Tables, feuilles et bandes en plomb ; poudres et paillettes de plomb.
+Ex 82-14 : Autres articles de coutellerie (tondeuses, fendoirs, couperets, hachoirs de bouchers ou de cuisine et coupe-
+papier, par exemple).
 
-NUMERO DU TARIF des droits de douane d'importation 80-03
+82-15 : Cuillers, fourchettes, louches, écumoires, pelles à tarte, couteaux spéciaux à poisson ou à beurre, pinces à sucre et
+articles similaires.
 
-DESIGNATION DES PRODUITS Barres, profilés et fils en étain.
+83-03 et 83-04 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 80-07
+83-06 : Cloches, sonnettes, gongs et articles similaires, non électriques, en métaux communs ; statuettes et autres objets
+d'ornement en métaux communs ; cadres pour photographies, gravures ou similaires en métaux communs ; miroirs en métaux
+communs.
 
-DESIGNATION DES PRODUITS Articles de ménage, d'hygiène, d'économie domestique et leurs parties en étain.
+83-10 : Plaques indicatrices, plaques-enseignes, plaques-adresses et plaques similaires, chiffres, lettres et enseignes
+diverses en métaux communs, à l'exclusion de ceux du n° 94-05.
 
-NUMERO DU TARIF des droits de douane d'importation 82-01-50
+84-03 à 84-04 : Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Sécateurs (y compris les cisailles à volaille) maniés à une main.
+84-18 : Réfrigérateurs, congélateurs-conservateurs et autres matériels, machines et appareils pour la reproduction du froid,
+à équipement électrique ou autre ; pompes à chaleur autres que les machines et appareils pour le conditionnement de l'air du
+n° 84-15.
 
-NUMERO DU TARIF des droits de douane d'importation 82-05 à 82-06
+Ex 84-22 : Machines à laver la vaisselle.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Ex 84-23 : Appareils et instruments de pesage, à l'exclusion des bascules et balances compteuses de pièces, bascules et
+balances ensacheuses ou doseuses et autres bascules ou balances à usages spéciaux, poids et parties de ces appareils.
 
-NUMERO DU TARIF des droits de douane d'importation 82-10
+84-50 : Machines à laver le linge, même avec dispositif de séchage.
 
-DESIGNATION DES PRODUITS Appareils mécaniques actionnés à la main, d'un poids de 10 kg ou moins, utilisés pour préparer,
-conditionner ou servir les aliments ou les boissons.
-
-NUMERO DU TARIF des droits de douane d'importation Ex 82-11
-
-DESIGNATION DES PRODUITS Couteaux (autres que ceux du n° 82-08) à lame tranchante ou dentelée.
-
-NUMERO DU TARIF des droits de douane d'importation 82-12 et 82-13
-
-DESIGNATION DES PRODUITS Tous produits de ces positions.
-
-NUMERO DU TARIF des droits de douane d'importation Ex 82-14
-
-DESIGNATION DES PRODUITS Autres articles de coutellerie (tondeuses, fendoirs, couperets, hachoirs de bouchers ou de cuisine
-et coupe-papier, par exemple).
-
-NUMERO DU TARIF des droits de douane d'importation 82-15
-
-DESIGNATION DES PRODUITS Cuillers, fourchettes, louches, écumoires, pelles à tarte, couteaux spéciaux à poisson ou à beurre,
-pinces à sucre et articles similaires.
-
-NUMERO DU TARIF des droits de douane d'importation 83-03 et 83-04
-
-DESIGNATION DES PRODUITS Tous produits de ces positions.
-
-NUMERO DU TARIF des droits de douane d'importation 83-06
-
-DESIGNATION DES PRODUITS Cloches, sonnettes, gongs et articles similaires, non électriques, en métaux communs ; statuettes et
-autres objets d'ornement en métaux communs ; cadres pour photographies, gravures ou similaires en métaux communs ; miroirs en
-métaux communs.
-
-NUMERO DU TARIF des droits de douane d'importation 83-10
-
-DESIGNATION DES PRODUITS Plaques indicatrices, plaques-enseignes, plaques-adresses et plaques similaires, chiffres, lettres
-et enseignes diverses en métaux communs, à l'exclusion de ceux du n° 94-05.
-
-NUMERO DU TARIF des droits de douane d'importation 84-03 à 84-04
-
-DESIGNATION DES PRODUITS Tous produits de ces positions.
-
-NUMERO DU TARIF des droits de douane d'importation 84-18
-
-DESIGNATION DES PRODUITS Réfrigérateurs, congélateurs-conservateurs et autres matériels, machines et appareils pour la
-reproduction du froid, à équipement électrique ou autre ; pompes à chaleur autres que les machines et appareils pour le
-conditionnement de l'air du n° 84-15.
-
-NUMERO DU TARIF des droits de douane d'importation 8419.81
-
-DESIGNATION DES PRODUITS Percolateurs.
-
-NUMERO DU TARIF des droits de douane d'importation Ex 84-22
-
-DESIGNATION DES PRODUITS Machines à laver la vaisselle.
-
-NUMERO DU TARIF des droits de douane d'importation Ex 84-23
-
-DESIGNATION DES PRODUITS Appareils et instruments de pesage, à l'exclusion des bascules et balances compteuses de pièces,
-bascules et balances ensacheuses ou doseuses et autres bascules ou balances à usages spéciaux, poids et parties de ces
-appareils.
-
-NUMERO DU TARIF des droits de douane d'importation 84-50
-
-DESIGNATION DES PRODUITS Machines à laver le linge, même avec dispositif de séchage.
-
-NUMERO DU TARIF des droits de douane d'importation Ex 84-51
-
-DESIGNATION DES PRODUITS Machines et appareils (autres que les machines du n° 84-50) pour le lavage, l'essorage, le séchage,
+Ex 84-51 : Machines et appareils (autres que les machines du n° 84-50) pour le lavage, le nettoyage, l'essorage, le séchage,
 le repassage, le pressage (y compris les presses à fixer) le blanchiment, la teinture, l'apprêt, le finissage.
 
-84-52
+84-52 : Machines à coudre, autres que les machines à coudre les feuillets du n° 84-40, meubles, embases et couvercles
+spécialement conçus pour machines à coudre ; aiguilles pour machine à coudre.
 
-DESIGNATION DES PRODUITS Machines à coudre, autres que les machines à coudre les feuillets du n° 84-40, meubles, embases et
-couvercles spécialement conçus pour machines à coudre ; aiguilles pour machine à coudre.
+84-69 à 84-70 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 84-69 à 84-70
+84-72 : Autres machines et appareils de bureau (duplicateurs hectographiques ou à stencils, machines à imprimer les adresses,
+distributeurs automatiques de billets de banque, machines à trier, à compter ou à encartoucher les pièces de monnaie,
+appareils à tailler les crayons, appareils à perforer ou à agrafer, par exemple).
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Ex 84-73 : Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme étant exclusivement
+ou principalement destinés aux machines ou appareils des n°s 84-69, 84-70, 84-72.
 
-NUMERO DU TARIF des droits de douane d'importation 84-72
+84-76 : Machines automatiques de vente de produits (timbres-poste, cigarettes, denrées alimentaires, boissons, par exemple),
+y compris les machines pour changer la monnaie.
 
-DESIGNATION DES PRODUITS Autres machines et appareils de bureau (duplicateurs hectographiques ou à stencils, machines à
-imprimer les adresses, distributeurs automatiques de billets de banque, machines à trier, à compter ou à encartoucher les
-pièces de monnaie, appareils à tailler les crayons, appareils à perforer ou à agrafer, par exemple).
+Ex 85-02 : Groupes électrogènes.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 84-73
+85-09 : Appareils électromécaniques à moteur électrique incorporé, à usage domestique.
 
-DESIGNATION DES PRODUITS Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme étant
-exclusivement ou principalement destinés aux machines ou appareils des n°s 84-69, 84-70, 84-72.
+85-16 : Chauffe-eau et thermoplongeurs électriques ; appareils électriques pour le chauffage des locaux, du sol ou pour
+usages similaires ; appareils électrothermiques pour la coiffure (sèche-cheveux, appareils à friser, chauffe-fers à friser,
+par exemple) ou pour sécher les mains ; fers à repasser électriques ; autres appareils électrothermiques pour usages
+domestiques, résistances chauffantes, autres que celles du n° 85-45.
 
-NUMERO DU TARIF des droits de douane d'importation 84-76
+Ex 85-17 : Appareils électriques pour la téléphonie ou la télégraphie par fil, à l'exception des appareils de
+télécommunication par courant porteur. NUMERO DU TARIF des droits de douane d'importation
 
-DESIGNATION DES PRODUITS Machines automatiques de vente de produits (timbres-poste, cigarettes, denrées alimentaires,
-boissons, par exemple), y compris les machines pour changer la monnaie.
+85-18 à 85-20 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 85-02
+85-27 : Appareils récepteurs pour la radiotéléphonie, la radiotélégraphie ou la radiodiffusion, même combinés, sous une même
+enveloppe, à un appareil d'enregistrement ou de reproduction du son ou à un appareil d'horlogerie.
 
-DESIGNATION DES PRODUITS Groupes électrogènes.
+85-28 : Appareils récepteurs de télévision
 
-NUMERO DU TARIF des droits de douane d'importation 85-09
+Ex 85-29 : Parties reconnaissables comme étant exclusivement ou principalement destinées aux appareils du n° 85-27.
 
-DESIGNATION DES PRODUITS Appareils électromécaniques à moteur électrique incorporé, à usage domestique.
+Ex 87-03 : Voitures de tourisme et autres véhicules automobiles principalement conçus pour le transport de personnes (autres
+que ceux du n° 87-02) y compris les voitures du type "break", comportant un minimum de sept places assises.
 
-NUMERO DU TARIF des droits de douane d'importation 85-16
+87-15 : Landaus, poussettes et voitures similaires pour le transport des enfants et leurs parties.
 
-DESIGNATION DES PRODUITS Chauffe-eau et thermoplongeurs électriques ; appareils électriques pour le chauffage des locaux, du
-sol ou pour usages similaires ; appareils électrothermiques pour la coiffure (sèche-cheveux, appareils à friser, chauffe-fers
-à friser, par exemple) ou pour sécher les mains ; fers à repasser électriques ; autres appareils électrothermiques pour
-usages domestiques, résistances chauffantes, autres que celles du n° 85-45.
-
-NUMERO DU TARIF des droits de douane d'importation Ex 85-17
-
-DESIGNATION DES PRODUITS Appareils électriques pour la téléphonie ou la télégraphie par fil, à l'exception des appareils de
-télécommunication par courant porteur. NUMERO DU TARIF des droits de douane d'importation 85-18 à 85-20
-
-DESIGNATION DES PRODUITS Tous produits de ces positions.
-
-NUMERO DU TARIF des droits de douane d'importation 85-27
-
-DESIGNATION DES PRODUITS Appareils récepteurs pour la radiotéléphonie, la radiotélégraphie ou la radiodiffusion, même
-combinés, sous une même enveloppe, à un appareil d'enregistrement ou de reproduction du son ou à un appareil d'horlogerie.
-
-NUMERO DU TARIF des droits de douane d'importation 8528
-
-DESIGNATION DES PRODUITS Appareils récepteurs de télévision.
-
-NUMERO DU TARIF des droits de douane d'importation Ex 85-29
-
-DESIGNATION DES PRODUITS Parties reconnaissables comme étant exclusivement ou principalement destinées aux appareils du n°
-85-27.
-
-NUMERO DU TARIF des droits de douane d'importation Ex 87-03
-
-DESIGNATION DES PRODUITS Voitures de tourisme et autres véhicules automobiles principalement conçus pour le transport de
-personnes (autres que ceux du n° 87-02) y compris les voitures du type " break ", comportant un minimum de sept places
-assises.
-
-NUMERO DU TARIF des droits de douane d'importation 87-15
-
-DESIGNATION DES PRODUITS Landaus, poussettes et voitures similaires pour le transport des enfants et leurs parties.
-
-NUMERO DU TARIF des droits de douane d'importation 87-16-80
+87-16-80 : Autres véhicules non automobiles et leurs parties.
 
 Ex 87-16-90
 
-DESIGNATION DES PRODUITS Autres véhicules non automobiles et leurs parties.
+89-01
 
-NUMERO DU TARIF des droits de douane d'importation 89-01
+Paquebots, bateaux de croisières, transbordeurs, cargos, péniches et bateaux similaires pour le transport de personnes et de
+marchandises.
 
-DESIGNATION DES PRODUITS Paquebots, bateaux de croisières, transbordeurs, cargos, péniches et bateaux similaires pour le
-transport de personnes et de marchandises.
+89-03 : Yachts et autres bateaux et embarcations de plaisance ou de sport ; bateaux à rames et canoës.
 
-NUMERO DU TARIF des droits de douane d'importation 89-03
+Ex 89-06 : Bateaux de sauvetage.
 
-DESIGNATION DES PRODUITS Yachts et autres bateaux et embarcations de plaisance ou de sport ; bateaux à rames et canoës.
+91-05 à 91-06 : Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 89-06
+92-01 : Pianos, même automatiques ; clavecins et autres instruments à cordes à clavier.
 
-DESIGNATION DES PRODUITS Bateaux de sauvetage.
+92-07 : Instruments de musique dont le son est produit ou doit être amplifié par des moyens électriques (orgues, guitares,
+accordéons par exemple).
 
-NUMERO DU TARIF des droits de douane d'importation 91-05 à 91-06
+94-01 à 94-05 : Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+95-04 : Articles pour jeux de société, y compris les jeux à moteur ou à mouvement, les billards, les tables spéciales pour
+jeux de casino et les jeux de quilles automatiques (bowling par exemple).
 
-NUMERO DU TARIF des droits de douane d'importation 92-01
+95-06-40 : Articles et matériel pour le tennis de table.
 
-DESIGNATION DES PRODUITS Pianos, même automatiques ; clavecins et autres instruments à cordes à clavier.
-
-NUMERO DU TARIF des droits de douane d'importation 9202.90
-
-DESIGNATION DES PRODUITS Harpes.
-
-NUMERO DU TARIF des droits de douane d'importation 92-07
-
-DESIGNATION DES PRODUITS Instruments de musique dont le son est produit ou doit être amplifié par des moyens électriques
-(orgues, guitares, accordéons par exemple).
-
-NUMERO DU TARIF des droits de douane d'importation 94-01 à 94-05
-
-Tous produits de ces positions.
-
-NUMERO DU TARIF des droits de douane d'importation 95-04
-
-DESIGNATION DES PRODUITS Articles pour jeux de société, y compris les jeux à moteur ou à mouvement, les billards, les tables
-spéciales pour jeux de casino et les jeux de quilles automatiques (bowling par exemple).
-
-NUMERO DU TARIF des droits de douane d'importation 95-06-40
-
-DESIGNATION DES PRODUITS Articles et matériel pour le tennis de table.
-
-NUMERO DU TARIF des droits de douane d'importation 96-17
-
-DESIGNATION DES PRODUITS Bouteilles isolantes et autres récipients isothermiques montés, dont l'isolation est assurée par le
-vide, ainsi que leurs parties (à l'exclusion des ampoules en verre).
+96-17 : Bouteilles isolantes et autres récipients isothermiques montés, dont l'isolation est assurée par le vide, ainsi que
+leurs parties (à l'exclusion des ampoules en verre).
 
 2. L'exonération dont sont susceptibles de bénéficier les voitures pour le transport des personnes comportant un minimum de
-sept places assises, reprises au paragraphe ci-dessus (n° Ex 87-02 Ex A) est subordonnée [*condition*] à l'affectation
-exclusive de ces véhicules au service de la clientèle et limitée en outre à un véhicule par hôtel de 20 à 100 chambres et à
-deux véhicules par hôtel de plus de 100 chambres.
+sept places assises, reprises au paragraphe ci-dessus (n° Ex 87-02 Ex A) est subordonnée à l'affectation exclusive de ces
+véhicules au service de la clientèle et limitée en outre à un véhicule par hôtel de 20 à 100 chambres et à deux véhicules par
+hôtel de plus de 100 chambres.
 
-3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée  les importateurs doivent [*obligation*] :
+3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée les importateurs doivent :
 
 1° En faire la demande sur la déclaration d'importation;
 
-2° Déposer à l'appui de la déclaration d'importation une attestation en double exemplaire indiquant les nom  prénoms
-profession ou raison sociale et adresse du destinataire  ainsi que la nature  la quantité et la valeur des produits importés
-[*mentions*].
+2° Déposer à l'appui de la déclaration d'importation une attestation en double exemplaire indiquant les nom prénoms
+profession ou raison sociale et adresse du destinataire ainsi que la nature la quantité et la valeur des produits importés.
 
-Cette attestation devra porter l'engagement  pour le cas où les produits ne recevraient pas l'affectation justifiant
-l'exonération de la taxe sur la valeur ajoutée  d'acquitter à la recette des impôts la taxe devenue exigible  sans préjudice
+Cette attestation devra porter l'engagement pour le cas où les produits ne recevraient pas l'affectation justifiant
+l'exonération de la taxe sur la valeur ajoutée d'acquitter à la recette des impôts la taxe devenue exigible sans préjudice
 des pénalités prévues aux articles 1727, 1729, 1731 et 1784 à 1786 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1988-02-02 art. 1 JORF 10 mars 1988, en vigueur le 1er janvier 1988
-  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
-
-_Codifié par_:
-
-  - Arrêté 1988-10-20
+  - Arrêté 1991-07-24 art. 1 JORF 24 août 1991
 
 _Cite_:
 
-  - CGI 1727
-  - CGI 1729
-  - CGI 1731
-  - CGI 1784 A CGI 1786
+  - CGI 1727, 1729, 1731, 1784 à 1786
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
 
 
 ##### II : Corse<a id=91></a>
@@ -16078,41 +16043,13 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=305></a>
+# Livre II : Recouvrement de l'impôt<a id=305></a>
 
-### DISPOSITIONS DIVERSES<a id=306></a>
+## Chapitre premier : Paiement de l'impôt<a id=306></a>
 
-#### DISPOSITIONS COMMUNES.<a id=307></a>
+### Section I : Impôts directs et taxes assimilées<a id=307></a>
 
-###### Article 170 ter
-
-Pour les petites entreprises les agréments prévus par les articles 39 quinquies D, 239 bis B 1465 et 1466 du code général des
-impôts ainsi que par l'article 266 de l'annexe III au même code peuvent être accordés par les directeurs régionaux des impôts
-ou par les directeurs des services fiscaux.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - PEREMPTION: Arrêté 1983-12-16 art. 6 JORF 20 décembre 1983 : dispositions devenues sans objet
-  - HISTO: EDITION 1979-07-01
-
-_Cite_:
-
-  - CGI 1465
-  - CGI 1466
-  - CGI 239 bis B
-  - CGI 39 quinquies D
-  - CGIAN3 266
-
-
-# Livre II : Recouvrement de l'impôt<a id=308></a>
-
-## Chapitre premier : Paiement de l'impôt<a id=309></a>
-
-### Section I : Impôts directs et taxes assimilées<a id=310></a>
-
-#### 3 : Paiement de l'impôt<a id=311></a>
+#### 3 : Paiement de l'impôt<a id=308></a>
 
 ###### Article 187
 
@@ -16142,7 +16079,7 @@ _Abrogé par_:
   - Décret n°2015-1136 du 14 septembre 2015 - art. 4
 
 
-### Section I bis : Intérêts des bons de caisse<a id=312></a>
+### Section I bis : Intérêts des bons de caisse<a id=309></a>
 
 ###### Article 188 B
 
@@ -16220,7 +16157,7 @@ intérêt.
 
 
 
-### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=313></a>
+### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=310></a>
 
 ###### Article 188 H
 
@@ -16258,7 +16195,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 I (VD)
 
 
-### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=314></a>
+### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=311></a>
 
 ###### Article 188 I
 
@@ -16291,7 +16228,7 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=315></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=312></a>
 
 ###### Article 189
 
@@ -16356,7 +16293,7 @@ _Cite_:
   - CGIAN4 194
 
 
-### Section III : Contributions indirectes<a id=316></a>
+### Section III : Contributions indirectes<a id=313></a>
 
 ###### Article 193
 
@@ -16393,9 +16330,9 @@ _Modifié par_:
   - Arrêté 1981-10-30 art. 1 JORF 31 octobre 1981
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=317></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=314></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=318></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=315></a>
 
 ###### Article 196 A
 
@@ -16409,7 +16346,7 @@ doivent fournir une déclaration rédigée sur des formules mises à leur dispos
   - HISTO: EDITION 1979-07-01
 
 
-#### 2 : Paiement en valeurs du Trésor.<a id=319></a>
+#### 2 : Paiement en valeurs du Trésor.<a id=316></a>
 
 ###### Article 198 bis
 
@@ -16523,7 +16460,7 @@ _Cite_:
   - Loi n°50-135 1950-01-31 ART. 41, ART. 42
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=320></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=317></a>
 
 ###### Article 198 quinquies
 
@@ -16534,7 +16471,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=321></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=318></a>
 
 ###### Article 198 sexies
 
@@ -16549,7 +16486,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=322></a>
+#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=319></a>
 
 ###### Article 198 septies
 
@@ -16569,7 +16506,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=323></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=320></a>
 
 ###### Article 198 octies
 
@@ -16590,9 +16527,9 @@ _Modifié par_:
   - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
 
 
-### Section V : Dispositions communes<a id=324></a>
+### Section V : Dispositions communes<a id=321></a>
 
-#### 2° : Paiement par chèques<a id=325></a>
+#### 2° : Paiement par chèques<a id=322></a>
 
 ###### Article 199
 
@@ -16650,9 +16587,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-### Chapitre I bis A : Sûretés et privilèges<a id=326></a>
+### Chapitre I bis A : Sûretés et privilèges<a id=323></a>
 
-#### Publicité du privilège du Trésor.<a id=327></a>
+#### Publicité du privilège du Trésor.<a id=324></a>
 
 ###### Article 207 quinquies
 
@@ -16678,9 +16615,9 @@ _Cite_:
   - PEREMPTION: Loi n°94-475 du 10 juin 1994 - art. 1
 
 
-## Chapitre I bis : Pénalités<a id=328></a>
+## Chapitre I bis : Pénalités<a id=325></a>
 
-### I : Impôts directs et taxes assimilées<a id=329></a>
+### I : Impôts directs et taxes assimilées<a id=326></a>
 
 ###### Article 207 quater A
 
@@ -16689,7 +16626,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=330></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=327></a>
 
 ###### Article 207 quater A bis
 
@@ -16715,9 +16652,9 @@ _Cite_:
   - HISTO: Edition du 10 juillet 1983
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=331></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=328></a>
 
-### Publicité du privilège du Trésor<a id=332></a>
+### Publicité du privilège du Trésor<a id=329></a>
 
 ###### Article 207 sexies
 
