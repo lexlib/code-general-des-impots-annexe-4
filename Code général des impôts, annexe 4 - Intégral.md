@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-01-13
+Version Consolidée au 1982-01-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -13128,24 +13128,17 @@ _Cite_:
 ###### Article 159 AL sexies
 
 1. Le taux de la taxe parafiscale prévue aux articles 363 N à 363 S de l'annexe II au code général des impôts est fixé pour
-1981 à 0,22 %.
+1982 à 0,22 %.
 
-2. Le produit de la taxe parafiscale est affecté, pour 1981, de la façon suivante :
-
-- un tiers au centre d'études techniques des industries de l'habillement ;
-
-- deux tiers au comité interprofessionnel de rénovation des industries du textile et de l'habillement mentionné à l'article
-363 R de l'annexe II précitée.
+2. Le produit de la taxe parafiscale est affecté, pour 1982, au comité interprofessionnel de rénovation des industries du
+textile et de l'habillement, à charge pour lui de reverser une somme de 22 millions de francs au centre d'études techniques
+des industries de l'habillement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté 1980-12-31 art. 1, art. 2, art. 4 JORF 7 janvier 1981
-
 _Codifié par_:
 
-  - Arrêté 1981-09-15
+  - Arrêté 1982-10-15
 
 _Cite_:
 
@@ -13422,21 +13415,21 @@ _Modifié par_:
 ###### Article 159 AL ter
 
 Le taux de la taxe parafiscale sur les textiles visée à l'article 352 de l'annexe II au code général des impôts est fixé à
-0,44 % jusqu'au 31 décembre 1981 [*date limite*].
+0,44 % jusqu'au 31 décembre 1982.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Arrêté 1980-12-31 art. 1, art. 4 JORF 7 janvier 1981
-
 _Codifié par_:
 
-  - Arrêté 1981-09-15
+  - Arrêté 1982-10-15
 
 _Cite_:
 
   - CGIAN2 352
+
+_Abrogé par_:
+
+  - Décret n°82-1242 du 31 décembre 1982 - art. 6 (V) JORF 13 janvier 1983
 
 
 #### TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT.<a id=288></a>
