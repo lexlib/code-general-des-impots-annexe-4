@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1979-07-01
+Version Consolidée au 1979-07-07
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -278,7 +278,7 @@ Version Consolidée au 1979-07-01
         - [COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE. (art. 159 AL bis)](#275)
         - [TAXE PARAFISCALE SUR LES TEXTILES. (art. 159 AL ter)](#276)
         - [TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT. (art. 159 AL quater)](#277)
-      - [CONTRIBUTIONS INDIRECTES (art. 159 AM à 159 AP)](#278)
+      - [CONTRIBUTIONS INDIRECTES (art. 159 AQ à 159 AP)](#278)
         - [COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES. (art. 159 AM)](#279)
         - [TAXES PARAFISCALE SUR CERTAINES VIANDES. (art. 159 AO)](#280)
         - [TAXE PARAFISCALE SUR LES VINS. (art. 159 AP)](#281)
@@ -13475,6 +13475,27 @@ _Cite_:
 
 
 ### CONTRIBUTIONS INDIRECTES<a id=278></a>
+
+###### Article 159 AQ
+
+Le taux de la taxe sur certains lubrifiants mis à la consommation prévue à l'article 363 T de l'annexe II au code général des
+impôts est fixé à 40 F par tonne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arreté 1986-10-07
+  - Arrêté 1981-09-15
+
+_Créé par_:
+
+  - Arrêté 1979-06-30 art. 1 JORF 7 juillet 1979
+
+_Cite_:
+
+  - CGIAN2 363 T
+
 
 #### COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.<a id=279></a>
 
