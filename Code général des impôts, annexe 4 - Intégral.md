@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-01-08
+Version Consolidée au 1982-01-13
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -280,8 +280,8 @@ Version Consolidée au 1982-01-08
           - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#277)
         - [CONTRIBUTIONS INDIRECTES (art. 126 C à 153)](#278)
           - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 126 C à 153)](#279)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 AL sexies à 159 septies)](#280)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 159 AL sexies à 159 AL quater)](#281)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 AL quater A à 159 septies)](#280)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 159 AL quater A à 159 AL quater)](#281)
         - [TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES. (art. 157 bis)](#282)
         - [BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA* (art. 159 ter A)](#283)
         - [FONDS NATIONAL DU LIVRE (art. 159 AD)](#284)
@@ -13109,6 +13109,21 @@ _Cite_:
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=280></a>
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES<a id=281></a>
+
+###### Article 159 AL quater A
+
+Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,44 %.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1983-07-10
+
+_Cite_:
+
+  - CGIAN2 357 A
+
 
 ###### Article 159 AL sexies
 
