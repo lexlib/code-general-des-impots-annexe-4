@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1984-03-31
+Version Consolidée au 1984-06-26
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -342,24 +342,25 @@ Version Consolidée au 1984-03-31
       - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#339)
       - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#340)
       - [Section III : Contributions indirectes (art. 193 à 194)](#341)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 septies)](#342)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#342)
         - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#343)
         - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#344)
         - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#345)
         - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#346)
         - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#347)
-      - [Section V : Dispositions communes (art. 199 à 204)](#348)
-        - [2° : Paiement par chèques (art. 199 à 204)](#349)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#350)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#351)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#352)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#353)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#354)
-  - [RECOUVREMENT DE L'IMPOT (art. 207 quater B à 207 quinquies)](#355)
-    - [PAIEMENT DE L'IMPOT (art. 207 quater B)](#356)
-      - [PENALITES (art. 207 quater B)](#357)
-    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#358)
-      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#359)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#348)
+      - [Section V : Dispositions communes (art. 199 à 204)](#349)
+        - [2° : Paiement par chèques (art. 199 à 204)](#350)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#351)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#352)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#353)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#354)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#355)
+  - [RECOUVREMENT DE L'IMPOT (art. 207 quater B à 207 quinquies)](#356)
+    - [PAIEMENT DE L'IMPOT (art. 207 quater B)](#357)
+      - [PENALITES (art. 207 quater B)](#358)
+    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#359)
+      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#360)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -16250,9 +16251,26 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section V : Dispositions communes<a id=348></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=348></a>
 
-#### 2° : Paiement par chèques<a id=349></a>
+###### Article 198 octies
+
+La fiche de liquidation des impositions dont la délivrance du permis de construire constitue le fait générateur est transmise
+par l'autorité administrative au directeur des services fiscaux et au titulaire du permis de construire.
+
+Une fiche modificative est également transmise en cas de modification apportée au permis de construire ou à l'autorisation
+tacite de construire lorsque cette modification a une incidence sur l'assiette d'une taxe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1985-09-24
+
+
+### Section V : Dispositions communes<a id=349></a>
+
+#### 2° : Paiement par chèques<a id=350></a>
 
 ###### Article 199
 
@@ -16331,9 +16349,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-## Chapitre I bis : Pénalités<a id=350></a>
+## Chapitre I bis : Pénalités<a id=351></a>
 
-### I : Impôts directs et taxes assimilées<a id=351></a>
+### I : Impôts directs et taxes assimilées<a id=352></a>
 
 ###### Article 207 quater A
 
@@ -16342,7 +16360,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=352></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=353></a>
 
 ###### Article 207 quater A bis
 
@@ -16368,9 +16386,9 @@ _Cite_:
   - HISTO: Edition du 10 juillet 1983
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=353></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=354></a>
 
-### Publicité du privilège du Trésor<a id=354></a>
+### Publicité du privilège du Trésor<a id=355></a>
 
 ###### Article 207 sexies
 
@@ -16399,11 +16417,11 @@ _Cite_:
   - CGIAN2 396 bis
 
 
-# RECOUVREMENT DE L'IMPOT<a id=355></a>
+# RECOUVREMENT DE L'IMPOT<a id=356></a>
 
-## PAIEMENT DE L'IMPOT<a id=356></a>
+## PAIEMENT DE L'IMPOT<a id=357></a>
 
-### PENALITES<a id=357></a>
+### PENALITES<a id=358></a>
 
 ###### Article 207 quater B
 
@@ -16429,9 +16447,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. A225 A-1
 
 
-## SURETES ET PRIVILEGES<a id=358></a>
+## SURETES ET PRIVILEGES<a id=359></a>
 
-### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=359></a>
+### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=360></a>
 
 ###### Article 207 quinquies
 
