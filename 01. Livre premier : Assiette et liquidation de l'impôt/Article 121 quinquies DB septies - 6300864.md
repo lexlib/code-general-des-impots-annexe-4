@@ -6,15 +6,16 @@ minimum d'investissements.
 Sauf en cas de décentralisation, l'exonération ne peut être accordée lorsque l'opération entraîne une suppression d'emplois
 dans les autres établissements de l'entreprise.
 
-En aucun cas le prix de revient des immobilisations exonérées ne peut excéder un million [*montant maximum*] de francs par
-emploi créé ou maintenu.
-
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1983-12-16 art. 5 JORF 20 décembre 1983
 
 _Codifié par_:
 
-  - Arrêté 1986-10-07
+  - Arrêté 1989-10-30
+
+**Liens**:
+
+  - HISTO: Edition du 14 juillet 1989
+
+_Modifié par_:
+
+  - Loi n°88-1193 du 29 décembre 1988 - art. 19 (V) JORF 30 décembre 1988
