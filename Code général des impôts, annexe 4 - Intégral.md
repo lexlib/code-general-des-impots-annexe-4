@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-10-07
+Version Consolidée au 1981-10-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -317,7 +317,7 @@ Version Consolidée au 1981-10-07
         - [3 : Paiement de l'impôt (art. 187 à 188)](#314)
       - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#315)
       - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#316)
-      - [Section III : Contributions indirectes (art. 193)](#317)
+      - [Section III : Contributions indirectes (art. 193 à 194)](#317)
       - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 septies)](#318)
         - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A à 197)](#319)
         - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#320)
@@ -334,15 +334,14 @@ Version Consolidée au 1981-10-07
     - [PAIEMENT DE L'IMPOT (art. 188 H à 207 quater B)](#331)
       - [RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES. (art. 188 H)](#332)
       - [PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE (art. 188 I)](#333)
-      - [CONTRIBUTIONS INDIRECTES. (art. 194)](#334)
-      - [PENALITES (art. 207 quater B)](#335)
-    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#336)
-      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#337)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 207 B à 207 N)](#338)
-      - [SURSIS DE PAIEMENT. (art. 207 A à 207 N)](#339)
-    - [DROIT DE COMMUNICATION (art. 208 à 211)](#340)
-      - [OBLIGATIONS DES CAISSES DE SECURITE SOCIALE. (art. 208 à 210)](#341)
-      - [OBLIGATIONS DES DIRECTEURS DE LABORATOIRES D'ANALYSES MEDICALES. (art. 211)](#342)
+      - [PENALITES (art. 207 quater B)](#334)
+    - [SURETES ET PRIVILEGES (art. 207 quinquies)](#335)
+      - [PUBLICITE DU PRIVILEGE DU TRESOR. (art. 207 quinquies)](#336)
+    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 207 B à 207 N)](#337)
+      - [SURSIS DE PAIEMENT. (art. 207 A à 207 N)](#338)
+    - [DROIT DE COMMUNICATION (art. 208 à 211)](#339)
+      - [OBLIGATIONS DES CAISSES DE SECURITE SOCIALE. (art. 208 à 210)](#340)
+      - [OBLIGATIONS DES DIRECTEURS DE LABORATOIRES D'ANALYSES MEDICALES. (art. 211)](#341)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -15055,6 +15054,26 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
+###### Article 194
+
+Lorsqu'un redevable est admis au bénéfice du paiement par obligations cautionnées dans les conditions prévues à l'article
+1698 du code général des impôts, le taux de l'intérêt pour les crédits concédés est fixé à 14,50 % l'an en France
+continentale et à 10,40 % l'an dans les départements d'outre-mer.
+
+Ces obligations cautionnées donnent lieu au paiement d'une remise spéciale fixée à un tiers de F pour cent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1978-12-05
+  - CGI 1698
+
+_Modifié par_:
+
+  - Arrêté 1981-10-30 art. 1 JORF 31 octobre 1981
+
+
 ### Section IV : Enregistrement, publicité foncière et timbre<a id=318></a>
 
 #### 1 : Taxe spéciale sur les conventions d'assurances<a id=319></a>
@@ -15451,29 +15470,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### CONTRIBUTIONS INDIRECTES.<a id=334></a>
-
-###### Article 194
-
-Lorsqu'un redevable est admis au bénéfice du paiement par obligations cautionnées dans les conditions prévues à l'article
-1698 du code général des impôts  le taux de l'intérêt pour les crédits concédés est fixé à 13,60 % l'an en France
-continentale et à 10,40 % l'an dans les départements d'outre-mer [*DOM*].
-
-Ces obligations cautionnées donnent lieu au paiement d'une remise spéciale fixée à un tiers de F pour cent.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1978-12-05
-  - CGI 1698
-
-_Modifié par_:
-
-  - Arrêté 1980-03-27 art. 1 JORF 30 mars 1980
-
-
-### PENALITES<a id=335></a>
+### PENALITES<a id=334></a>
 
 ###### Article 207 quater B
 
@@ -15499,9 +15496,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. A225 A-1
 
 
-## SURETES ET PRIVILEGES<a id=336></a>
+## SURETES ET PRIVILEGES<a id=335></a>
 
-### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=337></a>
+### PUBLICITE DU PRIVILEGE DU TRESOR.<a id=336></a>
 
 ###### Article 207 quinquies
 
@@ -15520,7 +15517,7 @@ _Cite_:
   - CGI 1929 quater 4
 
 
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=338></a>
+## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=337></a>
 
 ###### Article 207 B
 
@@ -15544,7 +15541,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### SURSIS DE PAIEMENT.<a id=339></a>
+### SURSIS DE PAIEMENT.<a id=338></a>
 
 ###### Article 207 A
 
@@ -15841,9 +15838,9 @@ _Nouveaux textes_:
   - Livre des procédures fiscales, art. A277-10
 
 
-## DROIT DE COMMUNICATION<a id=340></a>
+## DROIT DE COMMUNICATION<a id=339></a>
 
-### OBLIGATIONS DES CAISSES DE SECURITE SOCIALE.<a id=341></a>
+### OBLIGATIONS DES CAISSES DE SECURITE SOCIALE.<a id=340></a>
 
 ###### Article 208
 
@@ -15937,7 +15934,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. A97-2
 
 
-### OBLIGATIONS DES DIRECTEURS DE LABORATOIRES D'ANALYSES MEDICALES.<a id=342></a>
+### OBLIGATIONS DES DIRECTEURS DE LABORATOIRES D'ANALYSES MEDICALES.<a id=341></a>
 
 ###### Article 211
 
