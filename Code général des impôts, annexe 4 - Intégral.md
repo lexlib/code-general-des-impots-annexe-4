@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1987-01-24
+Version Consolidée au 1987-02-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -14335,13 +14335,20 @@ _Cite_:
 ###### Article 159 AP
 
 En application de l'article 363 E de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
-vins au profit de l'association nationale pour le developpement agricole est fixée comme suit pour l'année 1985 et pour
-l'année 1986 :
+vins au profit de l'association nationale pour le developpement agricole est fixée comme suit pour l'année 1987 :
 
-Vins à appellation d'origine contrôlée : 0,55 F par hectolitre    Vins délimités de qualité supérieure : 0,35 F par
-hectolitre    Autres vins : 0,20 F par hectolitre.
+Vins à appellation d'origine contrôlée : 1,10 F par hectolitre    Vins délimités de qualité supérieure : 0,70 F par
+hectolitre    Autres vins : 0,40 F par hectolitre.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1987-01-19 art. 1 JORF 6 février 1987
+
+_Codifié par_:
+
+  - Arrêté 1987-11-23
 
 _Cite_:
 
