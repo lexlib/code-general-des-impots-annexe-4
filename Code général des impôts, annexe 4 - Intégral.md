@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-01-31
+Version Consolidée au 1981-02-27
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -12098,17 +12098,21 @@ _Transféré par_:
 ###### Article 121 S
 
 Tout propriétaire d'un véhicule dispensé ou exonéré de la taxe différentielle ou de la taxe spéciale en raison de sa qualité
-personnelle est tenu de demander à la recette des impôts dont il dépend  en fournissant les justifications [*condition
-d'exonération*] dont la nature est fixée par l'administration la délivrance d'une vignette gratis qui est utilisée dans les
-mêmes conditions que les vignettes de la série normale.
+personnelle est tenu de demander à la recette des impôts dont il dépend en fournissant les justifications dont la nature est
+fixée par l'administration la délivrance d'une vignette gratis qui est utilisée dans les mêmes conditions que les vignettes
+de la série normale.
 
-La vignette gratis [*gratuité*] est également délivrée sur justification :
+Doivent également être munis d'une vignette gratis les véhicules répondant aux normes figurant au III de l'annexe I du décret
+n° 79-80 du 25 janvier 1979 relatif aux transports sanitaires privés utilisés par une entreprise agréée conformément à
+l'article 1er dudit décret.
+
+La vignette gratis est également délivrée sur justification :
 
 a. Pour les véhicules visés à l'article 304-3o de l'annexe II au code général des impôts lorsqu'ils ne portent aucune marque
 extérieure susceptible d'identifier leur affectation;
 
-b. Pour les véhicules autres que ceux visés aux alinéas précédents qui  cessant en cours d'année d'être en situation de
-bénéficier d'une exonération  continuent néanmoins  en vertu de l'article 306-I de l'annexe II au code général des impôts  à
+b. Pour les véhicules autres que ceux visés aux alinéas précédents qui cessant en cours d'année d'être en situation de
+bénéficier d'une exonération continuent néanmoins en vertu de l'article 306-I de l'annexe II au code général des impôts à
 échapper à la taxe jusqu'à la fin de ladite période.
 
 Le titre justificatif produit à l'appui de la demande d'exonération est annoté de la date de la délivrance de la vignette
@@ -12116,14 +12120,24 @@ suivie de la mention " Gratis ".
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté 1981-02-24 art. 2 JORF 27 février 1981
+
+_Codifié par_:
+
+  - Arrêté 1981-09-15
+
 _Cite_:
 
   - CGIAN2 304 3°
   - CGIAN2 306 I
+  - Décret n°79-80 1979-01-25 art. 1, annexe I III
+  - Décret n°79-80 du 25 janvier 1979 - art. 1 ()
 
-**Liens**:
+_Transféré par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
 ###### Article 121 T
@@ -12168,55 +12182,55 @@ _Transféré par_:
 
 ###### Article 121 V
 
-Sont exonérés [*exonération*] de la taxe différentielle sur les véhicules à moteur [*vignette*] instituée par l'article 1007-
-a du code général des impôts les véhicules spéciaux dont la liste suit :
+Sont exonérés de la taxe différentielle sur les véhicules à moteur instituée par l'article 1007-a du code général des impôts
+les véhicules spéciaux dont la liste suit :
 
-1o Les fourgons funéraires et corbillards automobiles;
+1° Les fourgons funéraires et corbillards automobiles;
 
-2o Les bennes à ordures ménagères  les arroseuses  les balayeuses;    3o Les ambulances;
+2° Les bennes à ordures ménagères les arroseuses les balayeuses; 3° Les ambulances;
 
-4o Les tonnes de vidange;
+4° Les tonnes de vidange;
 
-5o Les engins considérés pour l'application des articles R 110 à R117 du code de la route comme matériels de travaux publics
+5° Les engins considérés pour l'application des articles R 110 à R117 du code de la route comme matériels de travaux publics
 et énumérés ci-après :
 
-a. Pompes centrifuges  groupes moto-pompes  pompes ou stations de pompages mobiles  fixés à demeure sur camion;
+a. Pompes centrifuges groupes moto-pompes pompes ou stations de pompages mobiles fixés à demeure sur camion;
 
-b. Sonnettes avec mouton bloc et treuil à moteur  sonnettes à vapeur complètes sur galets  derricks  moutons blocs à déclic
-moutons à vapeur (genre Tifine ou Lacour)  moutons diesel  marteaux trépideurs (batteurs et arracheurs)  fixés à demeure sur
+b. Sonnettes avec mouton bloc et treuil à moteur sonnettes à vapeur complètes sur galets derricks moutons blocs à déclic
+moutons à vapeur (genre Tifine ou Lacour) moutons diesel marteaux trépideurs (batteurs et arracheurs) fixés à demeure sur
 camion;
 
-c. Groupes moto-compresseurs mobiles  fixés à demeure sur camion;
+c. Groupes moto-compresseurs mobiles fixés à demeure sur camion;
 
-d. Grues  grues derricks  sapins ou pylônes  sur camion;
+d. Grues grues derricks sapins ou pylônes sur camion;
 
-e. Postes automobiles d'enrobage mobile type Central-Plant ou Maintoner-Plant pour enrobés à chaud  postes automobiles
+e. Postes automobiles d'enrobage mobile type Central-Plant ou Maintoner-Plant pour enrobés à chaud postes automobiles
 d'enrobage type Travel-Plant pour enrobés à froid;
 
-f. Citernes mobiles de stockage de liants (cuves de transport de liants) et fondoirs  sur camion;
+f. Citernes mobiles de stockage de liants (cuves de transport de liants) et fondoirs sur camion;
 
-g. Répandeurs  finisseurs  sur camion;
+g. Répandeurs finisseurs sur camion;
 
-h. Générateurs de vapeur  bacs de chauffage (réchauffeurs de produits bitumeux et autres liants)  tonnes répandeuses (y
-compris les arroseurs)  sur camion;
+h. Générateurs de vapeur bacs de chauffage (réchauffeurs de produits bitumeux et autres liants) tonnes répandeuses (y compris
+les arroseurs) sur camion;
 
-i. Appareils gravillonneurs sableurs  chargeurs  élévateurs de gravillon  balayeuses mécaniques  sur camion;
+i. Appareils gravillonneurs sableurs chargeurs élévateurs de gravillon balayeuses mécaniques sur camion;
 
 j. Chasse-neige sur camion;
 
-k. Concasseurs mobiles  gravillonneurs granulateurs et broyeurs mobiles  cribleurs ou trommels  groupes concasseurs mobiles
-(type Iowa)  sur camion;
+k. Concasseurs mobiles gravillonneurs granulateurs et broyeurs mobiles cribleurs ou trommels groupes concasseurs mobiles
+(type Iowa) sur camion;
 
-l. Bétonnières  tambours cylindriques  pompes à béton  sur camion;    m. Groupes électrogènes mobiles  groupes convertisseurs
-ou transformateurs mobiles  postes mobiles de soudure  sur camion;
+l. Bétonnières tambours cylindriques pompes à béton sur camion; m. Groupes électrogènes mobiles groupes convertisseurs ou
+transformateurs mobiles postes mobiles de soudure sur camion;
 
-n. Soudeuses mobiles  sur camion;
+n. Soudeuses mobiles sur camion;
 
 o. Postes automobiles de dégraissage et de gonflage;
 
-6o Les camions ateliers  dépanneurs munis d'un engin de levage;
+6° Les camions ateliers dépanneurs munis d'un engin de levage;
 
-7o Le matériel d'incendie automobile énuméré ci-après :
+7° Le matériel d'incendie automobile énuméré ci-après :
 
 a. Matériel d'incendie de premier secours ordinaire;
 
@@ -12236,7 +12250,7 @@ h. Dévidoir;
 
 i. Accessoires divers;
 
-8o Le matériel sanitaire automobile ci-après :
+8° Le matériel sanitaire automobile ci-après :
 
 a. Chirurgical;
 
@@ -12248,7 +12262,7 @@ d. Epurateur d'eau;
 
 e. Désinfection et désinsectisation;
 
-9o Le matériel de radiodiffusion et de télévision ci-après  fixé à demeure sur camion  camionnette ou fourgon automobile :
+9° Le matériel de radiodiffusion et de télévision ci-après fixé à demeure sur camion camionnette ou fourgon automobile :
 
 a. Appareils émetteurs de T.S.F.;
 
@@ -12258,21 +12272,34 @@ c. Appareils de mesure de son;
 
 d. Laboratoire de développement de films;
 
-10o Les véhicules militaires faisant l'objet d'une immatriculation particulière;
+10° Les véhicules militaires faisant l'objet d'une immatriculation particulière;
 
-11o Les véhicules aménagés spécialement pour le transport du lait du vin  du bétail et de la viande  ne transportant que ces
+11° Les véhicules aménagés spécialement pour le transport du lait du vin du bétail et de la viande ne transportant que ces
 produits et ne sortant pas des limites de la zone courte à laquelle ils sont rattachés.
 
+12° Les véhicules répondant aux normes figurant au III de l'annexe I du décret n° 79-80 du 25 janvier 1979 relatif aux
+transports sanitaires privés utilisés par une entreprise agréée conformément à l'article 1er dudit décret.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1981-02-24 art. 1 JORF 27 février 1981
+
+_Codifié par_:
+
+  - Arrêté 1981-09-15
 
 _Cite_:
 
   - CGI 1007 a
+  - Décret n°79-80 1979-01-25 art. 1, annexe I III
+  - Décret n°79-80 du 25 janvier 1979 - art. 1 ()
   - Code de la route R110 A Code de la route R117
 
-**Liens**:
+_Transféré par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
 ### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE<a id=260></a>
