@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-03-12
+Version Consolidée au 1986-03-16
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -96,8 +96,8 @@ Version Consolidée au 1986-03-12
                 - [1° : Régime général (art. 51 septies à 51 septies I)](#93)
                 - [2° : Régime spécial (art. 51 octies à 51 octies E)](#94)
               - [E : Teneur en alcool des produits de parfumerie et de toilette (art. 52)](#95)
-            - [III : Régime fiscal (art. 54)](#96)
-              - [Produits à base d'alcool susceptibles de bénéficier du droit réduit de fabrication. (art. 54)](#97)
+            - [III : Régime fiscal (art. 53 à 54)](#96)
+              - [Produits à base d'alcool susceptibles de bénéficier du droit réduit de fabrication. (art. 53 à 54)](#97)
           - [Section I bis : Circulation (art. 54-0 A à 54 octies)](#98)
             - [I : Capsules représentatives de droits (art. 54-0 A à 54-0 CD)](#99)
               - [A : Capsules représentatives des droits sur les vins et les cidres (art. 54-0 C à 54-0 Z)](#100)
@@ -281,8 +281,8 @@ Version Consolidée au 1986-03-12
       - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES (art. 50 quindecies)](#278)
         - [RECEPISSE DE CONSIGNATION. (art. 50 quindecies)](#279)
       - [CONTRIBUTIONS INDIRECTES (art. 51 quater à 56 J BIS)](#280)
-        - [BOISSONS (art. 51 quater à 53)](#281)
-          - [ALCOOLS (art. 51 quater à 53)](#282)
+        - [BOISSONS (art. 51 quater à 51 sexies)](#281)
+          - [ALCOOLS (art. 51 quater à 51 sexies)](#282)
         - [GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE (art. 56 J BIS)](#283)
       - [MONOPOLES FISCAUX (art. 56 AQ)](#284)
         - [TABACS. (art. 56 AQ)](#285)
@@ -4537,6 +4537,47 @@ _Cité par_:
 ##### III : Régime fiscal<a id=96></a>
 
 ##### Produits à base d'alcool susceptibles de bénéficier du droit réduit de fabrication.<a id=97></a>
+
+###### Article 53
+
+Le droit de fabrication au tarif visé au 2° du II de l'article 406 A du code général des impôts est applicable aux alcools
+utilisés dans la préparation des produits appartenant aux catégories ci-après désignées :
+
+a. Médicaments à base d'alcool définis par l'article L 511 du code de la santé publique  à l'exception des alcools de menthe
+eaux de mélisse  élixirs et produits similaires vendus autrement qu'aux pharmaciens ou médecins dits propharmaciens et en vue
+de la préparation de médicaments ;
+
+b. Produits contenant de l'alcool  figurant à la Pharmacopée française  et livrés à des pharmaciens ou médecins dits
+propharmaciens en vue de la préparation de médicaments ;
+
+c. Alcoolats, extraits alcooliques parfumés, teintures, produits analogues, livrés à des industriels en vue de la préparation
+de limonades gazeuses  sodas ou sirops  à la condition que la richesse alcoolique des boissons fabriquées ne soit pas
+supérieure à 1 % vol. et que lesdits industriels n'exercent pas le commerce en détail de boissons alcooliques ;
+
+d. (Abrogé).
+
+e. (Abrogé).
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1986-03-13 art. 1 JORF 16 mars 1986
+
+_Codifié par_:
+
+  - Arrêté 1999-05-18
+
+_Cite_:
+
+  - CGI 406 A II 2°
+  - Code de la santé publique - art. L511 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 1999
+  - PEREMPTION: Loi - art. 47 (V) JORF 31 décembre 1998
+
 
 ###### Article 54
 
@@ -13500,41 +13541,6 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
-
-
-###### Article 53
-
-Le droit de fabrication au tarif visé à l'article 406 A-II-2° du code général des impôts est applicable aux alcools utilisés
-dans la préparation des produits appartenant aux catégories ci-après désignées :
-
-a. Médicaments à base d'alcool définis par l'article L 511 du code de la santé publique  à l'exception des alcools de menthe
-eaux de mélisse  élixirs et produits similaires vendus autrement qu'aux pharmaciens ou médecins dits propharmaciens et en vue
-de la préparation de médicaments;
-
-b. Produits contenant de l'alcool  figurant à la Pharmacopée française  et livrés à des pharmaciens ou médecins dits
-propharmaciens en vue de la préparation de médicaments;
-
-c. Alcoolats  extraits alcooliques parfumés  teintures  produits analogues  livrés à des industriels en vue de la préparation
-de limonades gazeuses  sodas ou sirops  à la condition que la richesse alcoolique des boissons fabriquées ne soit pas
-supérieure à 1 % vol. et que lesdits industriels n'exercent pas le commerce en détail de boissons alcooliques;
-
-d. Alcoolats  extraits alcooliques parfumés non consommables en l'état livrés à des biscuitiers  pâtissiers  confiseurs
-s chocolatiers glaciers pour servir exclusivement à parfumer la pâte des bonbons, gâteaux et glaces ou utilisés dans
-l'industrie de la conserverie l'industrie de la confiturerie ou l'industrie laitière (fabrication de yaourts ou yogourts);
-
-e. Eaux-de-vie, produits assimilés provenant de la distillation de céréales et vins de liqueur utilisés, dans les conditions
-fixées par l'administration, à la préparation de salaisons et conserves de viande en boîtes.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1982-02-09 art. 1 JORF 18 février 1982
-
-_Cite_:
-
-  - CGI 406 A II 2°
-  - Code de la santé publique - art. L511 (M)
 
 
 #### GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE<a id=283></a>
