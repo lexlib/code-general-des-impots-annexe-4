@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-01-23
+Version Consolidée au 1982-01-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -278,8 +278,8 @@ Version Consolidée au 1982-01-23
       - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES (art. 121 quinquies E à 153)](#275)
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#276)
           - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#277)
-        - [CONTRIBUTIONS INDIRECTES (art. 126 C à 153)](#278)
-          - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 126 C à 153)](#279)
+        - [CONTRIBUTIONS INDIRECTES (art. 145 à 153)](#278)
+          - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 145 à 153)](#279)
     - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 AL quater A à 159 septies)](#280)
       - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 159 AL quater A à 159 AL quater)](#281)
         - [TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES. (art. 157 bis)](#282)
@@ -12983,56 +12983,6 @@ _Cite_:
 #### CONTRIBUTIONS INDIRECTES<a id=278></a>
 
 ##### IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS.<a id=279></a>
-
-###### Article 126 C
-
-La déclaration prévue à l'article 1565 du code général des impôts est souscrite en double exemplaire par les exploitants
-d'appareils automatiques au bureau de déclarations de la direction générale des impôts du lieu où les appareils sont mis en
-service.
-
-Toutefois les personnes morales ou physiques qui exploitent plusieurs appareils dans une même ville peuvent être autorisées
-par l'administration à souscrire au bureau qui leur sera désigné toutes les déclarations afférentes aux appareils mis en
-service dans la ville.
-
-Chaque déclaration comporte les indications ci-dessous :
-
-Nom et adresse du propriétaire de l'appareil;
-
-Nom et adresse de l'exploitant;
-
-Adresse de l'établissement où l'appareil est mis en service ou pour les personnes visées au deuxième alinéa indication de la
-ville où il est exploité;
-
-Nom du constructeur marque type et numéro de série ou autres références données par le constructeur ou à défaut nature de
-l'appareil (billard électrique fusil électronique électrophone etc.) avec indication des caractéristiques particulières
-(inscriptions figurant sur les tableaux nombre de " voyants " lumineux dimensions etc.);
-
-Origine de l'appareil : nom et adresse du vendeur et date de la livraison.
-
-La déclaration des appareils automatiques est souscrite au moins vingt-quatre heures avant leur date d'installation.
-
-Chaque appareil automatique fait l'objet d'une déclaration distincte. Cette déclaration n'est valable que pour l'année à
-laquelle elle se rapporte ; elle est renouvelable entre le 1er et le 5 janvier de chaque année.
-
-Le titulaire de recette locale ou de recette auxiliaire ou le gérant de bureau auxiliaire des impôts délivre pour chaque
-déclaration un récépissé qui indique le montant de la taxe exigible dans la localité et qui doit être représenté à toute
-réquisition des agents intervenant dans l'établissement public où l'appareil est installé. La délivrance de duplicata est
-interdite.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1565
-
-_Abrogé par_:
-
-  - Décret n°82-71 du 22 janvier 1982 - art. 2 (V) JORF 24 JANVIER 1982
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 145
 
