@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1993-02-17
+Version Consolidée au 1993-03-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -78,16 +78,16 @@ Version Consolidée au 1993-02-17
               - [B : Hôtels de tourisme et villages de vacances (art. 30)](#75)
               - [C : Aliments pour le bétail, les animaux de basse-cour, les poissons d'élevage et les abeilles (art. 31)](#76)
             - [III : Taux majoré. (art. 31 quater à 31 ter)](#77)
-          - [Section V : Obligations des redevables (art. 32 à 50 sexies H)](#78)
+          - [Section V : Obligations des redevables (art. 32 à 50 sexies I)](#78)
             - [I : Obligations générales (art. 32 à 33)](#79)
               - [A : Déclarations d'existence et comptabilité. Déclarations de recettes (art. 32 à 41)](#80)
               - [Déclarations d'existence et comptabilité - Déclarations de recettes. (art. 33)](#81)
-            - [II : Obligations particulières (art. 42 à 50 sexies H)](#82)
+            - [II : Obligations particulières (art. 42 à 50 sexies I)](#82)
               - [A : Bâtiments de mer. Bâteaux. Pêche maritime. Aéronefs (art. 42 à 46)](#83)
               - [B : Exportateurs (art. 47)](#84)
               - [D : Cautionnement des entreprises bénéficiaires du régime de la suspension de taxe (art. 49 à 50 bis)](#85)
               - [F : Opérations immobilières (art. 50 sexies à 50 sexies A)](#86)
-              - [G : Exploitants de spectacles (art. 50 sexies B à 50 sexies H)](#87)
+              - [G : Exploitants de spectacles (art. 50 sexies B à 50 sexies I)](#87)
           - [Section VI : Importations (art. 50 decies)](#88)
             - [II : Oeuvres d'art originales, timbres et objets de collection ou d'antiquité (art. 50 decies)](#89)
           - [Section VII : Régimes spéciaux (art. 50 duodecies à 50 duodecies B)](#90)
@@ -204,7 +204,7 @@ Version Consolidée au 1993-02-17
             - [I : Dispositions générales (art. 124 à 141)](#201)
               - [1° : Déclaration d'existence (art. 124)](#202)
               - [2° : Classement des spectacles (art. 126)](#203)
-              - [5° : Contrôle des entrées dans les salles. Billets (art. 127 à 131)](#204)
+              - [5° : Contrôle des entrées dans les salles. Billets (art. 127 à 131 A)](#204)
               - [6° : Assiette et contrôle de la taxe (art. 138 à 139)](#205)
               - [7° : Fermeture des établissements (art. 141)](#206)
             - [II : Dispositions particulières (art. 145 à 154)](#207)
@@ -4813,6 +4813,52 @@ _Modifié par_:
 _Cite_:
 
   - Livre des procédures fiscales L102 B I
+
+
+###### Article 50 sexies I
+
+I.-Les billets prévus au I de l'article 290 quater du code général des impôts peuvent être établis par un système informatisé
+dont les caractéristiques et le fonctionnement doivent être conformes au cahier des charges annexé à l'arrêté du 8 mars 1993.
+
+II.-Les exploitants d'établissements de spectacles visés au I de l'article 290 quater susmentionné déclarent à la direction
+des services fiscaux dont ils dépendent la mise en service d'un système informatisé de billetterie au plus tard lors de la
+première utilisation.
+
+Cette déclaration comporte les mentions suivantes nécessaires à la description du système utilisé :
+
+1° Le nom du logiciel, son numéro de version et, le cas échéant, sa date ainsi que l'identité de son concepteur ou le nom du
+progiciel ;
+
+2° La configuration informatique ;
+
+3° Le système d'exploitation ;
+
+4° Le langage de programmation ;
+
+5° Le format du logiciel source ou exécutable fourni par le concepteur ;
+
+6° La description fonctionnelle du système ;
+
+7° Le fac-similé d'un billet, d'un coupon de gestion et d'un relevé de recettes ;
+
+8° Les sécurités mises en oeuvre.
+
+Les modifications du système sont portées à la connaissance de l'administration dans les conditions prévues au premier
+alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1993-03-08 art. 1 JORF 24 mars 1993
+
+_Cite_:
+
+  - CGI 290 quater
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ##### Section VI : Importations<a id=88></a>
@@ -12577,6 +12623,52 @@ cartes invendues qui sont représentées.
 _Cite_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 127 (V)
+
+
+###### Article 131 A
+
+I. Les billets prévus à l'article 1564 du code général des impôts peuvent être établis par un système informatisé dont les
+caractéristiques et le fonctionnement doivent être conformes au cahier des charges annexé à l'arrêté du 8 mars 1993.
+
+II. Les organisateurs de réunions sportives et les exploitants d'établissements de spectacles visés à l'article 1559 du code
+précité déclarent à la direction régionale des douanes et droits indirects dont ils dépendent la mise en service d'un système
+informatisé de billetterie au plus tard lors de la première utilisation.
+
+Cette déclaration comporte les mentions suivantes nécessaires à la description du système utilisé :
+
+1° Le nom du logiciel, son numéro de version et, le cas échéant, sa date ainsi que l'identité de son concepteur ou le nom du
+progiciel ;
+
+2° La configuration informatique ;
+
+3° Le système d'exploitation ;
+
+4° Le langage de programmation ;
+
+5° Le format du logiciel source ou exécutable fourni par le concepteur ;
+
+6° La description fonctionnelle du système ;
+
+7° Le fac-similé d'un billet, d'un coupon de gestion et d'un relevé de recettes ;
+
+8° Les sécurités mises en oeuvre.
+
+Les modifications du système sont portées à la connaissance de l'administration dans les conditions prévues au premier
+alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1993-03-08 art. 2 JORF 24 mars 1993
+
+_Cite_:
+
+  - CGI 1564, 1559
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ##### 6° : Assiette et contrôle de la taxe<a id=205></a>
