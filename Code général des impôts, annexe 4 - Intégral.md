@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1979-12-31
+Version Consolidée au 1980-01-07
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -269,8 +269,8 @@ Version Consolidée au 1979-12-31
           - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#266)
         - [CONTRIBUTIONS INDIRECTES (art. 126 C à 153)](#267)
           - [IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS. (art. 126 C à 153)](#268)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 157 bis à 159 septies)](#269)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 157 bis à 159 AL quater)](#270)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 159 AL sexies à 159 septies)](#269)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES (art. 159 AL sexies à 159 AL quater)](#270)
         - [TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES. (art. 157 bis)](#271)
         - [BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA* (art. 159 ter A)](#272)
         - [CENTRE D'ETUDES TECHNIQUES DES INDUSTRIES DE L'HABILLEMENT. (art. 159 A)](#273)
@@ -13054,6 +13054,38 @@ _Cite_:
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=269></a>
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES<a id=270></a>
+
+###### Article 159 AL sexies
+
+1. Le taux de la taxe parafiscale prévue aux articles 363 N à 363 S de l'annexe II au code général des impôts est fixé pour
+1981 à 0,22 %.
+
+2. Le produit de la taxe parafiscale est affecté, pour 1981, de la façon suivante :
+
+- un tiers au centre d'études techniques des industries de l'habillement ;
+
+- deux tiers au comité interprofessionnel de rénovation des industries du textile et de l'habillement mentionné à l'article
+363 R de l'annexe II précitée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1980-12-31 art. 1, art. 2, art. 4 JORF 7 janvier 1981
+
+_Codifié par_:
+
+  - Arrêté 1981-09-15
+
+_Cite_:
+
+  - CGIAN2 363 N
+  - CGIAN2 363 O
+  - CGIAN2 363 P
+  - CGIAN2 363 Q
+  - CGIAN2 363 R
+  - CGIAN2 363 S
+
 
 #### TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.<a id=271></a>
 
