@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1987-06-25
+Version Consolidée au 1987-07-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -274,7 +274,7 @@ Version Consolidée au 1987-06-25
         - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#271)
         - [Section IV : Dispositions communes (art. 170 septies à 170 sexies)](#272)
           - [Octroi de certains agréments fiscaux (art. 170 septies à 170 sexies)](#273)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 4 C bis à 170 septies D)](#274)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 4 C bis à 170 septies A)](#274)
     - [IMPOTS D'ETAT (art. 4 C bis à 121 V bis)](#275)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 4 C bis à 17 quinquies B)](#276)
         - [IMPOT SUR LE REVENU (art. 4 C bis à 17 quinquies B)](#277)
@@ -328,7 +328,7 @@ Version Consolidée au 1987-06-25
     - [DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS* (art. 161 A)](#325)
       - [FRAIS D'ASSIETTE ET DE PERCEPTION (art. 161 A)](#326)
         - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 161 A)](#327)
-    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 164 F bis à 170 septies D)](#328)
+    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 164 F bis à 170 septies A)](#328)
       - [ASSIETTE ET CONTROLE DE L'IMPOT (art. 164 F bis à 164 M)](#329)
         - [OBLIGATIONS DES REDEVABLES (art. 164 F bis à 164 F undecies)](#330)
           - [BONS DE REMIS. (art. 164 F bis à 164 F undecies)](#331)
@@ -336,9 +336,9 @@ Version Consolidée au 1987-06-25
           - [OBLIGATIONS DES REDEVABLES (art. 164 F quindecies)](#333)
             - [BONS DE REMIS. (art. 164 F quindecies)](#334)
         - [REGLEMENTATION DES MACHINES A TIMBRER. (art. 164 AD à 164 M)](#335)
-      - [DISPOSITIONS DIVERSES (art. 170 octies à 170 septies D)](#336)
-        - [DISPOSITIONS COMMUNES. (art. 170 octies à 170 septies D)](#337)
-          - [OCTROI DE CERTAINS AGREMENTS FISCAUX. (art. 170 septies A à 170 septies D)](#338)
+      - [DISPOSITIONS DIVERSES (art. 170 octies à 170 septies A)](#336)
+        - [DISPOSITIONS COMMUNES. (art. 170 octies à 170 septies A)](#337)
+          - [OCTROI DE CERTAINS AGREMENTS FISCAUX. (art. 170 septies A)](#338)
   - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#339)
     - [Chapitre premier : Paiement de l'impôt (art. 187 à 207 quinquies)](#340)
       - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#341)
@@ -15475,29 +15475,23 @@ _Cite_:
 
 ###### Article 170 octies
 
-Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies D sont exercées
+Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies C sont exercées
 dans la région d'Ile-de-France par le délégué régional, dans les départements d'outre-mer, de la Haute-Corse et de la Corse
-du Sud par les directeurs des services fiscaux compétents (1).
-
-(1) Dispositions applicables aux demandes d'agrément déposées à compter du 1er janvier 1984. Les agréments délivrés par les
-directeurs des services fiscaux sur des demandes déposées avant cette date peuvent être retirés soit par le directeur des
-services fiscaux qui a délivré l'agrément, soit par le directeur régional des impôts territorialement compétent.
+du Sud par les directeurs des services fiscaux compétents.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Arrêté 1984-12-07 art. 2 JORF 8 décembre 1984
-  - Arrêté 1985-03-26 art. 3 JORF 18 avril 1985
-  - Arrêté 1985-04-04 art. 2 JORF 20 avril 1985
-
 _Codifié par_:
 
-  - Arrêté 1985-09-24
+  - Arrêté 1987-11-23
 
 _Cite_:
 
-  - CGIAN4 170 quinquies à CGIAN4 170 septies D
+  - CGIAN4 170 quinquies à CGIAN4 170 septies C
+
+_Modifié par_:
+
+  - Loi n°87-571 du 23 juillet 1987 - art. 2 () JORF 24 juillet 1987
 
 _Cité par_:
 
@@ -15605,30 +15599,6 @@ _Cite_:
   - CGI 279 b sexies
   - CGI 302 septies A
   - CGI 302 ter
-
-
-###### Article 170 septies D
-
-L'agrément institué par l'article 238 bis du code général des impôts au profit des fondations ou associations d'intérêt
-général et à caractère culturel est délivré par le directeur régional des impôts sur proposition du commissaire de la
-République de région.
-
-Si l'affaire est évoquée au niveau ministériel, l'agrément est délivré conjointement par le ministre de l'économie, des
-finances et du budget et par le ministre de la culture.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1985-04-04 art. 1 JORF 20 avril 1985) P(Loi 87-571 1987-07-23 art. 2 IV JORF 24 juillet 1987 : cet article est devenu sans objet
-
-_Codifié par_:
-
-  - Arrêté 1985-09-24
-
-_Cite_:
-
-  - CGI 238 bis
 
 
 # Livre II : Recouvrement de l'impôt<a id=339></a>
