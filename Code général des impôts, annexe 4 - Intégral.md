@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1992-12-27
+Version Consolidée au 1993-01-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -99,20 +99,20 @@ Version Consolidée au 1992-12-27
         - [Chapitre III : Redevance sanitaire de découpage (art. 50 quaterdecies)](#96)
       - [Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires (art. 50 quindecies)](#97)
         - [Chapitre premier : Récépissé de consignation (art. 50 quindecies)](#98)
-      - [Titre III : Contributions indirectes (art. 50 B à 56 AQ)](#99)
-        - [Chapitre premier : Boissons (art. 50 B à 55 D)](#100)
-          - [Section I : Alcools (art. 50 B à 54)](#101)
-            - [I : Production (art. 50 B à 52)](#102)
-              - [A : Alambics (art. 50 B à 51)](#103)
+      - [Titre III : Contributions indirectes (art. 50 A à 56 AQ)](#99)
+        - [Chapitre premier : Boissons (art. 50 A à 55 D)](#100)
+          - [Section I : Alcools (art. 50 A à 54)](#101)
+            - [I : Production (art. 50 A à 52)](#102)
+              - [A : Alambics (art. 50 A à 51)](#103)
               - [B : Rachat des alambics par l'État (art. 51 A à 51 H)](#104)
-              - [C : Dispositions générales. Conditions d'exercice de la profession de distillateur (art. 51 ter)](#105)
+              - [C : Dispositions générales. Conditions d'exercice de la profession de distillateur (art. 51 bis à 51 ter)](#105)
               - [D : Règlement des distilleries (art. 51 septies à 51 octies E)](#106)
-                - [1° : Régime général (art. 51 septies à 51 septies I)](#107)
+                - [1° : Régime général (art. 51 septies à 51 septies J)](#107)
                 - [2° : Régime spécial (art. 51 octies à 51 octies E)](#108)
               - [E : Teneur en alcool des produits de parfumerie et de toilette (art. 52)](#109)
             - [III : Régime fiscal (art. 53 à 54)](#110)
               - [Produits à base d'alcool susceptibles de bénéficier du droit réduit de fabrication. (art. 53 à 54)](#111)
-          - [Section I bis : Circulation (art. 54-0 A à 54 octies)](#112)
+          - [Section I bis : Circulation (art. 54-0 A à 54 terdecies)](#112)
             - [I : Capsules représentatives de droits (art. 54-0 A à 54-0 CD)](#113)
               - [A : Capsules représentatives des droits sur les vins et les cidres (art. 54-0 C à 54-0 Z)](#114)
                 - [1 : Caractéristiques des capsules (art. 54-0 C à 54-0 F)](#115)
@@ -121,214 +121,195 @@ Version Consolidée au 1992-12-27
               - [C : Capsules représentatives des droits sur les spiritueux (art. 54-0 BB à 54-0 BU)](#118)
                 - [1 : Caractéristiques des capsules. (art. 54-0 BB à 54-0 BH)](#119)
                 - [2 : Fabrication des capsules. (art. 54-0 BI)](#120)
-                - [3 : Utilisation des capsules. (art. 54-0 BK à 54-0 BU)](#121)
-              - [D : Emploi des capsules représentatives des droits par les récoltants (art. 54-0 BW à 54-0 CD)](#122)
-                - [2 : Capsules banalisées (art. 54-0 BZ à 54-0 CD)](#123)
-            - [II : Factures-congés (art. 54 B à 54 J)](#124)
-            - [IV : Utilisation de machines à timbrer (art. 54 septies à 54 octies)](#125)
+                - [3 : Utilisation des capsules. (art. 54-0 BJ à 54-0 BU)](#121)
+              - [D : Emploi des capsules représentatives des droits par les récoltants (art. 54-0 BV à 54-0 CD)](#122)
+                - [2 : Capsules banalisées (art. 54-0 BY à 54-0 CD)](#123)
+            - [II : Factures-congés (art. 54 A à 54 J)](#124)
+            - [IV : Utilisation de machines à timbrer (art. 54 septies à 54 terdecies)](#125)
               - [A : Machines à timbrer les capsules représentatives des droits indirects sur les vins et cidres. (art. 54 septies à 54 sexies)](#126)
               - [B : Machines à timbrer les capsules représentatives des droits indirects sur les spiritueux. (art. 54 nonies à 54 octies)](#127)
-          - [Section II : Conditionnement des spiritueux. (art. 55 à 55 D)](#128)
-        - [Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine (art. 56 J quater)](#129)
-          - [2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations. (art. 56 J quater)](#130)
-        - [Chapitre I ter A : Garantie des matières d'or, d'argent et de platine (art. 56 J bis)](#131)
-          - [1° : Organisation des bureaux de garantie. (art. 56 J bis)](#132)
-        - [Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer. (art. 56 A ter à 56 C ter)](#133)
-        - [Chapitre II : Tabacs (art. 56 AB à 56 AQ)](#134)
-      - [Titre III : Contributions indirectes et monopoles fiscaux (art. 50 A à 56 AN)](#135)
-        - [Chapitre premier : Boissons (art. 50 A à 56 J ter)](#136)
-          - [Section I : Alcools (art. 50 A à 52 bis)](#137)
-            - [I : Production (art. 50 A à 51 octies A)](#138)
-              - [A : Alambics. (art. 50 A à 50 E)](#139)
-              - [B : Rachat des alambics par l'État. (art. 51 B à 51 F)](#140)
-              - [C : Dispositions générales - Conditions d'exercice de la profession de distillateur. (art. 51 bis à 51 sexies)](#141)
-              - [D : Règlement des distilleries (art. 51 septies A à 51 octies A)](#142)
-                - [Régime général. (art. 51 septies A à 51 septies J)](#143)
-                - [Régime spécial. (art. 51 octies A)](#144)
-            - [II : Régime économique (art. 52 bis)](#145)
-              - [Répartition du contingent des rhums. (art. 52 bis)](#146)
-          - [Section I bis : Circulation (art. 54-0 B à 54 terdecies)](#147)
-            - [I : Capsules représentatives de droits (art. 54-0 B à 54-0 BY)](#148)
-              - [A : Capsules représentatives des droits sur les vins et les cidres (art. 54-0 B à 54-0 AD)](#149)
-                - [1 : Caractéristiques des capsules. (art. 54-0 B)](#150)
-                - [2 : Fabrication des capsules. (art. 54-0 H à 54-0 I)](#151)
-                - [3 : Utilisation des capsules. (art. 54-0 AB à 54-0 AD)](#152)
-              - [C : Capsules représentatives des droits sur les spiritueux (art. 54-0 BJ à 54-0 BT)](#153)
-                - [3 : Utilisation des capsules. (art. 54-0 BJ à 54-0 BT)](#154)
-              - [D : Emploi des capsules représentatives des droits par les récoltants. (art. 54-0 BV à 54-0 BY)](#155)
-                - [2 : Capsules banalisées. (art. 54-0 BY)](#156)
-            - [II : Factures-congés. (art. 54 A à 54 I)](#157)
-            - [III : Exemption des formalités à la circulation. (art. 54 bis à 54 ter)](#158)
-            - [IV : Utilisation de machines à timbrer (art. 54 decies à 54 terdecies)](#159)
-              - [C : Machines à timbrer les factures-congés "Boissons". (art. 54 decies)](#160)
-              - [D : Machines à timbrer les acquits-à-caution. (art. 54 duodecies à 54 terdecies)](#161)
-          - [Section II : Conditionnement des spiritueux. (art. 55 B)](#162)
-          - [Chapitre I ter A : Garantie des matières d'or, d'argent et de platine. (art. 56 J ter)](#163)
-        - [Chapitre I quinquies : Céréales (art. 56 D quater)](#164)
-          - [Section 1 : Utilisation de machines à timbrer. (art. 56 D quater)](#165)
-        - [Chapitre II : Monopoles (art. 56 AA à 56 AN)](#166)
-          - [Section unique : Tabacs. (art. 56 AA à 56 AN)](#167)
-      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 60 à 121 VA)](#168)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 60 à 67)](#169)
-          - [Section I : Dispositions générales : des formalités (art. 60 à 60 A)](#170)
-            - [1° : Actes dispensés de la formalité de l'enregistrement (art. 60)](#171)
-            - [2° : Bureaux compétents (art. 60 A)](#172)
-          - [Section II : Obligations diverses (art. 61 à 67)](#173)
-            - [I : Obligations des redevables - Mutations de jouissance (art. 61 à 65)](#174)
-              - [Modalités de dépôt et forme des déclarations. (art. 61 à 65)](#175)
-            - [II : Obligations des agents de l'administration (art. 67)](#176)
-              - [Salaires des conservateurs des hypothèques (art. 67)](#177)
-        - [Chapitre II : Droits de timbre (art. 71 à 121 KM)](#178)
-          - [Section I : Droits de timbre proprement dits (art. 71 à 121 A bis)](#179)
-            - [I : Machines à timbrer (art. 71 à 75)](#180)
-            - [I bis : Timbre de dimension (art. 93 A à 93 I)](#181)
-              - [A : Pouvoirs destinés à la représentation aux assemblées générales des membres des sociétés par actions. (art. 93 A à 93 F)](#182)
-              - [B : Bulletins de souscription d'actions (art. 93 H bis à 93 H ter)](#183)
-              - [B ter : Autres actes (paiement sur états) (art. 93 H quater C à 93 H quater E)](#184)
-              - [C : Paiement par timbres mobiles (art. 93 H quinquies)](#185)
-              - [D : Actes destinés à être reproduits par photocopie. (art. 93 I)](#186)
-            - [I ter : Timbre des effets de commerce négociables. (art. 93 J à 93 L)](#187)
-            - [III : Timbre des quittances. (art. 99 à 101)](#188)
-            - [IV : Timbre des contrats de transports (art. 113 à 121 A bis)](#189)
-              - [A : Transports par chemins de fer (art. 113)](#190)
-                - [Compagnies de chemins de fer autres que la SNCF - Bulletins de bagages. (art. 113)](#191)
-              - [B : Expéditions en groupage. (art. 116 à 120)](#192)
-              - [C : Transports routiers de marchandises. (art. 121 A à 121 A bis)](#193)
-          - [Section II : Droits de délivrance de documents et perceptions diverses (art. 121 B à 121 KM)](#194)
-            - [I : Cartes d'entrée dans les casinos (art. 121 B)](#195)
-            - [IV : Régies de recettes des préfectures et sous-préfectures (art. 121 KA à 121 KL)](#196)
-            - [IV bis : Formules de chèques (art. 121 KL bis à 121 KL ter)](#197)
-            - [V : Débite des timbres mobiles. (art. 121 KM)](#198)
-        - [Chapitre III : Autres droits et taxes (art. 121 K ter)](#199)
-          - [Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social. (art. 121 K ter)](#200)
-        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 121 VA)](#201)
-          - [Institutions à caractère social (art. 121 VA)](#202)
-      - [Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre (art. 121 V bis à 121 Z bis)](#203)
-        - [Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer (art. 121 V bis à 121 V undecies)](#204)
-        - [Chapitre II : Déclaration des immeubles bâtis situés dans les communes recensées (art. 121 Z bis)](#205)
-    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 121 quinquies DB bis à 164)](#206)
-      - [Titre premier : Impositions communales (art. 121 quinquies DB bis à 155 B)](#207)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 121 quinquies DB bis à 121 sexies)](#208)
-          - [Section II : Taxe professionnelle (art. 121 quinquies DB bis à 121 quinquies DB octies)](#209)
-            - [1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire (art. 121 quinquies DB bis à 121 quinquies DB ter)](#210)
-            - [2° : Réduction de la valeur locative de matériels agricoles (art. 121 quinquies DB octies)](#211)
-          - [Section III : Commission consultative départementale des évaluations foncières (art. 121 quinquies DC à 121 quinquies DF)](#212)
-          - [Section IV : Autres impositions (art. 121 sexies)](#213)
-            - [I : Redevance communale des mines (art. 121 sexies)](#214)
-        - [Chapitre II : Contributions indirectes (art. 124 à 154)](#215)
-          - [Section unique : Impôt sur les spectacles, jeux et divertissements (art. 124 à 153)](#216)
-            - [I : Dispositions générales (art. 124 à 141)](#217)
-              - [1° : Déclaration d'existence (art. 124)](#218)
-              - [2° : Classement des spectacles (art. 126)](#219)
-              - [5° : Contrôle des entrées dans les salles. Billets (art. 127 à 131)](#220)
-              - [6° : Assiette et contrôle de la taxe (art. 138 à 139)](#221)
-              - [7° : Fermeture des établissements (art. 141)](#222)
-            - [II : Dispositions particulières (art. 147 à 153)](#223)
-              - [2° : Cercles et maisons de jeux (art. 147 à 153)](#224)
-          - [Impôt sur les spectacles, jeux et divertissements (art. 124 A à 154)](#225)
-            - [I : Dispositions générales (art. 124 A à 137)](#226)
-              - [Déclaration d'existence. (art. 124 A à 124 B)](#227)
-              - [Appareils automatiques. (art. 126 A à 126 E)](#228)
-              - [Réunions sportives. (art. 126 F)](#229)
-              - [Contrôle des entrées dans les salles - Billets. (art. 129 à 130)](#230)
-              - [Assiette et contrôle de la taxe. (art. 137)](#231)
-            - [II : Dispositions particulières (art. 145 à 154)](#232)
-              - [Établissements où il est d'usage de consommer. (art. 145)](#233)
-              - [Cercles et maisons de jeux. (art. 146 à 154)](#234)
-        - [Chapitre III : Enregistrement (art. 155 A à 155 B)](#235)
-          - [Section unique : Taxe locale d'équipement (art. 155 A à 155 B)](#236)
-      - [Titre I bis : Impositions départementales (art. 155 E à 155 N)](#237)
-        - [Chapitre premier : Taxe sur les véhicules à moteur. (art. 155 E à 155 M)](#238)
-        - [Chapitre premier : Taxes sur les véhicules à moteur. (art. 155 C à 155 I)](#239)
-        - [Chapitre II : Droits d'enregistrement et taxe de publicité foncière (art. 155 N)](#240)
-          - [Réduction accordée dans le cadre de l'aménagement du territoire (art. 155 N)](#241)
-      - [Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse. (art. 155 bis)](#242)
-      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 155 ter à 159 septies)](#243)
-        - [Chapitre premier : Droits d'enregistrement (art. 155 ter à 155 quater)](#244)
-          - [1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France (art. 155 ter)](#245)
-          - [2° : Taxe sur les certificats d'immatriculation des véhicules. (art. 155 quater)](#246)
-        - [Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 159 ter A à 159 AL septies)](#247)
-          - [Section II : Budget annexe des prestations sociales agricoles (art. 159 ter A)](#248)
-            - [III : Huiles. (art. 159 ter A)](#249)
-          - [Section IV : Fonds national du livre (art. 159 AA à 159 AD)](#250)
-            - [I : Redevance sur l'édition des ouvrages de librairie. (art. 159 AA)](#251)
-            - [II : Redevance sur l'emploi de la reprographie. (art. 159 AD)](#252)
-          - [Section VII bis : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère. (art. 159 AL bis)](#253)
-          - [Section VII quater : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement. (art. 159 AL quater)](#254)
-          - [Section VII quater A : Taxe parafiscale sur certaines viandes. (art. 159 AL quater-0 A)](#255)
-          - [Section VII quinquies : Taxe parafiscale des industries textiles. (art. 159 AL quater A)](#256)
-          - [Section IX : Taxe parafiscale des industries de l'habillement et de la maille. (art. 159 AL sexies)](#257)
-          - [Section X : Taxe parafiscale perçue au profit du fonds de soutien à l'expression radiophonique. (art. 159 AL septies)](#258)
-        - [Chapitre II bis : Contributions indirectes (art. 159 AM à 159 AP)](#259)
-          - [Section I : Comité des fruits à cidre et des productions cidricoles. (art. 159 AM)](#260)
-          - [Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins. (art. 159 AM bis)](#261)
-          - [Section II : Taxe parafiscale au profit du bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré (art. 159 AN)](#262)
-          - [Section IV : Taxe parafiscale sur les vins. (art. 159 AP)](#263)
-        - [Section VI : Taxe parafiscale sur les graines oléagineuses. (art. 159 AR)](#264)
-        - [Chapitre III : Enregistrement (art. 159 quater à 159 septies)](#265)
-          - [Section I : Fonds national de garantie des calamités agricoles. (art. 159 quater)](#266)
-          - [Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole (art. 159 quater A)](#267)
-            - [Contribution des employeurs assurés. (art. 159 quater A)](#268)
-          - [Section II : Fonds de garantie des assurances obligatoires de dommages (art. 159 quinquies)](#269)
-          - [Section II bis : Fonds de garantie des victimes des actes de terrorisme et d'autres infractions (art. 159 quinquies A)](#270)
-          - [Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports. (art. 159 septies)](#271)
-      - [Titre III : Dispositions communes (art. 162 à 164)](#272)
-        - [Frais d'assiette et de perception (art. 162 à 164)](#273)
-          - [Section II : Contributions indirectes. (art. 162 à 164)](#274)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 164 FB à 170 sexies)](#275)
-      - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AL)](#276)
-        - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#277)
-          - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#278)
-        - [Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs (art. 164 F novodecies A à 164 F novodecies B)](#279)
-        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F unvicies à 164 F tervicies)](#280)
-          - [Section I : Centres de gestion agréés (art. 164 F unvicies à 164 F unvicies F)](#281)
-            - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#282)
-          - [Section II : Associations agréées des professions libérales (art. 164 F duovicies à 164 F tervicies)](#283)
-        - [Chapitre III : Réglementation des machines à timbrer (art. 164 L à 164 AL)](#284)
-          - [I : Définitions (art. 164 L)](#285)
-          - [II : Dispositions communes (art. 164 M à 164 AL)](#286)
-            - [A : Caractéristiques générales des machines (art. 164 M à 164 O)](#287)
-            - [B : Agrément des machines (art. 164 P à 164 S)](#288)
-            - [C : Autorisation de placer les machines chez les usagers (art. 164 T à 164 V)](#289)
-            - [D : Obligations des concessionnaires (art. 164 AA à 164 Z)](#290)
-            - [E : Obligations des usagers (art. 164 AD à 164 AG)](#291)
-            - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#292)
-            - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#293)
-      - [Titre II : Dispositions diverses (art. 165 à 170 sexies)](#294)
-        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#295)
-        - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#296)
-        - [Section IV : Dispositions communes (art. 170 octies à 170 sexies)](#297)
-          - [Octroi de certains agréments fiscaux (art. 170 octies à 170 sexies)](#298)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 121 quinquies E)](#299)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 121 quinquies E)](#300)
-      - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES (art. 121 quinquies E)](#301)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#302)
-          - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#303)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#304)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 207 quinquies)](#305)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#306)
-        - [3 : Paiement de l'impôt (art. 187 à 188)](#307)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#308)
-      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H)](#309)
-      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#310)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#311)
-      - [Section III : Contributions indirectes (art. 193 à 194)](#312)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#313)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#314)
-        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#315)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#316)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#317)
-        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#318)
-        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#319)
-      - [Section V : Dispositions communes (art. 199 à 204)](#320)
-        - [2° : Paiement par chèques (art. 199 à 204)](#321)
-      - [Chapitre I bis A : Sûretés et privilèges (art. 207 quinquies)](#322)
-        - [Publicité du privilège du Trésor. (art. 207 quinquies)](#323)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#324)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#325)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#326)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#327)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#328)
+              - [C : Machines à timbrer les factures-congés "Boissons". (art. 54 decies)](#128)
+              - [D : Machines à timbrer les acquits-à-caution. (art. 54 duodecies à 54 terdecies)](#129)
+          - [Section II : Conditionnement des spiritueux. (art. 55 à 55 D)](#130)
+        - [Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine (art. 56 J quater)](#131)
+          - [2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations. (art. 56 J quater)](#132)
+        - [Chapitre I ter A : Garantie des matières d'or, d'argent et de platine (art. 56 J bis)](#133)
+          - [1° : Organisation des bureaux de garantie. (art. 56 J bis)](#134)
+        - [Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer. (art. 56 A ter à 56 C ter)](#135)
+        - [Chapitre I quinquies : Céréales (art. 56 D quater)](#136)
+          - [Utilisation de machines à timbrer. (art. 56 D quater)](#137)
+        - [Chapitre II : Tabacs (art. 56 AA à 56 AQ)](#138)
+      - [Titre III : Contributions indirectes et monopoles fiscaux (art. 52 bis à 56 AF)](#139)
+        - [Chapitre premier : Boissons (art. 52 bis à 56 J ter)](#140)
+          - [Section I : Alcools (art. 52 bis)](#141)
+            - [II : Régime économique (art. 52 bis)](#142)
+              - [Répartition du contingent des rhums. (art. 52 bis)](#143)
+          - [Section I bis : Circulation (art. 54-0 B à 54 ter)](#144)
+            - [I : Capsules représentatives de droits (art. 54-0 B)](#145)
+              - [A : Capsules représentatives des droits sur les vins et les cidres (art. 54-0 B)](#146)
+                - [1 : Caractéristiques des capsules. (art. 54-0 B)](#147)
+            - [III : Exemption des formalités à la circulation. (art. 54 bis à 54 ter)](#148)
+          - [Chapitre I ter A : Garantie des matières d'or, d'argent et de platine. (art. 56 J ter)](#149)
+        - [Chapitre II : Monopoles (art. 56 AF)](#150)
+          - [Section unique : Tabacs. (art. 56 AF)](#151)
+      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 60 à 121 VA)](#152)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 60 à 67)](#153)
+          - [Section I : Dispositions générales : des formalités (art. 60 à 60 A)](#154)
+            - [1° : Actes dispensés de la formalité de l'enregistrement (art. 60)](#155)
+            - [2° : Bureaux compétents (art. 60 A)](#156)
+          - [Section II : Obligations diverses (art. 61 à 67)](#157)
+            - [I : Obligations des redevables - Mutations de jouissance (art. 61 à 65)](#158)
+              - [Modalités de dépôt et forme des déclarations. (art. 61 à 65)](#159)
+            - [II : Obligations des agents de l'administration (art. 67)](#160)
+              - [Salaires des conservateurs des hypothèques (art. 67)](#161)
+        - [Chapitre II : Droits de timbre (art. 71 à 121 KM)](#162)
+          - [Section I : Droits de timbre proprement dits (art. 71 à 121 A bis)](#163)
+            - [I : Machines à timbrer (art. 71 à 75)](#164)
+            - [I bis : Timbre de dimension (art. 93 A à 93 I)](#165)
+              - [A : Pouvoirs destinés à la représentation aux assemblées générales des membres des sociétés par actions. (art. 93 A à 93 F)](#166)
+              - [B : Bulletins de souscription d'actions (art. 93 H bis à 93 H ter)](#167)
+              - [B ter : Autres actes (paiement sur états) (art. 93 H quater C à 93 H quater E)](#168)
+              - [C : Paiement par timbres mobiles (art. 93 H quinquies)](#169)
+              - [D : Actes destinés à être reproduits par photocopie. (art. 93 I)](#170)
+            - [I ter : Timbre des effets de commerce négociables. (art. 93 J à 93 L)](#171)
+            - [III : Timbre des quittances. (art. 99 à 101)](#172)
+            - [IV : Timbre des contrats de transports (art. 113 à 121 A bis)](#173)
+              - [A : Transports par chemins de fer (art. 113)](#174)
+                - [Compagnies de chemins de fer autres que la SNCF - Bulletins de bagages. (art. 113)](#175)
+              - [B : Expéditions en groupage. (art. 116 à 120)](#176)
+              - [C : Transports routiers de marchandises. (art. 121 A à 121 A bis)](#177)
+          - [Section II : Droits de délivrance de documents et perceptions diverses (art. 121 B à 121 KM)](#178)
+            - [I : Cartes d'entrée dans les casinos (art. 121 B)](#179)
+            - [IV : Régies de recettes des préfectures et sous-préfectures (art. 121 KA à 121 KL)](#180)
+            - [IV bis : Formules de chèques (art. 121 KL bis à 121 KL ter)](#181)
+            - [V : Débite des timbres mobiles. (art. 121 KM)](#182)
+        - [Chapitre III : Autres droits et taxes (art. 121 K ter)](#183)
+          - [Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social. (art. 121 K ter)](#184)
+        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 121 VA)](#185)
+          - [Institutions à caractère social (art. 121 VA)](#186)
+      - [Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre (art. 121 V bis à 121 Z bis)](#187)
+        - [Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer (art. 121 V bis à 121 V undecies)](#188)
+        - [Chapitre II : Déclaration des immeubles bâtis situés dans les communes recensées (art. 121 Z bis)](#189)
+    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 121 quinquies DB bis à 164)](#190)
+      - [Titre premier : Impositions communales (art. 121 quinquies DB bis à 155 B)](#191)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 121 quinquies DB bis à 121 sexies)](#192)
+          - [Section II : Taxe professionnelle (art. 121 quinquies DB bis à 121 quinquies DB octies)](#193)
+            - [1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire (art. 121 quinquies DB bis à 121 quinquies DB ter)](#194)
+            - [2° : Réduction de la valeur locative de matériels agricoles (art. 121 quinquies DB octies)](#195)
+          - [Section III : Commission consultative départementale des évaluations foncières (art. 121 quinquies DC à 121 quinquies DF)](#196)
+          - [Section IV : Autres impositions (art. 121 sexies)](#197)
+            - [I : Redevance communale des mines (art. 121 sexies)](#198)
+        - [Chapitre II : Contributions indirectes (art. 124 à 137)](#199)
+          - [Section unique : Impôt sur les spectacles, jeux et divertissements (art. 124 à 154)](#200)
+            - [I : Dispositions générales (art. 124 à 141)](#201)
+              - [1° : Déclaration d'existence (art. 124)](#202)
+              - [2° : Classement des spectacles (art. 126)](#203)
+              - [5° : Contrôle des entrées dans les salles. Billets (art. 127 à 131)](#204)
+              - [6° : Assiette et contrôle de la taxe (art. 138 à 139)](#205)
+              - [7° : Fermeture des établissements (art. 141)](#206)
+            - [II : Dispositions particulières (art. 145 à 154)](#207)
+              - [1° : Etablissements où il est d'usage de consommer (art. 145)](#208)
+              - [2° : Cercles et maisons de jeux (art. 146 à 154)](#209)
+          - [Impôt sur les spectacles, jeux et divertissements (art. 124 A à 137)](#210)
+            - [I : Dispositions générales (art. 124 A à 137)](#211)
+              - [Déclaration d'existence. (art. 124 A à 124 B)](#212)
+              - [Appareils automatiques. (art. 126 A à 126 E)](#213)
+              - [Réunions sportives. (art. 126 F)](#214)
+              - [Assiette et contrôle de la taxe. (art. 137)](#215)
+        - [Chapitre III : Enregistrement (art. 155 A à 155 B)](#216)
+          - [Section unique : Taxe locale d'équipement (art. 155 A à 155 B)](#217)
+      - [Titre I bis : Impositions départementales (art. 155 E à 155 N)](#218)
+        - [Chapitre premier : Taxe sur les véhicules à moteur. (art. 155 E à 155 M)](#219)
+        - [Chapitre premier : Taxes sur les véhicules à moteur. (art. 155 C à 155 I)](#220)
+        - [Chapitre II : Droits d'enregistrement et taxe de publicité foncière (art. 155 N)](#221)
+          - [Réduction accordée dans le cadre de l'aménagement du territoire (art. 155 N)](#222)
+      - [Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse. (art. 155 bis)](#223)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 155 ter à 159 septies)](#224)
+        - [Chapitre premier : Droits d'enregistrement (art. 155 ter à 155 quater)](#225)
+          - [1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France (art. 155 ter)](#226)
+          - [2° : Taxe sur les certificats d'immatriculation des véhicules. (art. 155 quater)](#227)
+        - [Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 159 ter A à 159 AL septies)](#228)
+          - [Section II : Budget annexe des prestations sociales agricoles (art. 159 ter A)](#229)
+            - [III : Huiles. (art. 159 ter A)](#230)
+          - [Section IV : Fonds national du livre (art. 159 AA à 159 AD)](#231)
+            - [I : Redevance sur l'édition des ouvrages de librairie. (art. 159 AA)](#232)
+            - [II : Redevance sur l'emploi de la reprographie. (art. 159 AD)](#233)
+          - [Section VII bis : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère. (art. 159 AL bis)](#234)
+          - [Section VII quater : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement. (art. 159 AL quater)](#235)
+          - [Section VII quater A : Taxe parafiscale sur certaines viandes. (art. 159 AL quater-0 A)](#236)
+          - [Section VII quinquies : Taxe parafiscale des industries textiles. (art. 159 AL quater A)](#237)
+          - [Section IX : Taxe parafiscale des industries de l'habillement et de la maille. (art. 159 AL sexies)](#238)
+          - [Section X : Taxe parafiscale perçue au profit du fonds de soutien à l'expression radiophonique. (art. 159 AL septies)](#239)
+        - [Chapitre II bis : Contributions indirectes (art. 159 AM à 159 AP)](#240)
+          - [Section I : Comité des fruits à cidre et des productions cidricoles. (art. 159 AM)](#241)
+          - [Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins. (art. 159 AM bis)](#242)
+          - [Section II : Taxe parafiscale au profit du bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré (art. 159 AN)](#243)
+          - [Section IV : Taxe parafiscale sur les vins. (art. 159 AP)](#244)
+        - [Section VI : Taxe parafiscale sur les graines oléagineuses. (art. 159 AR)](#245)
+        - [Chapitre III : Enregistrement (art. 159 quater à 159 septies)](#246)
+          - [Section I : Fonds national de garantie des calamités agricoles. (art. 159 quater)](#247)
+          - [Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole (art. 159 quater A)](#248)
+            - [Contribution des employeurs assurés. (art. 159 quater A)](#249)
+          - [Section II : Fonds de garantie des assurances obligatoires de dommages (art. 159 quinquies)](#250)
+          - [Section II bis : Fonds de garantie des victimes des actes de terrorisme et d'autres infractions (art. 159 quinquies A)](#251)
+          - [Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports. (art. 159 septies)](#252)
+      - [Titre III : Dispositions communes (art. 162 à 164)](#253)
+        - [Frais d'assiette et de perception (art. 162 à 164)](#254)
+          - [Section II : Contributions indirectes. (art. 162 à 164)](#255)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 164 FB à 170 sexies)](#256)
+      - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AL)](#257)
+        - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#258)
+          - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#259)
+        - [Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs (art. 164 F novodecies A à 164 F novodecies B)](#260)
+        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F unvicies à 164 F tervicies)](#261)
+          - [Section I : Centres de gestion agréés (art. 164 F unvicies à 164 F unvicies F)](#262)
+            - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#263)
+          - [Section II : Associations agréées des professions libérales (art. 164 F duovicies à 164 F tervicies)](#264)
+        - [Chapitre III : Réglementation des machines à timbrer (art. 164 L à 164 AL)](#265)
+          - [I : Définitions (art. 164 L)](#266)
+          - [II : Dispositions communes (art. 164 M à 164 AL)](#267)
+            - [A : Caractéristiques générales des machines (art. 164 M à 164 O)](#268)
+            - [B : Agrément des machines (art. 164 P à 164 S)](#269)
+            - [C : Autorisation de placer les machines chez les usagers (art. 164 T à 164 V)](#270)
+            - [D : Obligations des concessionnaires (art. 164 AA à 164 Z)](#271)
+            - [E : Obligations des usagers (art. 164 AD à 164 AG)](#272)
+            - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#273)
+            - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#274)
+      - [Titre II : Dispositions diverses (art. 165 à 170 sexies)](#275)
+        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#276)
+        - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#277)
+        - [Section IV : Dispositions communes (art. 170 octies à 170 sexies)](#278)
+          - [Octroi de certains agréments fiscaux (art. 170 octies à 170 sexies)](#279)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 121 quinquies E)](#280)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 121 quinquies E)](#281)
+      - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES (art. 121 quinquies E)](#282)
+        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 121 quinquies E)](#283)
+          - [AUTRES IMPOSITIONS. (art. 121 quinquies E)](#284)
+  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#285)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 207 quinquies)](#286)
+      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188)](#287)
+        - [3 : Paiement de l'impôt (art. 187 à 188)](#288)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#289)
+      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H)](#290)
+      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I)](#291)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189 à 192 bis)](#292)
+      - [Section III : Contributions indirectes (art. 193 à 194)](#293)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#294)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#295)
+        - [2 : Paiement en valeurs du Trésor. (art. 198 bis à 198 ter)](#296)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#297)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#298)
+        - [6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts. (art. 198 septies)](#299)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#300)
+      - [Section V : Dispositions communes (art. 199 à 204)](#301)
+        - [2° : Paiement par chèques (art. 199 à 204)](#302)
+      - [Chapitre I bis A : Sûretés et privilèges (art. 207 quinquies)](#303)
+        - [Publicité du privilège du Trésor. (art. 207 quinquies)](#304)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#305)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#306)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#307)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#308)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#309)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -3074,8 +3055,8 @@ La notification de l'option prévue à l'article 239 du code général des impô
 principal établissement de la société qui souhaite exercer cette option.
 
 La notification indique la désignation de la société et l'adresse du siège social les nom prénoms et adresse de chacun des
-associés ou participants ainsi que la répartition du capital social entre ces derniers. Elle est signée par tous les associés
-ou participants. Il en est délivré récépissé.
+associés ou participants ainsi que la répartition du capital social entre ces derniers. Elle est signée dans les conditions
+prévues par les statuts ou, à défaut, par tous les associés ou participants. Il en est délivré récépissé.
 
 L'option ainsi exercée est irrévocable.
 
@@ -3086,7 +3067,7 @@ déclaration de résultats avant la date d'ouverture du premier exercice auquel 
 
 Pour les exercices ou périodes d'imposition ouverts en 1981, la renonciation peut être effectuée jusqu'à la date d'expiration
 du délai de déclaration des résultats de ces exercices ou périodes d'imposition et, si ce délai expire après le 31 décembre
-1981 , au plus tard jusqu'à cette date.
+1981, au plus tard jusqu'à cette date.
 
 La renonciation à l'option est effectuée selon les modalités prévues au deuxième alinéa du présent article. Elle précise les
 liens de parenté entre les associés.
@@ -3096,17 +3077,17 @@ sociétés.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Arrêté 1991-09-09
+  - Arrêté 1992-12-28 art. 1 JORF 5 janvier 1993
 
 _Cite_:
 
   - CGI 239
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°90-1169 du 29 décembre 1990 - art. 31 () JORF 30 décembre 1990
+  - HISTO: Edition du 18 août 1993
 
 
 ##### Exonérations et régimes particuliers - Sociétés agréées pour le financement des télécommunications.<a id=48></a>
@@ -6656,6 +6637,24 @@ _Modifié par_:
 
 ##### A : Alambics<a id=103></a>
 
+###### Article 50 A
+
+Quiconque désire importer,acquérir à titre gratuit ou onéreux, obtenir en location,faire réparer ou transformer un ou
+plusieurs appareils ou portions d'appareils propres à la distillation,à la fabrication ou au repassage d'eaux-de-vie ou
+d'esprits doit en faire la demande écrite à la direction régionale des douanes et droits indirects du lieu de destination ou
+d'implantation desdits appareils ou portions d'appareils.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 7 JORF 5 janvier 1993
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 306 (V)
+
+
 ###### Article 50 B
 
 Cette demande doit mentionner :
@@ -6688,6 +6687,39 @@ sollicitée. Celle-ci est valable pendant une période de six mois à compter de
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
+
+
+###### Article 50 D
+
+En ce qui concerne les appareils ou portions d'appareils devant être importés le destinataire doit remettre une copie de
+l'autorisation délivrée certifiée conforme par le service des douanes et droits indirects de sa résidence au bureau de
+déclarations de la direction générale des douanes et droits indirects du lieu de dédouanement afin d'obtenir l'acquit-à-
+caution indispensable. 
+
+Ce titre de mouvement doit être ensuite présenté au bureau de douane à l'appui de la déclaration d'importation.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11, art. 4 JORF 5 janvier 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
+###### Article 50 E
+
+Le titulaire d'une autorisation est tenu de fournir une copie de celle-ci certifiée conforme par le service des douanes et
+droits indirects de sa résidence au cédant,au loueur,au réparateur ou au transformateur des appareils ou portions
+d'appareils.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
 
 
 ###### Article 51
@@ -6724,6 +6756,46 @@ _Cite_:
   - Code général des impôts, CGI. - art. 311 bis (V)
 
 
+###### Article 51 B
+
+La demande de rachat doit être motivée et mentionner :
+
+En ce qui concerne le requérant : ses nom et prénoms (ou raison sociale) profession et adresse ainsi que la date de son
+entrée en possession du ou des alambics faisant l'objet de la demande ; 
+
+En ce qui concerne le ou les appareils :
+
+a. Leur nombre,leur nature (marque et type),les caractéristiques de leurs différents éléments ainsi que leur état de
+marche ; 
+
+b. Leurs numéros de poinçonnement ; 
+
+c. Le prix de rachat unitaire proposé. 
+
+La demande doit être adressée à la direction régionale des douane et droits indirects du lieu d'immatriculation du ou des
+appareils par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 7 JORF 5 janvier 1993
+
+
+###### Article 51 F
+
+Après instruction, au cours de laquelle le requérant peut être entendu, le directeur régional des douanes et droits indirects
+statue sur la demande. 
+
+Sa décision est notifiée à l'intéressé au plus tard dans les quatre mois suivant la réception de la demande.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+
+
 ###### Article 51 G
 
 Lorsque l'administration refuse le rachat,le requérant ne peut déposer aucune nouvelle demande avant un an, compté à partir
@@ -6752,6 +6824,84 @@ En cas de refus, il ne peut déposer de nouvelle demande de rachat avant un an, 
 
 
 ##### C : Dispositions générales. Conditions d'exercice de la profession de distillateur<a id=105></a>
+
+###### Article 51 bis
+
+Quiconque désire obtenir l'autorisation d'exercer la profession de loueur d'alambic ambulant doit en faire la demande écrite
+à chaque direction régionale des douanes et droits indirects dans le ressort de laquelle se situe le lieu d'utilisation de
+son ou ses appareils.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 8  JORF 5 janvier 1993
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 311 bis (V)
+
+
+###### Article 51 quater
+
+Le directeur régional des douanes et droits indirects examine les demandes qui lui sont présentées. 
+
+Il prononce une décision de rejet si les garanties offertes par le requérant ne lui paraissent pas suffisantes.
+
+Dans le cas contraire,il propose au Préfet l'octroi de l'autorisation demandée.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+
+
+###### Article 51 quinquies
+
+Après examen des propositions qui lui sont faites par le directeur régional des douanes et droits indirects le préfet prend
+soit un arrêté accordant l'autorisation soit une décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+
+
+###### Article 51 sexies
+
+Lorsque le titulaire d'une autorisation a commis une infraction aux dispositions des articles 303 à 520 du code général des
+impôts ou à celles des textes pris pour leur application le préfet peut sur proposition du directeur régional des douanes et
+droits indirects prononcer par voie d'arrêté le retrait de ladite autorisation pour une période n'excédant pas la campagne au
+cours de laquelle l'infraction a été commise et les deux campagnes suivantes. 
+
+Le retrait est obligatoire lorsque l'infraction relevée est passible de l'une des sanctions prévues aux articles 1737, 1746,
+1810 et 1815 du code susvisé. Il en est de même lorsque le titulaire de l'autorisation est convaincu d'avoir facilité la
+fraude commise par ses clients ou sciemment procuré les moyens de la commettre. 
+
+Dans le cas prévu à l'alinéa précédent d'infraction punie des sanctions édictées par l'article 1810 du code général des
+impôts le retrait doit être prononcé pour une période au moins égale à trois campagnes y compris celle au cours de laquelle
+l'infraction a été commise sans pouvoir excéder six campagnes. Toutefois le retrait de l'autorisation d'exercer la profession
+de loueur d'alambic ambulant est définitif dans le cas d'infractions punies des sanctions prévues par les articles 1737, 1746
+et 1815 du code général des impôts ou lorsque antérieurement ou postérieurement à la date de l'arrêté préfectoral l'ayant
+prononcé une nouvelle infraction passible des sanctions prévues à l'article 1810 du code précité est relevée à la charge du
+contrevenant.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+
+_Cite_:
+
+  - CGI 303 à 520, 1737, 1746, 1810, 1815
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
 
 ###### Article 51 ter
 
@@ -6790,6 +6940,33 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 51 octies (V)
 
 
+###### Article 51 septies A
+
+L'exploitant est tenu d'entretenir en bon état d'usage les marques, jauges et tubes de niveau réglementaires. 
+
+L'accès aux points des installations où les agents du service des douanes et droits indirects doivent normalement intervenir
+lors de leurs opérations de contrôle et de reconnaissance doit offrir des conditions de sécurité et d'éclairage conformes à
+la réglementation en vigueur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
+
+
+###### Article 51 septies B
+
+L'exploitant est tenu de réserver aux agents du service des douanes et droits indirects dans la distillerie un emplacement
+convenable agréé par l'administration.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
+
+
 ###### Article 51 septies C
 
 Les bacs de réserve et les bacs de recette prévus à l'article 68 de l'annexe I au code général des impôts doivent répondre
@@ -6823,6 +7000,123 @@ _Codifié par_:
 **Liens**:
 
   - PEREMPTION: Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+
+
+###### Article 51 septies D
+
+L'intérieur des bacs de réserve et de recette ainsi que tous autres bacs ou récipients de stockage doit être maintenu en état
+de propreté. Les agents du service des douanes et droits indirects peuvent exiger sans entraver l'activité de la distillerie
+que les fonds de ces bacs ou récipients soient débarrassés des dépôts susceptibles de fausser l'échelle des contenances.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
+###### Article 51 septies E
+
+L'exploitant qui constate un incident ou une anomalie de fonctionnement d'un compteur doit en faire immédiatement la
+déclaration aux agents habilités par l'administration des douanes et droits indirects et consigner sur le registre prévu à
+cet effet :
+
+La nature de l'incident ou de l'anomalie ; 
+
+La date et l'heure de la constatation ; 
+
+Les index du compteur à ce moment ; 
+
+Le moyen utilisé pour aviser les agents habilités par l'administration des douanes et droits indirects. 
+
+Si l'incident affecte l'écoulement normal de l'alcool l'exploitant utilise le circuit de secours et les bacs de réserve. 
+
+Les agents habilités par l'administration des douanes et droits indirects procèdent à la remise en ordre de l'installation
+dans les meilleurs délais et mentionnent leur intervention sur le registre indiqué au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 3 JORF 5 janvier 1993
+
+
+###### Article 51 septies F
+
+Les compteurs font l'objet de relevés périodiques dont la fréquence est fixée en fonction du modèle de l'appareil installé et
+des circonstances particulières à la distillerie. Ces relevés sont effectués par les agents habilités par l'administration
+des douanes et droits indirects et l'exploitant est tenu d'y assister ou de s'y faire représenter. 
+
+Les résultats des relevés sont consignés par les mêmes agents sur un registre spécial déposé à la distillerie.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 3 JORF 5 janvier 1993
+
+
+###### Article 51 septies G
+
+Le compte de magasin prévu à l'article 69 de l'annexe I au code général des impôts est tenu en alcool pur. 
+
+Aux charges de ce compte sont inscrites les quantités d'alcool :
+
+Existantes en magasin à l'inventaire de fin de campagne
+
+Obtenues dans l'usine
+
+Introduites dans la distillerie sous le couvert de titres de mouvement
+
+Reconnues extraites des appareils de rectification ou de déshydratation par les agents du service des douanes et droits
+indirects
+
+Dégagées en excédent lors des inventaires. 
+
+Aux décharges de ce compte sont portées les quantités d'alcool :
+
+Régulièrement expédiées sous le couvert de titres de mouvement
+
+Renfermées dans les échantillons prélevés par les agents du service des douanes et droits indirects aux fins d'analyse et
+régulièrement expédiées à cet effet à des laboratoires notamment à celui de la direction générale des douanes et droits
+indirects :
+
+Déclarées soumises à un repassage une rectification ou une déshydratation ;
+
+Constituées d'alcools imparfaits et déclarées être ajoutées aux matières à distiller lorsque ces alcools ont déjà été pris en
+charge ;
+
+Dénaturées sur place dans les conditions réglementaires ;
+
+Dont la perte accidentelle ou la destruction est régulièrement constatée ;
+
+Dégagées en manquant lors des inventaires. 
+
+Les quantités d'alcool utilisées pour la macération de fruits ne sont pas portées aux décharges du compte de magasin.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
+
+_Codifié par_:
+
+  - Arrêté 2001-05-21
+
+_Cite_:
+
+  - CGIAN1 69
+
+**Liens**:
+
+  - PEREMPTION: Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 51 septies H
@@ -6875,6 +7169,40 @@ _Cite_:
   - Code général des impôts annexe 1, CGIAN1. - art. 73 (V)
 
 
+###### Article 51 septies J
+
+Le registre mis à la disposition de l'exploitant pour l'enregistrement des déclarations des mises en distillation de matières
+à traiter suivies en compte des repassages de produits imparfaits des rectifications de flegmes ou de produits défectueux et
+des déshydratations d'alcool achevé prévues à l'article 75 de l'annexe I du code général des impôts doit indiquer au fur et à
+mesure de leur déroulement : 
+
+La nature de l'opération ; 
+
+La nature des matières à traiter ; 
+
+Le récipient d'où sont extraites ces matières ; 
+
+La date et l'heure du début de l'opération ; 
+
+La date et l'heure de la fin de l'opération ; 
+
+Le volume et pour les produits à repasser rectifier ou déshydrater le titre alcoolique et l'alcool pur qu'ils renferment. 
+
+Quand l'opération se fait en continu les deux dernières indications peuvent être portées seulement en fin de journée, à une
+heure convenue entre l'exploitant et les agents du service des douanes et droits indirects ou à défaut d'accord fixée par ces
+derniers.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
+
+_Cite_:
+
+  - Code général des impôts annexe 1, CGIAN1. - art. 75 (V)
+
+
 ##### 2° : Régime spécial<a id=108></a>
 
 ###### Article 51 octies
@@ -6889,6 +7217,20 @@ _Cite_:
 
   - Code général des impôts annexe 1, CGIAN1. - art. 57 (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 51 septies (V)
+
+
+###### Article 51 octies A
+
+L'intérieur des bacs ou récipients de coulage et de stockage doit être maintenu en état de propreté. 
+
+Les agents du service des douanes et droits indirects peuvent exiger sans entraver la marche de la distillerie que les fonds
+des bacs ou récipients soient débarrassés des dépôts susceptibles de fausser l'échelle des contenances.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
 
 
 ###### Article 51 octies B
@@ -7415,6 +7757,49 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
 
 
+###### Article 54-0 H
+
+Avant le commencement de leurs travaux les fabricants agréés doivent remettre au service des douanes et droits indirects dont
+ils dépendent un état présentant la description sommaire des locaux et ateliers de leur usine et indiquant le nombre de
+presses à imprimer d'appareils à vernir et de machines à emboutir pouvant servir à la fabrication des capsules. 
+
+Ils doivent également fournir un cautionnement dont le montant sera fixé par l'administration d'après l'importance de leur
+production.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
+###### Article 54-0 I
+
+Les travaux d'impression des feuilles métalliques ainsi que les travaux de confection des capsules sont surveillés en
+permanence par le service des douanes et droits indirects qui a libre accès dans toutes les parties de l'établissement. Les
+travaux d'impression du timbre ne peuvent avoir lieu que sur des machines munies de compteurs plombés et agréés par
+l'administration.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+  - HISTO: Edition du 18 août 1993
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
+
+
 ###### Article 54-0 J
 
 Les clichés servant à l'impression des feuilles métalliques destinées à la confection des capsules sont déposés dans une
@@ -7607,11 +7992,68 @@ sont autorisés à effectuer la mise en bouteilles. La vente, la cession ou l'é
   - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
 
 
+###### Article 54-0 AB
+
+Les feuilles métalliques ou les capsules  revêtues du timbre sont livrées au marchand en gros sur présentation d'un bon de
+commande établi en double exemplaire et comportant notamment :
+
+1° Le nom et l'adresse du marchand en gros ;
+
+2° Le nom et l'adresse du fournisseur des feuilles ou des capsules ;
+
+3° Par contenance et nature de boissons  le nombre de capsules commandées
+
+Les deux exemplaires du bon de commande sont datés et visés par le chef de service local des douanes et droits indirects ;
+l'un des exemplaires est remis au marchand en gros  qui l'adresse à son fournisseur; l'autre est conservé au dossier du
+marchand en gros.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 12 JORF 5 janvier 1993
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 S (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V (V)
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 54-0 AC
 
 Il est interdit aux fabricants, aux marchands en gros de boissons et aux débitants de boissons de reprendre à leurs clients
 ou d'utiliser des capsules ayant déjà servi.
 
+
+
+###### Article 54-0 AD
+
+Les marchands en gros utilisant les capsules doivent tenir un carnet de conditionnement et de livraison conforme au modèle
+donné par l'administration et préalablement côté et paraphé par le chef local du service des douanes et droits indirects.
+
+Sur ce carnet doivent être inscrits, sans blanc ni rature, en fin de journée  par contenance de bouteilles et nature de
+boissons :
+
+1° Le nombre de capsules utilisées et le volume total de boissons représenté par les bouteilles ainsi conditionnées ;
+
+2° Le nombre de bouteilles reçues revêtues de capsules par les soins d'un autre marchand en gros  ainsi que le volume total
+de boissons qu'elles représentent ;
+
+3° Le nombre de bouteilles ainsi conditionnées effectivement livrées et le volume total de boissons qu'elles représentent.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 13 JORF 5 janvier 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 54-0 AE
@@ -7644,31 +8086,35 @@ destinées à l'exportation ne doivent pas être revêtues de capsules timbrées
 
 ###### Article 54-0 U
 
-Les marchands en gros de boissons  tels qu'ils sont définis à l'article 484 du code général des impôts  doivent utiliser
+Les marchands en gros de boissons tels qu'ils sont définis à l'article 484 du code général des impôts doivent utiliser
 obligatoirement les capsules prévues par l'article 444 du même code pour toutes leurs livraisons de vins en bouteilles ou en
-récipients de trois litres au plus.
+récipients de trois litres au plus. 
 
-Pour des raisons d'ordre économique ou technique  l'administration peut accorder des dérogations à l'emploi obligatoire des
-capsules fiscales pour le conditionnement des vins visés à l'alinéa précédent..
+Pour des raisons d'ordre économique ou technique l'administration peut accorder des dérogations à l'emploi obligatoire des
+capsules fiscales pour le conditionnement des vins visés à l'alinéa précédent.. 
 
-Lorsque l'utilisation de capsules n'est pas obligatoire en vertu des dispositions du premier alinéa  les marchands en gros de
-boissons peuvent être admis par le directeur des services fiscaux à utiliser les capsules fiscales pour leurs livraisons de
-vins et cidres.
+Lorsque l'utilisation de capsules n'est pas obligatoire en vertu des dispositions du premier alinéa les marchands en gros de
+boissons peuvent être admis par le directeur régional des douanes et droits indirects à utiliser les capsules fiscales pour
+leurs livraisons de vins et cidres.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+
 _Cite_:
 
-  - CGI 444
-  - CGI 484
+  - CGI 484, 444
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+  - HISTO: Edition du 18 août 1993
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 54-0 V
@@ -7941,6 +8387,27 @@ _Cite_:
 
 ##### 3 : Utilisation des capsules.<a id=121></a>
 
+###### Article 54-0 BJ
+
+Les marchands en gros de boissons bénéficiant du crédit d'enlèvement de un mois ou du crédit mensuel de liquidation peuvent
+être admis par le directeur régional des douanes et droits indirects à utiliser les capsules prévues par l'article 444 du
+code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+
+_Cite_:
+
+  - CGI 444
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 54-0 BK
 
 L'apposition de l'empreinte circulaire doit être effectuée  dans les chais des négociants autorisés  à l'aide de machines
@@ -8084,6 +8551,42 @@ _Cite_:
   - CGIAN4 54-0 BC
 
 
+###### Article 54-0 BT
+
+Lorsqu'ils sont transportés par quantités supérieures à 6 litres en volume les spiritueux libérés des droits conditionnés en
+bouteilles revêtues de capsules portant les marques fiscales doivent être accompagnés d'un bordereau de livraison conforme au
+modèle donné par l'administration et indiquant :
+
+1° La date d'enlèvement ; 
+
+2° Par contenance et par nature des boissons le nombre total de bouteilles chargées au départ ; 
+
+3° Le nom et l'adresse des destinataires ainsi que les quantités qui leur sont destinées. 
+
+Au moment de la livraison le bordereau doit être complété par la signature des destinataires et éventuellement par les
+quantités effectivement livrées. 
+
+L'administration peut à la demande des intéressés agréer des modèles différents pourvu qu'ils comportent les indications
+réglementaires. 
+
+Les bordereaux doivent être conservés et tenus à la disposition des agents du service des douanes et droits indirects selon
+les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
+_Cite_:
+
+  - CGI L102 B I
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+
+
 ###### Article 54-0 BU
 
 Sauf autorisation spéciale délivrée par l'administration aux conditions qu'elle détermine, les bouteilles de boissons
@@ -8102,28 +8605,56 @@ _Abrogé par_:
 
 ##### D : Emploi des capsules représentatives des droits par les récoltants<a id=122></a>
 
-###### Article 54-0 BW
+###### Article 54-0 BV
 
-Pour être admis à recevoir  détenir et utiliser des capsules dans les conditions définies par les articles 54-0 A à 54-0 AG,
-les viticulteurs et les coopératives viticoles doivent :
-
-Justifier de leur qualité d'assujetti à la taxe sur la valeur ajoutée ;
-
-Fournir un cautionnement spécial garantissant le paiement des droits correspondant aux capsules ou aux feuilles métalliques
-revêtues du timbre  utilisées ou ressortant en manquants au compte de magasin;
-
-Déclarer au bureau de déclarations de la direction générale des impôts la contenance des vaisseaux  foudres et autres
-récipients d'une capacité supérieure à 10 hectolitres  dont la contenance doit être vérifiée dans les conditions
-réglementaires et marqués sur chacun d'eux;
-
-S'engager par écrit à supporter sans formalités les visites et vérifications du service des impôts dans leurs magasins  caves
-et celliers pour le contrôle de la régularité de leurs opérations.
+Les viticulteurs et les coopératives viticoles peuvent être admis par le directeur régional des douanes et droits indirects à
+utiliser les capsules représentatives des droits sur les vins prévues par l'article 444 du code général des impôts.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+
 _Cite_:
 
-  - CGIAN4 54-0 A A CGIAN4 54-0 AG
+  - CGI 444
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
+###### Article 54-0 BW
+
+Pour être admis à recevoir détenir et utiliser des capsules dans les conditions définies par les articles 54-0 A à 54-0 AG,
+les viticulteurs et les coopératives viticoles doivent :
+
+Justifier de leur qualité d'assujetti à la taxe sur la valeur ajoutée ; 
+
+Fournir un cautionnement spécial garantissant le paiement des droits correspondant aux capsules ou aux feuilles métalliques
+revêtues du timbre utilisées ou ressortant en manquants au compte de magasin ; 
+
+Déclarer au bureau de déclarations de la direction générale des douanes et droits indirects la contenance des vaisseaux
+foudres et autres récipients d'une capacité supérieure à 10 hectolitres dont la contenance doit être vérifiée dans les
+conditions réglementaires et marqués sur chacun d'eux ; 
+
+S'engager par écrit à supporter sans formalités les visites et vérifications du service des douanes et droits indirects dans
+leurs magasins caves et celliers pour le contrôle de la régularité de leurs opérations.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11, art. 4 JORF 5 janvier 1993
+
+_Cite_:
+
+  - CGIAN4 54-0 A à CGIAN4 54-0 AG
 
 _Cité par_:
 
@@ -8139,7 +8670,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 54-0 BX
@@ -8156,6 +8687,24 @@ _Cite_:
 
 
 ##### 2 : Capsules banalisées<a id=123></a>
+
+###### Article 54-0 BY
+
+Les syndicats viticoles et les groupements professionnels qui désirent assurer la commande collective et la répartition des
+capsules représentatives des droits destinées aux récoltants doivent être agréés par le directeur régional des douanes et
+droits indirects territorialement compétent. Ils fournissent un cautionnement garantissant le paiement des droits sur les
+capsules détenues ainsi que sur les capsules expédiées sous le couvert d'acquits-à-caution aux récoltants.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 6 JORF 5 janvier 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
 
 ###### Article 54-0 BZ
 
@@ -8243,6 +8792,36 @@ _Cite_:
 
 ##### II : Factures-congés<a id=124></a>
 
+###### Article 54 A
+
+Les marchands en gros de boissons, les distillateurs de profession, les viticulteurs, les bouilleurs de cru, les coopératives
+et les débitants de boissons peuvent être autorisés par le directeur régional des douanes et droits indirects à utiliser les
+factures qui tiennent lieu de titre de mouvement et qui sont mentionnées à l'article 445 A du code général des impôts.
+
+Une caution spéciale garantit le paiement des droits applicables aux produits enlevés; elle doit être présentée et agréée par
+l'administration.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+
+_Cite_:
+
+  - CGI 445 A
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AD bis (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 54 B
 
 La fourniture et l'impression des factures qui tiennent lieu de titre de mouvement incombent aux utilisateurs. Les factures
@@ -8261,6 +8840,30 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 54 C
+
+Pour tenir lieu de titre de mouvement, des vignettes munies d'une marque fiscale doivent être apposées par les utilisateurs
+sur les factures.
+
+A cet effet, les utilisateurs déposent à la recette des douanes et droits indirects dont ils dépendent un timbre humide de
+forme ronde, mentionnant leurs nom, prénoms (ou raison sociale) et adresse complète.
+
+Après avoir été marquées du timbre, les vignettes sont délivrées par la recette des douanes et droits indirects contre reçu
+comportant engagement de dédommager l'administration en cas de perte ou de disparition. L'apposition des vignettes doit se
+faire dans l'ordre de leur numérotation. La présentation des vignettes fiscales confiées aux intéressés et non encore
+employées peut être exigée par l'administration.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 14 JORF 5 janvier 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 54 D
@@ -8283,10 +8886,94 @@ _Cite_:
   - HISTO: Edition du 31 mars 2001
 
 
+###### Article 54 E
+
+Le directeur régional des douanes et droits indirects peut autoriser l'emploi d'empreintes fiscales imprimées par les
+machines à timbrer au lieu des vignettes. Les empreintes doivent comporter les mentions requises aux articles 54 decies et 54
+duodecies.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+_Cite_:
+
+  - CGI 54 decies, 54 duodecies
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 54 F
+
+Des duplicata de factures ou de vignettes tiennent lieu des déclarations d'enlèvement prévues à l'article 446 du code général
+des impôts. Ils doivent être enliassés dans l'ordre de numérotation des vignettes, conservés et tenus à la disposition des
+agents du service des douanes et droits indirects selon les modalités prévues au I de l'article L. 102 B du livre des
+procédures fiscales. Ils sont joints au document récapitulatif visé à l'article 54 I et restitués après vérification.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+_Cite_:
+
+  - CGI 446
+  - CGIAN4 54 I
+  - Livre des procédures fiscales - art. L102 B (M)
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 54 G
+
+Les factures-titres de mouvement inutilisées mais pourvues de vignettes ou d'empreintes doivent être déposées à la recette
+des douanes et droits indirects avec leur duplicata, avant l'heure d'enlèvement indiquée sur le titre.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+
+
 ###### Article 54 H
 
 L'administration fixe, à la demande de chaque utilisateur, la quantité maximale d'alcool pur susceptible d'être livrée par
 destinataire sous le couvert d'une même facture-titre de mouvement.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 54 I
+
+Les factures-titres de mouvement doivent, avant l'enlèvement des boissons, être analysées séparément sur un document
+récapitulatif déposé à la recette des douanes et droits indirects soit le premier jour de chaque mois pour les factures-
+congés et les factures-laissez-passer, soit le premier et le seizième jour de chaque mois pour les factures-acquits-à-
+caution. 
+
+Pour les factures-congés et les factures-acquits, les documents récapitulatifs sont établis sur des documents fournis ou
+agréés par l'administration. 
+
+Pour les factures-laissez-passer, ils sont établis par leurs utilisateurs suivant le modèle prescrit par l'administration.
 
 **Liens relatifs à cet article**
 
@@ -8452,7 +9139,120 @@ _Cite_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### Section II : Conditionnement des spiritueux.<a id=128></a>
+##### C : Machines à timbrer les factures-congés "Boissons".<a id=128></a>
+
+###### Article 54 decies
+
+Est autorisée l'utilisation des machines à timbrer qui suivant les prévisions de l'article 54 E, sont destinées à apposer des
+marques fiscales qui confèrent en remplacement de vignettes le caractère de titre de mouvement aux factures-congés utilisées
+pour couvrir la circulation de boissons passibles de droits indirects. 
+
+Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
+
+Le modèle de la vignette remplacée désigné suivant la nomenclature arrêtée par l'administration des douanes et droits
+indirects ; 
+
+Un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération ;
+
+Les date et heure d'enlèvement exprimées en chiffres. 
+
+L'empreinte apposée sur chaque facture-congé doit être reproduite par décalque sur le duplicata de ce document.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+_Cite_:
+
+  - CGIAN4 54 E
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+
+
+##### D : Machines à timbrer les acquits-à-caution.<a id=129></a>
+
+###### Article 54 duodecies
+
+Est autorisée l'utilisation des machines à timbrer dont les empreintes apposées sur les acquits-à-caution définis à l'article
+615 du code général des impôts sont destinées :
+
+Au départ des chargements de marchandises devant circuler sous leur couvert à valider ces acquits-à-caution lorsque les
+expéditeurs sont autorisés à les établir eux-mêmes au moyen d'imprimés qui leur sont confiés par le service des douanes et
+droits indirects ; 
+
+A l'arrivée de tels chargements à attester les date et heure de cette arrivée. 
+
+Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
+
+Le sigle "MG" ou si l'appareil est utilisé par un récoltant un bouilleur de cru une coopérative vinicole cidricole ou de
+distillation ou une union de telles coopératives la lettre "R" ;
+
+Un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération ; 
+
+Les date et heure désignées en chiffres selon le cas de l'enlèvement ou de l'arrivée ; 
+
+La désignation du bureau de déclarations de la direction générale des douanes et droits indirects auquel l'utilisateur est
+rattaché.
+
+Chaque empreinte doit être apposée sur le talon administratif de l'acquit-à-caution à l'emplacement selon le cas "Enlèvement"
+ou "Arrivée" et dans le premier cas être reproduite par décalque sur le duplicata de ce document qui en constitue la souche.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+_Cite_:
+
+  - CGI 615
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 54 terdecies
+
+Sans préjudice des dispositions de l'article 164 AD, tout usager est tenu :
+
+En cas de solution de continuité dans la série des numéros d'empreintes apposées sur les acquits-à-caution d'acquitter pour
+chaque empreinte manquante une indemnité égale au montant de l'impôt, au tarif le plus élevé correspondant à la quantité
+moyenne des boissons reçues et expédiées sous acquit-à-caution au cours des trois derniers mois ; 
+
+De fournir un cautionnement spécial garantissant le paiement d'une part des sommes qui en application de l'article 615 du
+code général des impôts sont exprimées par les acquits-à-caution établis par lui d'autre part des indemnités indiquées ci-
+dessus ; 
+
+D'analyser sur des bordereaux d'émargement dits "feuilles d'entrepôt", au fur et à mesure de leur établissement et de leur
+réception les acquits-à-caution qu'il timbre au départ et à l'arrivée au moyen de son appareil ; 
+
+De déposer au bureau de déclarations de la direction générale des douanes et droits indirects auquel il est rattaché, le 1er
+et le 16 de chaque mois, les souches des acquits-à-caution établis et les acquits-à-caution reçus par lui au cours de la
+quinzaine écoulée classés en une seule liasse dans l'ordre des numéros d'empreintes de son appareil et accompagnés des
+feuilles d'entrepôts correspondantes.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+_Cite_:
+
+  - CGI 615
+  - CGIAN4 164 AD
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+
+
+##### Section II : Conditionnement des spiritueux.<a id=130></a>
 
 ###### Article 55
 
@@ -8505,6 +9305,28 @@ _Modifié par_:
   - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
 
 
+###### Article 55 B
+
+Les personnes qui désirent utiliser des bouteilles d'une capacité supérieure à trois litres doivent en faire, par écrit, la
+demande motivée à la direction régionale des douanes et droits indirects dont elles dépendent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arr êté 2000-06-02
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 9 JORF 5 janvier 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 31 mars 2000
+  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
+
+
 ###### Article 55 C
 
 Aux conditions déterminées par l'administration  les personnes non titulaires d'une licence permettant la vente de spiritueux
@@ -8545,9 +9367,9 @@ _Cite_:
   - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
 
 
-#### Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine<a id=129></a>
+#### Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine<a id=131></a>
 
-##### 2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations.<a id=130></a>
+##### 2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations.<a id=132></a>
 
 ###### Article 56 J quater
 
@@ -8573,9 +9395,9 @@ _Cite_:
   - HISTO: Edition du 31 août 2004
 
 
-#### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine<a id=131></a>
+#### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine<a id=133></a>
 
-##### 1° : Organisation des bureaux de garantie.<a id=132></a>
+##### 1° : Organisation des bureaux de garantie.<a id=134></a>
 
 ###### Article 56 J bis
 
@@ -8609,7 +9431,7 @@ _Cité par_:
   - HISTO: Edition du 10 août 1987
 
 
-#### Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer.<a id=133></a>
+#### Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer.<a id=135></a>
 
 ###### Article 56 A ter
 
@@ -8670,7 +9492,79 @@ _Cite_:
   - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
 
 
-#### Chapitre II : Tabacs<a id=134></a>
+#### Chapitre I quinquies : Céréales<a id=136></a>
+
+##### Utilisation de machines à timbrer.<a id=137></a>
+
+###### Article 56 D quater
+
+Est autorisée l'utilisation des machines à timbrer destinées à apposer des marques fiscales qui confèrent le caractère de
+titre de mouvement aux factures ou aux bordereaux d'expédition délivrés par les collecteurs agréés et les revendeurs de
+céréales soumises aux formalités à la circulation édictées par les articles 22 du décret de codification du 23 novembre 1937
+modifié et 16 de la loi du 5 juillet 1941 modifiée. 
+
+Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
+
+L'expression "Congé 939" ; 
+
+Un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération ; 
+
+Les date et heure d'enlèvement exprimées en chiffres. 
+
+L'empreinte apposée sur chaque facture-congé ou bordereau-congé doit être reproduite par décalque sur le duplicata de l'un ou
+l'autre de ces documents. 
+
+A la demande définie au premier alinéa de l'article 164 AD, doit être,joint en vue de son agrément,le modèle de la facture-
+congé ou du bordereau-congé que l'auteur de cette demande se propose d'utiliser. 
+
+Chaque usager est tenu de conserver pendant un délai de six ans à compter de leur date classés dans l'ordre de leur
+numérotation les duplicata des factures-congés ou des bordereaux-congés émis par lui et de les représenter au service des
+douanes et droits indirects à toute réquisition.
+
+**Nota:**
+
+NOTA : Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+_Cite_:
+
+  - CGIAN4 164 AD, 164 L à 164 AL
+  - Décret n°1937-11-23 art. 22
+  - Loi n°1941-07-05
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
+
+
+#### Chapitre II : Tabacs<a id=138></a>
+
+###### Article 56 AA
+
+La vente au détail des tabacs manufacturés est effectuée dans les départements français continentaux par les débitants
+préposés par l'administration des douanes et droits indirects pour gérer un débit du monopole. Ces gérants sont tenus de se
+faire approvisionner en fonction de leurs possibilités de ventes par les fournisseurs pourvus d'un numéro d'identification et
+de céder tous les produits reçus au prix fixé par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 1 JORF 5 janvier 1993
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AP (V)
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
 
 ###### Article 56 AB
 
@@ -8705,6 +9599,25 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 282 (V)
 
 
+###### Article 56 AD
+
+Chaque fournisseur est tenu de consentir à tous les débitants les crédits prévus par l'article 282 de l'annexe II au code
+général des impôts pour lesquels ceux-ci justifient d'une caution solidaire agréée expressément à cet effet par
+l'administration des douanes et droits indirects. Cette caution est valable à l'égard de tous les fournisseurs d'un même
+débitant. La liste des organismes de cautionnement agréés est communiquée par l'administration à tous les fournisseurs sur
+leur demande.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 1 JORF 5 janvier 1993
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 282 (V)
+
+
 ###### Article 56 AE
 
 Le crédit à la livraison autorise le débitant à ne régler chaque livraison d'un fournisseur qu'au moment de la plus prochaine
@@ -8736,6 +9649,63 @@ saisonnier; la seconde  au plus tard quatre-vingt-dix jours après la date d'exi
 Toute demande de crédit adressée par un débitant à un fournisseur doit être accompagnée d'une attestation de la caution
 agréée indiquant les types de crédit pour lesquels le cautionnement est accordé à ce débitant.
 
+
+
+###### Article 56 AI
+
+En cas de retrait de sa garantie à un débitant,la caution agréée doit en informer, par lettre recommandée avec demande d'avis
+de réception, l'administration des douanes et droits indirects et tous les fournisseurs pourvus d'un numéro d'identification
+dont la liste lui est communiquée par cette administration. 
+
+Pour chaque fournisseur le retrait de la garantie prend effet cinq jours francs après réception de la lettre recommandée et
+rend immédiatement exigibles les sommes dues par le gérant.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 1 JORF 5 janvier 1993
+
+
+###### Article 56 AJ
+
+Au plus tard le 15 de chaque mois chaque fournisseur doit faire parvenir à l'administration des douanes et droits indirects
+un relevé relatif aux livraisons qu'il a effectuées au cours du mois précédent et indiquant :
+
+1° pour chaque débitant approvisionné la valeur au prix de détail des quantités livrées ; 
+
+2° pour l'ensemble de ses livraisons :
+
+le total pour chaque produit des quantités livrées avec rappel du prix de l'unité dans laquelle ces quantités sont
+exprimées ;
+
+la valeur globale de ses livraisons au prix de détail ; 
+
+le complément de remise sur vente dont il est redevable égal à la différence entre la remise totale et la partie de remise
+allouée directement aux débitants en application de l'article 56 AC ci-dessus. 
+
+Ce complément est versé par chaque fournisseur à l'administration des douanes et droits indirects dans les dix jours qui
+suivent le dépôt du relevé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 1 JORF 5 janvier 1993
+
+_Cité par_:
+
+  - Arrêté du 24 mars 2010 - art. 1 (V)
+  - Décret n°2016-1987 du 30 décembre 2016 - art. 2 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AJ (V)
+
+_Cite_:
+
+  - CGIAN4 56 AC
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 56 AK
@@ -8774,6 +9744,79 @@ _Modifié par_:
 
   - Loi n°78-1239 du 29 décembre 1978 - art. 25 (V) JORF 30 décembre 1978
   - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 avril 1980
+
+
+###### Article 56 AL
+
+Le document de livraison doit être revêtu de la marque du monopole par l'apposition dans le cadre réservé à cet effet d'une
+vignette spéciale fournie par le service des douanes et droits indirects. 
+
+Les vignettes sont délivrées par le receveur des douanes et droits indirects qui y appose au préalable le timbre du
+fournisseur. A cet effet le fournisseur remet au receveur local un timbre humide de forme ronde ayant 20 millimètres de
+diamètre et portant le nom ou la raison sociale et le numéro d'identification de l'intéressé. Les vignettes sont apposées
+dans l'ordre de leur numérotation sur les documents de livraison avant l'enlèvement des produits. Elles doivent être
+complétées par l'inscription en toutes lettres dans les cadres prévus du numéro d'ordre du document de livraison ainsi que
+des date et heure d'enlèvement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11, art. 17 JORF 5 janvier 1993
+
+_Codifié par_:
+
+  - Arrêté 1993-09-24
+
+
+###### Article 56 AM
+
+Le document de livraison est remis au débitant. Le fournisseur est tenu d'en conserver un duplicata comportant les
+indications figurant sur la vignette dont il a été muni y compris le numéro de cette vignette. 
+
+Les duplicata doivent être tenus à la disposition des agents du service des douanes et droits indirects selon les modalités
+prévues au I de l'article L. 102 B du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L102 B (VT)
+
+
+###### Article 56 AN
+
+Les fournisseurs sont admis dans les conditions définies par l'administration des douanes et droits indirects à substituer
+aux vignettes apposées sur les documents de livraison des marques fiscales imprimées par des machines à timbrer à la
+condition que les empreintes comportent les indications suivantes :
+
+les mots "Document de livraison" ; 
+
+un cercle d'au moins deux centimètres de diamètre contenant l'effigie de la République française entourée de la mention
+"Direction générale des douanes et droits indirects" ;
+
+le numéro d'immatriculation de la machine ; 
+
+un numéro particulier affecté à chaque empreinte suivant l'ordre de numérotation ; 
+
+les date et heure d'enlèvement des produits exprimées en chiffres.
+
+L'empreinte apposée sur chaque document de livraison doit être reproduite par décalque sur le duplicata de ce document qui en
+constitue la souche.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 56 AO
@@ -8840,371 +9883,15 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 575 D (V)
 
 
-### Titre III : Contributions indirectes et monopoles fiscaux<a id=135></a>
+### Titre III : Contributions indirectes et monopoles fiscaux<a id=139></a>
 
-#### Chapitre premier : Boissons<a id=136></a>
+#### Chapitre premier : Boissons<a id=140></a>
 
-##### Section I : Alcools<a id=137></a>
+##### Section I : Alcools<a id=141></a>
 
-##### I : Production<a id=138></a>
+##### II : Régime économique<a id=142></a>
 
-##### A : Alambics.<a id=139></a>
-
-###### Article 50 A
-
-Quiconque désire importer  acquérir à titre gratuit ou onéreux obtenir en location  faire réparer ou transformer un ou
-plusieurs appareils ou portions d'appareils propres à la distillation  à la fabrication ou au repassage d'eaux-de-vie ou
-d'esprits doit en faire la demande écrite à la direction des services fiscaux du lieu de destination ou d'implantation
-desdits appareils ou portions d'appareils.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 306 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 50 D
-
-En ce qui concerne les appareils ou portions d'appareils devant être importés  le destinataire doit remettre une copie de
-l'autorisation délivrée  certifiée conforme par le service des impôts de sa résidence  au bureau de déclarations de la
-direction générale des impôts du lieu de dédouanement [*lieu de dépôt*] afin d'obtenir l'acquit-à-caution indispensable.
-
-Ce titre de mouvement doit être ensuite présenté au bureau de douane à l'appui de la déclaration d'importation.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 50 E
-
-Le titulaire d'une autorisation est tenu de fournir une copie de celle-ci  certifiée conforme par le service des impôts de sa
-résidence  au cédant  au loueur  au réparateur ou au transformateur des appareils ou portions d'appareils.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### B : Rachat des alambics par l'État.<a id=140></a>
-
-###### Article 51 B
-
-La demande de rachat doit être motivée et mentionner :
-
-En ce qui concerne le requérant : ses nom et prénoms (ou raison sociale)  profession et adresse  ainsi que la date de son
-entrée en possession du ou des alambics faisant l'objet de la demande;
-
-En ce qui concerne le ou les appareils :
-
-a. Leur nombre  leur nature (marque et type)  les caractéristiques de leurs différents éléments  ainsi que leur état de
-marche;
-
-b. Leurs numéros de poinçonnement;
-
-c. Le prix de rachat unitaire proposé.
-
-La demande doit être adressée à la direction des services fiscaux du lieu d'immatriculation du ou des appareils par lettre
-recommandée avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 F
-
-Après instruction, au cours de laquelle le requérant peut être entendu, le directeur des services fiscaux statue sur la
-demande.
-
-Sa décision est notifiée à l'intéressé au plus tard dans les quatre mois suivant la réception de la demande [*délai de
-notification*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1985-09-24
-
-_Modifié par_:
-
-  - Décret n°82-389 1982-05-10 art. 28 JORF 11 mai 1982
-
-
-##### C : Dispositions générales - Conditions d'exercice de la profession de distillateur.<a id=141></a>
-
-###### Article 51 bis
-
-Quiconque désire obtenir l'autorisation d'exercer la profession de loueur d'alambic ambulant doit en faire la demande écrite
-à la direction des services fiscaux de chaque département sur le territoire duquel son ou ses appareils doivent être
-utilisés.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 311 bis (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 quater
-
-Le directeur des services fiscaux examine les demandes qui lui sont présentées.
-
-Il prononce une décision de rejet si les garanties offertes par le requérant ne lui paraissent pas suffisantes. Dans le cas
-contraire  il propose au Préfet l'octroi de l'autorisation demandée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1988-10-20
-
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-
-###### Article 51 quinquies
-
-Après examen des propositions qui lui sont faites par le directeur des services fiscaux le préfet  prend soit un arrêté
-accordant l'autorisation soit une décision de rejet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1988-10-20
-
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-
-###### Article 51 sexies
-
-Lorsque le titulaire d'une autorisation a commis une infraction aux dispositions des articles 303 à 520 du code général des
-impôts ou à celles des textes pris pour leur application  le préfet peut  sur proposition du directeur des services fiscaux
-prononcer par voie d'arrêté le retrait de ladite autorisation pour une période n'excédant pas la campagne au cours de
-laquelle l'infraction a été commise et les deux campagnes suivantes.
-
-Le retrait est obligatoire lorsque l'infraction relevée est passible de l'une des sanctions prévues aux articles 1737, 1746,
-1810 et 1815 du code susvisé. Il en est de même lorsque le titulaire de l'autorisation est convaincu d'avoir facilité la
-fraude commise par ses clients  ou sciemment procuré les moyens de la commettre.
-
-Dans le cas  prévu à l'alinéa précédent  d'infraction punie des sanctions édictées par l'article 1810 du code général des
-impôts  le retrait doit être prononcé pour une période au moins égale à trois campagnes  y compris celle au cours de laquelle
-l'infraction a été commise  sans pouvoir excéder six campagnes. Toutefois  le retrait de l'autorisation d'exercer la
-profession de loueur d'alambic ambulant est définitif dans le cas d'infractions punies des sanctions prévues par les articles
-1737, 1746 et 1815 du code général des impôts ou lorsque  antérieurement ou postérieurement à la date de l'arrêté préfectoral
-l'ayant prononcé  une nouvelle infraction passible des sanctions prévues à l'article 1810 du code précité est relevée à la
-charge du contrevenant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1988-10-20
-
-_Cite_:
-
-  - CGI 1737
-  - CGI 1746
-  - CGI 1810
-  - CGI 1815
-  - CGI 303 A CGI 520
-
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-
-##### D : Règlement des distilleries<a id=142></a>
-
-##### Régime général.<a id=143></a>
-
-###### Article 51 septies A
-
-L'exploitant est tenu d'entretenir en bon état d'usage les  marques, jauges et tubes de niveau réglementaires.
-
-L'accès aux points des installations où les agents des impôts doivent normalement intervenir lors de leurs opérations de
-contrôle et de reconnaissance doit offrir des conditions de sécurité et d'éclairage conformes à la réglementation en vigueur.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 septies B
-
-L'exploitant est tenu de réserver aux agents des impôts  dans la distillerie  un emplacement convenable agréé par
-l'administration.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 septies D
-
-L'intérieur des bacs de réserve et de recette ainsi que tous autres bacs ou récipients de stockage doit être maintenu en état
-de propreté. Les agents des impôts peuvent exiger  sans entraver l'activité de la distillerie  que les fonds de ces bacs ou
-récipients soient débarrassés des dépôts susceptibles de fausser l'échelle des contenances.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 septies E
-
-L'exploitant qui constate un incident ou une anomalie de fonctionnement d'un compteur doit en faire immédiatement la
-déclaration aux agents habilités des impôts et consigner sur le registre prévu à cet effet [*mentions*] :
-
-La nature de l'incident ou de l'anomalie;
-
-La date et l'heure de la constatation;
-
-Les index du compteur à ce moment;
-
-Le moyen utilisé pour aviser les agents habilités des impôts.
-
-Si l'incident affecte l'écoulement normal de l'alcool l'exploitant utilise le circuit de secours et les bacs de réserve.
-
-Les agents habilités des impôts procèdent à la remise en ordre de l'installation dans les meilleurs délais et mentionnent
-leur intervention sur le registre indiqué au premier alinéa.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 septies F
-
-Les compteurs font l'objet de relevés périodiques dont la fréquence est fixée en fonction du modèle de l'appareil installé et
-des circonstances particulières à la distillerie. Ces relevés sont effectués par les agents habilités des impôts et
-l'exploitant est tenu d'y assister ou de s'y faire représenter.
-
-Les résultats des relevés sont consignés par les mêmes agents sur un registre spécial déposé à la distillerie.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 septies G
-
-Le compte de magasin  prévu à l'article 69 de l'annexe I au code général des impôts  est tenu en alcool pur.
-
-Aux charges de ce compte sont inscrites les quantités d'alcool :
-
-Existantes en magasin à l'inventaire de fin de campagne    Obtenues dans l'usine    Introduites dans la distillerie sous le
-couvert de titres de mouvement    Reconnues extraites des appareils de rectification ou de déshydratation par les agents des
-impôts    Dégagées en excédent lors des inventaires.
-
-Aux décharges de ce compte sont portées les quantités d'alcool :
-
-Régulièrement expédiées sous le couvert de titres de mouvement    Renfermées dans les échantillons prélevés par les agents
-des impôts aux fins d'analyse et régulièrement expédiées à cet effet à des laboratoires  notamment à celui de la direction
-générale des douanes et droits indirects    Déclarées soumises à un repassage  une rectification ou une déshydratation
-Constituées d'alcools imparfaits et déclarées être ajoutées aux matières à distiller lorsque ces alcools ont déjà été pris en
-charge    Dénaturées sur place dans les conditions réglementaires    Dont la perte accidentelle ou la destruction est
-régulièrement constatée    Dégagées en manquant lors des inventaires.
-
-Les quantités d'alcool utilisées pour la macération de fruits ne sont pas portées aux décharges du compte de magasin.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1989-10-30
-
-_Cite_:
-
-  - CGIAN1 69
-
-_Modifié par_:
-
-  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988, incorporé à l'annexe 4 le 14 juillet 1989
-  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988, incorporé à l'annexe 4 le 14 juillet 1989
-
-
-###### Article 51 septies J
-
-Le registre mis à la disposition de l'exploitant pour l'enregistrement des déclarations des mises en distillation de matières
-à traiter suivies en compte  des repassages de produits imparfaits  des rectifications de flegmes ou de produits défectueux
-et des déshydratations d'alcool achevé  prévues à l'article 75 de l'annexe I du code général des impôts  doit indiquer au fur
-et à mesure de leur déroulement [*mentions*] :
-
-La nature de l'opération;
-
-La nature des matières à traiter;
-
-Le récipient d'où sont extraites ces matières;
-
-La date et l'heure du début de l'opération;
-
-La date et l'heure de la fin de l'opération;
-
-Le volume et  pour les produits à repasser  rectifier ou déshydrater  le titre alcoolique et l'alcool pur qu'ils renferment.
-
-Quand l'opération se fait en continu  les deux dernières indications peuvent être portées seulement en fin de journée  à une
-heure convenue entre l'exploitant et les agents des impôts ou  à défaut d'accord  fixée par ces derniers.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 75
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### Régime spécial.<a id=144></a>
-
-###### Article 51 octies A
-
-L'intérieur des bacs ou récipients de coulage et de stockage doit être maintenu en état de propreté.
-
-Les agents des impôts peuvent exiger  sans entraver la marche de la distillerie  que les fonds des bacs ou récipients soient
-débarrassés des dépôts susceptibles de fausser l'échelle des contenances.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### II : Régime économique<a id=145></a>
-
-##### Répartition du contingent des rhums.<a id=146></a>
+##### Répartition du contingent des rhums.<a id=143></a>
 
 ###### Article 52 bis
 
@@ -9247,22 +9934,22 @@ _Modifié par_:
   - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 rectificatif JORF 13 juillet 1985
 
 
-##### Section I bis : Circulation<a id=147></a>
+##### Section I bis : Circulation<a id=144></a>
 
-##### I : Capsules représentatives de droits<a id=148></a>
+##### I : Capsules représentatives de droits<a id=145></a>
 
-##### A : Capsules représentatives des droits sur les vins et les cidres<a id=149></a>
+##### A : Capsules représentatives des droits sur les vins et les cidres<a id=146></a>
 
-##### 1 : Caractéristiques des capsules.<a id=150></a>
+##### 1 : Caractéristiques des capsules.<a id=147></a>
 
 ###### Article 54-0 B
 
 Les capsules visées à l'article 54-0 A doivent être en métal ou en matière plastique; elles peuvent être apposées sur les
 bouteilles ou faire partie intégrante du récipient lui-même; elles comportent  sur fond blanc  un timbre circulaire d'un
 diamètre au moins égal à 13 millimètres  conforme au modèle établi par l'atelier général du timbre  et annexé à l'arrêté du
-30 août 1960, à l'intérieur duquel sont mentionnés les mots "République française", le sigle "D.G.I."" (direction générale
-des impôts) et la capacité de la bouteille exprimée en nombre de centilitres sur laquelle est apposée la capsule. Le
-remplacement de la couleur blanche par la teinte naturelle de la capsule peut être autorisé par l'administration.
+30 août 1960, à l'intérieur duquel sont mentionnés les mots "République française", le sigle "DGDDI" (direction générale des
+douanes et droits indirects) et la capacité de la bouteille exprimée en nombre de centilitres sur laquelle est apposée la
+capsule. Le remplacement de la couleur blanche par la teinte naturelle de la capsule peut être autorisé par l'administration.
 
 **Liens relatifs à cet article**
 
@@ -9271,337 +9958,18 @@ _Cite_:
   - Arrêté 1960-08-30
   - CGIAN4 54-0 A
 
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 19 I II III JORF 5 janvier 1993
+
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 A (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BX (V)
 
-**Liens**:
 
-  - HISTO: EDITION 1979-07-01
-
-
-##### 2 : Fabrication des capsules.<a id=151></a>
-
-###### Article 54-0 H
-
-Avant le commencement de leurs travaux  les fabricants agréés doivent remettre au service des impôts dont ils dépendent un
-état présentant la description sommaire des locaux et ateliers de leur usine et indiquant le nombre de presses à imprimer
-d'appareils à vernir et de machines à emboutir pouvant servir à la fabrication des capsules.
-
-Ils doivent également fournir un cautionnement  dont le montant sera fixé par l'administration d'après l'importance de leur
-production.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54-0 I
-
-Les travaux d'impression des feuilles métalliques ainsi que les travaux de confection des capsules sont surveillés en
-permanence par le service des impôts  qui a libre accès dans toutes les parties de l'établissement. Les travaux d'impression
-du timbre ne peuvent avoir lieu que sur des machines munies de compteurs plombés et agréés par l'administration.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### 3 : Utilisation des capsules.<a id=152></a>
-
-###### Article 54-0 AB
-
-Les feuilles métalliques ou les capsules  revêtues du timbre  sont livrées au marchand en gros sur présentation d'un bon de
-commande établi en double exemplaire et comportant notamment [*mentions*] :
-
-1o Le nom et l'adresse du marchand en gros;
-
-2o Le nom et l'adresse du fournisseur des feuilles ou des capsules;
-
-3o Par contenance et nature de boissons  le nombre de capsules commandées    Les deux exemplaires du bon de commande sont
-datés et visés par le chef de service local des impôts; l'un des exemplaires est remis au marchand en gros  qui l'adresse à
-son fournisseur; l'autre est conservé au dossier du marchand en gros.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 S (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54-0 AD
-
-Les marchands en gros utilisant les capsules doivent tenir un carnet de conditionnement et de livraison conforme au modèle
-donné par l'administration et préalablement côté et paraphé par le chef local du service des impôts [*obligation*].
-
-Sur ce carnet doivent être inscrits  sans blanc ni rature  en fin de journée  par contenance de bouteilles et nature de
-boissons [*mentions*] :
-
-1o Le nombre de capsules utilisées et le volume total de boissons représenté par les bouteilles ainsi conditionnées;
-
-2o Le nombre de bouteilles reçues revêtues de capsules par les soins d'un autre marchand en gros  ainsi que le volume total
-de boissons qu'elles représentent;
-
-3o Le nombre de bouteilles ainsi conditionnées effectivement livrées et le volume total de boissons qu'elles représentent.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### C : Capsules représentatives des droits sur les spiritueux<a id=153></a>
-
-##### 3 : Utilisation des capsules.<a id=154></a>
-
-###### Article 54-0 BJ
-
-Les marchands en gros de boissons bénéficiant du crédit d'enlèvement de un mois ou du crédit mensuel de liquidation peuvent
-être admis par le directeur des services fiscaux à utiliser les capsules prévues par l'article 444 du code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 444
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54-0 BT
-
-Lorsqu'ils sont transportés par quantités supérieures à 6 litres en volume  les spiritueux  libérés des droits  conditionnés
-en bouteilles revêtues de capsules portant les marques fiscales  doivent être accompagnés d'un bordereau de livraison
-conforme au modèle donné par l'administration et indiquant [*mentions*] :
-
-1° La date d'enlèvement;
-
-2° Par contenance et par nature des boissons  le nombre total de bouteilles chargées au départ;
-
-3° Le nom et l'adresse des destinataires ainsi que les quantités qui leur sont destinées.
-
-Au moment de la livraison  le bordereau doit être complété par la signature des destinataires et  éventuellement  par les
-quantités effectivement livrées.
-
-L'administration peut  à la demande des intéressés  agréer des modèles différents pourvu qu'ils comportent les indications
-réglementaires.
-
-Les bordereaux doivent être conservés et tenus à la disposition des agents des impôts selon les modalités prévues au I de
-l'article L. 102 B du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1990-09-10
-
-_Cite_:
-
-  - CGI L102 B I
-
-_Modifié par_:
-
-  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-
-##### D : Emploi des capsules représentatives des droits par les récoltants.<a id=155></a>
-
-###### Article 54-0 BV
-
-Les viticulteurs et les coopératives viticoles peuvent être admis par le directeur des services fiscaux à utiliser les
-capsules représentatives des droits sur les vins  prévues par l'article 444 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 444
-
-_Cité par_:
-
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U (VD)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### 2 : Capsules banalisées.<a id=156></a>
-
-###### Article 54-0 BY
-
-Les syndicats viticoles et les groupements professionnels qui désirent assurer la commande collective et la répartition des
-capsules représentatives des droits destinées aux récoltants doivent être agréés par le directeur des services fiscaux de
-leur département. Ils fournissent un cautionnement garantissant le paiement des droits sur les capsules détenues ainsi que
-sur les capsules expédiées sous le couvert d'acquits-à-caution aux récoltants.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### II : Factures-congés.<a id=157></a>
-
-###### Article 54 A
-
-Les marchands en gros de boissons, les distillateurs de profession, les viticulteurs, les bouilleurs de cru, les coopératives
-et les débitants de boissons peuvent être autorisés par le directeur des services fiscaux à utiliser les factures qui
-tiennent lieu de titre de mouvement et qui sont mentionnées à l'article 445 A du code général des impôts.
-
-Une caution spéciale garantit le paiement des droits applicables aux produits enlevés ; elle doit être présentée et agréée
-par l'administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1986-10-07
-
-_Cite_:
-
-  - CGI 445 A
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AD bis (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
-
-_Modifié par_:
-
-  - arrêté 1986-03-03 art. 1 JORF 12 mars 1986
-
-
-###### Article 54 C
-
-Pour tenir lieu de titre de mouvement, des vignettes munies d'une marque fiscale doivent être apposées par les utilisateurs
-sur les factures.
-
-A cet effet, les utilisateurs déposent à la recette des impôts dont ils dépendent un timbre humide de forme ronde,
-mentionnant leurs nom, prénoms (ou raison sociale) et adresse complète.
-
-Après avoir été marquées du timbre, les vignettes sont délivrées par la recette des impôts contre reçu comportant engagement
-de dédommager l'administration en cas de perte ou de disparition. L'apposition des vignettes doit se faire dans l'ordre de
-leur numérotation. La présentation des vignettes fiscales confiées aux intéressés et non encore employées peut être exigée
-par l'administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1986-10-07
-
-_Modifié par_:
-
-  - arrêté 1986-03-03 art. 3 JORF 12 mars 1986
-
-
-###### Article 54 E
-
-Le directeur des services fiscaux peut autoriser l'emploi d'empreintes fiscales imprimées par les machines à timbrer au lieu
-des vignettes. Les empreintes doivent comporter les mentions requises aux articles 54 decies et 54 duodecies.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1986-10-07
-
-_Cite_:
-
-  - CGI 54 decies
-  - CGI 54 duodecies
-
-_Modifié par_:
-
-  - arrêté 1986-03-03 art. 5 JORF 12 mars 1986
-
-
-###### Article 54 F
-
-Des duplicata de factures ou de vignettes tiennent lieu des déclarations d'enlèvement prévues à l'article 446 du code général
-des impôts. Ils doivent être enliassés dans l'ordre de numérotation des vignettes, conservés et tenus à la disposition des
-agents des impôts selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales. Ils sont joints au
-document récapitulatif visé à l'article 54 I et restitués après vérification.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1990-09-10
-
-_Cite_:
-
-  - CGI 446
-  - CGI L102 B I
-  - CGIAN4 54 I
-
-_Modifié par_:
-
-  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-
-###### Article 54 G
-
-Les factures-titres de mouvement inutilisées mais pourvues de vignettes ou d'empreintes doivent être déposées à la recette
-des impôts avec leur duplicata, avant l'heure d'enlèvement indiquée sur le titre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1986-10-07
-
-_Modifié par_:
-
-  - arrêté 1986-03-03 art. 7 JORF 12 mars 1986
-
-
-###### Article 54 I
-
-Les factures-titres de mouvement doivent, avant l'enlèvement des boissons, être analysées séparément sur un document
-récapitulatif déposé à la recette des impôts soit le premier jour de chaque mois [*date, date de dépôt*] pour les factures-
-congés et les factures-laissez-passer, soit le premier et le seizième jour de chaque mois pour les factures-acquits-à-
-caution.
-
-Pour les factures-congés et les factures-acquits, les documents récapitulatifs sont établis sur des documents fournis ou
-agréés par l'administration.
-
-Pour les factures-laissez-passer, ils sont établis par leurs utilisateurs suivant le modèle prescrit par l'administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1986-10-07
-
-_Modifié par_:
-
-  - arrêté 1986-03-03 art. 9 JORF 12 mars 1986
-
-
-##### III : Exemption des formalités à la circulation.<a id=158></a>
+##### III : Exemption des formalités à la circulation.<a id=148></a>
 
 ###### Article 54 bis
 
@@ -9640,15 +10008,16 @@ _Cite_:
 
 ###### Article 54 quinquies
 
-Les opérations de conditionnement  de livraison et de réintégration des cidres et poirés doux  réalisées par les personnes
-qui effectuent la présentation commerciale définitive desdits produits  sont suivies sur des carnets spéciaux  dans les
-conditions fixées par le service des impôts.
+Les opérations de conditionnement de livraison et de réintégration des cidres et poirés doux réalisées par les personnes qui
+effectuent la présentation commerciale définitive desdits produits sont suivies sur des carnets spéciaux dans les conditions
+fixées par le service des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 54 ter
@@ -9669,147 +10038,13 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### IV : Utilisation de machines à timbrer<a id=159></a>
-
-##### C : Machines à timbrer les factures-congés "Boissons".<a id=160></a>
-
-###### Article 54 decies
-
-Est autorisée l'utilisation des machines à timbrer qui  suivant les prévisions de l'article 54 E, sont destinées à apposer
-des marques fiscales qui confèrent  en remplacement de vignettes  le caractère de titre de mouvement aux factures-congés
-utilisées pour couvrir la circulation de boissons passibles de droits indirects.
-
-Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
-
-le modèle de la vignette remplacée  désigné suivant la nomenclature arrêtée par l'administration des impôts;
-
-un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération;
-
-les date et heure d'enlèvement  exprimées en chiffres.
-
-L'empreinte apposée sur chaque facture-congé doit être reproduite par décalque sur le duplicata de ce document.
-
-**Nota:**
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1986-03-12
-
-_Cite_:
-
-  - CGIAN4 164 L A CGIAN4 164 al.
-  - CGIAN4 54 E
-
-_Modifié par_:
-
-  - arrêté 1986-03-03 art. 5 JORF 12 mars 1986
-
-
-##### D : Machines à timbrer les acquits-à-caution.<a id=161></a>
-
-###### Article 54 duodecies
-
-Est autorisée l'utilisation des machines à timbrer dont les empreintes  apposées sur les acquits-à-caution définis à
-l'article 615 du code général des impôts  sont destinées :
-
-au départ des chargements de marchandises devant circuler sous leur couvert  à valider ces acquits-à-caution  lorsque les
-expéditeurs sont autorisés à les établir eux-mêmes au moyen d'imprimés qui leur sont confiés par le service des impôts;
-
-à l'arrivée de tels chargements  à attester les date et heure de cette arrivée.
-
-Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
-
-le sigle "MG" ou  si l'appareil est utilisé par un récoltant un bouilleur de cru  une coopérative vinicole  cidricole ou de
-distillation ou une union de telles coopératives  la lettre "R";
-
-un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération;
-
-les date et heure désignées en chiffres  selon le cas  de l'enlèvement ou de l'arrivée;
-
-la désignation du bureau de déclarations de la direction générale des impôts auquel l'utilisateur est rattaché.
-
-Chaque empreinte doit être apposée sur le talon administratif de l'acquit-à-caution  à l'emplacement  selon le cas
-"Enlèvement" o  u "Arrivée" et  dans le premier cas  être reproduite par décalque   sur le duplicata de ce document qui en
-constitue la souche.
-
-**Nota:**
-
-(1) Voir les conditions générales d'utilisation prescrites aux articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 615
-  - CGIAN4 164 L A CGIAN4 164 al.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 terdecies
-
-Sans préjudice des dispositions de l'article 164 AD, tout usager est tenu [*obligation*] :
-
-en cas de solution de continuité dans la série des numéros d'empreintes apposées sur les acquits-à-caution  d'acquitter  pour
-chaque empreinte manquante  une indemnité égale au montant de l'impôt, au tarif le plus élevé correspondant à la quantité
-moyenne des boissons reçues et expédiées sous acquit-à-caution au cours des trois derniers mois;
-
-de fournir un cautionnement spécial garantissant le paiement d'une part  des sommes qui  en application de l'article 615 du
-code général des impôts  sont exprimées par les acquits-à-caution établis par lui  d'autre part  des indemnités indiquées ci-
-dessus;
-
-d'analyser sur des bordereaux d'émargement  dits "feuilles d'entrepôt", au fur et à mesure de leur établissement et de leur
-réception  les acquits-à-caution qu'il timbre au départ et à l'arrivée au moyen de son appareil;
-
-de déposer au bureau de déclarations de la direction générale des impôts auquel impôts auquel il est rattaché le 1er et le 16
-de chaque mois les souches des acquits-à-caution établis et les acquits-à-caution reçus par lui au cours de la quinzaine
-écoulée classés en une seule liasse dans l'ordre des numéros d'empreintes de son appareil et accompagnés des feuilles
-d'entrepôts correspondantes [*obligation de dépôt*].
-
-**Nota:**
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 615
-  - CGIAN4 164 AD
-  - CGIAN4 164 L A CGIAN4 164 al.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### Section II : Conditionnement des spiritueux.<a id=162></a>
-
-###### Article 55 B
-
-Les personnes qui désirent utiliser des bouteilles d'une capacité supérieure à trois litres doivent en faire  par écrit  la
-demande motivée à la direction des services fiscaux de leur département.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine.<a id=163></a>
+##### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine.<a id=149></a>
 
 ###### Article 56 J ter
 
-La date limite à laquelle les redevables du droit de garantie doivent remettre ou envoyer à la recette des impôts de
-rattachement du bureau de garantie dont ils dépendent la déclaration prévue à l'article 521 du code général des impôts est
-fixée comme suit :
+La date limite à laquelle les redevables du droit de garantie doivent remettre ou envoyer à la recette des douanes et droits
+indirects de rattachement du bureau de garantie dont ils dépendent la déclaration prévue à l'article 521 du code général des
+impôts est fixée comme suit :
 
 1° Pour les entreprises individuelles, avant le 10 du mois suivant ;
 
@@ -9820,110 +10055,19 @@ suivant ;
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1984-07-17 art. 1 JORF 24 juillet 1984
-
-_Codifié par_:
-
-  - Arrêté 1984-10-01
+  - Arrêté 1993-01-04 art. 15 JORF 5 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cite_:
 
   - CGI 521
 
 
-#### Chapitre I quinquies : Céréales<a id=164></a>
+#### Chapitre II : Monopoles<a id=150></a>
 
-##### Section 1 : Utilisation de machines à timbrer.<a id=165></a>
-
-###### Article 56 D quater
-
-Est autorisée l'utilisation des machines à timbrer destinées à apposer des marques fiscales qui confèrent le caractère de
-titre de mouvement aux factures ou aux bordereaux d'expédition délivrés par les collecteurs agréés et les revendeurs de
-céréales soumises aux formalités à la circulation édictées par les articles 22 du décret de codification du 23 novembre 1937
-modifié et 16 de la loi du 5 juillet 1941 modifiée.
-
-Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
-
-l'expression " Congé 939 ";
-
-un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération;
-
-les date et heure d'enlèvement  exprimées en chiffres.
-
-L'empreinte apposée sur chaque facture-congé ou bordereau-congé doit être reproduite par décalque sur le duplicata de l'un ou
-l'autre de ces documents.
-
-A la demande définie au premier alinéa de l'article 164 AD, doit être joint  en vue de son agrément  le modèle de la facture-
-congé ou du bordereau-congé que l'auteur de cette demande se propose d'utiliser.
-
-Chaque usager est tenu de conserver pendant un délai de six ans à compter de leur date  classés dans l'ordre de leur
-numérotation  les duplicata des factures-congés ou des bordereaux-congés émis par lui et de les représenter au service des
-impôts à toute réquisition.
-
-**Nota:**
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN4 164 AD AL. 1
-  - CGIAN4 164 L A CGIAN4 164 al.
-  - Décret n°1937-11-23 ART. 22
-  - Loi n°1941-07-05 ART. 16
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-#### Chapitre II : Monopoles<a id=166></a>
-
-##### Section unique : Tabacs.<a id=167></a>
-
-###### Article 56 AA
-
-La vente au détail des tabacs manufacturés est effectuée dans les départements français continentaux par les débitants
-préposés par l'administration des impôts pour gérer un débit du monopole. Ces gérants sont tenus de se faire approvisionner
-en fonction de leurs possibilités de ventes par les fournisseurs pourvus d'un numéro d'identification et de céder tous les
-produits reçus au prix fixé par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1983-10-06
-
-_Modifié par_:
-
-  - Loi n°78-1239 du 29 décembre 1978 - art. 25 (V) JORF 30 décembre 1978
-  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 avril 1980
-
-_Cité par_:
-
-  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AP (V)
-
-
-###### Article 56 AD
-
-Chaque fournisseur est tenu de consentir à tous les débitants les crédits prévus par l'article 282 de l'annexe II au code
-général des impôts  pour lesquels ceux-ci justifient d'une caution solidaire agréée expressément à cet effet par
-l'administration des impôts. Cette caution est valable à l'égard de tous les fournisseurs d'un même débitant. La liste des
-organismes de cautionnement agréés est communiquée par l'administration à tous les fournisseurs sur leur demande.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 282
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
+##### Section unique : Tabacs.<a id=151></a>
 
 ###### Article 56 AF
 
@@ -9942,144 +10086,13 @@ par le même fournisseur au cours de l'année précédente diffère de moins de 
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 56 AI
+### Titre IV : Enregistrement, publicité foncière, timbre<a id=152></a>
 
-En cas de retrait de sa garantie à un débitant la caution agréée doit en informer  par lettre recommandée avec demande d'avis
-de réception  l'administration des impôts et tous les fournisseurs pourvus d'un numéro d'identification dont la liste lui est
-communiquée par cette administration.
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=153></a>
 
-Pour chaque fournisseur  le retrait de la garantie prend effet cinq jours francs après réception de la lettre recommandée et
-rend immédiatement exigibles les sommes dues par le gérant.
+##### Section I : Dispositions générales : des formalités<a id=154></a>
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1983-10-06
-
-_Modifié par_:
-
-  - Loi n°78-1239 du 29 décembre 1978 - art. 25 (V) JORF 30 décembre 1978
-  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 avril 1980
-
-
-###### Article 56 AJ
-
-Au plus tard le 15 de chaque mois  chaque fournisseur doit faire parvenir à l'administration des impôts un relevé relatif aux
-livraisons qu'il a effectuées au cours du mois précédent et indiquant :
-
-1o pour chaque débitant approvisionné  la valeur au prix de détail des quantités livrées;
-
-2o pour l'ensemble de ses livraisons :
-
-le total  pour chaque produit  des quantités livrées avec rappel du prix de l'unité dans laquelle ces quantités sont
-exprimées;
-
-la valeur globale de ses livraisons  au prix de détail;
-
-le complément de remise sur vente dont il est redevable  égal à la différence entre la remise totale et la partie de remise
-allouée directement aux débitants en application de l'article 56 AC ci-dessus.
-
-Ce complément est versé par chaque fournisseur à l'administration des impôts dans les dix jours qui suivent le dépôt du
-relevé
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 24 mars 2010 - art. 1 (V)
-  - Décret n°2016-1987 du 30 décembre 2016 - art. 2 (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AJ (V)
-
-_Cite_:
-
-  - CGIAN4 56 AC
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 56 AL
-
-Le document de livraison doit être revêtu de la marque du monopole par l'apposition  dans le cadre réservé à cet effet  d'une
-vignette spéciale fournie par le service des impôts.
-
-Les vignettes sont délivrées par le receveur local des impôts qui y appose au préalable le timbre du fournisseur. A cet effet
-le fournisseur remet au receveur local un timbre humide de forme ronde ayant 20 millimètres de diamètre et portant le nom ou
-la raison sociale et le numéro d'identification de l'intéressé. Les vignettes sont apposées dans l'ordre de leur numérotation
-sur les documents de livraison avant l'enlèvement des produits. Elles doivent être complétées par l'inscription en toutes
-lettres dans les cadres prévus du numéro d'ordre du document de livraison ainsi que des date et heure d'enlèvement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1983-10-06
-
-_Modifié par_:
-
-  - Loi n°78-1239 du 29 décembre 1978 - art. 25 (V) JORF 30 décembre 1978
-  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 avril 1980
-
-
-###### Article 56 AM
-
-Le document de livraison est remis au débitant. Le fournisseur est tenu d'en conserver un duplicata comportant les
-indications figurant sur la vignette dont il a été muni  y compris le numéro de cette vignette [*obligation*].
-
-Les duplicata doivent être tenus à la disposition des agents des impôts selon les modalités prévues au I de l'article L. 102
-B du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1990-09-10
-
-_Cite_:
-
-  - CGI L102 B I
-
-_Modifié par_:
-
-  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-
-###### Article 56 AN
-
-Les fournisseurs sont admis  dans les conditions définies par l'administration des impôts  à substituer aux vignettes
-apposées sur les documents de livraison des marques fiscales imprimées par des machines à timbrer  à la condition que les
-empreintes comportent les indications suivantes :
-
-les mots "Document de livraison";
-
-un cercle d'au moins deux centimètres de diamètre contenant l'effigie de la République française entourée de la mention
-"Direction générale des impôts";
-
-le numéro d'immatriculation de la machine;
-
-un numéro particulier affecté à chaque empreinte suivant l'ordre de numérotation;
-
-les date et heure d'enlèvement des produits exprimées en chiffres.
-
-L'empreinte apposée sur chaque document de livraison doit être reproduite par décalque sur le duplicata de ce document qui en
-constitue la souche.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-### Titre IV : Enregistrement, publicité foncière, timbre<a id=168></a>
-
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=169></a>
-
-##### Section I : Dispositions générales : des formalités<a id=170></a>
-
-##### 1° : Actes dispensés de la formalité de l'enregistrement<a id=171></a>
+##### 1° : Actes dispensés de la formalité de l'enregistrement<a id=155></a>
 
 ###### Article 60
 
@@ -10120,7 +10133,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 384 bis A (V)
 
 
-##### 2° : Bureaux compétents<a id=172></a>
+##### 2° : Bureaux compétents<a id=156></a>
 
 ###### Article 60 A
 
@@ -10131,11 +10144,11 @@ France.
 
 
 
-##### Section II : Obligations diverses<a id=173></a>
+##### Section II : Obligations diverses<a id=157></a>
 
-##### I : Obligations des redevables - Mutations de jouissance<a id=174></a>
+##### I : Obligations des redevables - Mutations de jouissance<a id=158></a>
 
-##### Modalités de dépôt et forme des déclarations.<a id=175></a>
+##### Modalités de dépôt et forme des déclarations.<a id=159></a>
 
 ###### Article 61
 
@@ -10255,9 +10268,9 @@ _Codifié par_:
   - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1998
 
 
-##### II : Obligations des agents de l'administration<a id=176></a>
+##### II : Obligations des agents de l'administration<a id=160></a>
 
-##### Salaires des conservateurs des hypothèques<a id=177></a>
+##### Salaires des conservateurs des hypothèques<a id=161></a>
 
 ###### Article 67
 
@@ -10284,11 +10297,11 @@ _Cite_:
   - CGI 884
 
 
-#### Chapitre II : Droits de timbre<a id=178></a>
+#### Chapitre II : Droits de timbre<a id=162></a>
 
-##### Section I : Droits de timbre proprement dits<a id=179></a>
+##### Section I : Droits de timbre proprement dits<a id=163></a>
 
-##### I : Machines à timbrer<a id=180></a>
+##### I : Machines à timbrer<a id=164></a>
 
 ###### Article 71
 
@@ -10443,9 +10456,9 @@ _Codifié par_:
   - PEREMPTION: Arrêté 1997-05-28 art. 1 JORF 1er juin 1997
 
 
-##### I bis : Timbre de dimension<a id=181></a>
+##### I bis : Timbre de dimension<a id=165></a>
 
-##### A : Pouvoirs destinés à la représentation aux assemblées générales des membres des sociétés par actions.<a id=182></a>
+##### A : Pouvoirs destinés à la représentation aux assemblées générales des membres des sociétés par actions.<a id=166></a>
 
 ###### Article 93 A
 
@@ -10554,7 +10567,7 @@ _Modifié par_:
   - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
-##### B : Bulletins de souscription d'actions<a id=183></a>
+##### B : Bulletins de souscription d'actions<a id=167></a>
 
 ###### Article 93 H bis
 
@@ -10690,7 +10703,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater (V)
 
 
-##### B ter : Autres actes (paiement sur états)<a id=184></a>
+##### B ter : Autres actes (paiement sur états)<a id=168></a>
 
 ###### Article 93 H quater C
 
@@ -10790,7 +10803,7 @@ _Modifié par_:
   - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
-##### C : Paiement par timbres mobiles<a id=185></a>
+##### C : Paiement par timbres mobiles<a id=169></a>
 
 ###### Article 93 H quinquies
 
@@ -10802,7 +10815,7 @@ première page de chaque feuille.
 
 
 
-##### D : Actes destinés à être reproduits par photocopie.<a id=186></a>
+##### D : Actes destinés à être reproduits par photocopie.<a id=170></a>
 
 ###### Article 93 I
 
@@ -10838,7 +10851,7 @@ _Codifié par_:
   - PEREMPTION: Loi n°2004-1485 2004-12-30 art. 95 Finances rectificative pour 2004 JORF 31 décembre 2004
 
 
-##### I ter : Timbre des effets de commerce négociables.<a id=187></a>
+##### I ter : Timbre des effets de commerce négociables.<a id=171></a>
 
 ###### Article 93 J
 
@@ -10928,7 +10941,7 @@ _Cite_:
   - HISTO: Edition du 15 juin 1990
 
 
-##### III : Timbre des quittances.<a id=188></a>
+##### III : Timbre des quittances.<a id=172></a>
 
 ###### Article 99
 
@@ -10988,11 +11001,11 @@ _Cite_:
   - Livre des procédures fiscales L102 B I
 
 
-##### IV : Timbre des contrats de transports<a id=189></a>
+##### IV : Timbre des contrats de transports<a id=173></a>
 
-##### A : Transports par chemins de fer<a id=190></a>
+##### A : Transports par chemins de fer<a id=174></a>
 
-##### Compagnies de chemins de fer autres que la SNCF - Bulletins de bagages.<a id=191></a>
+##### Compagnies de chemins de fer autres que la SNCF - Bulletins de bagages.<a id=175></a>
 
 ###### Article 113
 
@@ -11033,7 +11046,7 @@ _Modifié par_:
   - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
-##### B : Expéditions en groupage.<a id=192></a>
+##### B : Expéditions en groupage.<a id=176></a>
 
 ###### Article 116
 
@@ -11170,7 +11183,7 @@ _Modifié par_:
   - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
-##### C : Transports routiers de marchandises.<a id=193></a>
+##### C : Transports routiers de marchandises.<a id=177></a>
 
 ###### Article 121 A
 
@@ -11266,9 +11279,9 @@ _Codifié par_:
   - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
-##### Section II : Droits de délivrance de documents et perceptions diverses<a id=194></a>
+##### Section II : Droits de délivrance de documents et perceptions diverses<a id=178></a>
 
-##### I : Cartes d'entrée dans les casinos<a id=195></a>
+##### I : Cartes d'entrée dans les casinos<a id=179></a>
 
 ###### Article 121 B
 
@@ -11307,7 +11320,7 @@ _Cite_:
   - PEREMPTION: Loi n°2005-1720 du 30 décembre 2005 - art. 112 (V) JORF 31 décembre 2005
 
 
-##### IV : Régies de recettes des préfectures et sous-préfectures<a id=196></a>
+##### IV : Régies de recettes des préfectures et sous-préfectures<a id=180></a>
 
 ###### Article 121 KA
 
@@ -11496,7 +11509,7 @@ l'inspection des machines au relevé des compteurs et à la consultation des ban
 
 
 
-##### IV bis : Formules de chèques<a id=197></a>
+##### IV bis : Formules de chèques<a id=181></a>
 
 ###### Article 121 KL bis
 
@@ -11547,7 +11560,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L102 B (VT)
 
 
-##### V : Débite des timbres mobiles.<a id=198></a>
+##### V : Débite des timbres mobiles.<a id=182></a>
 
 ###### Article 121 KM
 
@@ -11576,9 +11589,9 @@ _Codifié par_:
   - Arrêté 1989-10-30
 
 
-#### Chapitre III : Autres droits et taxes<a id=199></a>
+#### Chapitre III : Autres droits et taxes<a id=183></a>
 
-##### Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social.<a id=200></a>
+##### Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social.<a id=184></a>
 
 ###### Article 121 K ter
 
@@ -11608,9 +11621,9 @@ _Cite_:
   - CGI 990 D
 
 
-#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=201></a>
+#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=185></a>
 
-##### Institutions à caractère social<a id=202></a>
+##### Institutions à caractère social<a id=186></a>
 
 ###### Article 121 VA
 
@@ -11634,9 +11647,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1066 (V)
 
 
-### Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre<a id=203></a>
+### Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre<a id=187></a>
 
-#### Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer<a id=204></a>
+#### Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer<a id=188></a>
 
 ###### Article 121 V bis
 
@@ -11893,7 +11906,7 @@ _Cite_:
   - CGI 1655 bis
 
 
-#### Chapitre II : Déclaration des immeubles bâtis situés dans les communes recensées<a id=205></a>
+#### Chapitre II : Déclaration des immeubles bâtis situés dans les communes recensées<a id=189></a>
 
 ###### Article 121 Z bis
 
@@ -11917,15 +11930,15 @@ _Cite_:
   - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1998
 
 
-## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=206></a>
+## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=190></a>
 
-### Titre premier : Impositions communales<a id=207></a>
+### Titre premier : Impositions communales<a id=191></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=208></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=192></a>
 
-##### Section II : Taxe professionnelle<a id=209></a>
+##### Section II : Taxe professionnelle<a id=193></a>
 
-##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire<a id=210></a>
+##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire<a id=194></a>
 
 ###### Article 121 quinquies DB bis
 
@@ -12188,7 +12201,7 @@ _Cite_:
   - CGIAN3 322 G
 
 
-##### 2° : Réduction de la valeur locative de matériels agricoles<a id=211></a>
+##### 2° : Réduction de la valeur locative de matériels agricoles<a id=195></a>
 
 ###### Article 121 quinquies DB octies
 
@@ -12227,7 +12240,7 @@ _Cite_:
   - Code de la route R138 A 1°
 
 
-##### Section III : Commission consultative départementale des évaluations foncières<a id=212></a>
+##### Section III : Commission consultative départementale des évaluations foncières<a id=196></a>
 
 ###### Article 121 quinquies DC
 
@@ -12329,9 +12342,9 @@ La commission entend les fonctionnaires ainsi que toutes les personnalités dont
 
 
 
-##### Section IV : Autres impositions<a id=213></a>
+##### Section IV : Autres impositions<a id=197></a>
 
-##### I : Redevance communale des mines<a id=214></a>
+##### I : Redevance communale des mines<a id=198></a>
 
 ###### Article 121 sexies
 
@@ -12362,13 +12375,13 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 313 (V)
 
 
-#### Chapitre II : Contributions indirectes<a id=215></a>
+#### Chapitre II : Contributions indirectes<a id=199></a>
 
-##### Section unique : Impôt sur les spectacles, jeux et divertissements<a id=216></a>
+##### Section unique : Impôt sur les spectacles, jeux et divertissements<a id=200></a>
 
-##### I : Dispositions générales<a id=217></a>
+##### I : Dispositions générales<a id=201></a>
 
-##### 1° : Déclaration d'existence<a id=218></a>
+##### 1° : Déclaration d'existence<a id=202></a>
 
 ###### Article 124
 
@@ -12390,7 +12403,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1565 (V)
 
 
-##### 2° : Classement des spectacles<a id=219></a>
+##### 2° : Classement des spectacles<a id=203></a>
 
 ###### Article 126
 
@@ -12415,7 +12428,7 @@ _Cite_:
   - Loi du 1er juillet 1901 (V)
 
 
-##### 5° : Contrôle des entrées dans les salles. Billets<a id=220></a>
+##### 5° : Contrôle des entrées dans les salles. Billets<a id=204></a>
 
 ###### Article 127
 
@@ -12475,6 +12488,80 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 129 (V)
 
 
+###### Article 129
+
+Les établissements qui en font la demande peuvent être autorisés à employer des carnets journaliers comprenant par catégorie
+de places un nombre de billets égal à celui des places susceptibles d'être occupées. 
+
+Les établissements qui emploient ce système de billets doivent préalablement fournir au service des douanes et droits
+indirects un relevé certifié présentant l'indication exacte du nombre des places disponibles. 
+
+Chaque billet destiné au spectateur doit indiquer la catégorie et le numéro de la place à laquelle il donne droit, la date
+d'emploi et le prix global payé par le spectateur. Ces indications sont reproduites à la souche et au coupon de contrôle. 
+
+La même série journalière ne peut être simultanément utilisée pour la location et pour le bureau lorsque les prix de location
+et de bureau sont différents. 
+
+Les entrées gratuites ou à tarifs réduits ne peuvent donner lieu à la délivrance de billets extraits de carnets journaliers
+affectés aux places à tarif normal. Pour ces entrées on doit utiliser des billets extraits de carnets ordinaires à série
+ininterrompue établis dans les conditions fixées à l'article 128. Il en est de même des billets de petite recette et des
+suppléments provenant de changements de places. Les billets qui dans la série journalière correspondent aux places gratuites
+ou à tarif réduit doivent être annulés et rester attachés à la souche. Après chaque représentation les carnets afférents à
+cette représentation qui doivent renfermer les billets non délivrés sont enliassés et conservés par l'établissement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
+
+_Cite_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 128 (V)
+
+
+###### Article 130
+
+Les fabricants importateurs ou marchands de tous carnets ou rouleaux de billets d'entrée dans les salles de spectacles sont
+tenus de souscrire une déclaration de profession au bureau de déclarations de la direction générale des douanes et droits
+indirects.
+
+Les fabricants importateurs ou marchands doivent en outre déclarer leurs livraisons de billets aux exploitants de
+spectacles,en précisant :
+
+1° Les noms et adresses des établissements destinataires ; 
+
+2° Le nombre des billets livrés par catégorie de places ainsi que les numéros et la couleur des billets et le prix des
+places. 
+
+Ces déclarations doivent être adressées dans les huit jours qui suivent les livraisons à la direction régionale des douanes
+et droits indirects dans le ressort de laquelle sont exploitées les salles de spectacles. Les livraisons faites à des
+exploitants de spectacles forains doivent être signalées à la direction régionale des douanes et droits indirects des
+départements où se trouve situé le domicile de ces derniers ainsi qu'à la direction régionale de ceux où s'exerce leur
+activité. 
+
+Les exploitants de spectacles qui achètent leurs billets directement à l'étranger sont considérés comme importateurs et
+astreints aux déclarations prévues au présent article. 
+
+Les billets doivent porter l'indication lisible,soit du nom du fabricant,s'ils sont fabriqués en France,soit du nom de
+l'importateur s'ils proviennent de l'étranger. 
+
+Tout défaut de déclaration ou toute fausse déclaration rend le vendeur ou l'importateur passible des droits afférents aux
+recettes représentées par les billets non déclarés. 
+
+Les exploitants de spectacles sont comptables des recettes représentées par les billets reçus.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 4, art. 10 JORF 5 janvier 1993
+
+
 ###### Article 131
 
 Pour les représentations occasionnelles, il ne peut être dérogé aux règles fixées par les articles 127,128 et 129 qu'après
@@ -12490,7 +12577,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 127 (V)
 
 
-##### 6° : Assiette et contrôle de la taxe<a id=221></a>
+##### 6° : Assiette et contrôle de la taxe<a id=205></a>
 
 ###### Article 138
 
@@ -12535,7 +12622,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 127 (V)
 
 
-##### 7° : Fermeture des établissements<a id=222></a>
+##### 7° : Fermeture des établissements<a id=206></a>
 
 ###### Article 141
 
@@ -12550,9 +12637,86 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1822 (V)
 
 
-##### II : Dispositions particulières<a id=223></a>
+##### II : Dispositions particulières<a id=207></a>
 
-##### 2° : Cercles et maisons de jeux<a id=224></a>
+##### 1° : Etablissements où il est d'usage de consommer<a id=208></a>
+
+###### Article 145
+
+Les établissements visés au deuxième alinéa de l'article 1563 du code général des impôts sont tenus de se conformer aux
+prescriptions des articles 127, 128 et 129 lorsqu'un prix spécial est établi pour l'entrée. Ils doivent en outre dans tous
+les cas qu'il y ait prix d'entrée ou non tenir un livre spécial, aux pages numérotées sur lequel ils inscrivent jour par jour
+sans blanc ni rature :
+
+a. Chacune des ventes de denrées marchandises fournitures ou objets qu'ils ont effectuées ; 
+
+b. Chacun des prix encaissés de location vestiaire programme etc. La tenue du livre spécial peut ne pas être prescrite
+lorsque la comptabilité habituelle de l'établissement permet de déterminer le chiffre des recettes dont il s'agit. 
+
+Le produit de la vente des billets d'entrée ne doit pas être confondu avec les autres recettes de l'établissement qui toutes
+sans exception et de quelque nature qu'elles soient doivent figurer sur le registre dont il est question ci-dessus. Les
+opérations au comptant pour des valeurs inférieures à 0,10 F peuvent être inscrites globalement à la fin de chaque journée.
+Le montant des opérations inscrites sur le livre est totalisé chaque jour et arrêté par décade ou par mois. 
+
+Les directeurs, entrepreneurs, propriétaires des établissements visés au premier alinéa sont tenus en outre de remettre dans
+les trois premiers jours de chaque décade ou de chaque mois, selon les indications qu'ils reçoivent à ce sujet, au service
+des douanes et droits indirects qui leur est désigné un relevé indiquant le montant total du chiffre des recettes effectuées
+pendant la décade ou le mois précédent et d'acquitter, dans les trois jours suivants, le montant de l'impôt exigible d'après
+ce relevé (1). 
+
+Le livre prescrit par le présent article ainsi que la comptabilité et les pièces justificatives des opérations effectuées par
+les établissements soumis à l'impôt doivent être conservés par l'établissement selon les modalités prévues au I de l'article
+L. 102 B du livre des procédures fiscales pour être représentés à tout vérificateur.
+
+Lorsqu'un établissement par la nature de ses opérations n'est assujetti à l'impôt sur les spectacles qu'à certaines heures de
+la journée ou pour des salles spéciales les opérations à inscrire sur le carnet visé au présent article ne concernent que
+celles pour lesquelles l'impôt sur les spectacles est dû. Il y a lieu d'opérer dans ce cas comme s'il y avait en fait deux
+établissements entièrement distincts.
+
+(1) En ce qui concerne les obligations relatives au contrôle, voir livre des procédures fiscales, art. A 85-1.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+
+_Cite_:
+
+  - CGI 1563 al. 2
+  - CGI A85-1
+  - CGI Livre des procédures fiscales, L102 B I
+  - CGIAN4 127, 128, 129
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
+##### 2° : Cercles et maisons de jeux<a id=209></a>
+
+###### Article 146
+
+Dans les cercles et maisons de jeux la déclaration visée à l'article 124 doit être souscrite selon les formes prescrites par
+le service des douanes et droits indirects. 
+
+Les signataires doivent notamment prendre le double engagement de se soumettre à toutes les mesures de contrôle prévues par
+les articles 149 à 154 et par l'article A. 26-3 du livre des procédures fiscales et de permettre aux agents du service des
+douanes et droits indirects l'accès des établissements qu'ils dirigent comme s'ils étaient membres du cercle ou clients de la
+maison de jeux.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11, art. 2 JORF 5 janvier 1993
+
+_Cite_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 124 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 149 (V)
+  - Livre des procédures fiscales - art. A26-3 (V)
+
 
 ###### Article 147
 
@@ -12590,6 +12754,171 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
+###### Article 150
+
+Dans les cercles autorisés à pratiquer les jeux de hasard tout prélèvement au profit de la cagnotte est assuré en présence
+des joueurs par un croupier ou un employé spécialement chargé d'opérer les encaissements.
+
+Ce prélèvement donne lieu à la délivrance de tickets d'égale somme détachés séance tenante et ostensiblement d'un carnet à
+souches par un préposé du cercle qui en proclame en même temps le montant à haute voix.
+
+S'il s'agit d'un prélèvement sur le montant soit des enjeux soit du bénéfice réalisé les billets sont après leur délivrance
+laissés quelques instants sur la table de jeux de manière que les joueurs puissent les contrôler. Les tickets sont déchirés
+dès que le coup est réglé et avant que le coup suivant ait été engagé.
+
+Dans le cas où au contraire ils servent à constater le paiement d'un droit dû par le joueur les tickets sont remis à celui-
+ci. Ils sont alors annotés au verso du jour et de l'heure de leur délivrance et doivent être représentés à toute réquisition.
+
+Chaque table de jeux porte un numéro d'ordre indiqué d'une façon apparente et inaltérable; elle est en outre munie d'une
+caisse ou boîte tirelire dans laquelle le croupier introduit les sommes prélevées ou les jetons représentatifs de ces sommes.
+
+Toute cagnotte est fermée par un système à trois clés différentes confiées l'une au croupier l'autre au caissier la troisième
+à un membre du comité de direction des jeux.
+
+Chaque cagnotte est ouverte autant de fois que le préposé qui la détient quitte la table de jeux momentanément ou
+définitivement.
+
+A chaque table de jeux sont affectés :
+
+Un carnet de tickets portant sur la couverture le numéro de la table et la date de la mise en service.
+
+Un carnet d'enregistrement des tickets et des cagnottes conforme au modèle prescrit par l'administration. Ce carnet est
+folioté par le service des douanes et droits indirects.
+
+Au début de la séance le caissier indique sur le carnet d'enregistrement des tickets et des cagnottes le jour la date et
+l'heure ainsi que le numéro du dernier ticket détaché.
+
+Les comptes de jeux sont tenus par table. A chaque ouverture de la cagnotte le caissier inscrit au carnet sus-indiqué les
+numéros et la valeur des tickets détachés depuis l'ouverture précédente.
+
+La somme contenue dans la cagnotte est comptée en présence des trois personnes qui en détiennent les clés. Si cette somme
+représente une valeur supérieure à celle des tickets détachés la différence est mentionnée et retenue pour l'imposition.
+
+La somme imposable est reportée en lettres avec indication de l'heure à laquelle le relevé est effectué.
+
+Chaque inscription est certifiée conforme par les signatures du croupier du caissier et du membre du comité des jeux.
+
+Les inscriptions sont totalisées en fin de journée et le total obtenu pour chaque carnet d'enregistrement des cagnottes est
+reporté à un registre récapitulatif du produit brut des jeux.
+
+Le registre récapitulatif du produit brut des jeux coté et paraphé par le service des douanes et droits indirects est
+additionné en fin de journée de façon à faire apparaître d'une part la recette totale de la journée d'autre part le montant
+total du produit brut des jeux depuis le début de l'année.
+
+Le total des recettes réalisées depuis le début de l'année est reporté chaque jour en toutes lettres et certifié exact par le
+caissier.
+
+Le 1er de chaque mois, la recette totale du mois écoulé est déclarée par le président du comité de direction des jeux ou son
+suppléant, conformément aux prescriptions de l'administration (1).
+
+(1) Ces dispositions s'appliquent pour les recettes perçues à compter du 1er février 1991.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1991-01-16 art. 4
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+
+
+###### Article 151
+
+Pendant les séances les préposés restent personnellement responsables concurremment avec le cercle tant du détachement
+régulier des tickets que de la concordance entre les sommes trouvées dans la cagnotte et la valeur des tickets détachés. 
+
+Dans le cas où sans qu'il y ait soupçon de fraude un préposé n'arriverait pas à assurer d'une manière satisfaisante cette
+concordance nécessaire le service des douanes et droits indirects mettrait le comité de direction des jeux en demeure de ne
+pas maintenir ce préposé dans son emploi. 
+
+Les carnets de tickets sont livrés par le service des douanes et droits indirects aux cercles qui les remboursent au même
+prix que ceux utilisés dans les casinos et en donnent reçu. Les carnets ne contenant que les souches sont restitués au fur et
+à mesure de leur épuisement. 
+
+En cas de perte ou de détournement le cercle serait tenu sans préjudice des sanctions prévues par les articles 1791 et 1797
+du code général des impôts de payer l'impôt correspondant à la valeur nominale des tickets non représentés. 
+
+A titre d'essai les cercles peuvent être autorisés à remplacer les carnets de tickets par un appareil enregistreur présentant
+des garanties au moins équivalentes à celles qui résultent de l'emploi des carnets. 
+
+L'autorisation dont il s'agit est toujours révocable par simple décision du directeur régional des douanes et droits
+indirects. 
+
+A partir d'une date qui sera fixée par arrêté le prélèvement opéré dans les cercles au profit de la cagnotte des jeux dits de
+cercle sera enregistré sur une machine automatique de l'un des modèles agréés par le ministre de l'intérieur et le ministre
+de l'économie et des finances. 
+
+Les modalités d'emploi de la machine enregistreuse feront l'objet d'un arrêté ultérieur.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 18 décembre 2014 - art. 1 (VD)
+  - Arrêté du 20 décembre 2007 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11, art. 5 JORF 5 janvier 1993
+
+_Cite_:
+
+  - CGI 1791, 1797
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
+###### Article 152
+
+Dans les cercles où sont pratiqués seulement les jeux de commerce et dans les maisons de jeux où la cagnotte est alimentée
+soit par un droit fixe exigé de chaque joueur avant la partie soit par une rémunération quelconque perçue à l'occasion des
+jeux un plan de la salle est affiché près de la caisse avec indication de l'emplacement des tables de jeux et du numéro
+d'ordre attribué à chacune d'elles. 
+
+Le tarif de la cagnotte dont l'affichage est prévu à l'article 149 est complété par l'indication de la durée des séances et
+du montant du droit fixe ou de la rémunération correspondante. 
+
+Le préposé chargé des encaissements est muni d'un carnet relié conforme au modèle prescrit par l'administration et destiné à
+l'enregistrement des sommes perçues par séance et par table de jeux. 
+
+Le carnet ci-dessus est folioté et paraphé par le service des douanes et droits indirects. 
+
+Au début de chaque séance le préposé chargé de la tenue du carnet d'enregistrement de la cagnotte indique sur celui-ci le
+jour la date et l'heure ainsi que son nom. 
+
+Les encaissements sont totalisés en fin de journée. La recette est inscrite en chiffres et en lettres et certifiée exacte par
+le caissier. 
+
+Le 1er de chaque mois, la recette totale du mois écoulé est déclarée par le président du comité de direction des jeux ou son
+suppléant, conformément aux prescriptions de l'administration (1). 
+
+En outre dans les cercles désignés au présent article et dans les maisons de jeux, des abonnements peuvent être consentis
+selon les conditions prévues par les articles 1700 du code général des impôts pour la généralité des établissements de
+spectacles. 
+
+(1) Ces dispositions s'appliquent pour les recettes perçues à compter du 1er février 1991.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1991-01-16 art. 4
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+
+_Cite_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 149 (V)
+  - Code général des impôts, CGI. - art. 1700 (V)
+
+
 ###### Article 153
 
 Tous les carnets et registres visés aux articles 149 à 152 sont servis sans rature ni surcharge (1). 
@@ -12608,20 +12937,38 @@ _Cite_:
   - Livre des procédures fiscales - art. A26-4 (V)
 
 
-##### Impôt sur les spectacles, jeux et divertissements<a id=225></a>
+###### Article 154
 
-##### I : Dispositions générales<a id=226></a>
+L'impôt exigible doit être acquitté auprès du service des douanes et droits indirects dans le délai maximal de deux jours à
+dater de l'établissement de la déclaration des recettes mensuelles.
 
-##### Déclaration d'existence.<a id=227></a>
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+
+**Liens**:
+
+  - TXT_ASSOCIE: Note 1993-01-11 4F-1-93
+
+
+##### Impôt sur les spectacles, jeux et divertissements<a id=210></a>
+
+##### I : Dispositions générales<a id=211></a>
+
+##### Déclaration d'existence.<a id=212></a>
 
 ###### Article 124 A
 
 La déclaration prévue à l'article 1565 du code général des impôts est souscrite, en un seul exemplaire, par les exploitants
-d'appareils automatiques, à la recette des impôts du lieu où les appareils sont mis en service.
+d'appareils automatiques, à la recette des douanes et droits indirects du lieu où les appareils sont mis en service.
 
 Les personnes qui exploitent plusieurs appareils dans une même commune peuvent être autorisées par l'administration à
-souscrire, à la recette des impôts qui leur est désignée, l'ensemble des déclarations afférentes aux appareils mis en service
-dans cette commune.
+souscrire,
+
+à la recette des douanes et droits indirects qui leur est désignée, l'ensemble des déclarations afférentes aux appareils mis
+en service dans cette commune.
 
 La déclaration comporte les indications suivantes :
 
@@ -12643,19 +12990,16 @@ La déclaration est souscrite au moins vingt-quatre heures avant la date d'insta
 Chaque appareil automatique fait l'objet d'une déclaration distincte. Cette déclaration n'est valable que pour l'année à
 laquelle elle se rapporte : elle est renouvelable entre le 1er et le 5 janvier de chaque année.
 
-Le receveur des impôts délivre, pour chaque déclaration, un récépissé qui indique le montant de la taxe exigible et qui doit
-être représenté à toute réquisition des agents intervenant dans l'établissement où l'appareil est installé. La délivrance du
-duplicata est interdite.
+Le receveur des douanes et droits indirects délivre, pour chaque déclaration, un récépissé qui indique le montant de la taxe
+exigible et qui doit être représenté à toute réquisition des agents intervenant dans l'établissement où l'appareil est
+installé. La délivrance du duplicata est interdite.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1987-03-02 art. 1 à art. 3 JORF 7 mars 1987
-
-_Codifié par_:
-
-  - Arrêté 1987-11-23
+  - Arrêté 1993-01-04 art. 14, art. 16 JORF 5 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cite_:
 
@@ -12668,8 +13012,9 @@ La déclaration prévue à l'article 1560 ter du code général des impôts est 
 extraits d'un carnet à souches.
 
 Un exemplaire de ce document est conservé par l'exploitant et le dépositaire qui doivent le présenter à toute réquisition des
-agents des impôts. Le troisième exemplaire est adressé par l'exploitant, dans les vingt-quatre heures qui suivent
-l'installation de l'appareil, au centre des impôts du lieu de souscription de ses déclarations de bénéfices.
+agents du service des douanes et droits indirects. Le troisième exemplaire est adressé par l'exploitant, dans les vingt-
+quatre heures qui suivent l'installation de l'appareil, au centre des impôts du lieu de souscription de ses déclarations de
+bénéfices.
 
 Chaque déclaration comporte les indications ci-dessous :
 
@@ -12689,18 +13034,15 @@ La nature, la marque, le type et le numéro de série de l'appareil.
 
 _Modifié par_:
 
-  - Arrêté 1987-03-02 art. 1 à art. 3 JORF 7 mars 1987
-
-_Codifié par_:
-
-  - Arrêté 1987-11-23
+  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cite_:
 
   - CGI 1560 ter
 
 
-##### Appareils automatiques.<a id=228></a>
+##### Appareils automatiques.<a id=213></a>
 
 ###### Article 126 A
 
@@ -12736,37 +13078,39 @@ qui encaissent la totalité des recettes et qui enregistrent les bénéfices ou 
 La taxe annuelle applicable aux appareils automatiques visés ci-dessus [*art. 126 A à art. 126 C*] est exigible d'avance au
 moment de la déclaration de mise en service. Quelle que soit la durée de l'exploitation elle est perçue au tarif plein pour
 les appareils mis en service au cours du premier semestre de l'année et au demi-tarif pour les appareils mis en service au
-cours du second semestre.
+cours du second semestre. 
 
-La taxe peut  avec l'accord du service des impôts  être reportée d'un appareil retiré de l'exploitation sur un nouvel
-appareil mis en service en remplacement de celui-ci.
+La taxe peut avec l'accord du service des douanes et droits indirects être reportée d'un appareil retiré de l'exploitation
+sur un nouvel appareil mis en service en remplacement de celui-ci.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 126 E
 
-Les appareils automatiques sont munis  par les soins du propriétaire  d'une plaque d'immatriculation indiquant  outre le nom
-et l'adresse du propriétaire  le numéro d'ordre attribué à chacun d'eux.
+Les appareils automatiques sont munis par les soins du propriétaire d'une plaque d'immatriculation indiquant outre le nom et
+l'adresse du propriétaire le numéro d'ordre attribué à chacun d'eux. 
 
-En outre  pour les appareils déclarés sans indication de l'établissement où ils sont exploités  chaque récépissé de
-déclaration est fixé à demeure  à un endroit accessible et protégé sur l'appareil auquel il se rapporte.
+En outre pour les appareils déclarés sans indication de l'établissement où ils sont exploités chaque récépissé de déclaration
+est fixé à demeure à un endroit accessible et protégé sur l'appareil auquel il se rapporte. 
 
-Les propriétaires d'appareils automatiques  déposés chez des tiers tiennent un répertoire dont la forme est déterminée par le
-service des impôts et qui est communiqué à la première demande des agents du contrôle.
+Les propriétaires d'appareils automatiques déposés chez des tiers tiennent un répertoire dont la forme est déterminée par le
+service des douanes et droits indirects et qui est communiqué à la première demande des agents du contrôle.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
-##### Réunions sportives.<a id=229></a>
+##### Réunions sportives.<a id=214></a>
 
 ###### Article 126 F
 
@@ -12802,82 +13146,7 @@ _Cite_:
   - CGI 1561 3° b al. 1
 
 
-##### Contrôle des entrées dans les salles - Billets.<a id=230></a>
-
-###### Article 129
-
-Les établissements qui en font la demande peuvent être autorisés à employer des carnets journaliers comprenant par catégorie
-de places un nombre de billets égal à celui des places susceptibles d'être occupées.
-
-Les établissements qui emploient ce système de billets doivent préalablement fournir au service des impôts un relevé certifié
-présentant l'indication exacte du nombre des places disponibles.
-
-Chaque billet destiné au spectateur doit indiquer la catégorie et le numéro de la place à laquelle il donne droit, la date
-d'emploi et le prix global payé par le spectateur. Ces indications sont reproduites à la souche et au coupon de contrôle.
-
-La même série journalière ne peut être simultanément utilisée pour la location et pour le bureau lorsque les prix de location
-et de bureau sont différents.
-
-Les entrées gratuites ou à tarifs réduits ne peuvent donner lieu à la délivrance de billets extraits de carnets journaliers
-affectés aux places à tarif normal. Pour ces entrées on doit utiliser des billets extraits de carnets ordinaires à série
-ininterrompue établis dans les conditions fixées à l'article 128. Il en est de même des billets de petite recette et des
-suppléments provenant de changements de places. Les billets qui dans la série journalière correspondent aux places gratuites
-ou à tarif réduit doivent être annulés et rester attachés à la souche. Après chaque représentation les carnets afférents à
-cette représentation qui doivent renfermer les billets non délivrés sont enliassés et conservés par l'établissement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN4 128
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 130
-
-Les fabricants  importateurs ou marchands de tous carnets ou rouleaux de billets d'entrée  dans les salles de spectacles
-sont tenus de souscrire une déclaration de profession au bureau de déclarations de la direction générale des impôts
-[*obligation*].
-
-Les fabricants  importateurs ou marchands doivent  en outre déclarer leurs livraisons de billets aux exploitants de
-spectacles en précisant [*mentions*] :
-
-1o Les noms et adresses des établissements destinataires;
-
-2o Le nombre des billets livrés par catégorie de places  ainsi que les numéros et la couleur des billets et le prix des
-places.
-
-Ces déclarations doivent être adressées  dans les huit jours qui suivent les livraisons  à la direction des services fiscaux
-du département où sont exploitées les salles de spectacles [*délai*]. Les livraisons faites à des exploitants de spectacles
-forains doivent être signalées dans les départements où se trouve situé le domicile de ces derniers  ainsi que dans ceux où
-s'exerce leur activité.
-
-Les exploitants de spectacles qui achètent leurs billets directement à l'étranger sont considérés comme importateurs et
-astreints aux déclarations prévues au présent article.
-
-Les billets doivent porter l'indication lisible  soit du nom du fabricant  s'ils sont fabriqués en France  soit du nom de
-l'importateur  s'ils proviennent de l'étranger.
-
-Tout défaut de déclaration ou toute fausse déclaration rend le vendeur ou l'importateur passible des droits afférents aux
-recettes représentées par les billets non déclarés.
-
-Les exploitants de spectacles sont comptables des recettes représentées par les billets reçus.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-##### Assiette et contrôle de la taxe.<a id=231></a>
+##### Assiette et contrôle de la taxe.<a id=215></a>
 
 ###### Article 137
 
@@ -12904,263 +13173,9 @@ _Modifié par_:
   - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
-##### II : Dispositions particulières<a id=232></a>
+#### Chapitre III : Enregistrement<a id=216></a>
 
-##### Établissements où il est d'usage de consommer.<a id=233></a>
-
-###### Article 145
-
-Les établissements visés à l'article 1563, deuxième alinéa  du code général des impôts sont tenus de se conformer aux
-prescriptions des articles 127, 128 et 129 lorsqu'un prix spécial est établi pour l'entrée. Ils doivent  en outre  dans tous
-les cas  qu'il y ait prix d'entrée ou non tenir un livre spécial [*obligation*] aux pages numérotées sur lequel ils
-inscrivent jour par jour sans blanc ni rature [*mentions*] :
-
-a. Chacune des ventes de denrées  marchandises  fournitures ou objets qu'ils ont effectuées;
-
-b. Chacun des prix encaissés de location  vestiaire  programme etc. La tenue du livre spécial peut ne pas être prescrite
-lorsque la comptabilité habituelle de l'établissement permet de déterminer le chiffre des recettes dont il s'agit.
-
-Le produit de la vente des billets d'entrée ne doit pas être confondu avec les autres recettes de l'établissement qui toutes
-sans exception et de quelque nature qu'elles soient  doivent figurer sur le registre dont il est question ci-dessus. Les
-opérations au comptant pour des valeurs inférieures à 0,10 F peuvent être inscrites globalement à la fin de chaque journée.
-Le montant des opérations inscrites sur le livre est totalisé chaque jour et arrêté par décade ou par mois.
-
-Les directeurs, entrepreneurs, propriétaires des établissements visés au premier alinéa sont tenus en outre de remettre dans
-les trois premiers jours de chaque décade ou de chaque mois, selon les indications qu'ils reçoivent à ce sujet, au service
-des impôts qui leur est désigné un relevé indiquant le montant total du chiffre des recettes effectuées pendant la décade ou
-le mois précédent et d'acquitter, dans les trois jours suivants, le montant de l'impôt exigible d'après ce relevé (1).
-
-Le livre prescrit par le présent article  ainsi que la comptabilité et les pièces justificatives des opérations effectuées
-par les établissements soumis à l'impôt  doivent être conservés par l'établissement selon les modalités prévues au I de
-l'article L. 102 B du livre des procédures fiscales [*obligation de conservation*] pour être représentés à tout vérificateur.
-
-Lorsqu'un établissement  par la nature de ses opérations  n'est assujetti à l'impôt sur les spectacles qu'à certaines heures
-de la journée  ou pour des salles spéciales  les opérations à inscrire sur le carnet visé au présent article ne concernent
-que celles pour lesquelles l'impôt sur les spectacles est dû. Il y a lieu d'opérer dans ce cas comme s'il y avait  en fait
-deux établissements entièrement distincts.
-
-(1) En ce qui concerne les obligations relatives au contrôle, voir livre des procédures fiscales, art. A 85-1.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1990-09-10
-
-_Cite_:
-
-  - CGI 1563 al. 2
-  - CGI A85-1
-  - CGI L102 B I
-  - CGIAN4 127
-  - CGIAN4 128
-  - CGIAN4 129
-
-_Modifié par_:
-
-  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-
-##### Cercles et maisons de jeux.<a id=234></a>
-
-###### Article 146
-
-Dans les cercles et maisons de jeux  la déclaration visée à l'article 124 doit être souscrite selon les formes prescrites par
-le service des impôts.
-
-Les signataires doivent  notamment  prendre le double engagement de se soumettre à toutes les mesures de contrôle prévues par
-les articles 149 à 154 et par l'article A 26-3 du livre des procédures fiscales et de permettre aux agents des impôts l'accès
-des établissements qu'ils dirigent comme s'ils étaient membres du cercle ou clients de la maison de jeux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1981-09-15
-
-_Cite_:
-
-  - CGI 149 à CGI 154
-  - CGI A26-3
-  - CGIAN4 124
-
-
-###### Article 150
-
-Dans les cercles autorisés à pratiquer les jeux de hasard  tout prélèvement au profit de la cagnotte est assuré  en présence
-des joueurs  par un croupier ou un employé spécialement chargé d'opérer les encaissements.
-
-Ce prélèvement donne lieu à la délivrance de tickets d'égale somme détachés séance tenante et ostensiblement d'un carnet à
-souches par un préposé du cercle qui en proclame en même temps le montant à haute voix.
-
-S'il s'agit d'un prélèvement sur le montant soit des enjeux  soit du bénéfice réalisé  les billets sont  après leur
-délivrance  laissés quelques instants sur la table de jeux de manière que les joueurs puissent les contrôler. Les tickets
-sont déchirés dès que le coup est réglé et avant que le coup suivant ait été engagé.
-
-Dans le cas où  au contraire  ils servent à constater le paiement d'un droit dû par le joueur  les tickets sont remis à
-celui-ci. Ils sont alors annotés au verso du jour et de l'heure de leur délivrance et doivent être représentés à toute
-réquisition.
-
-Chaque table de jeux porte un numéro d'ordre indiqué d'une façon apparente et inaltérable; elle est en outre munie d'une
-caisse ou boîte tirelire dans laquelle le croupier introduit les sommes prélevées ou les jetons représentatifs de ces sommes.
-
-Toute cagnotte est fermée par un système à trois clés différentes confiées l'une au croupier  l'autre au caissier  la
-troisième à un membre du comité de direction des jeux.
-
-Chaque cagnotte est ouverte autant de fois que le préposé qui la détient quitte la table de jeux momentanément ou
-définitivement.
-
-A chaque table de jeux sont affectés :
-
-Un carnet de tickets portant sur la couverture le numéro de la table et la date de la mise en service.
-
-Un carnet d'enregistrement des tickets et des cagnottes conforme au modèle prescrit par l'administration. Ce carnet est
-folioté par le service des impôts.
-
-Au début de la séance le caissier indique sur le carnet d'enregistrement des tickets et des cagnottes le jour  la date et
-l'heure  ainsi que le numéro du dernier ticket détaché.
-
-Les comptes de jeux sont tenus par table. A chaque ouverture de la cagnotte  le caissier inscrit au carnet sus-indiqué les
-numéros et la valeur des tickets détachés depuis l'ouverture précédente.
-
-La somme contenue dans la cagnotte est comptée en présence des trois personnes qui en détiennent les clés. Si cette somme
-représente une valeur supérieure à celle des tickets détachés  la différence est mentionnée et retenue pour l'imposition.
-
-La somme imposable est reportée en lettres avec indication de l'heure à laquelle le relevé est effectué.
-
-Chaque inscription est certifiée conforme par les signatures du croupier  du caissier et du membre du comité des jeux.
-
-Les inscriptions sont totalisées en fin de journée et le total obtenu pour chaque carnet d'enregistrement des cagnottes est
-reporté à un registre récapitulatif du produit brut des jeux.
-
-Le registre récapitulatif du produit brut des jeux  coté et paraphé par le service des impôts  est additionné en fin de
-journée de façon à faire apparaître  d'une part la recette totale de la journée  d'autre part le montant total du produit
-brut des jeux depuis le début de l'année.
-
-Le total des recettes réalisées depuis le début de l'année est reporté chaque jour en toutes lettres et certifié exact par le
-caissier.
-
-Le 1er de chaque mois, la recette totale du mois écoulé est déclarée par le président du comité de direction des jeux ou son
-suppléant, conformément aux prescriptions de l'administration (1).
-
-(1) Ces dispositions s'appliquent pour les recettes perçues à compter du 1er février 1991.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1991-01-16 art. 1 JORF 19 janvier 1990
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1991-01-16 art. 4
-
-
-###### Article 151
-
-Pendant les séances  les préposés restent personnellement responsables concurremment avec le cercle  tant du détachement
-régulier des tickets que de la concordance entre les sommes trouvées dans la cagnotte et la valeur des tickets détachés.
-
-Dans le cas où  sans qu'il y ait soupçon de fraude  un préposé n'arriverait pas à assurer d'une manière satisfaisante cette
-concordance nécessaire  le service des impôts mettrait le comité de direction des jeux en demeure de ne pas maintenir ce
-préposé dans son emploi.
-
-Les carnets de tickets sont livrés par le service des impôts aux cercles qui les remboursent au même prix que ceux utilisés
-dans les casinos et en donnent reçu. Les carnets ne contenant que les souches sont restitués au fur et à mesure de leur
-épuisement.
-
-En cas de perte ou de détournement  le cercle serait tenu  sans préjudice des sanctions prévues par les articles 1791 et 1797
-du code général des impôts  de payer l'impôt correspondant à la valeur nominale des tickets non représentés.
-
-A titre d'essai  les cercles peuvent être autorisés à remplacer les carnets de tickets par un appareil enregistreur
-présentant des garanties au moins équivalentes à celles qui résultent de l'emploi des carnets.
-
-L'autorisation dont il s'agit est toujours révocable par simple décision du directeur des services fiscaux.
-
-A partir d'une date qui sera fixée par arrêté  le prélèvement opéré dans les cercles  au profit de la cagnotte des jeux dits
-de cercle  sera enregistré sur une machine automatique de l'un des modèles agréés par le ministre de l'intérieur et le
-ministre de l'économie et des finances.
-
-Les modalités d'emploi de la machine enregistreuse feront l'objet d'un arrêté ultérieur.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 20 décembre 2007 (V)
-  - Arrêté du 18 décembre 2014 - art. 1 (VD)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
-
-_Cite_:
-
-  - CGI 1791
-  - CGI 1797
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 152
-
-Dans les cercles où sont pratiqués seulement les jeux de commerce et dans les maisons de jeux où la cagnotte est alimentée
-soit par un droit fixe exigé de chaque joueur avant la partie  soit par une rémunération quelconque perçue à l'occasion des
-jeux  un plan de la salle est affiché près de la caisse  avec indication de l'emplacement des tables de jeux et du numéro
-d'ordre attribué à chacune d'elles.
-
-Le tarif de la cagnotte dont l'affichage est prévu à l'article 149 est complété par l'indication de la durée des séances et
-du montant du droit fixe ou de la rémunération correspondante.
-
-Le préposé chargé des encaissements est muni d'un carnet relié conforme au modèle prescrit par l'administration et destiné à
-l'enregistrement des sommes perçues par séance et par table de jeux.
-
-Le carnet ci-dessus est folioté et paraphé par le service des impôts.
-
-Au début de chaque séance  le préposé chargé de la tenue du carnet d'enregistrement de la cagnotte indique sur celui-ci le
-jour  la date et l'heure ainsi que son nom.
-
-Les encaissements sont totalisés en fin de journée. La recette est inscrite en chiffres et en lettres et certifiée exacte par
-le caissier.
-
-Le 1er de chaque mois, la recette totale du mois écoulé est déclarée par le président du comité de direction des jeux ou son
-suppléant, conformément aux prescriptions de l'administration (1).
-
-En outre  dans les cercles désignés au présent article et dans les maisons de jeux  des abonnements peuvent être consentis
-selon les conditions prévues par les articles 1700 du code général des impôts pour la généralité des établissements de
-spectacles.
-
-(1) Ces dispositions s'appliquent pour les recettes perçues à compter du 1er février 1991.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1991-01-16 art. 1, art. 4 JORF 19 janvier 1990
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1991-01-16 art. 4
-
-_Cite_:
-
-  - CGIAN4 149
-
-
-###### Article 154
-
-L'impôt exigible doit être acquitté [*paiement*] auprès du service des impôts dans le délai maximal de deux jours à dater de
-l'établissement de la déclaration des recettes mensuelles.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1991-01-16 art. 3, art. 4 JORF 19 janvier 1990
-
-
-#### Chapitre III : Enregistrement<a id=235></a>
-
-##### Section unique : Taxe locale d'équipement<a id=236></a>
+##### Section unique : Taxe locale d'équipement<a id=217></a>
 
 ###### Article 155 A
 
@@ -13228,9 +13243,9 @@ l'article 328 D quater de l'annexe III au présent code.
 
 
 
-### Titre I bis : Impositions départementales<a id=237></a>
+### Titre I bis : Impositions départementales<a id=218></a>
 
-#### Chapitre premier : Taxe sur les véhicules à moteur.<a id=238></a>
+#### Chapitre premier : Taxe sur les véhicules à moteur.<a id=219></a>
 
 ###### Article 155 E
 
@@ -13547,7 +13562,7 @@ _Cite_:
   - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 
-#### Chapitre premier : Taxes sur les véhicules à moteur.<a id=239></a>
+#### Chapitre premier : Taxes sur les véhicules à moteur.<a id=220></a>
 
 ###### Article 155 C
 
@@ -13674,9 +13689,9 @@ _Codifié par_:
   - HISTO: Edition du 20 juillet 1984
 
 
-#### Chapitre II : Droits d'enregistrement et taxe de publicité foncière<a id=240></a>
+#### Chapitre II : Droits d'enregistrement et taxe de publicité foncière<a id=221></a>
 
-##### Réduction accordée dans le cadre de l'aménagement du territoire<a id=241></a>
+##### Réduction accordée dans le cadre de l'aménagement du territoire<a id=222></a>
 
 ###### Article 155 N
 
@@ -13700,7 +13715,7 @@ _Cite_:
   - HISTO: Edition du 15 juin 1990
 
 
-### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse.<a id=242></a>
+### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse.<a id=223></a>
 
 ###### Article 155 bis
 
@@ -13732,11 +13747,11 @@ _Créé par_:
   - Loi n°91-428 du 13 mai 1991 - art. 89 (Ab) JORF 14 mai 1991
 
 
-### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=243></a>
+### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=224></a>
 
-#### Chapitre premier : Droits d'enregistrement<a id=244></a>
+#### Chapitre premier : Droits d'enregistrement<a id=225></a>
 
-##### 1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France<a id=245></a>
+##### 1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France<a id=226></a>
 
 ###### Article 155 ter
 
@@ -13927,7 +13942,7 @@ _Anciens textes_:
   - CGIAN4 159 sexies A
 
 
-##### 2° : Taxe sur les certificats d'immatriculation des véhicules.<a id=246></a>
+##### 2° : Taxe sur les certificats d'immatriculation des véhicules.<a id=227></a>
 
 ###### Article 155 quater
 
@@ -13953,11 +13968,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1599 sexdecies (V)
 
 
-#### Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=247></a>
+#### Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=228></a>
 
-##### Section II : Budget annexe des prestations sociales agricoles<a id=248></a>
+##### Section II : Budget annexe des prestations sociales agricoles<a id=229></a>
 
-##### III : Huiles.<a id=249></a>
+##### III : Huiles.<a id=230></a>
 
 ###### Article 159 ter A
 
@@ -13978,9 +13993,9 @@ _Cite_:
   - CGI 1618 quinquies
 
 
-##### Section IV : Fonds national du livre<a id=250></a>
+##### Section IV : Fonds national du livre<a id=231></a>
 
-##### I : Redevance sur l'édition des ouvrages de librairie.<a id=251></a>
+##### I : Redevance sur l'édition des ouvrages de librairie.<a id=232></a>
 
 ###### Article 159 AA
 
@@ -13999,7 +14014,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### II : Redevance sur l'emploi de la reprographie.<a id=252></a>
+##### II : Redevance sur l'emploi de la reprographie.<a id=233></a>
 
 ###### Article 159 AD
 
@@ -14037,7 +14052,7 @@ _Modifié par_:
   - Règlement CEE n°2658/87 1987-07-23 (conseil)
 
 
-##### Section VII bis : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.<a id=253></a>
+##### Section VII bis : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.<a id=234></a>
 
 ###### Article 159 AL bis
 
@@ -14066,7 +14081,7 @@ _Cite_:
   - HISTO: Edition du 4 juillet 1992
 
 
-##### Section VII quater : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.<a id=254></a>
+##### Section VII quater : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.<a id=235></a>
 
 ###### Article 159 AL quater
 
@@ -14093,7 +14108,7 @@ _Cite_:
   - CGIAN2 363 A
 
 
-##### Section VII quater A : Taxe parafiscale sur certaines viandes.<a id=255></a>
+##### Section VII quater A : Taxe parafiscale sur certaines viandes.<a id=236></a>
 
 ###### Article 159 AL quater-0 A
 
@@ -14129,7 +14144,7 @@ _Anciens textes_:
   - CGIAN4 159 AO
 
 
-##### Section VII quinquies : Taxe parafiscale des industries textiles.<a id=256></a>
+##### Section VII quinquies : Taxe parafiscale des industries textiles.<a id=237></a>
 
 ###### Article 159 AL quater A
 
@@ -14151,7 +14166,7 @@ _Cite_:
   - CGIAN2 357 A
 
 
-##### Section IX : Taxe parafiscale des industries de l'habillement et de la maille.<a id=257></a>
+##### Section IX : Taxe parafiscale des industries de l'habillement et de la maille.<a id=238></a>
 
 ###### Article 159 AL sexies
 
@@ -14173,7 +14188,7 @@ _Cite_:
   - CGIAN2 363 N
 
 
-##### Section X : Taxe parafiscale perçue au profit du fonds de soutien à l'expression radiophonique.<a id=258></a>
+##### Section X : Taxe parafiscale perçue au profit du fonds de soutien à l'expression radiophonique.<a id=239></a>
 
 ###### Article 159 AL septies
 
@@ -14282,9 +14297,9 @@ _Cite_:
   - CGIAN2 365
 
 
-#### Chapitre II bis : Contributions indirectes<a id=259></a>
+#### Chapitre II bis : Contributions indirectes<a id=240></a>
 
-##### Section I : Comité des fruits à cidre et des productions cidricoles.<a id=260></a>
+##### Section I : Comité des fruits à cidre et des productions cidricoles.<a id=241></a>
 
 ###### Article 159 AM
 
@@ -14326,7 +14341,7 @@ _Cite_:
   - HISTO: du
 
 
-##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.<a id=261></a>
+##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.<a id=242></a>
 
 ###### Article 159 AM bis
 
@@ -14348,7 +14363,7 @@ _Cite_:
   - HISTO: Edition du 31 juillet 1986
 
 
-##### Section II : Taxe parafiscale au profit du bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré<a id=262></a>
+##### Section II : Taxe parafiscale au profit du bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré<a id=243></a>
 
 ###### Article 159 AN
 
@@ -14377,7 +14392,7 @@ _Cite_:
   - CGIAN2 364
 
 
-##### Section IV : Taxe parafiscale sur les vins.<a id=263></a>
+##### Section IV : Taxe parafiscale sur les vins.<a id=244></a>
 
 ###### Article 159 AP
 
@@ -14402,7 +14417,7 @@ _Cite_:
   - CGIAN2 363 E
 
 
-#### Section VI : Taxe parafiscale sur les graines oléagineuses.<a id=264></a>
+#### Section VI : Taxe parafiscale sur les graines oléagineuses.<a id=245></a>
 
 ###### Article 159 AR
 
@@ -14432,9 +14447,9 @@ _Cite_:
   - CGIAN2 363 F
 
 
-#### Chapitre III : Enregistrement<a id=265></a>
+#### Chapitre III : Enregistrement<a id=246></a>
 
-##### Section I : Fonds national de garantie des calamités agricoles.<a id=266></a>
+##### Section I : Fonds national de garantie des calamités agricoles.<a id=247></a>
 
 ###### Article 159 quater
 
@@ -14470,9 +14485,9 @@ _Cite_:
   - HISTO: Edition du 15 juillet 1988
 
 
-##### Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole<a id=267></a>
+##### Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole<a id=248></a>
 
-##### Contribution des employeurs assurés.<a id=268></a>
+##### Contribution des employeurs assurés.<a id=249></a>
 
 ###### Article 159 quater A
 
@@ -14507,7 +14522,7 @@ _Cite_:
   - PEREMPTION: Loi - art. 68 () JORF 29 décembre 2001
 
 
-##### Section II : Fonds de garantie des assurances obligatoires de dommages<a id=269></a>
+##### Section II : Fonds de garantie des assurances obligatoires de dommages<a id=250></a>
 
 ###### Article 159 quinquies
 
@@ -14590,7 +14605,7 @@ _Cite_:
   - HISTO: Edition du 27 octobre 1995
 
 
-##### Section II bis : Fonds de garantie des victimes des actes de terrorisme et d'autres infractions<a id=270></a>
+##### Section II bis : Fonds de garantie des victimes des actes de terrorisme et d'autres infractions<a id=251></a>
 
 ###### Article 159 quinquies A
 
@@ -14619,7 +14634,7 @@ _Cite_:
   - Code des assurances R321-1
 
 
-##### Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.<a id=271></a>
+##### Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.<a id=252></a>
 
 ###### Article 159 septies
 
@@ -14668,18 +14683,27 @@ _Cite_:
   - CGIAN2 341
 
 
-### Titre III : Dispositions communes<a id=272></a>
+### Titre III : Dispositions communes<a id=253></a>
 
-#### Frais d'assiette et de perception<a id=273></a>
+#### Frais d'assiette et de perception<a id=254></a>
 
-##### Section II : Contributions indirectes.<a id=274></a>
+##### Section II : Contributions indirectes.<a id=255></a>
 
 ###### Article 162
 
-Le produit brut de la licence des débitants de boissons perçue par le service des impôts pour le compte des communes  en
-application de l'article 1568 du code général des impôts  est versé mensuellement aux collectivités bénéficiaires.
+Le produit brut de la licence des débitants de boissons perçue par le service des douanes et droits indirects pour le compte
+des communes en application de l'article 1568 du code général des impôts est versé mensuellement aux collectivités
+bénéficiaires.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+
+_Codifié par_:
+
+  - Arrêté 2003-03-31
 
 _Cite_:
 
@@ -14687,7 +14711,9 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 1er janvier 2003
+  - PEREMPTION: Loi - art. 27 (V) JORF 31 décembre 2002
 
 
 ###### Article 163
@@ -14712,10 +14738,18 @@ _Cite_:
 
 ###### Article 164
 
-Les frais d'assiette et de perception établis au profit du service des impôts  sur les bases indiquées à l'article 162, sont
-payés en une seule fois pour l'année entière dès le début de l'année suivante.
+Les frais d'assiette et de perception établis au profit du service des douanes et droits indirects sur les bases indiquées à
+l'article 162, sont payés en une seule fois pour l'année entière dès le début de l'année suivante.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
+
+_Codifié par_:
+
+  - Arrêté 2003-03-31
 
 _Cite_:
 
@@ -14723,16 +14757,18 @@ _Cite_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 1er janvier 2003
+  - PEREMPTION: Loi - art. 27 (V) JORF 31 décembre 2002
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=275></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=256></a>
 
-### Titre premier : Assiette et contrôle de l'impôt<a id=276></a>
+### Titre premier : Assiette et contrôle de l'impôt<a id=257></a>
 
-#### Chapitre premier : Obligations déclaratives<a id=277></a>
+#### Chapitre premier : Obligations déclaratives<a id=258></a>
 
-##### I : Déclaration des comptes financiers<a id=278></a>
+##### I : Déclaration des comptes financiers<a id=259></a>
 
 ###### Article 164 FB
 
@@ -14874,7 +14910,7 @@ _Cite_:
   - CGI 164 FB à 164 FE
 
 
-#### Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs<a id=279></a>
+#### Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs<a id=260></a>
 
 ###### Article 164 F novodecies A
 
@@ -14980,9 +15016,9 @@ _Cite_:
   - CGIAN3 344 I bis
 
 
-#### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=280></a>
+#### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=261></a>
 
-##### Section I : Centres de gestion agréés<a id=281></a>
+##### Section I : Centres de gestion agréés<a id=262></a>
 
 ###### Article 164 F unvicies
 
@@ -15052,7 +15088,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 C (V)
 
 
-##### Tenue des documents comptables de certains adhérents<a id=282></a>
+##### Tenue des documents comptables de certains adhérents<a id=263></a>
 
 ###### Article 164 F unvicies A
 
@@ -15225,7 +15261,7 @@ _Codifié par_:
   - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 
-##### Section II : Associations agréées des professions libérales<a id=283></a>
+##### Section II : Associations agréées des professions libérales<a id=264></a>
 
 ###### Article 164 F duovicies
 
@@ -15373,9 +15409,9 @@ _Cite_:
   - DISJOINT: Arrêté du 7 avril 2009 - art. 1 (V)
 
 
-#### Chapitre III : Réglementation des machines à timbrer<a id=284></a>
+#### Chapitre III : Réglementation des machines à timbrer<a id=265></a>
 
-##### I : Définitions<a id=285></a>
+##### I : Définitions<a id=266></a>
 
 ###### Article 164 L
 
@@ -15409,9 +15445,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 73 (V)
 
 
-##### II : Dispositions communes<a id=286></a>
+##### II : Dispositions communes<a id=267></a>
 
-##### A : Caractéristiques générales des machines<a id=287></a>
+##### A : Caractéristiques générales des machines<a id=268></a>
 
 ###### Article 164 M
 
@@ -15483,7 +15519,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### B : Agrément des machines<a id=288></a>
+##### B : Agrément des machines<a id=269></a>
 
 ###### Article 164 P
 
@@ -15532,7 +15568,7 @@ des télécommunications (groupement de mécanisation postale). Ce dépôt ne do
 
 
 
-##### C : Autorisation de placer les machines chez les usagers<a id=289></a>
+##### C : Autorisation de placer les machines chez les usagers<a id=270></a>
 
 ###### Article 164 T
 
@@ -15593,7 +15629,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### D : Obligations des concessionnaires<a id=290></a>
+##### D : Obligations des concessionnaires<a id=271></a>
 
 ###### Article 164 AA
 
@@ -15709,7 +15745,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### E : Obligations des usagers<a id=291></a>
+##### E : Obligations des usagers<a id=272></a>
 
 ###### Article 164 AD
 
@@ -15785,7 +15821,7 @@ l'absence d'un représentant du concessionnaire  la présence de l'utilisateur �
   - HISTO: EDITION 1979-07-01
 
 
-##### F : Responsabilités attachées à l'utilisation des machines<a id=292></a>
+##### F : Responsabilités attachées à l'utilisation des machines<a id=273></a>
 
 ###### Article 164 AH
 
@@ -15841,7 +15877,7 @@ des machines louées par les concessionnaires.
   - HISTO: EDITION 1979-07-01
 
 
-##### G : Révocation des autorisations de placer et d'utiliser les machines<a id=293></a>
+##### G : Révocation des autorisations de placer et d'utiliser les machines<a id=274></a>
 
 ###### Article 164 AL
 
@@ -15864,9 +15900,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 54 A (V)
 
 
-### Titre II : Dispositions diverses<a id=294></a>
+### Titre II : Dispositions diverses<a id=275></a>
 
-#### Section I : Impôts directs et taxes assimilées<a id=295></a>
+#### Section I : Impôts directs et taxes assimilées<a id=276></a>
 
 ###### Article 165
 
@@ -15991,7 +16027,7 @@ _Cite_:
   - CGIAN4 166 1
 
 
-#### Section III : Enregistrement, publicité foncière et timbre<a id=296></a>
+#### Section III : Enregistrement, publicité foncière et timbre<a id=277></a>
 
 ###### Article 169
 
@@ -16076,9 +16112,9 @@ _Modifié par_:
   - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
 
 
-#### Section IV : Dispositions communes<a id=297></a>
+#### Section IV : Dispositions communes<a id=278></a>
 
-##### Octroi de certains agréments fiscaux<a id=298></a>
+##### Octroi de certains agréments fiscaux<a id=279></a>
 
 ###### Article 170 octies
 
@@ -16311,15 +16347,15 @@ _Cite_:
   - HISTO: Edition du 4 juillet 1992
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=299></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=280></a>
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=300></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=281></a>
 
-### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES<a id=301></a>
+### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES<a id=282></a>
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=302></a>
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=283></a>
 
-##### AUTRES IMPOSITIONS.<a id=303></a>
+##### AUTRES IMPOSITIONS.<a id=284></a>
 
 ###### Article 121 quinquies E
 
@@ -16336,13 +16372,13 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-# Livre II : Recouvrement de l'impôt<a id=304></a>
+# Livre II : Recouvrement de l'impôt<a id=285></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=305></a>
+## Chapitre premier : Paiement de l'impôt<a id=286></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=306></a>
+### Section I : Impôts directs et taxes assimilées<a id=287></a>
 
-#### 3 : Paiement de l'impôt<a id=307></a>
+#### 3 : Paiement de l'impôt<a id=288></a>
 
 ###### Article 187
 
@@ -16372,7 +16408,7 @@ _Abrogé par_:
   - Décret n°2015-1136 du 14 septembre 2015 - art. 4
 
 
-### Section I bis : Intérêts des bons de caisse<a id=308></a>
+### Section I bis : Intérêts des bons de caisse<a id=289></a>
 
 ###### Article 188 B
 
@@ -16455,7 +16491,7 @@ intérêt.
 
 
 
-### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=309></a>
+### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=290></a>
 
 ###### Article 188 H
 
@@ -16494,7 +16530,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 I (VD)
 
 
-### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=310></a>
+### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=291></a>
 
 ###### Article 188 I
 
@@ -16527,7 +16563,7 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=311></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=292></a>
 
 ###### Article 189
 
@@ -16592,7 +16628,7 @@ _Cite_:
   - CGIAN4 194
 
 
-### Section III : Contributions indirectes<a id=312></a>
+### Section III : Contributions indirectes<a id=293></a>
 
 ###### Article 193
 
@@ -16629,9 +16665,9 @@ _Modifié par_:
   - Arrêté 1981-10-30 art. 1 JORF 31 octobre 1981
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=313></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=294></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=314></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=295></a>
 
 ###### Article 196 A
 
@@ -16647,7 +16683,7 @@ _Modifié par_:
   - Arrêté 1991-10-28 art. 2, art. 3 JORF 29 octobre 1991
 
 
-#### 2 : Paiement en valeurs du Trésor.<a id=315></a>
+#### 2 : Paiement en valeurs du Trésor.<a id=296></a>
 
 ###### Article 198 bis
 
@@ -16761,7 +16797,7 @@ _Cite_:
   - Loi n°50-135 1950-01-31 ART. 41, ART. 42
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=316></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=297></a>
 
 ###### Article 198 quinquies
 
@@ -16772,7 +16808,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=317></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=298></a>
 
 ###### Article 198 sexies
 
@@ -16787,7 +16823,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=318></a>
+#### 6 : Recouvrement du produit des concessions et locations diverses intéressant les bois et forêts.<a id=299></a>
 
 ###### Article 198 septies
 
@@ -16807,7 +16843,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=319></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=300></a>
 
 ###### Article 198 octies
 
@@ -16828,9 +16864,9 @@ _Modifié par_:
   - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
 
 
-### Section V : Dispositions communes<a id=320></a>
+### Section V : Dispositions communes<a id=301></a>
 
-#### 2° : Paiement par chèques<a id=321></a>
+#### 2° : Paiement par chèques<a id=302></a>
 
 ###### Article 199
 
@@ -16888,9 +16924,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-### Chapitre I bis A : Sûretés et privilèges<a id=322></a>
+### Chapitre I bis A : Sûretés et privilèges<a id=303></a>
 
-#### Publicité du privilège du Trésor.<a id=323></a>
+#### Publicité du privilège du Trésor.<a id=304></a>
 
 ###### Article 207 quinquies
 
@@ -16916,9 +16952,9 @@ _Cite_:
   - PEREMPTION: Loi n°94-475 du 10 juin 1994 - art. 1
 
 
-## Chapitre I bis : Pénalités<a id=324></a>
+## Chapitre I bis : Pénalités<a id=305></a>
 
-### I : Impôts directs et taxes assimilées<a id=325></a>
+### I : Impôts directs et taxes assimilées<a id=306></a>
 
 ###### Article 207 quater A
 
@@ -16927,7 +16963,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=326></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=307></a>
 
 ###### Article 207 quater A bis
 
@@ -16953,9 +16989,9 @@ _Cite_:
   - HISTO: Edition du 10 juillet 1983
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=327></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=308></a>
 
-### Publicité du privilège du Trésor<a id=328></a>
+### Publicité du privilège du Trésor<a id=309></a>
 
 ###### Article 207 sexies
 
