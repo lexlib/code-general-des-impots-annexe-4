@@ -8,7 +8,7 @@ ou son représentant;
 2° Deux fonctionnaires de la direction générale des impôts ayant au moins le grade d'inspecteur principal;
 
 3° Deux représentants des collectivités locales ou de leurs groupements (communautés urbaines ou districts) désignés par le
-préfet;
+commissaire de la république;
 
 4° Des membres titulaires et des membres suppléants représentants des contribuables concernés par l'actualisation  savoir :
 
@@ -42,10 +42,14 @@ Le secrétariat de la commission est assuré par un inspecteur des impôts.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Arrêté 1985-09-24
+
+_Modifié par_:
+
+  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
+
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DE (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01

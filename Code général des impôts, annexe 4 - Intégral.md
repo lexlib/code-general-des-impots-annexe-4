@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-04-24
+Version Consolidée au 1982-05-11
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 169)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -111,7 +111,7 @@ Version Consolidée au 1982-04-24
           - [Section I : Alcools (art. 50 A à 51 octies A)](#108)
             - [I : Production (art. 50 A à 51 octies A)](#109)
               - [A : Alambics. (art. 50 A à 50 E)](#110)
-              - [B : Rachat des alambics par l'État. (art. 51 B)](#111)
+              - [B : Rachat des alambics par l'État. (art. 51 B à 51 F)](#111)
               - [C : Dispositions générales - Conditions d'exercice de la profession de distillateur. (art. 51 bis)](#112)
               - [D : Règlement des distilleries (art. 51 septies A à 51 octies A)](#113)
                 - [Régime général. (art. 51 septies A à 51 septies J)](#114)
@@ -257,7 +257,7 @@ Version Consolidée au 1982-04-24
         - [RECEPISSE DE CONSIGNATION. (art. 50 quindecies)](#254)
       - [CONTRIBUTIONS INDIRECTES (art. 54 decies à 54 K)](#255)
         - [BOISSONS (art. 54 decies à 54 K)](#256)
-          - [ALCOOLS (art. 51 C à 53)](#257)
+          - [ALCOOLS (art. 51 quater à 53)](#257)
           - [CIRCULATION. (art. 54 A à 54 K)](#258)
       - [MONOPOLES FISCAUX (art. 56 AQ)](#259)
         - [TABACS. (art. 56 AQ)](#260)
@@ -4976,6 +4976,25 @@ recommandée avec demande d'avis de réception.
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 51 F
+
+Après instruction, au cours de laquelle le requérant peut être entendu, le directeur des services fiscaux statue sur la
+demande.
+
+Sa décision est notifiée à l'intéressé au plus tard dans les quatre mois suivant la réception de la demande [*délai de
+notification*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1985-09-24
+
+_Modifié par_:
+
+  - Décret n°82-389 1982-05-10 art. 28 JORF 11 mai 1982
 
 
 ##### C : Dispositions générales - Conditions d'exercice de la profession de distillateur.<a id=112></a>
@@ -11141,108 +11160,23 @@ _Cite_:
 
 ##### ALCOOLS<a id=257></a>
 
-###### Article 51 C
-
-Après instruction  au cours de laquelle le requérant peut être entendu  la direction des services fiscaux intéressée soumet
-la demande  avec ses observations  à la commission départementale prévue à l'article 51 D.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1985-09-24
-
-_Cite_:
-
-  - CGIAN4 51 D
-
-**Liens**:
-
-  - PEREMPTION: Décret n°82-389 1982-05-10 art. 28 JORF 11 mai 1982 : les articles 51 C à 51 E deviennent sans objet
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 D
-
-Il est institué dans chaque département une commission  dont la composition est fixée comme suit :
-
-Le directeur des services fiscaux ou son représentant  président;
-
-Le chef de l'arrondissement minéralogique ou son représentant;
-
-Le directeur départemental des prix et des enquêtes économiques ou son représentant.
-
-La commission peut solliciter l'audition d'experts. Elle peut demander au requérant de lui fournir tous documents utiles à
-l'exécution de sa mission. Celui-ci peut être entendu soit sur sa demande  soit sur celle de la commission.
-
-(Les articles 51 C à 51 E deviennent sans objet).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1985-09-24
-
-**Liens**:
-
-  - PEREMPTION: Décret n°82-389 1982-05-10 art. 28 JORF 11 mai 1982
-
-
-###### Article 51 E
-
-La commission prévue à l'article 51 D émet un avis  pour chaque dossier qui lui est soumis :
-
-1o Sur le principe du rachat par l'Etat du ou des appareils proposés par le requérant;
-
-2o Si ce principe est admis  sur le prix auquel il convient de fixer ledit rachat.
-
-A cet égard  elle tient compte  d'une part  de l'âge des  appareils, de leur état de marche et du prix des appareils neufs de
-même type ou présentant des caractéristiques similaires et d'autre part de la valeur de récupération des matières dont sont
-composés les organes principaux des appareils.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1985-09-24
-
-_Cite_:
-
-  - CGIAN4 51 D
-
-**Liens**:
-
-  - PEREMPTION: Décret n°82-389 1982-05-10 art. 28 JORF 11 mai 1982 : les articles 51 C à 51 E deviennent sans objet
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 F
-
-Le directeur des services fiscaux statue sur chaque demande au vu de l'avis émis par la commission.
-
-Sa décision est notifiée à l'intéressé au plus tard dans les quatre mois suivant la réception de la demande [*délai de
-notification*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 51 quater
 
 Le directeur des services fiscaux examine les demandes qui lui sont présentées.
 
 Il prononce une décision de rejet si les garanties offertes par le requérant ne lui paraissent pas suffisantes.
 
-Dans le cas contraire  il propose au préfet l'octroi de l'autorisation demandée.
+Dans le cas contraire  il propose au commissaire de la République l'octroi de l'autorisation demandée.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Arrêté 1987-11-23
+
+_Modifié par_:
+
+  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
 
 
 ###### Article 51 quinquies
@@ -13009,7 +12943,7 @@ ou son représentant;
 2° Deux fonctionnaires de la direction générale des impôts ayant au moins le grade d'inspecteur principal;
 
 3° Deux représentants des collectivités locales ou de leurs groupements (communautés urbaines ou districts) désignés par le
-préfet;
+commissaire de la république;
 
 4° Des membres titulaires et des membres suppléants représentants des contribuables concernés par l'actualisation  savoir :
 
@@ -13043,13 +12977,17 @@ Le secrétariat de la commission est assuré par un inspecteur des impôts.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Arrêté 1985-09-24
+
+_Modifié par_:
+
+  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
+
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DE (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ##### AUTRES IMPOSITIONS.<a id=275></a>
