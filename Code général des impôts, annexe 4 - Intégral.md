@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-01-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -4453,22 +4453,18 @@ Centre national de la cinématographie, chargés du contrôle, de vérifier à t
 conforme aux cahiers des charges et de s'assurer du respect de la réglementation en vigueur.
 
 Les caisses automatisées et les systèmes informatisés peuvent être équipés d'un dispositif permettant la vente, par avance,
-de billets d'entrée à une séance déterminée. Dans ce cas, les billets ne peuvent être délivrés que pour la semaine
-cinématographique en cours.
+de billets d'entrée à une séance déterminée. Dans ce cas, les billets ne peuvent être délivrés qu'au maximum sept jours à
+l'avance.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1996-03-04 art. 1 JORF 28 mars 1996
-
-_Codifié par_:
-
-  - Arrêté 1996-06-21
+  - Arrêté 2004-01-02 art. 2 JORF 15 janvier 2004
 
 _Cite_:
 
-  - CGI 290 quater I
+  - CGI 290 quater
 
 _Cité par_:
 
@@ -4479,7 +4475,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 12 mai 1996
+  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 50 sexies C
@@ -4549,14 +4545,15 @@ livraisons.
 Les exploitants de spectacles qui achètent leurs billets directement à l'étranger sont considérés comme importateurs et
 astreints aux déclarations prévues au présent article.
 
-Lorsqu'elles concernent les livraisons de billets ou de cartes d'entrée dans les salles de spectacles cinématographiques, les
-déclarations prévues au présent article sont souscrites par le centre national de la cinématographie française.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1980-11-21 art. 3 JORF 30 novembre 1980
+  - Arrêté 2004-01-02 art. 3 JORF 15 janvier 2004
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 50 sexies G
