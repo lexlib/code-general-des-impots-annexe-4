@@ -1,10 +1,10 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2004-06-02
+Version Consolidée au 2004-06-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 01 à 23 L ter)](#3)
-        - [Chapitre premier : Impôt sur le revenu (art. 01 à 18 bis)](#4)
+        - [Chapitre premier : Impôt sur le revenu (art. 01 à 18-0 bis)](#4)
           - [Section 0I : Dispositions générales. Lieu d'imposition (art. 01)](#5)
           - [Section I : Bénéfices industriels et commerciaux (art. 02 à 4 LA)](#6)
             - [0I : Amortissement dégressif ou exceptionnel des matériels destinés à économiser l'énergie et des équipements de production d'énergies renouvelables (art. 02)](#7)
@@ -36,9 +36,9 @@ Version Consolidée au 2004-06-02
             - [0I : Primes d'assurances sur la vie (art. 17 E)](#33)
             - [II : Monuments historiques. Charges déductibles (art. 17 quater à 17 ter)](#34)
             - [III : Engagements d'épargne à long terme (art. 17 octies à 17 sexies)](#35)
-          - [Section IV : Calcul de l'impôt (art. 18 à 18 bis)](#36)
+          - [Section IV : Calcul de l'impôt (art. 18 à 18-0 bis)](#36)
             - [Retenue à la source de l'impôt sur le revenu (art. 18)](#37)
-            - [Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable (art. 18 bis)](#38)
+            - [Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable (art. 18 bis à 18-0 bis)](#38)
         - [Chapitre II : Impôt sur les sociétés (art. 22 à 23 I bis)](#39)
           - [Section I : Champ d'application (art. 22 à 23 bis)](#40)
             - [1° : Régime fiscal des sociétés de personnes, des sociétés en participation, des groupements d'intérêt public, des sociétés à responsabilité limitée, des exploitations agricoles à responsabilité limitée et des sociétés civiles professionnelles. Option pour le régime des sociétés de capitaux (art. 22 à 23)](#41)
@@ -2156,6 +2156,31 @@ _Cite_:
 **Liens**:
 
   - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 18-0 bis
+
+La liste des équipements mentionnés au dernier alinéa du 6 de l'article 199 undecies A du code général des impôts est fixée
+comme suit :
+
+1. Equipements de chauffage et de fourniture d'eau chaude fonctionnant à l'énergie solaire ;
+
+2. Systèmes de fourniture d'électricité à partir d'énergie solaire, éolienne, hydraulique ou de biomasse ;
+
+3. Pompes à chaleur ;
+
+4. Equipements de chauffage ou de production d'eau chaude fonctionnant au bois ou autres biomasses tels que les poêles, les
+foyers fermés, les inserts des cheminées intérieures et les chaudières.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 2004-06-10 art. 1 JORF 12 juin 2004
+
+_Cite_:
+
+  - CGI 199 undecies A
 
 
 #### Chapitre II : Impôt sur les sociétés<a id=39></a>
