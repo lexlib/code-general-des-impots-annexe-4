@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1993-03-24
+Version Consolidée au 1993-05-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 sexies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z bis)](#2)
@@ -184,7 +184,7 @@ Version Consolidée au 1993-03-24
             - [IV bis : Formules de chèques (art. 121 KL bis à 121 KL ter)](#181)
             - [V : Débite des timbres mobiles. (art. 121 KM)](#182)
         - [Chapitre III : Autres droits et taxes (art. 121 K ter)](#183)
-          - [Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social. (art. 121 K ter)](#184)
+          - [I : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales (art. 121 K ter)](#184)
         - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 121 VA)](#185)
           - [Institutions à caractère social (art. 121 VA)](#186)
       - [Titre V : Dispositions communes aux impôts directs et taxes assimilées, à l'enregistrement, à la publicité foncière et au timbre (art. 121 V bis à 121 Z bis)](#187)
@@ -11639,34 +11639,34 @@ _Codifié par_:
 
 #### Chapitre III : Autres droits et taxes<a id=183></a>
 
-##### Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social.<a id=184></a>
+##### I : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales<a id=184></a>
 
 ###### Article 121 K ter
 
-La déclaration relative à la taxe prévue à l'article 990 D du code général des impôts [*taxe annuelle égale à 3 % de la
-valeur vénale de ces immeubles ou droits*] est déposée :
+La déclaration relative à la taxe prévue à l'article 990 D du code général des impôts est déposée :
 
-a. Pour les personnes morales dont l'activité s'exerce en France dans un ou plusieurs établissements, à la recette des impôts
-du lieu du principal établissement ;
+1. Pour les personnes morales qui ont leur siège en France et pour les autres personnes morales qui exercent leurs activités
+en France dans un ou plusieurs établissements, à la recette des impôts du lieu du principal établissement ;
 
-b. Pour les personnes morales qui sans exercer en France d'activité autre qu'immobilière y possèdent un ou plusieurs
-immeubles ou sont titulaires de droits réels portant sur ces biens, à la recette des impôts du lieu de situation de ces
-biens. Si l'application de cette règle conduit à une pluralité de lieux d'imposition, la déclaration est déposée à la recette
-du centre des impôts des non-résidents, 9, rue d'Uzès, à Paris.
+2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
+plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, à la recette des impôts du
+lieu de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, la déclaration est
+déposée à la recette du centre des impôts des non-résidents.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1983-03-04 art. 1 JORF 15 mars 1983
-
-_Codifié par_:
-
-  - Arrêté 1983-07-10
+  - Arrêté 1993-05-14 art. 1 JORF 15 mai 1993
 
 _Cite_:
 
   - CGI 990 D
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+  - TXT_ASSOCIE: Instruction 1993-10-23 7Q-3-93
 
 
 #### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=185></a>
