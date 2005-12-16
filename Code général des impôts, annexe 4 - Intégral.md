@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2005-09-18
+Version Consolidée au 2005-12-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -2170,16 +2170,33 @@ chauffage et de production d'eau chaude sanitaire (norme NF EN 12815) et les cha
 au a du 2, de rendement énergétique supérieur ou égal à 65 % (norme NF EN 303.5 ou EN 12809), dont la puissance est
 inférieure à 300 kW ;
 
-b) De pompes à chaleur géothermales ou air/eau ayant un coefficient de performance supérieur ou égal à 3.
+b) de pompes à chaleur spécifiques telles que :
+
+1° Les pompes à chaleur géothermiques à capteur fluide ayant un coefficient de performance supérieur ou égal à 3 pour une
+température d'évaporation de - 5 °C ;
+
+2° Les autres pompes à chaleur géothermiques et les pompes à chaleur air/eau ayant un coefficient de performance supérieur ou
+égal à 3 pour une température d'évaporation de + 7 °C selon la norme d'essai 14511-2 ;
+
+3° Les pompes à chaleur air/air de type multisplit (y compris DRV) ou gainable, ayant un coefficient de performance supérieur
+ou égal à 3 pour une température extérieure de + 7 °C selon la norme d'essai 14511-2 et remplissant les critères suivants :
+
+- l'appareil est centralisé sur une unité extérieure ;
+
+- son fonctionnement est garanti par le fabricant jusqu'à une température de - 15 °C ;
+
+- sa puissance calorifique thermodynamique restituée est supérieure ou égale à 5 kW à une température extérieure de + 7 °C ;
+
+- l'installation finale a été contrôlée par un organisme d'inspection accrédité selon la norme NF EN 45004.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Arrêté du 2 décembre 2014 (V)
   - Arrêté du 30 mars 2009 - art. 3 (V)
   - Arrêté du 25 mai 2011 - art. 4 (V)
   - Décret n°2013-832 du 17 septembre 2013 - art. Annexe I (V)
+  - Arrêté du 2 décembre 2014 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies-0 AA (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater (M)
@@ -2187,15 +2204,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté 2005-02-09 art. 1 A JORF 15 février 2005
+  - Arreté 2005-12-12 art. 1 JORF 17 décembre 2005
 
 _Cite_:
 
   - CGI 200 quater
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 18-0 bis
