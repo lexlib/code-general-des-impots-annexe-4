@@ -12,14 +12,6 @@ d. Timbres-amendes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Arrêté 2006-03-24
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
-
 _Modifié par_:
 
-  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+  - Arrêté 2006-05-29 art. 1 JORF 8 juin 2006
