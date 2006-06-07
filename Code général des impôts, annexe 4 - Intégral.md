@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2006-04-16
+Version Consolidée au 2006-06-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -155,7 +155,7 @@ Version Consolidée au 2006-04-16
           - [Section II : Droits de délivrance de documents et perceptions diverses (art. 121 KA à 121 KM ter)](#152)
             - [IV : Régies de recettes des préfectures et sous-préfectures (art. 121 KA à 121 KL)](#153)
             - [IV bis : Formules de chèques (art. 121 KL bis à 121 KL ter)](#154)
-            - [V : Débite des timbres mobiles. (art. 121 KM à 121 KM ter)](#155)
+            - [V : Débite des timbres mobiles et encaissement d'amendes forfaitaires par timbres dématérialisés (art. 121 KM à 121 KM ter)](#155)
           - [Section III : Impôt sur les opérations de bourse (art. 121 KN)](#156)
         - [Chapitre III : Autres droits et taxes (art. 121 K ter)](#157)
           - [I : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales (art. 121 K ter)](#158)
@@ -12927,15 +12927,21 @@ _Cite_:
   - Livre des procédures fiscales - art. L102 B (VT)
 
 
-##### V : Débite des timbres mobiles.<a id=155></a>
+##### V : Débite des timbres mobiles et encaissement d'amendes forfaitaires par timbres dématérialisés<a id=155></a>
 
 ###### Article 121 KM
 
 Les débitants de tabac perçoivent sur le prix de vente des timbres mobiles de toute nature dont ils assurent la débite une
-remise uniforme de 5 p. 100.
+remise uniforme de 5 %.
 
 La remise est liquidée et payée au fur et à mesure des versements opérés par les débitants de tabac auprès des receveurs des
-impôts à la condition qu'elle atteigne au moins 15 euros.
+impôts à la condition qu'elle atteigne au moins 15 €.
+
+Les débitants de tabac participant à l'encaissement des amendes forfaitaires par timbres dématérialisés perçoivent une remise
+uniforme de 6 % sur le prix de vente de ceux-ci.
+
+La remise est liquidée et payée dans les conditions prévues par un protocole d'agrément conclu entre les débitants de tabac
+et le Trésor public.
 
 Les dispositions du présent article s'appliquent dans les départements de la Corse.
 
@@ -12948,12 +12954,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-  - HISTO: Edition du 31 mars 2002
+  - Arrêté 2006-05-29 art. 1, art. 2 JORF 8 juin 2006
 
 
 ###### Article 121 KM bis
@@ -12962,21 +12963,9 @@ Les comptables directs du Trésor sont habilités à vendre les timbres mobiles 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté 1982-07-15 art. 1 JORF 29 juillet 1982, en vigueur le 1er janvier 1983
-
-_Codifié par_:
-
-  - Arrêté 1998-05-22
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
-
 _Modifié par_:
 
-  - Loi n°86-1318 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
+  - Arrêté 2006-05-29 art. 1 JORF 8 juin 2006
 
 
 ###### Article 121 KM ter
@@ -12993,17 +12982,9 @@ d. Timbres-amendes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Arrêté 2006-03-24
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
-
 _Modifié par_:
 
-  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+  - Arrêté 2006-05-29 art. 1 JORF 8 juin 2006
 
 
 ##### Section III : Impôt sur les opérations de bourse<a id=156></a>
