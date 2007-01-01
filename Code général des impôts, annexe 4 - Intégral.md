@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-01-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -14810,29 +14810,27 @@ _Cite_:
 
 ###### Article 159 AD
 
-Sont soumis à la redevance sur l'emploi de la reprographie les appareils mentionnés ci-après :
+Sont soumis à la taxe prévue à l'article 1609 terdecies du code général des impôts les appareils mentionnés ci-après : 
 
-Machines à imprimer offset de 500 kilogrammes ou moins ;
+Machines à imprimer offset de 500 kilogrammes ou moins ; 
 
-Duplicateurs ;
+Duplicateurs ; 
 
-Appareils de photocopie à système optique ou par contact et appareils de thermocopie ;
+Appareils de photocopie à système optique ou par contact et appareils de thermocopie ; 
 
-Appareils de reprographie de bureautique utilisant la technique du scanner.
+Appareils de reprographie de bureautique utilisant la technique du scanner ; 
+
+Imprimantes, machines à copier et machines à télécopier, même combinées entre elles.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1993-03-16 art. 1 JORF 26 mars 1993
+  - Arrêté 2007-01-01 art. 1 JORF 2 janvier 2007
 
-_Codifié par_:
+_Cite_:
 
-  - Arrêté 1993-09-24
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
+  - Code général des impôts, CGI. - art. 1609 terdecies (V)
 
 
 #### Chapitre III : Enregistrement<a id=199></a>
