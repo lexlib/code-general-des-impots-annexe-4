@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2007-01-02
+Version Consolidée au 2007-02-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -16854,7 +16854,7 @@ les régies municipales, intercommunales et départementales exploitant des serv
 
 les manufactures nationales ;
 
-l'administration des monnaies et médailles ;
+l'établissement public La Monnaie de Paris ;
 
 les arsenaux, poudreries et usines mécaniques de l'Etat.
 
@@ -16897,12 +16897,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°87-33 du 26 janvier 1987 - art. 1 (V) JORF 27 janvier 1987
-  - Loi n°2006-11 du 5 janvier 2006 - art. 95 (V) JORF 6 janvier 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
 
 
 #### Section III : Enregistrement, publicité foncière et timbre<a id=228></a>
