@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-10-07
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -231,30 +231,29 @@ Version Consolidée au 2007-09-01
         - [Section IV : Dispositions communes (art. 170 decies à 170 sexies)](#228)
           - [Octroi de certains agréments fiscaux (art. 170 decies à 170 sexies)](#229)
         - [Section V : Commissions administratives des impôts (art. 170 undecies)](#230)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art.  à 170 undecies)](#231)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#232)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#233)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188 ter)](#234)
-        - [3 : Paiement de l'impôt (art. 187 à 188 ter)](#235)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#236)
-      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H à 188-0 H)](#237)
-      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I à 188-0 I)](#238)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#239)
-      - [Section III : Contributions indirectes (art. 193)](#240)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#241)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#242)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#243)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#244)
-        - [6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis (art. 198 septies)](#245)
-        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#246)
-      - [Section V : Dispositions communes (art. 199-0 à 204)](#247)
-        - [1° : Date de limite de paiement ou de prélèvement (art. 199-0)](#248)
-        - [2° : Paiement par chèques (art. 199 à 204)](#249)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#250)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#251)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#252)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#253)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#254)
+  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#231)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#232)
+      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188 ter)](#233)
+        - [3 : Paiement de l'impôt (art. 187 à 188 ter)](#234)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#235)
+      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H à 188-0 H)](#236)
+      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I à 188-0 I)](#237)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#238)
+      - [Section III : Contributions indirectes (art. 193)](#239)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#240)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#241)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#242)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#243)
+        - [6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis (art. 198 septies)](#244)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#245)
+      - [Section V : Dispositions communes (art. 199-0 à 204)](#246)
+        - [1° : Date de limite de paiement ou de prélèvement (art. 199-0)](#247)
+        - [2° : Paiement par chèques (art. 199 à 204)](#248)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#249)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#250)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#251)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#252)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#253)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -4568,32 +4567,56 @@ _Cité par_:
 
 ###### Article 50 sexies B
 
-Toute entrée dans les établissements de spectacles visés au I de l'article 290 quater du code général des impôts doit être
-constatée par la remise d'un billet extrait d'un carnet à souches ou d'un distributeur automatique délivré avant l'entrée
-dans la salle de spectacles.
+I. - Toute entrée sur les lieux où sont organisés des spectacles visés au I de l'article 290 quater du code général des
+impôts doit être constatée par la remise d'un billet extrait d'un carnet à souches ou d'un distributeur automatique ou, à
+défaut de remise d'un billet, être enregistrée et conservée dans un système informatisé, avant l'accès au lieu du spectacle.
 
-Ce billet comporte deux parties  dont l'une reste entre les mains du spectateur et l'autre est retenue au contrôle. Chacune
-de ces parties  ainsi que la souche dans le cas d'utilisation de carnets doit porter de façon apparente : le nom de
-l'établissement ; le numéro d'ordre du billet ; la catégorie de la place à laquelle celui-ci donne droit ; le prix global
-payé par le spectateur ou  s'il y a lieu  la mention de gratuité ; le nom du fabricant ou de l'importateur.
+II. - Les exploitants de spectacles qui utilisent des systèmes de billetterie informatisée comportant ou non l'impression de
+billets doivent se conformer aux obligations prévues au cahier des charges annexé à l'arrêté du 8 mars 1993 modifié.
 
-Les billets doivent être numérotés suivant une série ininterrompue et utilisés dans leur ordre numérique; chaque billet ne
-peut être utilisé que pour la catégorie de places qui y est indiquée.
+III. - L'entrée doit faire l'objet d'un contrôle manuel ou électronique. Lorsqu'un billet est imprimé, il doit rester entre
+les mains du spectateur. Si ce billet comporte deux parties, l'une reste entre les mains du spectateur et l'autre est retenue
+au contrôle.
 
-Les billets pris en abonnement ou en location doivent être tirés de carnets ou rouleaux spéciaux ; ils comportent les
-mentions prévues ci-dessus et  en outre  l'indication de la séance pour laquelle ils sont valables.
+Chaque partie du billet, ainsi que la souche dans le cas d'utilisation de carnets, doit porter de façon apparente ou sous
+forme d'informations codées :
 
-Les obligations concernant les mentions à porter sur les billets d'entrée dans les salles de spectacles cinématographiques,
-la fourniture et l'utilisation de ces billets sont fixées par la réglementation de l'industrie cinématographiques.
+1° Le nom de l'exploitant ;
+
+2° Le numéro d'ordre du billet ;
+
+3° La catégorie de la place à laquelle celui-ci donne droit ;
+
+4° Le prix global payé par le spectateur ou s'il y a lieu la mention de gratuité ;
+
+5° Le nom du fabricant ou de l'importateur si l'exploitant a eu recours à des carnets ou à des fonds de billets préimprimés.
+
+Si les billets comportent des mentions codées, le système doit permettre de restituer les informations en clair.
+
+Les billets provenant d'un carnet à souches ou émis sur des fonds de billets préimprimés doivent être numérotés suivant une
+série ininterrompue et utilisés dans leur ordre numérique.
+
+Les billets pris en abonnement ou en location doivent comporter, outre les mentions prévues ci-dessus, l'indication de la
+séance pour laquelle ils sont valables.
+
+Les billets émis par le biais de systèmes informatisés doivent comporter un identifiant unique mémorisé dans le système
+informatisé.
+
+Chaque billet ne peut être utilisé que pour la catégorie de places qui y est indiquée.
+
+IV. - Les obligations concernant les mentions à porter sur les billets d'entrée dans les établissements de spectacles
+cinématographiques, la fourniture et l'utilisation de ces billets sont fixées par la réglementation de l'industrie
+cinématographique.
 
 Dans le cadre de cette réglementation, l'utilisation de caisses automatisées ou de systèmes informatisés est autorisée pour
-l'impression et l'édition des billets d'entrée dans les salles de spectacles cinématographiques.
+l'impression et l'édition des billets d'entrée ou l'enregistrement et la conservation des données relatives à l'entrée dans
+les établissements de spectacles cinématographiques.
 
 Les caractéristiques et le fonctionnement de ces caisses et de ces systèmes sont conformes aux cahiers des charges approuvés
 conjointement par le directeur général des impôts et le directeur général du Centre national de la cinématographie. Le
 programme de ces caisses et de ces systèmes est homologué par le directeur général du Centre national de la cinématographie.
 
-Le Centre national de la cinématographie s'assure de la conformité des matériels proposés par les constructeurs ou les
+Le Centre national de la cinématographie s'assure de la conformité des logiciels proposés par les constructeurs ou les
 fournisseurs aux cahiers des charges.
 
 Les caisses automatisées et les systèmes informatisés sont pourvus de dispositifs qui permettent aux agents des impôts et du
@@ -4601,18 +4624,22 @@ Centre national de la cinématographie, chargés du contrôle, de vérifier à t
 conforme aux cahiers des charges et de s'assurer du respect de la réglementation en vigueur.
 
 Les caisses automatisées et les systèmes informatisés peuvent être équipés d'un dispositif permettant la vente, par avance,
-de billets d'entrée à une séance déterminée. Dans ce cas, les billets ne peuvent être délivrés qu'au maximum sept jours à
-l'avance.
+de billets d'entrée à une séance déterminée.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Arrêté 2004-01-02 art. 2 JORF 15 janvier 2004
-
 _Cite_:
 
+  - Arrêté 1993-03-08 annexe
   - CGI 290 quater
+
+_Modifié par_:
+
+  - Arrêté 2007-10-05 art. 1 JORF 7 octobre 2007
+
+_Codifié par_:
+
+  - L'article sera codifié ultérieurement
 
 _Cité par_:
 
@@ -4621,26 +4648,26 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies C (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies E (V)
 
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-
 
 ###### Article 50 sexies C
 
 Les exploitants de spectacles peuvent employer des carnets spéciaux pour chaque représentation comprenant, par catégorie de
-places, un nombre de billets égal à celui des places susceptibles d'être occupées.
+places, un nombre de billets égal à celui des places susceptibles d'être occupées. 
 
-Chaque billet ainsi que sa souche doit indiquer  en dehors des énonciations prévues au deuxième alinéa de l'article 50 sexies
-B, le numéro de la place à laquelle il donne droit et la séance pour laquelle il est valable. Les billets qui correspondent
-aux places gratuites ou à prix réduit sont annulés et restent attachés à la souche. Les carnets afférents à chaque
-représentation doivent contenir les billets non délivrés ; ils sont enliassés et conservés par l'établissement.
+Chaque billet ainsi que sa souche doit indiquer, en dehors des énonciations prévues aux deuxième à septième alinéas du III de
+l'article 50 sexies B, le numéro de la place à laquelle il donne droit et la séance pour laquelle il est valable. Les billets
+qui correspondent aux places gratuites ou à prix réduit sont annulés et restent attachés à la souche. Les carnets afférents à
+chaque représentation doivent contenir les billets non délivrés ; ils sont enliassés et conservés par l'exploitant.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté 2007-10-05 art. 2 JORF 7 octobre 2007
+
 _Cite_:
 
-  - CGIAN4 50 sexies B
+  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies B (V)
 
 
 ###### Article 50 sexies D
@@ -4655,40 +4682,45 @@ conditions que ceux-ci.
 
 Si, après la délivrance d'un billet, un spectateur désire changer de place et que ce changement entraîne une augmentation de
 prix, le complément doit être constaté par la délivrance d'un billet supplémentaire établi dans les mêmes conditions que les
-autres billets et portant imprimé le montant du supplément encaissé.
+autres billets et portant le montant du supplément encaissé. 
 
-La mention du supplément de prix ne concerne pas les billets d'entrée dans les salles de spectacles cinématographiques.
+La mention du supplément de prix ne concerne pas les billets d'entrée dans les établissements de spectacles
+cinématographiques. 
 
-Si, après la délivrance d'un billet édité par une caisse automatisée ou un système informatisé dans les conditions prévues à
-l'article 50 sexies B, un spectateur désire changer de catégorie de place, il doit être procédé à l'annulation de son billet
-et à la délivrance d'un nouveau billet correspondant à la place qu'il souhaite occuper.
+Si, après la délivrance d'un billet imprimé par une caisse automatisée ou un système informatisé dans les conditions prévues
+à l'article 50 sexies B, un spectateur désire changer de catégorie de place, il doit être procédé à l'annulation de son
+billet et à la délivrance d'un nouveau billet correspondant à la place qu'il souhaite occuper.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1996-03-04 art. 2 JORF 28 mars 1996
+  - Arrêté 2007-10-05 art. 3 JORF 7 octobre 2007
 
 _Cite_:
 
   - CGIAN4 50 sexies B
-
-**Liens**:
-
-  - HISTO: Edition du 12 mai 1996
+  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies B (V)
 
 
 ###### Article 50 sexies F
 
-Les fabricants, importateurs ou marchands doivent déclarer leurs livraisons de billets ou cartes d'entrée aux exploitants de
-spectacles, en précisant :
+I. - Les fabricants, importateurs ou marchands doivent déclarer leurs livraisons de billets ou cartes d'entrée aux
+exploitants de spectacles, en précisant :
 
-1° Les noms et adresses des établissements destinataires ;
+1° Les noms et adresses des exploitants destinataires ;
+
+2° Le nombre et les numéros des fonds de billets livrés.
+
+II. - Les détenteurs ou les propriétaires de logiciels de billetterie doivent déclarer leurs livraisons de billets ou de
+cartes d'entrée aux exploitants de spectacles utilisant leur logiciel, en précisant :
+
+1° Les noms et adresses des exploitants de spectacles destinataires ;
 
 2° Le nombre des billets ou cartes d'entrée livrés, par catégorie de places, ainsi que les numéros des billets.
 
-Ils doivent adresser ces déclarations au service des impôts dont ils dépendent dans les huit jours qui suivent les
-livraisons.
+Les personnes soumises aux déclarations prévues au présent article doivent les adresser au service des impôts dont elles
+dépendent dans les huit jours qui suivent les livraisons.
 
 Les exploitants de spectacles qui achètent leurs billets directement à l'étranger sont considérés comme importateurs et
 astreints aux déclarations prévues au présent article.
@@ -4697,67 +4729,65 @@ astreints aux déclarations prévues au présent article.
 
 _Modifié par_:
 
-  - Arrêté 2004-01-02 art. 3 JORF 15 janvier 2004
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
+  - Arrêté 2007-10-05 art. 1 JORF 7 octobre 2007
 
 
 ###### Article 50 sexies G
 
-Les exploitants de spectacles sont comptables des billets qu'ils ont reçus ; ils doivent présenter les coupons de contrôle et
-les billets non utilisés à toute réquisition des agents des impôts.
+Les exploitants de spectacles sont comptables des billets qu'ils ont reçus ou imprimés ; ils doivent présenter les coupons de
+contrôle et les billets non utilisés à toute réquisition des agents des impôts.
 
-Les agents des impôts ont accès dans la salle de spectacles pour toutes vérifications utiles.
+Les agents des impôts ont accès aux lieux où sont organisés des spectacles pour toutes vérifications utiles.
 
+Les caisses automatisées et les systèmes informatisés sont pourvus de dispositifs qui permettent aux agents des impôts,
+chargés du contrôle, de vérifier à tout moment que l'utilisation des matériels est conforme aux cahiers des charges et de
+s'assurer du respect de la réglementation en vigueur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 2007-10-05 art. 5 JORF 7 octobre 2007
 
 
 ###### Article 50 sexies H
 
 Les exploitants de spectacles sont tenus d'établir, dès la fin de chaque journée ou représentation, un relevé comportant,
-pour chaque catégorie de places : les numéros des premiers et derniers billets délivrés le nombre de ceux-ci le prix de la
-place et la recette correspondante.
+pour chaque catégorie de places : le nombre de billets émis, le prix de la place et la recette correspondante. 
 
-Tous registres ou documents présentant les indications prévues ci-dessus tiennent lieu de relevé.
+Dans le cas des billets qui ne sont pas émis par le biais de systèmes informatisés, le relevé doit comporter, en outre, pour
+chaque catégorie de places, les numéros des premiers et derniers billets délivrés. 
+
+Tous registres ou documents présentant les indications prévues ci-dessus tiennent lieu de relevé. 
 
 Les relevés doivent être tenus à la disposition des agents des impôts et conservés par les exploitants selon les modalités
 prévues au I de l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Arrêté 1990-09-10
+  - Arrêté 2007-10-05 art. 6 JORF 7 octobre 2007
 
 _Cité par_:
 
-  - Décret n°2017-926 du 9 mai 2017 (VD)
-  - Décret n°2017-926 du 9 mai 2017 - art. 5 (VD)
   - Loi n°2016-925 du 7 juillet 2016 - art. 118 (V)
   - Loi n°2016-925 du 7 juillet 2016 - art. 48 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 15 juin 1990
-
-_Modifié par_:
-
-  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+  - Décret n°2017-926 du 9 mai 2017 (VD)
+  - Décret n°2017-926 du 9 mai 2017 - art. 5 (VD)
 
 _Cite_:
 
-  - Livre des procédures fiscales L102 B I
+  - Livre des procédures fiscales - art. L102 B (VT)
 
 
 ###### Article 50 sexies I
 
-I.-Les billets prévus au I de l'article 290 quater du code général des impôts peuvent être établis par un système informatisé
-dont les caractéristiques et le fonctionnement doivent être conformes au cahier des charges annexé à l'arrêté du 8 mars 1993.
+I. – Tout utilisateur d'un système de billetterie informatisée doit se conformer au cahier des charges annexé à l'arrêté du 8
+mars 1993 modifié.
 
-II.-Les exploitants d'établissements de spectacles visés au I de l'article 290 quater susmentionné déclarent à la direction
-des services fiscaux dont ils dépendent la mise en service d'un système informatisé de billetterie au plus tard lors de la
-première utilisation.
+II. – Les utilisateurs susmentionnés déclarent à la direction des services fiscaux dont ils dépendent la mise en service d'un
+système informatisé de billetterie ou de caisse enregistreuse au plus tard lors de la première utilisation.
 
 Cette déclaration comporte les mentions suivantes nécessaires à la description du système utilisé :
 
@@ -4783,17 +4813,9 @@ alinéa.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1993-03-08 art. 1 JORF 24 mars 1993
-
-_Cite_:
-
-  - CGI 290 quater
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
+  - Arrêté 2007-10-05 art. 7 JORF 7 octobre 2007
 
 
 ##### H : Services fournis par voie électronique<a id=83></a>
@@ -12924,11 +12946,12 @@ _Cite_:
 
 ###### Article 131 A
 
-I. Les billets prévus à l'article 1564 du code général des impôts peuvent être établis par un système informatisé dont les
-caractéristiques et le fonctionnement doivent être conformes au cahier des charges annexé à l'arrêté du 8 mars 1993.
+I. – Pour l'application de l'article 1564 du code général des impôts, les organisateurs de réunions sportives et les
+exploitants de spectacles peuvent utiliser un système informatisé dont les caractéristiques et le fonctionnement doivent être
+conformes au cahier des charges annexé à l'arrêté du 8 mars 1993 modifié.
 
-II. Les organisateurs de réunions sportives et les exploitants d'établissements de spectacles visés à l'article 1559 du code
-précité déclarent à la direction régionale des douanes et droits indirects dont ils dépendent la mise en service d'un système
+II. – Les organisateurs de réunions sportives et les exploitants de spectacles mentionnés à l'article 1559 du code précité
+déclarent à la direction régionale des douanes et droits indirects dont ils dépendent la mise en service d'un système
 informatisé de billetterie au plus tard lors de la première utilisation.
 
 Cette déclaration comporte les mentions suivantes nécessaires à la description du système utilisé :
@@ -12955,17 +12978,14 @@ alinéa.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1993-03-08 art. 2 JORF 24 mars 1993
+  - Arrêté 2007-10-05 art. 8 JORF 7 octobre 2007
 
 _Cite_:
 
-  - CGI 1564, 1559
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
+  - Code général des impôts, CGI. - art. 1559 (V)
+  - Code général des impôts, CGI. - art. 1564 (V)
 
 
 ##### 6° : Assiette et contrôle de la taxe<a id=177></a>
@@ -16269,15 +16289,13 @@ _Cite_:
   - HISTO: Edition du 1er janvier 2006
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=231></a>
+# Livre II : Recouvrement de l'impôt<a id=231></a>
 
-# Livre II : Recouvrement de l'impôt<a id=232></a>
+## Chapitre premier : Paiement de l'impôt<a id=232></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=233></a>
+### Section I : Impôts directs et taxes assimilées<a id=233></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=234></a>
-
-#### 3 : Paiement de l'impôt<a id=235></a>
+#### 3 : Paiement de l'impôt<a id=234></a>
 
 ###### Article 187
 
@@ -16385,7 +16403,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730
 
 
-### Section I bis : Intérêts des bons de caisse<a id=236></a>
+### Section I bis : Intérêts des bons de caisse<a id=235></a>
 
 ###### Article 188 B
 
@@ -16468,7 +16486,7 @@ intérêt.
 
 
 
-### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=237></a>
+### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=236></a>
 
 ###### Article 188 H
 
@@ -16521,7 +16539,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 119 bis (V)
 
 
-### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=238></a>
+### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=237></a>
 
 ###### Article 188 I
 
@@ -16603,7 +16621,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 125-0 A (V)
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=239></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=238></a>
 
 ###### Article 189
 
@@ -16633,7 +16651,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1692 (V)
 
 
-### Section III : Contributions indirectes<a id=240></a>
+### Section III : Contributions indirectes<a id=239></a>
 
 ###### Article 193
 
@@ -16650,9 +16668,9 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 189 (V)
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=241></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=240></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=242></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=241></a>
 
 ###### Article 196 A
 
@@ -16668,7 +16686,7 @@ _Modifié par_:
   - Arrêté 1991-10-28 art. 2, art. 3 JORF 29 octobre 1991
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=243></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=242></a>
 
 ###### Article 198 quinquies
 
@@ -16679,7 +16697,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=244></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=243></a>
 
 ###### Article 198 sexies
 
@@ -16694,7 +16712,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis<a id=245></a>
+#### 6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis<a id=244></a>
 
 ###### Article 198 septies
 
@@ -16722,7 +16740,7 @@ _Cite_:
   - HISTO: Edition du 11 avril 1997
 
 
-#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=246></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=245></a>
 
 ###### Article 198 octies
 
@@ -16743,9 +16761,9 @@ _Modifié par_:
   - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
 
 
-### Section V : Dispositions communes<a id=247></a>
+### Section V : Dispositions communes<a id=246></a>
 
-#### 1° : Date de limite de paiement ou de prélèvement<a id=248></a>
+#### 1° : Date de limite de paiement ou de prélèvement<a id=247></a>
 
 ###### Article 199-0
 
@@ -16767,7 +16785,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 39 (V)
 
 
-#### 2° : Paiement par chèques<a id=249></a>
+#### 2° : Paiement par chèques<a id=248></a>
 
 ###### Article 199
 
@@ -16825,9 +16843,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-## Chapitre I bis : Pénalités<a id=250></a>
+## Chapitre I bis : Pénalités<a id=249></a>
 
-### I : Impôts directs et taxes assimilées<a id=251></a>
+### I : Impôts directs et taxes assimilées<a id=250></a>
 
 ###### Article 207 quater A
 
@@ -16836,7 +16854,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=252></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=251></a>
 
 ###### Article 207 quater A bis
 
@@ -16858,9 +16876,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1737 (V)
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=253></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=252></a>
 
-### Publicité du privilège du Trésor<a id=254></a>
+### Publicité du privilège du Trésor<a id=253></a>
 
 ###### Article 207 sexies
 
