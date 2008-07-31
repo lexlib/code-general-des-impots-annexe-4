@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2008-06-14
+Version Consolidée au 2008-08-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -13825,7 +13825,7 @@ ruminants d'élevage : 58 euros / t.
 
 5° Volailles, lapins, gibiers d'élevage non ruminants et ratites : 
 
-7, 2 euros / t. 
+6, 25 euros / t. 
 
 2. Le poids de viande avec os des animaux abattus est déterminé dans les conditions prévues à l'article 111 quater LA de
 l'annexe III.
@@ -13834,7 +13834,12 @@ l'annexe III.
 
 _Modifié par_:
 
-  - Arrêté du 23 octobre 2007, v. init.
+  - Arrêté du 29 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater LA
+  - Code général des impôts, CGI. - art. 1609 septvicies
 
 
 ##### Section IV : Fonds national du livre<a id=190></a>
