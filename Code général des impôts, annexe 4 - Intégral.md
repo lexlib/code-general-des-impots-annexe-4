@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2008-08-01
+Version Consolidée au 2008-09-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -233,22 +233,23 @@ Version Consolidée au 2008-08-01
       - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#230)
       - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H à 188-0 H)](#231)
       - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I à 188-0 I)](#232)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#233)
-      - [Section III : Contributions indirectes (art. 193)](#234)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#235)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#236)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#237)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#238)
-        - [6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis (art. 198 septies)](#239)
-        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#240)
-      - [Section V : Dispositions communes (art. 199-0 à 204)](#241)
-        - [1° : Date de limite de paiement ou de prélèvement (art. 199-0)](#242)
-        - [2° : Paiement par chèques (art. 199 à 204)](#243)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#244)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#245)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#246)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#247)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#248)
+      - [Section I quinquies : Prélèvement sur les dividendes (art. 188 K à 188 L)](#233)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#234)
+      - [Section III : Contributions indirectes (art. 193)](#235)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#236)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#237)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#238)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#239)
+        - [6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis (art. 198 septies)](#240)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#241)
+      - [Section V : Dispositions communes (art. 199-0 à 204)](#242)
+        - [1° : Date de limite de paiement ou de prélèvement (art. 199-0)](#243)
+        - [2° : Paiement par chèques (art. 199 à 204)](#244)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#245)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#246)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#247)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#248)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#249)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -1511,56 +1512,56 @@ _Cité par_:
 
 ###### Article 15
 
-1° Les relevés sont établis sous forme de fiches individuelles conformes aux modèles ci-après (non reproduits - Cerfa n°
-30-0812 et n° 30-0813).
+1° Les relevés sont établis sous forme de fiches individuelles conformes aux modèles ci-après (non reproduits-Cerfa n°
+30-0812 et n° 30-0813). 
 
 Toutefois, les établissements qui peuvent présenter les renseignements que comportent ces modèles au moyen de fiches
 mécanographiques ont la faculté de substituer l'usage de ces fiches à l'emploi du modèle officiel pourvu que la dimension de
-ces fiches ne dépasse pas 21 cm x 13 cm ;
+ces fiches ne dépasse pas 21 cm x 13 cm ; 
 
-2° Les relevés visés à l'article 14 (coupons payés aux guichets ou par correspondance) portent :
+2° Les relevés visés à l'article 14 (coupons payés aux guichets ou par correspondance) portent : 
 
-a. la désignation et l'adresse de l'établissement payeur ou le cachet du comptable public ;
+a. la désignation et l'adresse de l'établissement payeur ou le cachet du comptable public ; 
 
-b. la date de paiement ;
+b. la date de paiement ; 
 
-c. le numéro de la pièce de paiement correspondante si celle-ci est numérotée ;
+c. le numéro de la pièce de paiement correspondante si celle-ci est numérotée ; 
 
-d. selon le cas, l'une des mentions suivantes :
+d. selon le cas, l'une des mentions suivantes : 
 
 Les nom et prénoms ou raison sociale du bénéficiaire des revenus, ainsi que l'adresse de son domicile ou de son siège
-social ;
+social ; 
 
-La mention "P.C. tiers" ;
+La mention " P.C. tiers " ; 
 
-e. les nom, prénoms et adresse du domicile réel du présentateur, s'il est différent du bénéficiaire des revenus ;
+e. les nom, prénoms et adresse du domicile réel du présentateur, s'il est différent du bénéficiaire des revenus ; 
 
-f. suivant le cas, soit la mention "C" (connu), soit l'indication de la pièce justificative présentée ou son numéro de
-référence à la liste figurant à l'article 13 ;
+f. suivant le cas, soit la mention " C " (connu), soit l'indication de la pièce justificative présentée ou son numéro de
+référence à la liste figurant à l'article 13 ; 
 
-3° (Disposition devenue sans objet).
+3° (Disposition devenue sans objet). 
 
-4° Les relevés visés au 2° comportent en outre :
+4° Les relevés visés au 2° comportent en outre : 
 
-a. le montant imposable à l'impôt sur le revenu, déduction faite des seuls frais d'encaissement des coupons, d'une part, des
-produits de valeurs mobilières à revenu fixe ouvrant droit à l'abattement prévu au troisième alinéa du 3 de l'article 158 du
-code général des impôts, d'autre part des dividendes susceptibles de bénéficier de ce même abattement ;
+a. le montant imposable à l'impôt sur le revenu, d'une part, des produits de valeurs mobilières à revenu fixe ouvrant droit à
+l'abattement prévu au troisième alinéa du 3 de l'article 158 du code général des impôts, d'autre part des dividendes
+susceptibles de bénéficier de ce même abattement ; 
 
 b. Le montant imposable à l'impôt sur le revenu, déterminé comme ci-dessus, des revenus des valeurs autres que celles visées
-au a ;
+au a ; 
 
-c. le montant net payé au titre des revenus visés aux a et b, après déduction, le cas échéant :
+c. le montant net payé au titre des revenus visés aux a et b, après déduction, le cas échéant : 
 
-de la retenue à la source prévue à l'article 119 bis du code général des impôts ;
+de la retenue à la source prévue à l'article 119 bis du code général des impôts ; 
 
-de l'impôt étranger, s'il s'agit de revenus de valeurs mobilières étrangères ;
+de l'impôt étranger, s'il s'agit de revenus de valeurs mobilières étrangères ; 
 
-des frais d'encaissement des coupons ;
+des frais d'encaissement des coupons ; 
 
-d. le crédit d'impôt attaché à la perception des revenus visés aux a et b ;
+d. le crédit d'impôt attaché à la perception des revenus visés aux a et b ; 
 
-e. le montant net payé des revenus non imposables à l'impôt sur le revenu, les intérêts des emprunts 4,25 % 1963 et 4,25 % -
-4,75 % 1963 étant, le cas échéant, mentionnés à part.
+e. le montant net payé des revenus non imposables à l'impôt sur le revenu, les intérêts des emprunts 4, 25 % 1963 et 4, 25
+%-4, 75 % 1963 étant, le cas échéant, mentionnés à part. 
 
 Pour les produits payés en monnaie étrangère, les sommes figurant sur les relevés de coupons doivent être indiquées pour leur
 contre-valeur en euros au jour du paiement.
@@ -1569,11 +1570,12 @@ contre-valeur en euros au jour du paiement.
 
 _Modifié par_:
 
-  - Arrêté 2004-12-30 art. 1 JORF 31 décembre 2004
+  - Arrêté du 15 septembre 2008 - art. 1
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2005
+  - Code général des impôts, CGI. - art. 119 bis
+  - Code général des impôts, CGI. - art. 158
 
 
 ###### Article 16
@@ -1659,23 +1661,23 @@ _Cité par_:
 ###### Article 17 B
 
 1. Les personnes et organismes visés à l'article 41 duodecies A de l'annexe III au code général des impôts qui payent des
-intérêts arrérages et autres produits de fonds d'Etat  obligations françaises et autres valeurs assimilées doivent établir
-les documents prévus au I de l'article 17 A.
+intérêts arrérages et autres produits de fonds d'Etat obligations françaises et autres valeurs assimilées doivent établir les
+documents prévus au I de l'article 17 A.
 
 L'indication sur ces documents du prélèvement visé à l'article 125 A du code général des impôts est alors substituée à celle
-de la retenue à la source de 25 % prévue au 2 de l'article 119 bis dudit code.
+de la retenue à la source prévue au 2 de l'article 119 bis dudit code. 
 
 2. Les documents visés au 1, qui constatent le paiement de revenus ayant supporté le prélèvement à des personnes domiciliées
 ou ayant leur siège social hors de France ne doivent pas mentionner simultanément des revenus ayant donné lieu à la retenue à
-la source.
+la source. 
 
 3. Les pièces établies en exécution de l'article 17 A et du présent article sont réunies pour constituer deux liasses
 relatives l'une aux paiements faits à des personnes ayant en France leur domicile réel ou leur siège social et l'autre aux
-paiements faits à des personnes domiciliées ou ayant leur siège hors de France.
+paiements faits à des personnes domiciliées ou ayant leur siège hors de France. 
 
-Les documents sont groupés séparément :
+Les documents sont groupés séparément : 
 
-à l'intérieur de la première liasse  selon qu'ils mentionnent ou non des revenus ayant supporté le prélèvement ;
+à l'intérieur de la première liasse selon qu'ils mentionnent ou non des revenus ayant supporté le prélèvement ; 
 
 à l'intérieur de la deuxième liasse, selon que les paiements qu'ils retracent ont été assujettis à la retenue à la source ou
 au prélèvement. Lorsqu'ils mentionnent simultanément des revenus ayant donné lieu, les uns à la retenue à la source et les
@@ -1683,13 +1685,16 @@ autres au prélèvement, les relevés individuels font l'objet d'un classement s
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Arrêté 1985-09-24
-
 _Modifié par_:
 
-  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
+  - Arrêté du 15 septembre 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies A
+  - Code général des impôts, annexe 4, CGIAN4. - art. 17 A
+  - Code général des impôts, CGI. - art. 119 bis
+  - Code général des impôts, CGI. - art. 125 A
 
 _Cité par_:
 
@@ -1721,24 +1726,42 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 17 B (V)
 
 
-###### Article 17 D
+###### Article 17 C bis
 
-Les documents  états et pièces tenus ou établis en application des articles 17 B, 17 C et 188 I sont conservés à la
-disposition de l'administration selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales.
+Les personnes mentionnées au II de l'article 117 quater du code général des impôts, qui assurent le paiement de revenus sur
+lesquels est opéré le prélèvement forfaitaire libératoire prévu au I du même article, produisent à l'administration, sur sa
+demande, les documents justifiant du paiement des revenus concernés ainsi que du prélèvement opéré.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Arrêté 1990-09-10
+  - Arrêté du 15 septembre 2008 - art. 1
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 15 juin 1990
+  - Code général des impôts, CGI. - art. 117 quater
+
+
+###### Article 17 D
+
+Les documents états et pièces tenus ou établis en application des articles 17 B, 17 C, 17 C bis, 188 I et 188 L sont
+conservés à la disposition de l'administration selon les modalités prévues au I de l'article L. 102 B du livre des procédures
+fiscales.
+
+**Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+  - Arrêté du 15 septembre 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 17 B
+  - Code général des impôts, annexe 4, CGIAN4. - art. 17 C
+  - Code général des impôts, annexe 4, CGIAN4. - art. 188 I
+  - Code général des impôts, annexe 4, CGIAN4. - art. 188 L (V)
+  - Livre des procédures fiscales - art. L102 B
 
 
 ##### Section III bis : Revenu global<a id=30></a>
@@ -16650,7 +16673,68 @@ _Cite_:
   - Code général des impôts, CGI. - art. 125-0 A (V)
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=233></a>
+### Section I quinquies : Prélèvement sur les dividendes<a id=233></a>
+
+###### Article 188 K
+
+Le prélèvement prévu à l'article 117 quater du code général des impôts est versé : 
+
+1° A la recette des impôts des non-résidents de la direction des résidents à l'étranger et des services généraux, lorsqu'il
+est opéré par la personne mentionnée au II de l'article 117 quater précité ou par celle mentionnée au b du III du même
+article et mandatée par le contribuable à cet effet ; 
+
+2° Par exception au 1°, au service des impôts auquel doit parvenir la déclaration de résultat de la personne mentionnée au II
+de l'article 117 quater précité ou, à défaut d'une telle déclaration, au service des impôts dont relève son siège social,
+lorsque le prélèvement est opéré par cette personne et que celle-ci est, à la date de paiement dudit prélèvement, redevable
+uniquement de ce prélèvement ou des prélèvements sociaux dus en application du 1° du I de l'article L. 136-7 du code de la
+sécurité sociale ; 
+
+3° Au service des impôts du domicile du contribuable, lorsque ce dernier effectue lui-même le paiement dudit prélèvement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 15 septembre 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 117 quater
+  - Code de la sécurité sociale. - art. L136-7
+
+
+###### Article 188 L
+
+Le prélèvement prévu à l'article 117 quater du code général des impôts opéré par les agences et succursales des
+établissements de crédit, par les caisses publiques et par les caisses d'épargne peut faire l'objet de versements globaux
+dans les conditions prévues à l'article 188 H. 
+
+La déclaration préalable qui doit être adressée à la direction des résidents à l'étranger et des services généraux peut viser
+à la fois le versement de la retenue prévue au 2 de l'article 119 bis du code général des impôts et celui des prélèvements
+mentionnés aux articles 125 A et 117 quater du même code. 
+
+Ces dispositions ne sont pas applicables lorsque le prélèvement est acquitté dans les conditions du III de l'article 117
+quater précité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 15 septembre 2008 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 17 D (V)
+
+_Cite_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 188 H
+  - Code général des impôts, CGI. - art. 117 quater
+  - Code général des impôts, CGI. - art. 119 bis
+  - Code général des impôts, CGI. - art. 125 A
+
+
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=234></a>
 
 ###### Article 189
 
@@ -16680,7 +16764,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1692 (V)
 
 
-### Section III : Contributions indirectes<a id=234></a>
+### Section III : Contributions indirectes<a id=235></a>
 
 ###### Article 193
 
@@ -16697,9 +16781,9 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 189 (V)
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=235></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=236></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=236></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=237></a>
 
 ###### Article 196 A
 
@@ -16715,7 +16799,7 @@ _Modifié par_:
   - Arrêté 1991-10-28 art. 2, art. 3 JORF 29 octobre 1991
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=237></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=238></a>
 
 ###### Article 198 quinquies
 
@@ -16726,7 +16810,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=238></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=239></a>
 
 ###### Article 198 sexies
 
@@ -16741,7 +16825,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis<a id=239></a>
+#### 6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis<a id=240></a>
 
 ###### Article 198 septies
 
@@ -16769,7 +16853,7 @@ _Cite_:
   - HISTO: Edition du 11 avril 1997
 
 
-#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=240></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=241></a>
 
 ###### Article 198 octies
 
@@ -16790,9 +16874,9 @@ _Modifié par_:
   - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
 
 
-### Section V : Dispositions communes<a id=241></a>
+### Section V : Dispositions communes<a id=242></a>
 
-#### 1° : Date de limite de paiement ou de prélèvement<a id=242></a>
+#### 1° : Date de limite de paiement ou de prélèvement<a id=243></a>
 
 ###### Article 199-0
 
@@ -16814,7 +16898,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 39 (V)
 
 
-#### 2° : Paiement par chèques<a id=243></a>
+#### 2° : Paiement par chèques<a id=244></a>
 
 ###### Article 199
 
@@ -16872,9 +16956,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-## Chapitre I bis : Pénalités<a id=244></a>
+## Chapitre I bis : Pénalités<a id=245></a>
 
-### I : Impôts directs et taxes assimilées<a id=245></a>
+### I : Impôts directs et taxes assimilées<a id=246></a>
 
 ###### Article 207 quater A
 
@@ -16883,7 +16967,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=246></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=247></a>
 
 ###### Article 207 quater A bis
 
@@ -16905,9 +16989,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1737 (V)
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=247></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=248></a>
 
-### Publicité du privilège du Trésor<a id=248></a>
+### Publicité du privilège du Trésor<a id=249></a>
 
 ###### Article 207 sexies
 
