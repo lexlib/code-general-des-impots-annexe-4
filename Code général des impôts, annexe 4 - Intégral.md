@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2008-12-20
+Version Consolidée au 2008-12-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -2010,7 +2010,7 @@ _Cité par_:
 
 ###### Article 18
 
-Pour l'année 2008, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2009, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme
 suit : 
 
@@ -2022,7 +2022,7 @@ suit :
 TAUX APPLICABLES 
 
 </th>
-      <th>
+      <th colspan="5">
 
 LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS 
 
@@ -2060,7 +2060,7 @@ Semaine
 </th>
       <th>
 
-Jour ou fraction 
+Jour ou fractions 
 
 de jour 
 
@@ -2071,134 +2071,134 @@ de jour
     <tr>
       <td align="center">
 
-0 %
+0 % 
 
-- moins de 
-
-</td>
-      <td align="center">
-
-13 583 
+Moins de 
 
 </td>
       <td align="center">
 
-3 396 
+13   977 
 
 </td>
       <td align="center">
 
-1 132 
+3   494 
 
 </td>
       <td align="center">
 
-261 
+1   165 
 
 </td>
       <td align="center">
 
-44 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-12 %
-
-- de 
+269 
 
 </td>
       <td align="center">
 
-13 583 
-
-</td>
-      <td align="center">
-
-3 396 
-
-</td>
-      <td align="center">
-
-1 132 
-
-</td>
-      <td align="center">
-
-261 
-
-</td>
-      <td align="center">
-
-44
+45 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-- à 
+12 % 
+
+De 
 
 </td>
       <td align="center">
 
-39 409 
+13   977 
 
 </td>
       <td align="center">
 
-9 852 
+3   494 
 
 </td>
       <td align="center">
 
-3 284 
+1   165 
 
 </td>
       <td align="center">
 
-758 
+269 
 
 </td>
       <td align="center">
 
-126 
+45 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-20 %
-
-- au-delà de 
+à 
 
 </td>
       <td align="center">
 
-39 409 
+40   553 
 
 </td>
       <td align="center">
 
-9 852 
+10   138 
 
 </td>
       <td align="center">
 
-3 284 
+3   379 
 
 </td>
       <td align="center">
 
-758 
+780 
 
 </td>
       <td align="center">
 
-126 
+130 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+20 % 
+
+Au-delà de 
+
+</td>
+      <td align="center">
+
+40   553 
+
+</td>
+      <td align="center">
+
+10   138 
+
+</td>
+      <td align="center">
+
+3   379 
+
+</td>
+      <td align="center">
+
+780 
+
+</td>
+      <td align="center">
+
+130 
 
 </td>
     </tr>
@@ -2209,7 +2209,7 @@ de jour
 
 _Modifié par_:
 
-  - Arrêté du 28 décembre 2007 - art. 1
+  - Arrêté du 24 décembre 2008 - art. 1
 
 
 ##### Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable<a id=36></a>
