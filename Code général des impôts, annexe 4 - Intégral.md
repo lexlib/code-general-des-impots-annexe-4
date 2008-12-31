@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2008-12-31
+Version Consolidée au 2009-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -36,7 +36,7 @@ Version Consolidée au 2008-12-31
             - [III : Engagements d'épargne à long terme (art. 17 octies à 17 sexies)](#33)
           - [Section IV : Calcul de l'impôt (art. 18 à 18 ter)](#34)
             - [Retenue à la source de l'impôt sur le revenu (art. 18)](#35)
-            - [Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable (art. 18 bis à 18-0 bis)](#36)
+            - [Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable (art. 18 bis à 18-0 ter)](#36)
             - [Crédit d'impôt pour dépenses d'équipement de l'habitation principale (art. 18 ter)](#37)
         - [Chapitre II : Impôt sur les sociétés (art. 22 à 23 I)](#38)
           - [Section I : Champ d'application (art. 22 à 23 bis)](#39)
@@ -2464,6 +2464,35 @@ _Cite_:
 **Liens**:
 
   - HISTO: Edition du 31 août 2004
+
+
+###### Article 18-0 ter
+
+I.-Pour l'application de l'article 199 septvicies du code général des impôts
+, les communes se caractérisant par un déséquilibre entre l'offre et la demande de logements s'entendent de celles classées
+dans les zones 1, 2 et 3, correspondant respectivement aux zones A, B1 et B2 délimitées conformément à l'annexe à l'arrêté du
+10 août 2006
+pris pour l'application des articles 2 terdecies B et 2 terdecies C de l'annexe III au code général des impôts et relatif au
+classement des communes par zones. 
+
+II.-Pour l'application du III de l'article 199 septvicies du code général des impôts, les plafonds de loyer applicables aux
+zones 1, 2 et 3 s'entendent respectivement de ceux prévus pour les zones A, B1 et B2, tels que mentionnés à l'article 2
+terdecies B de l'annexe III au même code. 
+
+III.-Pour l'application du V de l'article 199 septvicies du code général des impôts, les plafonds de loyer et les plafonds de
+ressources des locataires applicables aux zones 1, 2 et 3 s'entendent respectivement de ceux prévus pour les zones A, B1 et
+B2, tels que mentionnés à l'article 2 terdecies C de l'annexe III au même code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 10 août 2006
+  - Code général des impôts, CGI. - art. 199 septvicies
+
+_Créé par_:
+
+  - Arrêté du 30 décembre 2008 - art. 1
 
 
 ##### Crédit d'impôt pour dépenses d'équipement de l'habitation principale<a id=37></a>
@@ -9394,7 +9423,7 @@ _Cité par_:
 
 Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
 réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
-d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2008 conformément au tableau ci-après : 
+d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2011 conformément au tableau ci-après : 
 
 Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
 d'alcool pur ; 
@@ -9424,7 +9453,7 @@ Guyane : rhum traditionnel agricole, 300 hectolitres d'alcool pur.
 
 _Modifié par_:
 
-  - Arrêté du 10 juin 2008 - art. 1
+  - Arrêté du 14 novembre 2008 - art. 1
 
 
 ##### 2° : Régime de l'exportation préalable<a id=114></a>
