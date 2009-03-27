@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-03-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -8145,49 +8145,45 @@ _Cité par_:
 
 Au titre des renseignements particuliers prévus à l'article 286 J de l'annexe II au code général des impôts, et en fonction
 de l'activité des entrepositaires agréés concernés, chacun des comptes de la comptabilité matières doit reprendre notamment
-les informations suivantes :
+les informations suivantes : 
 
 1° La nature, le numéro et la date de départ ou de réception du document d'accompagnement mentionné à l'article 302 M dudit
 code ou des pièces justificatives des productions, des transformations, des détentions, des entrées et sorties de produits
-des chais ou locaux du site d'exploitation ;
+des chais ou locaux du site d'exploitation ; 
 
 2° La date des déclarations de mise en production d'alcool, de fabrication de mistelles, vermouths, vins de liqueur ou
 apéritifs à base de vin, de cidre ou de poiré, de fabrication de vins mousseux, et de fabrication de vins doux naturels,
-prévues aux articles 312, 343, 413 et 416 dudit code ;
+prévues aux articles 312, 343, 413 et 416 dudit code ; 
 
-3° La date des déclarations de récolte, des stocks et de production prévues aux articles 407, 408 et 410 bis dudit code ;
+3° La date des déclarations de récolte, des stocks et de production prévues aux articles 407, 408 et 410 bis dudit code ; 
 
-4° La date de la prise en charge des produits alcooligènes visés à l'article 338 du même code ;
+4° La date de la prise en charge des produits alcooligènes visés à l'article 338 du même code ; 
 
-5° La nature et la date de toute autre opération constituant une "entrée" ou une "sortie" selon le B du IX de l'article 286 J
-de l'annexe II au code général des impôts ;
+5° La nature et la date de toute autre opération constituant une " entrée " ou une " sortie " selon le B du IX de l'article
+286 J de l'annexe II au code général des impôts ; 
 
-6° La date de la déclaration récapitulative mensuelle mentionnée au IV de l'article 286 J précité ;
+6° La date de la déclaration récapitulative mensuelle mentionnée au IV de l'article 286 J précité ; 
 
-7° L'espèce, la qualité et la nature des produits mentionnés au III de l'article 302 G dudit code et, le cas échéant :
+7° L'espèce, la qualité et la nature des produits mentionnés au III de l'article 302 G dudit code et, le cas échéant : 
 
-a) Les mentions relatives aux comptes d'âge ou de vieillissement ;
+a) Les mentions relatives aux comptes d'âge ou de vieillissement ; 
 
-b) Les références aux contrats d'achat soumis au visa de l'Office national interprofessionnel des fruits, des légumes, des
-vins et de l'horticulture pour les transactions soumises à cette procédure ;
+b) Les références aux contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural pour
+les transactions soumises à cette procédure ; 
 
-c) Les références aux certificats d'agrément ou de labellisation ;
+c) Les références aux certificats d'agrément ou de labellisation ; 
 
 d) Les numéros d'enregistrement des contrats d'achat et les numéros des déclarations de transactions soumis préalablement aux
-interprofessions tels que prévus dans les accords interprofessionnels étendus ;
+interprofessions tels que prévus dans les accords interprofessionnels étendus ; 
 
 e) L'avis de blocage, l'engagement de garantie ou la mainlevée du porteur de warrant agricole ou du porteur de l'engagement
-de garantie.
+de garantie. 
 
 8° La référence aux rhums traditionnels des départements d'outre-mer, soumis au tarif d'imposition prévu au 1° du I de
-l'article 403 au code général des impôts, sous couvert d'une rubrique intitulée "Rhums des DOM, article 403 (I, 1°)",
+l'article 403 au code général des impôts, sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
 subdivisée, selon le cas, par appellation d'origine ou par dénomination économique ou géographique.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 2007-03-30
 
 _Cite_:
 
@@ -8196,18 +8192,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-1780 2005-12-30 art. 3 I, VI, art. 4 JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-  - Décret n°2005-1780 du 30 décembre 2005 - art. 3 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-  - Décret n°2005-1780 du 30 décembre 2005 - art. 4 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+  - Ordonnance n°2009-325 du 25 mars 2009 - art. 9
 
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 A (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 H (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 50-00 D
@@ -8328,123 +8318,123 @@ _Cite_:
 
 ###### Article 50-00 G
 
-I. - Pour l'application du III de l'article 286 I et du IV de l'article 286 J de l'annexe II au code général des impôts,
+I.-Pour l'application du III de l'article 286 I et du IV de l'article 286 J de l'annexe II au code général des impôts,
 l'entrepositaire agréé établit une déclaration récapitulative mensuelle distincte pour chacun de ses entrepôts fiscaux
 suspensifs des droits d'accises.
 
 A défaut d'opération de production, de transformation, d'entrée et de sortie de produits de l'entrepôt fiscal suspensif des
 droits d'accises, l'entrepositaire agréé adresse au service des douanes et droits indirects la déclaration mensuelle en y
-indiquant le stock théorique en début de période, le stock théorique en fin de période, annotée de la mention "Néant".
+indiquant le stock théorique en début de période, le stock théorique en fin de période, annotée de la mention " Néant ". 
 
 1° La déclaration récapitulative mensuelle comporte, pour chaque compte de la comptabilité matières, les renseignements
-suivants :
+suivants : 
 
-a) Les noms ou raison sociale et adresse du siège social ;
+a) Les noms ou raison sociale et adresse du siège social ; 
 
-b) Le numéro d'identification de l'entrepôt fiscal suspensif des droits d'accises ;
+b) Le numéro d'identification de l'entrepôt fiscal suspensif des droits d'accises ; 
 
-c) L'adresse de l'entrepôt fiscal suspensif des droits d'accises pour lequel est établie la déclaration mensuelle ;
+c) L'adresse de l'entrepôt fiscal suspensif des droits d'accises pour lequel est établie la déclaration mensuelle ; 
 
-d) Le lieu où est tenue la comptabilité matières ;
+d) Le lieu où est tenue la comptabilité matières ; 
 
-e) L'année au titre de laquelle la déclaration est établie ;
+e) L'année au titre de laquelle la déclaration est établie ; 
 
-f) Le mois au titre duquel la déclaration est établie ;
+f) Le mois au titre duquel la déclaration est établie ; 
 
-g) Les date et lieu d'établissement de la déclaration et la signature du déclarant appuyée du cachet de son entreprise ;
+g) Les date et lieu d'établissement de la déclaration et la signature du déclarant appuyée du cachet de son entreprise ; 
 
-h) La raison sociale de la caution ou, le cas échéant, la mention "Dispense".
+h) La raison sociale de la caution ou, le cas échéant, la mention " Dispense ". 
 
-2° La déclaration récapitulative mensuelle indique, le cas échéant :
+2° La déclaration récapitulative mensuelle indique, le cas échéant : 
 
-a) Les mentions relatives aux comptes d'âge ou de vieillissement ;
+a) Les mentions relatives aux comptes d'âge ou de vieillissement ; 
 
-b) Les références aux contrats d'achat soumis au visa de l'Office national interprofessionnel des fruits, des légumes, des
-vins et de l'horticulture pour les transactions soumises à cette procédure ;
+b) Les références aux contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural pour
+les transactions soumises à cette procédure ; 
 
-c) Les références aux certificats d'agrément ou de labellisation ;
+c) Les références aux certificats d'agrément ou de labellisation ; 
 
 d) Les numéros d'enregistrement des contrats d'achat et les numéros des déclarations de transactions soumis préalablement aux
-interprofessions tels que prévus dans les accords interprofessionnels étendus ;
+interprofessions tels que prévus dans les accords interprofessionnels étendus ; 
 
 e) L'avis de blocage, l'engagement de garantie ou la mainlevée du porteur de warrant agricole ou du porteur de l'engagement
-de garantie.
+de garantie. 
 
 3° La déclaration récapitulative mensuelle indique le stock début de période, le stock fin de période, le total des entrées
-et sorties de produits du mois précédent et le solde :
+et sorties de produits du mois précédent et le solde : 
 
 a) Pour les entrepositaires agréés produisant des alcools, des produits intermédiaires et des produits visés à l'article 438
-du code général des impôts, par appellation d'origine ou dénomination de produits ;
+du code général des impôts, par appellation d'origine ou dénomination de produits ; 
 
-b) Pour les autres entrepositaires agréés par nature de produit et/ou par tarif d'imposition, sous réserve des règlements ou
-accords interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural.
+b) Pour les autres entrepositaires agréés par nature de produit et / ou par tarif d'imposition, sous réserve des règlements
+ou accords interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural. 
 
-II. - 1° Conformément au III de l'article 302 D du code général des impôts, l'entrepositaire agréé liquide l'impôt sur la
-déclaration récapitulative mensuelle prévue au I.
+II.-1° Conformément au III de l'article 302 D du code général des impôts, l'entrepositaire agréé liquide l'impôt sur la
+déclaration récapitulative mensuelle prévue au I. 
 
 Outre les renseignements prévus au 1° du I, la déclaration comporte les informations suivantes nécessaires à la liquidation
-et au paiement de l'impôt :
+et au paiement de l'impôt : 
 
 a) Le régime fiscal assigné à la déclaration, soit la lettre A pour accises au titre de l'article 302 D précité ou la lettre
-D pour douane en cas d'option pour le régime de l'article 1698 C dudit code ;
+D pour douane en cas d'option pour le régime de l'article 1698 C dudit code ; 
 
 b) La désignation commerciale des produits imposables, nombre et type de récipients, volume nominal des récipients, titre
 alcoométrique volumique (% vol.) et degré alcoométrique (pour les bières) et, pour les déclarations d'apposition de capsules,
-empreintes, vignettes, ou marques représentatives de droits indirects, leur nature et leur nombre ;
+empreintes, vignettes, ou marques représentatives de droits indirects, leur nature et leur nombre ; 
 
-c) Les quantités imposables par nature de produits ;
+c) Les quantités imposables par nature de produits ; 
 
-d) Les tarifs d'imposition ;
+d) Les tarifs d'imposition ; 
 
 e) Le montant des droits à acquitter par nature de produits et tarif d'imposition, ainsi que le montant global de l'ensemble
-de ces droits ;
+de ces droits ; 
 
-f) Le moyen de paiement utilisé (numéraire, chèque, virement ou obligation cautionnée) ;
+f) Le moyen de paiement utilisé (numéraire, chèque, virement ou obligation cautionnée) ; 
 
-g) Pour les utilisateurs de matériels de validation, les numéros d'empreintes de début et de fin de période.
+g) Pour les utilisateurs de matériels de validation, les numéros d'empreintes de début et de fin de période. 
 
 2° Deux cases et une colonne réservées à l'administration font référence aux codes taxes, à la réception de la déclaration de
 liquidation (date et numéro) et à sa prise en recette (montant, date et numéro de caisse, visa du service des douanes et
-droits indirects et nature de la garantie dont bénéficie l'entrepositaire agréé).
+droits indirects et nature de la garantie dont bénéficie l'entrepositaire agréé). 
 
 3° Lorsque le bénéfice de la compensation est demandé au titre de l'article 286 M de l'annexe II au code général des impôts,
 une sous-rubrique est créée au regard de chaque catégorie de produit concerné. Cette compensation se traduit par
 l'inscription, d'une part, des quantités de produits ayant préalablement supporté l'impôt et replacées en suspension de
 droits dans l'entrepôt fiscal suspensif des droits d'accises et, d'autre part, par une écriture négative du montant des
-droits qui s'y rattache.
+droits qui s'y rattache. 
 
 4° Lorsque la compensation n'a pas été possible au terme des trois mois qui suivent le dépôt de la demande, le crédit d'impôt
-subsistant est alors remboursé au bénéficiaire, sur sa demande.
+subsistant est alors remboursé au bénéficiaire, sur sa demande. 
 
-III. - Pour l'application des articles 111 H quater et 111 H sexies de l'annexe III au code général des impôts, aux termes du
+III.-Pour l'application des articles 111 H quater et 111 H sexies de l'annexe III au code général des impôts, aux termes du
 délai d'information prévu par l'article 302 P du code général des impôts, l'entrepositaire agréé établit un relevé des
 documents d'accompagnement non apurés mentionnés au I de l'article 302 M dudit code ou des opérations réalisées en suspension
-des droits d'accises conformément à l'article 443 du même code, dénommé ci-après "relevé de non-apurement".
+des droits d'accises conformément à l'article 443 du même code, dénommé ci-après " relevé de non-apurement ". 
 
-Le relevé de non-apurement est conforme au modèle annexé à l'arrêté du 25 août 2000 (JO du 31 août 2000).
+Le relevé de non-apurement est conforme au modèle annexé à l'arrêté du 25 août 2000 (JO du 31 août 2000). 
 
 Le relevé de non-apurement est établi de manière distincte pour chacun des entrepôts fiscaux suspensifs des droits d'accises
-de l'entrepositaire agréé.
+de l'entrepositaire agréé. 
 
 Ce relevé est transmis par l'entrepositaire agréé au service des douanes et droits indirects dont il dépend selon les mêmes
-modalités et dans les conditions prévues pour la déclaration récapitulative mensuelle.
+modalités et dans les conditions prévues pour la déclaration récapitulative mensuelle. 
 
 Un exemplaire de chaque document d'accompagnement non apuré ou une copie du document mentionné au c du II de l'article 111 H
-sexies précité est annexé au relevé de non-apurement.
+sexies précité est annexé au relevé de non-apurement. 
 
-Outre les renseignements prévus au 1° du I, le relevé de non-apurement comporte les renseignements suivants :
+Outre les renseignements prévus au 1° du I, le relevé de non-apurement comporte les renseignements suivants : 
 
 a) Le numéro du document d'accompagnement ou les références du document mentionné au c du II de l'article 111 H sexies
-précité ;
+précité ; 
 
-b) La date de départ du document ;
+b) La date de départ du document ; 
 
-c) Les nom ou raison sociale et l'adresse du destinataire ;
+c) Les nom ou raison sociale et l'adresse du destinataire ; 
 
-d) Le numéro d'identification du destinataire.
+d) Le numéro d'identification du destinataire. 
 
 Si toutes les opérations réalisées par l'entrepositaire agréé ont fait l'objet d'un apurement, ce dernier annote la
-déclaration récapitulative mensuelle de la mention "Pas de défaut d'apurement".
+déclaration récapitulative mensuelle de la mention " Pas de défaut d'apurement ".
 
 **Liens relatifs à cet article**
 
@@ -8462,17 +8452,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1780 2005-12-30 art. 3 I, VI, art. 4 JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-  - Décret n°2005-1780 du 30 décembre 2005 - art. 3 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-  - Décret n°2005-1780 du 30 décembre 2005 - art. 4 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
-_Codifié par_:
-
-  - arrêté 2007-03-30
+  - Ordonnance n°2009-325 du 25 mars 2009 - art. 9
 
 
 ###### Article 50-00 H
@@ -15968,62 +15948,57 @@ _Cite_:
 
 ###### Article 167
 
-1. Sont notamment soumis au régime prévu au 1 de l'article 165 :
+1. Sont notamment soumis au régime prévu au 1 de l'article 165 : 
 
-voies navigables de France ;
+voies navigables de France ; 
 
-la caisse nationale du crédit agricole ;
+la caisse nationale du crédit agricole ; 
 
-les chambres de commerce et d'industrie et ports autonomes ;
+les chambres de commerce et d'industrie et ports autonomes ; 
 
-le comité national interprofessionnel des viandes ;
+le comité national interprofessionnel des viandes ; 
 
-l'entreprise de recherches et d'activités pétrolières (ERAP) ;
+l'entreprise de recherches et d'activités pétrolières (ERAP) ; 
 
-l'entreprise minière et chimique ;
+l'entreprise minière et chimique ; 
 
-les régies municipales, intercommunales et départementales exploitant des services à caractère industriel et commercial.
+les régies municipales, intercommunales et départementales exploitant des services à caractère industriel et commercial. 
 
-2. Sont notamment soumis au régime prévu au 2 de l'article 165 :
+2. Sont notamment soumis au régime prévu au 2 de l'article 165 : 
 
-les manufactures nationales ;
+les manufactures nationales ; 
 
-l'établissement public La Monnaie de Paris ;
+l'établissement public La Monnaie de Paris ; 
 
-les arsenaux, poudreries et usines mécaniques de l'Etat.
+les arsenaux, poudreries et usines mécaniques de l'Etat. 
 
-3. Sont notamment soumis au régime prévu au 1 de l'article 166 :
+3. Sont notamment soumis au régime prévu au 1 de l'article 166 : 
 
-l'établissement national des invalides de la marine ;
+l'établissement national des invalides de la marine ; 
 
-la caisse des retraites des inscrits maritimes ;
+la caisse des retraites des inscrits maritimes ; 
 
-la caisse des retraites des agents du service général ;
+la caisse des retraites des agents du service général ; 
 
-la caisse de prévoyance des marins français ;
+la caisse de prévoyance des marins français ; 
 
-la caisse générale de garantie des assurances sociales ;
+la caisse générale de garantie des assurances sociales ; 
 
-la caisse de retraite des ouvriers mineurs ;
+la caisse de retraite des ouvriers mineurs ; 
 
-la caisse de compensation pour la décentralisation de l'industrie aéronautique ;
+la caisse de compensation pour la décentralisation de l'industrie aéronautique ; 
 
-les chambres d'agriculture ;
+les chambres d'agriculture ; 
 
-les chambres de métiers et de l'artisanat ;
+les chambres de métiers et de l'artisanat ; 
 
-les sections de l'office de répartition des produits industriels ;
+les sections de l'office de répartition des produits industriels ; 
 
-l'Office national interprofessionnel des grandes cultures ;
+l'     établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ; 
 
 l'office national des anciens combattants et victimes de guerre.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 2006-03-24
-  - Arrêté 2007-03-30
 
 _Cite_:
 
@@ -16031,7 +16006,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
+  - Ordonnance n°2009-325 du 25 mars 2009 - art. 12
 
 
 #### Section III : Enregistrement, publicité foncière et timbre<a id=222></a>
@@ -16096,7 +16071,7 @@ l'office national des anciens combattants et victimes de guerre ;
 
 voies navigables de France ; 
 
-l'Office national interprofessionnel des grandes cultures ; 
+l'     établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ; 
 
 les offices publics de l'habitat ; 
 
@@ -16110,7 +16085,7 @@ Modification effectuée en conséquence de l'article 6 de l'ordonnance n° 2007-
 
 _Modifié par_:
 
-  - Arrêté du 1er avril 2008 - art. 1
+  - Ordonnance n°2009-325 du 25 mars 2009 - art. 12
 
 _Cite_:
 
