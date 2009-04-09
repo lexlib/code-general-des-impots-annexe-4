@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-04-10
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -179,77 +179,74 @@ Version Consolidée au 2009-03-28
               - [2° : Cercles et maisons de jeux (art. 146 à 154)](#176)
         - [Chapitre III : Enregistrement (art. 155 A à 155 B)](#177)
           - [Section unique : Taxe locale d'équipement (art. 155 A à 155 B)](#178)
-      - [Titre I bis : Impositions départementales (art. 155 N)](#179)
-        - [Chapitre II : Droits d'enregistrement et taxe de publicité foncière (art. 155 N)](#180)
-          - [Réduction accordée dans le cadre de l'aménagement du territoire (art. 155 N)](#181)
-      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 155 ter à 159 octies)](#182)
-        - [Chapitre premier : Droits d'enregistrement (art. 155 ter à 155 quater)](#183)
-          - [1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France (art. 155 ter)](#184)
-          - [2° : Taxe sur les certificats d'immatriculation des véhicules. (art. 155 quater)](#185)
-        - [Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées (art. 159 ter A à 159 AD)](#186)
-          - [Section II : Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles (art. 159 ter A)](#187)
-            - [III : Huiles (art. 159 ter A)](#188)
-          - [Section III : Taxe d'abattage (art. 159 A)](#189)
-          - [Section IV : Fonds national du livre (art. 159 AA à 159 AD)](#190)
-            - [I : Redevance sur l'édition des ouvrages de librairie (art. 159 AA)](#191)
-            - [II : Taxe sur les appareils de reproduction ou d'impression (art. 159 AD)](#192)
-        - [Chapitre III : Enregistrement (art. 159 quater à 159 octies)](#193)
-          - [Section I : Fonds national de garantie des calamités agricoles. (art. 159 quater)](#194)
-          - [Section II : Fonds de garantie des assurances obligatoires de dommages (art. 159 quinquies-0 A à 159 quinquies-0 B)](#195)
-            - [A : Accidents de circulation (art. 159 quinquies-0 A)](#196)
-            - [B : Accidents de chasse (art. 159 quinquies-0 B)](#197)
-          - [Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers (art. 159 octies)](#198)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 164 FB à 170 undecies)](#199)
-      - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AX)](#200)
-        - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#201)
-          - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#202)
-        - [Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs (art. 164 F novodecies A à 164 F novodecies B)](#203)
-        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F unvicies à 164 F tervicies)](#204)
-          - [Section I : Centres de gestion agréés (art. 164 F unvicies à 164 F unvicies F)](#205)
-            - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#206)
-          - [Section II : Associations agréées des professions libérales (art. 164 F duovicies à 164 F tervicies)](#207)
-        - [Chapitre III : Réglementation des machines à timbrer (art. 164 L à 164 AL bis)](#208)
-          - [I : Définitions (art. 164 L)](#209)
-          - [II : Dispositions communes (art. 164 M à 164 AL bis)](#210)
-            - [A : Caractéristiques générales des machines (art. 164 M à 164 O)](#211)
-            - [B : Agrément des machines (art. 164 P à 164 S)](#212)
-            - [C : Autorisation de placer les machines chez les usagers (art. 164 T à 164 V)](#213)
-            - [D : Obligations des concessionnaires (art. 164 AA à 164 Z)](#214)
-            - [E : Obligations des usagers (art. 164 AD à 164 AG)](#215)
-            - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#216)
-            - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#217)
-            - [H : Compétence des agents de la direction générale des douanes et droits indirects (art. 164 AL bis)](#218)
-        - [Chapitre IV : Systèmes informatiques sécurisés et matériels de validation (art. 164 AM à 164 AX)](#219)
-      - [Titre II : Dispositions diverses (art. 165 à 170 undecies)](#220)
-        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#221)
-        - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#222)
-        - [Section IV : Dispositions communes (art. 170 decies à 170 sexies)](#223)
-          - [Octroi de certains agréments fiscaux (art. 170 decies à 170 sexies)](#224)
-        - [Section V : Commissions administratives des impôts (art. 170 undecies)](#225)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#226)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#227)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188 ter)](#228)
-        - [3 : Paiement de l'impôt (art. 187 à 188 ter)](#229)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#230)
-      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H à 188-0 H)](#231)
-      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I à 188-0 I)](#232)
-      - [Section I quinquies : Prélèvement sur les dividendes (art. 188 K à 188 L)](#233)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#234)
-      - [Section III : Contributions indirectes (art. 193)](#235)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#236)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#237)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#238)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#239)
-        - [6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis (art. 198 septies)](#240)
-        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#241)
-      - [Section V : Dispositions communes (art. 199-0 à 204)](#242)
-        - [1° : Date de limite de paiement ou de prélèvement (art. 199-0)](#243)
-        - [2° : Paiement par chèques (art. 199 à 204)](#244)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#245)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#246)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#247)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#248)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#249)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 155 ter à 159 octies)](#179)
+        - [Chapitre premier : Droits d'enregistrement (art. 155 ter à 155 quater)](#180)
+          - [1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France (art. 155 ter)](#181)
+          - [2° : Taxe sur les certificats d'immatriculation des véhicules. (art. 155 quater)](#182)
+        - [Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées (art. 159 ter A à 159 AD)](#183)
+          - [Section II : Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles (art. 159 ter A)](#184)
+            - [III : Huiles (art. 159 ter A)](#185)
+          - [Section III : Taxe d'abattage (art. 159 A)](#186)
+          - [Section IV : Fonds national du livre (art. 159 AA à 159 AD)](#187)
+            - [I : Redevance sur l'édition des ouvrages de librairie (art. 159 AA)](#188)
+            - [II : Taxe sur les appareils de reproduction ou d'impression (art. 159 AD)](#189)
+        - [Chapitre III : Enregistrement (art. 159 quater à 159 octies)](#190)
+          - [Section I : Fonds national de garantie des calamités agricoles. (art. 159 quater)](#191)
+          - [Section II : Fonds de garantie des assurances obligatoires de dommages (art. 159 quinquies-0 A à 159 quinquies-0 B)](#192)
+            - [A : Accidents de circulation (art. 159 quinquies-0 A)](#193)
+            - [B : Accidents de chasse (art. 159 quinquies-0 B)](#194)
+          - [Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers (art. 159 octies)](#195)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 164 FB à 170 undecies)](#196)
+      - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AX)](#197)
+        - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#198)
+          - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#199)
+        - [Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs (art. 164 F novodecies A à 164 F novodecies B)](#200)
+        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F unvicies A à 164 F sexvicies)](#201)
+          - [Section I : Centres de gestion agréés (art. 164 F unvicies A à 164 F unvicies F)](#202)
+            - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#203)
+          - [Section II : Associations agréées des professions libérales (art. 164 F octovicies à 164 F sexvicies)](#204)
+        - [Chapitre III : Réglementation des machines à timbrer (art. 164 L à 164 AL bis)](#205)
+          - [I : Définitions (art. 164 L)](#206)
+          - [II : Dispositions communes (art. 164 M à 164 AL bis)](#207)
+            - [A : Caractéristiques générales des machines (art. 164 M à 164 O)](#208)
+            - [B : Agrément des machines (art. 164 P à 164 S)](#209)
+            - [C : Autorisation de placer les machines chez les usagers (art. 164 T à 164 V)](#210)
+            - [D : Obligations des concessionnaires (art. 164 AA à 164 Z)](#211)
+            - [E : Obligations des usagers (art. 164 AD à 164 AG)](#212)
+            - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#213)
+            - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#214)
+            - [H : Compétence des agents de la direction générale des douanes et droits indirects (art. 164 AL bis)](#215)
+        - [Chapitre IV : Systèmes informatiques sécurisés et matériels de validation (art. 164 AM à 164 AX)](#216)
+      - [Titre II : Dispositions diverses (art. 165 à 170 undecies)](#217)
+        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#218)
+        - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#219)
+        - [Section IV : Dispositions communes (art. 170 decies à 170 sexies)](#220)
+          - [Octroi de certains agréments fiscaux (art. 170 decies à 170 sexies)](#221)
+        - [Section V : Commissions administratives des impôts (art. 170 undecies)](#222)
+  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#223)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#224)
+      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188 ter)](#225)
+        - [3 : Paiement de l'impôt (art. 187 à 188 ter)](#226)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#227)
+      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H à 188-0 H)](#228)
+      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I à 188-0 I)](#229)
+      - [Section I quinquies : Prélèvement sur les dividendes (art. 188 K à 188 L)](#230)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#231)
+      - [Section III : Contributions indirectes (art. 193)](#232)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#233)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#234)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#235)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#236)
+        - [6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis (art. 198 septies)](#237)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#238)
+      - [Section V : Dispositions communes (art. 199-0 à 204)](#239)
+        - [1° : Date de limite de paiement ou de prélèvement (art. 199-0)](#240)
+        - [2° : Paiement par chèques (art. 199 à 204)](#241)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#242)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#243)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#244)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#245)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#246)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -3925,12 +3922,12 @@ _Cite_:
 
 ###### Article 33
 
-Les dispositions de l'article 32 ne sont pas applicables aux personnes désignées ci-après :
+Les dispositions de l'article 32 ne sont pas applicables aux personnes désignées ci-après : 
 
-Personnes qui réalisent les opérations définies au 6° de l'article 257 du code général des impôts ;
+Personnes qui réalisent les opérations définies au 6° de l'article 257 du code général des impôts ; 
 
-Personnes se livrant aux activités visées au 7° de l'article 257 du même code ou à des activités assimilées  à l'exclusion
-des personnes visées à l'article 50 sexies A de la présente annexe.
+Personnes se livrant aux activités visées au 7° de l'article 257 du même code ou à des activités assimilées à l'exclusion des
+personnes visées à l'article 50 sexies A.
 
 Personnes physiques propriétaires d'immeubles loués ou de monuments historiques ouverts au public dont les loyers ou les
 recettes sont imposés à l'impôt sur le revenu dans la catégorie des revenus fonciers : les déclarations prévues par les
@@ -3942,20 +3939,17 @@ du bien dont le chiffre d'affaires est le plus élevé.
 
 _Modifié par_:
 
-  - Arrêté 1992-07-28 art. 1 JORF 6 août 1992
-
-_Cite_:
-
-  - CGI 32, 257, 286, 287
-  - CGIAN4 32, 50 sexies A
+  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 32 (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 18 août 1993
+  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies A
+  - Code général des impôts, CGI. - art. 257
+  - Code général des impôts, CGI. - art. 286
 
 
 ###### Article 35
@@ -8173,7 +8167,7 @@ des chais ou locaux du site d'exploitation ;
 
 2° La date des déclarations de mise en production d'alcool, de fabrication de mistelles, vermouths, vins de liqueur ou
 apéritifs à base de vin, de cidre ou de poiré, de fabrication de vins mousseux, et de fabrication de vins doux naturels,
-prévues aux articles 312, 343, 413 et 416 dudit code ; 
+prévues aux articles 312, 343 et 416 dudit code ; 
 
 3° La date des déclarations de récolte, des stocks et de production prévues aux articles 407, 408 et 410 bis dudit code ; 
 
@@ -8203,16 +8197,30 @@ de garantie.
 l'article 403 au code général des impôts, sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
 subdivisée, selon le cas, par appellation d'origine ou par dénomination économique ou géographique.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 63 1° de la loi n° 2008-443 du 30 décembre 2008.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 302, 312, 343, 413, 416, 407, 408, 410 bis, 338, 403
-  - CGIAN2 286 J
 
 _Modifié par_:
 
-  - Ordonnance n°2009-325 du 25 mars 2009 - art. 9
+  - Arrêté du 7 avril 2009 - art. 1 (V)
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J
+  - Code général des impôts, annexe 2, CGIAN2. - art. 408
+  - Code général des impôts, CGI. - art. 302 G
+  - Code général des impôts, CGI. - art. 302 M
+  - Code général des impôts, CGI. - art. 312
+  - Code général des impôts, CGI. - art. 338
+  - Code général des impôts, CGI. - art. 343
+  - Code général des impôts, CGI. - art. 403
+  - Code général des impôts, CGI. - art. 407
+  - Code général des impôts, CGI. - art. 410 bis
+  - Code général des impôts, CGI. - art. 416
+  - Code rural - art. L621-1
 
 _Cité par_:
 
@@ -8426,10 +8434,9 @@ droits qui s'y rattache.
 4° Lorsque la compensation n'a pas été possible au terme des trois mois qui suivent le dépôt de la demande, le crédit d'impôt
 subsistant est alors remboursé au bénéficiaire, sur sa demande. 
 
-III.-Pour l'application des articles 111 H quater et 111 H sexies de l'annexe III au code général des impôts, aux termes du
-délai d'information prévu par l'article 302 P du code général des impôts, l'entrepositaire agréé établit un relevé des
-documents d'accompagnement non apurés mentionnés au I de l'article 302 M dudit code ou des opérations réalisées en suspension
-des droits d'accises conformément à l'article 443 du même code, dénommé ci-après " relevé de non-apurement ". 
+III.-Pour l'application de l'article 111 H quater de l'annexe III au code général des impôts, aux termes du délai
+d'information prévu par l'article 302 P du code général des impôts, l'entrepositaire agréé établit un relevé des documents
+d'accompagnement non apurés mentionnés au I de l'article 302 M dudit code, dénommé ci-après " relevé de non-apurement ". 
 
 Le relevé de non-apurement est conforme au modèle annexé à l'arrêté du 25 août 2000 (JO du 31 août 2000). 
 
@@ -8439,13 +8446,11 @@ de l'entrepositaire agréé.
 Ce relevé est transmis par l'entrepositaire agréé au service des douanes et droits indirects dont il dépend selon les mêmes
 modalités et dans les conditions prévues pour la déclaration récapitulative mensuelle. 
 
-Un exemplaire de chaque document d'accompagnement non apuré ou une copie du document mentionné au c du II de l'article 111 H
-sexies précité est annexé au relevé de non-apurement. 
+Un exemplaire de chaque document d'accompagnement non apuré est annexé au relevé de non-apurement. 
 
 Outre les renseignements prévus au 1° du I, le relevé de non-apurement comporte les renseignements suivants : 
 
-a) Le numéro du document d'accompagnement ou les références du document mentionné au c du II de l'article 111 H sexies
-précité ; 
+a) Le numéro du document d'accompagnement ; 
 
 b) La date de départ du document ; 
 
@@ -8456,23 +8461,33 @@ d) Le numéro d'identification du destinataire.
 Si toutes les opérations réalisées par l'entrepositaire agréé ont fait l'objet d'un apurement, ce dernier annote la
 déclaration récapitulative mensuelle de la mention " Pas de défaut d'apurement ".
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 78 II et V de la loi n° 2007-1824 du 25 décembre 2007.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Arrêté 2000-08-25 Annexe
-  - CGI 438, 302 D, 1698 C, 302 P, 302 M, 443
-  - CGIAN2 286 J, 286 I, 286 M
-  - CGIAN3 111 H quater, 111 H sexies
-  - Code rural L632-1 à L632-7
+  - Arrêté du 25 août 2000
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 M
+  - Code général des impôts, CGI. - art. 1698 C
+  - Code général des impôts, CGI. - art. 302 D
+  - Code général des impôts, CGI. - art. 302 P
+  - Code général des impôts, CGI. - art. 438
+  - Code rural - art. L621-1
+  - Code rural - art. L632-1
+  - 
+
+_Modifié par_:
+
+  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 A (V)
-
-_Modifié par_:
-
-  - Ordonnance n°2009-325 du 25 mars 2009 - art. 9
 
 
 ###### Article 50-00 H
@@ -9421,8 +9436,8 @@ _Cité par_:
 
 ###### Article 52 ter
 
-Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
-réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
+I.-Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts
+est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
 d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2011 conformément au tableau ci-après : 
 
 Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
@@ -9435,7 +9450,7 @@ Réunion : rhum traditionnel de sucrerie, 17 000 hectolitres d'alcool pur ;
 
 Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur. 
 
-Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
+II. Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
 traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et, d'autre part, entre les départements
 d'outre-mer jusqu'au 31 décembre 2010, conformément au tableau ci-après : 
 
@@ -9449,11 +9464,19 @@ Réunion : rhum traditionnel de sucrerie, 3 615 hectolitres d'alcool pur ;
 
 Guyane : rhum traditionnel agricole, 300 hectolitres d'alcool pur.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er et 2 de l'arrêté du 14 novembre 2008.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 14 novembre 2008 - art. 1
+  - Arrêté du 7 avril 2009 - art. 1 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 362
 
 
 ##### 2° : Régime de l'exportation préalable<a id=114></a>
@@ -13587,47 +13610,11 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 155 A
 
 
-### Titre I bis : Impositions départementales<a id=179></a>
+### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=179></a>
 
-#### Chapitre II : Droits d'enregistrement et taxe de publicité foncière<a id=180></a>
+#### Chapitre premier : Droits d'enregistrement<a id=180></a>
 
-##### Réduction accordée dans le cadre de l'aménagement du territoire<a id=181></a>
-
-###### Article 155 N
-
-La réduction du droit de mutation prévu à l'article 721 du code général des impôts peut être accordée sur agrément dans les
-conditions définies aux articles 121 quinquies DB bis à 121 quinquies DB septies, 170 quinquies et 170 octies.
-
-**Nota:**
-
-Article devenu sans objet en conséquence de l'article 64-V de la loi n° 2008-776 du 4 août 2008.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1999-05-18
-
-_Cite_:
-
-  - CGI 721
-  - CGIAN4 121 quinquies DB bis à DB septies, 170 quinquies, 170 octies
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
-  - PERIME: Arrêté du 7 avril 2009 - art. 1 (V)
-
-_Modifié par_:
-
-  - Loi n°98-1266 1998-12-30 art. 39 I 4 Finances pour 1999 JORF 31 décembre 1998
-
-
-### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=182></a>
-
-#### Chapitre premier : Droits d'enregistrement<a id=183></a>
-
-##### 1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France<a id=184></a>
+##### 1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France<a id=181></a>
 
 ###### Article 155 ter
 
@@ -13818,7 +13805,7 @@ _Anciens textes_:
   - CGIAN4 159 sexies A
 
 
-##### 2° : Taxe sur les certificats d'immatriculation des véhicules.<a id=185></a>
+##### 2° : Taxe sur les certificats d'immatriculation des véhicules.<a id=182></a>
 
 ###### Article 155 quater
 
@@ -13844,11 +13831,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1599 sexdecies (V)
 
 
-#### Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées<a id=186></a>
+#### Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées<a id=183></a>
 
-##### Section II : Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles<a id=187></a>
+##### Section II : Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles<a id=184></a>
 
-##### III : Huiles<a id=188></a>
+##### III : Huiles<a id=185></a>
 
 ###### Article 159 ter A
 
@@ -13877,7 +13864,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1609 vicies (V)
 
 
-##### Section III : Taxe d'abattage<a id=189></a>
+##### Section III : Taxe d'abattage<a id=186></a>
 
 ###### Article 159 A
 
@@ -13916,9 +13903,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1609 septvicies
 
 
-##### Section IV : Fonds national du livre<a id=190></a>
+##### Section IV : Fonds national du livre<a id=187></a>
 
-##### I : Redevance sur l'édition des ouvrages de librairie<a id=191></a>
+##### I : Redevance sur l'édition des ouvrages de librairie<a id=188></a>
 
 ###### Article 159 AA
 
@@ -13946,7 +13933,7 @@ _Modifié par_:
   - PERIME: Arrêté du 6 juin 2019 - art. 1
 
 
-##### II : Taxe sur les appareils de reproduction ou d'impression<a id=192></a>
+##### II : Taxe sur les appareils de reproduction ou d'impression<a id=189></a>
 
 ###### Article 159 AD
 
@@ -13982,9 +13969,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1609 terdecies
 
 
-#### Chapitre III : Enregistrement<a id=193></a>
+#### Chapitre III : Enregistrement<a id=190></a>
 
-##### Section I : Fonds national de garantie des calamités agricoles.<a id=194></a>
+##### Section I : Fonds national de garantie des calamités agricoles.<a id=191></a>
 
 ###### Article 159 quater
 
@@ -14022,9 +14009,9 @@ _Modifié par_:
   - HISTO: Edition du 1er janvier 2007
 
 
-##### Section II : Fonds de garantie des assurances obligatoires de dommages<a id=195></a>
+##### Section II : Fonds de garantie des assurances obligatoires de dommages<a id=192></a>
 
-##### A : Accidents de circulation<a id=196></a>
+##### A : Accidents de circulation<a id=193></a>
 
 ###### Article 159 quinquies-0 A
 
@@ -14073,7 +14060,7 @@ _Cite_:
   - HISTO: Edition du 31 août 2004
 
 
-##### B : Accidents de chasse<a id=197></a>
+##### B : Accidents de chasse<a id=194></a>
 
 ###### Article 159 quinquies-0 B
 
@@ -14111,55 +14098,55 @@ _Codifié par_:
   - HISTO: Edition du 31 août 2004
 
 
-##### Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers<a id=198></a>
+##### Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers<a id=195></a>
 
 ###### Article 159 octies
 
 Les montants de la taxe fiscale instituée par l'article 1635 bis M du code général des impôts sont fixés ainsi qu'il suit : 
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DESIGNATION                                                                                    │ A compter du 1er février ┃
+┃                                                                                                │ 2008 (en euros)          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3, │ 34                       ┃
+┃ 5 tonnes                                                                                       │                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Véhicules automobiles de transport de marchandises dont le PTAC (1) est supérieur à 3, 5       │ 127                      ┃
+┃ tonnes et inférieur à 6 tonnes                                                                 │                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 6  │ 189                      ┃
+┃ tonnes et inférieur à 11 tonnes                                                                │                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 11 │ 285                      ┃
+┃ tonnes, tracteurs routiers et véhicules de transport en commun de personnes                    │                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ (1) PTAC : poids total autorisé en charge.                                                                                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3,5 tonnes 
-
-A compter du 1er février 2007 (en euros) : 32 
-
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est supérieur à 3,5 tonnes et inférieur à 6
-tonnes 
-
-A compter du 1er février 2007 (en euros) : 124 
-
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 6 tonnes et
-inférieur à 11 tonnes 
-
-A compter du 1er février 2007 (en euros) : 186 
-
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 11 tonnes,
-tracteurs routiers et véhicules de transport en commun de personnes 
-
-A compter du 1er février 2007 (en euros) : 279 
-
-(1) PTAC : poids total autorisé en charge.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 1er de l'arrêté du 24 janvier 2007.
+Modification effectuée en conséquence de l'article 1er de l'arrêté du 30 janvier 2008.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 1er avril 2008 - art. 1
+  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1635 bis M
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=199></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=196></a>
 
-### Titre premier : Assiette et contrôle de l'impôt<a id=200></a>
+### Titre premier : Assiette et contrôle de l'impôt<a id=197></a>
 
-#### Chapitre premier : Obligations déclaratives<a id=201></a>
+#### Chapitre premier : Obligations déclaratives<a id=198></a>
 
-##### I : Déclaration des comptes financiers<a id=202></a>
+##### I : Déclaration des comptes financiers<a id=199></a>
 
 ###### Article 164 FB
 
@@ -14189,37 +14176,32 @@ _Cité par_:
 
 ###### Article 164 FC
 
-Les déclarations d'ouverture, de clôture ou de modification de comptes visées à l'article 164 FB sont souscrites dans le mois
-suivant les ouvertures, modifications et clôtures des comptes auprès de la direction des services fiscaux du siège de
-l'établissement qui gère ces comptes ou, après accord de celle-ci, auprès d'une autre direction des services fiscaux.
+Les déclarations d'ouverture, de modification et de clôture de comptes visées à l'article 164 FB sont souscrites dans le mois
+suivant les ouvertures, modifications et clôtures de comptes auprès du centre de services informatiques compétent. 
 
 Ces déclarations font l'objet d'un traitement informatisé dénommé Gestion du fichier des comptes bancaires et assimilés qui
 recense, sur support magnétique, l'existence des comptes et porte à la connaissance des services autorisés à consulter ce
-fichier (1) la liste de ceux qui sont détenus par une ou plusieurs personnes physiques ou morales.
+fichier (1) la liste de ceux qui sont détenus par une ou plusieurs personnes physiques ou morales. 
 
 Les informations ne peuvent être communiquées qu'aux personnes ou organismes bénéficiant d'une habilitation législative et
-dans la limite fixée par la loi.
+dans la limite fixée par la loi. 
 
-(1) Arrêté du 14 juin 1982, art. 4, (J.O. des 21 et 22)
+(1) Arrêté du 14 juin 1982, art. 4, (J. O. des 21 et 22)
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 1er de l'arrêté du 29 décembre 2003.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Arrêté 1982-06-14
-  - CGIAN4 164 FB
+  - Arrêté du 14 juin 1982 - art. 4
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 FB (V)
 
 _Modifié par_:
 
-  - Arrêté 1995-10-23 art. 1 JORF 31 octobre 1995
-
-_Codifié par_:
-
-  - Arrêté 1998-05-22
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
+  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 
 ###### Article 164 FD
@@ -14260,54 +14242,59 @@ _Cite_:
 
 ###### Article 164 FE
 
-Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés, s'exerce auprès du service des impôts du domicile fiscal du titulaire.
+Le droit d'accès aux informations figurant dans l'application FICOBA2 concernant le titulaire des comptes spécifiés s'exerce
+auprès de la Commission nationale de l'informatique et des libertés dans les conditions de l'article 42 de la loi n° 78-17 du
+6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, sauf en ce qui concerne les données
+d'identification pour lesquelles le droit d'accès s'exerce auprès du service des impôts du domicile du requérant. 
 
-En outre, le droit d'opposition, prévu par l'article 26 de cette même loi, ne s'applique pas au traitement mis en oeuvre.
+Le droit de rectification prévu par la loi du 6 janvier 1978 précitée s'exerce, en application de son article 40, par le
+titulaire ou ses héritiers auprès du service des impôts du domicile du requérant. 
+
+Lorsque des rectifications sont à apporter, la demande doit ensuite en être faite par le titulaire ou ses héritiers
+directement auprès de l'établissement bancaire de domiciliation du ou des comptes concernés. 
+
+En outre, le droit d'opposition prévu par l'article 38 de la loi du 6 janvier 1978 précitée ne s'applique pas au traitement
+mis en œuvre.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 3 de l'arrêté du 13 décembre 2007.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Arrêté 2006-03-24
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
-
 _Cite_:
 
-  - Loi n°78-17 1978-01-06 art. 34, art. 26
-  - Loi n°78-17 du 6 janvier 1978 - art. 26 (M)
+  - Loi n°78-17 du 6 janvier 1978 (V)
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 
 ###### Article 164 FF
 
-Il est satisfait aux obligations résultant des articles 164 FB à 164 FE par la communication d'un support magnétique ou par
-l'envoi d'imprimés normalisés. Cette dernière formule est réservée aux établissements n'assurant pas la tenue de leurs
-comptes à l'aide de moyens automatiques de traitement de l'information de nature à permettre la communication des
-renseignements à l'aide de supports magnétiques.
+Il est satisfait aux obligations résultant des articles 164 FB à 164 FE par la communication des informations sur un support
+informatique ou par réseau ou par l'envoi des imprimés normalisés. 
+
+Les établissements n'assurant pas la gestion des comptes à l'aide d'un moyen informatique de traitement de l'information sont
+tenus d'en informer le centre de services informatiques avant tout envoi de déclaration à ce service.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4 de l'arrêté du 29 décembre 2003.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1982-06-14 art. 6 JONC 22 juin 1982
-
-_Codifié par_:
-
-  - Arrêté 1982-10-15
+  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 _Cite_:
 
-  - CGI 164 FB à 164 FE
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 FB
 
 
-#### Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs<a id=203></a>
+#### Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs<a id=200></a>
 
 ###### Article 164 F novodecies A
 
@@ -14443,79 +14430,11 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies A (P)
 
 
-#### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=204></a>
+#### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=201></a>
 
-##### Section I : Centres de gestion agréés<a id=205></a>
+##### Section I : Centres de gestion agréés<a id=202></a>
 
-###### Article 164 F unvicies
-
-Les ratios et autres éléments caractérisant la situation financière et économique des entreprises qui doivent figurer dans
-les dossiers de gestion prévus à l'article 371 E de l'annexe II au code général des impôts sont fixés pour les entreprises
-industrielles commerciales et artisanales par l'arrêté du 4 février 1985 et pour les entreprises agricoles par l'arrêté du 14
-mars 1979 (1).
-
-(1) Dispositions applicables aux exercices clos postérieurement au 31 décembre 1978.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1979-03-14
-  - CGIAN2 371 E
-
-_Modifié par_:
-
-  - Arrêté 1985-02-04 art. 1, art. 3 JORF 16 février 1985
-
-_Codifié par_:
-
-  - Arrêté 1985-09-24
-
-**Liens**:
-
-  - DISJOINT: Arrêté du 7 avril 2009 - art. 1 (V)
-  - HISTO: Edition du 15 juillet 1985
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 E (VD)
-
-
-###### Article 164 F vicies
-
-Conformément aux dispositions de l'article 1649 quater E du code général des impôts et de l'article 371 C de l'annexe II
-audit code les centres de gestion agréés qui apportent une assistance en matière de gestion aux industriels, commerçants,
-artisans et agriculteurs sont liés à l'administration par une convention type qui figure en annexe à l'arrêté du 3 novembre
-1975 (1).
-
-Les parties signataires de la convention peuvent inclure dans celle-ci toute disposition complémentaire rendue nécessaire
-pour adapter la convention type aux conditions particulières de fonctionnement du centre sans pouvoir déroger aux
-dispositions de cette convention.
-
-(1) J.O. du 15 novembre 1975.
-
-**Nota:**
-
-Article devenu sans objet en conséquence de l'article 3 de l'arrêté du 2 avril 2008.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1975-11-03
-  - CGI 1649 quater E
-  - CGIAN2 371 C
-
-**Liens**:
-
-  - PERIME: Arrêté du 7 avril 2009 - art. 1 (V)
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 C (V)
-
-
-##### Tenue des documents comptables de certains adhérents<a id=206></a>
+##### Tenue des documents comptables de certains adhérents<a id=203></a>
 
 ###### Article 164 F unvicies A
 
@@ -14688,42 +14607,7 @@ _Codifié par_:
   - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 
-##### Section II : Associations agréées des professions libérales<a id=207></a>
-
-###### Article 164 F duovicies
-
-Conformément aux dispositions de l'article 1649 quater H du code général des impôts et de l'article 371 O de l'annexe II
-audit code les associations agréées ayant pour objet de développer l'usage de la comptabilité et de faciliter
-l'accomplissement de leurs obligations administratives et fiscales par les membres des professions libérales et les
-titulaires des charges et offices sont liées à l'administration fiscale par une convention type figurant en annexe à l'arrêté
-du 31 décembre 1977 (1).
-
-Les parties signataires de la convention peuvent inclure dans celle-ci toute disposition complémentaire rendue nécessaire
-pour adapter la convention type aux conditions particulières de fonctionnement de l'association  sans pouvoir déroger aux
-dispositions de cette convention.
-
-(1) J.O. du 11 janvier 1978.
-
-**Nota:**
-
-Article devenu sans objet en conséquence de l'article 3 de l'arrêté du 2 avril 2008.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1977-12-31
-  - CGI 1649 quater H
-  - CGIAN2 371 O
-
-**Liens**:
-
-  - PERIME: Arrêté du 7 avril 2009 - art. 1 (V)
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 O (V)
-
+##### Section II : Associations agréées des professions libérales<a id=204></a>
 
 ###### Article 164 F octovicies
 
@@ -14818,27 +14702,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 F septvicies (V)
 
 
-###### Article 164 F tervicies
+#### Chapitre III : Réglementation des machines à timbrer<a id=205></a>
 
-En application de l'article 1649 quater G du code général des impôts sont agréées les dispositions d'une nomenclature
-comptable pour les professions libérales et les titulaires de charges et offices figurant en annexe à l'arrêté du 30 janvier
-1978.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1978-01-30
-  - CGI 1649 quater G
-
-**Liens**:
-
-  - DISJOINT: Arrêté du 7 avril 2009 - art. 1 (V)
-
-
-#### Chapitre III : Réglementation des machines à timbrer<a id=208></a>
-
-##### I : Définitions<a id=209></a>
+##### I : Définitions<a id=206></a>
 
 ###### Article 164 L
 
@@ -14870,9 +14736,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 73 (V)
 
 
-##### II : Dispositions communes<a id=210></a>
+##### II : Dispositions communes<a id=207></a>
 
-##### A : Caractéristiques générales des machines<a id=211></a>
+##### A : Caractéristiques générales des machines<a id=208></a>
 
 ###### Article 164 M
 
@@ -14939,7 +14805,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 M (V)
 
 
-##### B : Agrément des machines<a id=212></a>
+##### B : Agrément des machines<a id=209></a>
 
 ###### Article 164 P
 
@@ -15000,7 +14866,7 @@ des télécommunications (groupement de mécanisation postale). Ce dépôt ne do
 
 
 
-##### C : Autorisation de placer les machines chez les usagers<a id=213></a>
+##### C : Autorisation de placer les machines chez les usagers<a id=210></a>
 
 ###### Article 164 T
 
@@ -15050,7 +14916,7 @@ _Modifié par_:
   - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 
-##### D : Obligations des concessionnaires<a id=214></a>
+##### D : Obligations des concessionnaires<a id=211></a>
 
 ###### Article 164 AA
 
@@ -15177,7 +15043,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 X (V)
 
 
-##### E : Obligations des usagers<a id=215></a>
+##### E : Obligations des usagers<a id=212></a>
 
 ###### Article 164 AD
 
@@ -15303,7 +15169,7 @@ _Codifié par_:
   - Arrêté 2001-05-21
 
 
-##### F : Responsabilités attachées à l'utilisation des machines<a id=216></a>
+##### F : Responsabilités attachées à l'utilisation des machines<a id=213></a>
 
 ###### Article 164 AH
 
@@ -15378,7 +15244,7 @@ _Codifié par_:
   - Arrêté 1993-09-24
 
 
-##### G : Révocation des autorisations de placer et d'utiliser les machines<a id=217></a>
+##### G : Révocation des autorisations de placer et d'utiliser les machines<a id=214></a>
 
 ###### Article 164 AL
 
@@ -15401,7 +15267,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 54 A (V)
 
 
-##### H : Compétence des agents de la direction générale des douanes et droits indirects<a id=218></a>
+##### H : Compétence des agents de la direction générale des douanes et droits indirects<a id=215></a>
 
 ###### Article 164 AL bis
 
@@ -15427,7 +15293,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 L (V)
 
 
-#### Chapitre IV : Systèmes informatiques sécurisés et matériels de validation<a id=219></a>
+#### Chapitre IV : Systèmes informatiques sécurisés et matériels de validation<a id=216></a>
 
 ###### Article 164 AM
 
@@ -15926,9 +15792,9 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 L (V)
 
 
-### Titre II : Dispositions diverses<a id=220></a>
+### Titre II : Dispositions diverses<a id=217></a>
 
-#### Section I : Impôts directs et taxes assimilées<a id=221></a>
+#### Section I : Impôts directs et taxes assimilées<a id=218></a>
 
 ###### Article 165
 
@@ -16044,7 +15910,7 @@ _Modifié par_:
   - Ordonnance n°2009-325 du 25 mars 2009 - art. 12
 
 
-#### Section III : Enregistrement, publicité foncière et timbre<a id=222></a>
+#### Section III : Enregistrement, publicité foncière et timbre<a id=219></a>
 
 ###### Article 169
 
@@ -16127,9 +15993,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1040
 
 
-#### Section IV : Dispositions communes<a id=223></a>
+#### Section IV : Dispositions communes<a id=220></a>
 
-##### Octroi de certains agréments fiscaux<a id=224></a>
+##### Octroi de certains agréments fiscaux<a id=221></a>
 
 ###### Article 170 decies
 
@@ -16218,15 +16084,15 @@ _Cite_:
 
 ###### Article 170 quinquies
 
-Il est statué sur les demandes d'agrément présentées pour l'application des articles 721 et 1465 du code général des impôts :
+Il est statué sur les demandes d'agrément présentées pour l'application de l'article  1465 du code général des impôts :
 
 1° Par le ministre chargé du budget, après avis du comité interministériel des aides à la localisation des activités institué
 par l'article 1er de l'arrêté du 10 juillet 1982 :
 
 a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 7,6 millions d'euros
-d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à cent cinquante
-millions d'euros ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse
-cent cinquante millions d'euros ;
+d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 150 millions d'euros
+ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse 150 millions
+d'euros ;
 
 b. Pour les créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique ;
 
@@ -16237,22 +16103,15 @@ d. (Abrogé) ;
 2° Dans les autres cas, par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction
 de contrôle fiscal dans le ressort de laquelle est situé l'établissement.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 64 V de la loi n° 2008-776 du 4 août 2008.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1982-07-10 art. 1
-  - CGI 721, 1465
 
 _Modifié par_:
 
-  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
+  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 _Cité par_:
 
@@ -16383,7 +16242,7 @@ _Cite_:
   - HISTO: Edition du 31 août 2004
 
 
-#### Section V : Commissions administratives des impôts<a id=225></a>
+#### Section V : Commissions administratives des impôts<a id=222></a>
 
 ###### Article 170 undecies
 
@@ -16422,13 +16281,13 @@ _Cite_:
   - HISTO: Edition du 1er janvier 2006
 
 
-# Livre II : Recouvrement de l'impôt<a id=226></a>
+# Livre II : Recouvrement de l'impôt<a id=223></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=227></a>
+## Chapitre premier : Paiement de l'impôt<a id=224></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=228></a>
+### Section I : Impôts directs et taxes assimilées<a id=225></a>
 
-#### 3 : Paiement de l'impôt<a id=229></a>
+#### 3 : Paiement de l'impôt<a id=226></a>
 
 ###### Article 187
 
@@ -16536,7 +16395,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730
 
 
-### Section I bis : Intérêts des bons de caisse<a id=230></a>
+### Section I bis : Intérêts des bons de caisse<a id=227></a>
 
 ###### Article 188 B
 
@@ -16619,7 +16478,7 @@ intérêt.
 
 
 
-### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=231></a>
+### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=228></a>
 
 ###### Article 188 H
 
@@ -16672,7 +16531,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 119 bis (V)
 
 
-### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=232></a>
+### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=229></a>
 
 ###### Article 188 I
 
@@ -16754,7 +16613,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 125-0 A (V)
 
 
-### Section I quinquies : Prélèvement sur les dividendes<a id=233></a>
+### Section I quinquies : Prélèvement sur les dividendes<a id=230></a>
 
 ###### Article 188 K
 
@@ -16815,7 +16674,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 125 A
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=234></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=231></a>
 
 ###### Article 189
 
@@ -16845,7 +16704,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1692 (V)
 
 
-### Section III : Contributions indirectes<a id=235></a>
+### Section III : Contributions indirectes<a id=232></a>
 
 ###### Article 193
 
@@ -16862,9 +16721,9 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 189 (V)
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=236></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=233></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=237></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=234></a>
 
 ###### Article 196 A
 
@@ -16880,7 +16739,7 @@ _Modifié par_:
   - Arrêté 1991-10-28 art. 2, art. 3 JORF 29 octobre 1991
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=238></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=235></a>
 
 ###### Article 198 quinquies
 
@@ -16891,7 +16750,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=239></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=236></a>
 
 ###### Article 198 sexies
 
@@ -16906,7 +16765,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis<a id=240></a>
+#### 6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis<a id=237></a>
 
 ###### Article 198 septies
 
@@ -16934,7 +16793,7 @@ _Cite_:
   - HISTO: Edition du 11 avril 1997
 
 
-#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=241></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=238></a>
 
 ###### Article 198 octies
 
@@ -16955,9 +16814,9 @@ _Modifié par_:
   - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
 
 
-### Section V : Dispositions communes<a id=242></a>
+### Section V : Dispositions communes<a id=239></a>
 
-#### 1° : Date de limite de paiement ou de prélèvement<a id=243></a>
+#### 1° : Date de limite de paiement ou de prélèvement<a id=240></a>
 
 ###### Article 199-0
 
@@ -16979,7 +16838,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 39 (V)
 
 
-#### 2° : Paiement par chèques<a id=244></a>
+#### 2° : Paiement par chèques<a id=241></a>
 
 ###### Article 199
 
@@ -17037,9 +16896,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-## Chapitre I bis : Pénalités<a id=245></a>
+## Chapitre I bis : Pénalités<a id=242></a>
 
-### I : Impôts directs et taxes assimilées<a id=246></a>
+### I : Impôts directs et taxes assimilées<a id=243></a>
 
 ###### Article 207 quater A
 
@@ -17048,7 +16907,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=247></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=244></a>
 
 ###### Article 207 quater A bis
 
@@ -17070,9 +16929,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1737 (V)
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=248></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=245></a>
 
-### Publicité du privilège du Trésor<a id=249></a>
+### Publicité du privilège du Trésor<a id=246></a>
 
 ###### Article 207 sexies
 
