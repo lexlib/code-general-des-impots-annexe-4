@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2009-04-10
+Version Consolidée au 2009-04-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -11783,31 +11783,27 @@ première page de chaque feuille.
 ###### Article 121 KA
 
 Nonobstant toute disposition contraire, l'emploi des machines à timbrer est autorisé pour le timbrage de tous documents
-donnant lieu à la perception des droits de timbre dans les régies de recettes des préfectures et sous-préfectures.
+donnant lieu à la perception des droits de timbre dans les régies de recettes des préfectures et sous-préfectures. 
 
-Peuvent notamment être timbrés par ce procédé :
+Peuvent notamment être timbrés par ce procédé : 
 
-1° (Disposition devenue sans objet).
+1° (Disposition devenue sans objet). 
 
-2° (Disposition devenue sans objet).
+2° (Disposition devenue sans objet). 
 
-3° (Abrogé) ;
+3° (Abrogé) ; 
 
-4° Les passeports et les titres de voyages délivrés aux réfugiés ou apatrides (art. 953 et 954 du code général des impôts) ;
+4° Les passeports et les titres de voyages délivrés aux réfugiés ou apatrides (art. 953 et 954 du code général des impôts) ; 
 
-5° (Disposition devenue sans objet).
+5° (Disposition devenue sans objet). 
 
 6° Les permis de conduire les véhicules automobiles, les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres
-véhicules à moteur (art. 1599 terdecies du code général des impôts) ;
+véhicules à moteur (art. 1599 terdecies du code général des impôts) ; 
 
-7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur (cartes grises) (art.
-1599 quindecies du code général des impôts et art. 339 à 341 de l'annexe II à ce code).
+7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur (certificats
+d'immatriculation) (art. 1599 quindecies du code général des impôts et art. 339 à 341 de l'annexe II à ce code).
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 2000-06-02
 
 _Cite_:
 
@@ -11816,16 +11812,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 31 () JORF 31 décembre 1999
-  - Loi n°99-1172 1999-12-30 art. 31 I, III Finances pour 2000 JORF 31 décembre 1999
+  - Décret n°2009-136 du 9 février 2009 - art. 12 (V)
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BG (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 121 KB
