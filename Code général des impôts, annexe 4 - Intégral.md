@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2009-07-09
+Version Consolidée au 2009-07-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -14174,34 +14174,46 @@ _Cite_:
 
 ###### Article 159 A
 
-I.-(abrogé) 
-
-II.-1. Les tarifs d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts sont fixés par tonne de
-viande avec os comme suit : 
+I.-Les tarifs d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés
+outre-mer sont fixés par tonne de viande avec os comme suit : 
 
 1° Animaux de plus de 24 mois de l'espèce bovine, animaux des espèces chevaline, asine et de leurs croisements, gibiers
-ruminants d'élevage : 58 euros / t. 
+ruminants d'élevage : 58 euros / t ; 
 
-2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 
+2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 13 euros / t ; 
 
-13 euros / t. 
+3° Animaux des espèces ovine et caprine : 54, 50 euros / t ; 
 
-3° Animaux des espèces ovine et caprine : 54, 50 euros / t. 
+4° Animaux de l'espèce porcine : 8, 75 euros / t ; 
 
-4° Animaux de l'espèce porcine : 8, 75 euros / t. 
+5° Volailles, lapins, gibiers d'élevage non ruminants et ratites : 6, 25 euros / t. 
 
-5° Volailles, lapins, gibiers d'élevage non ruminants et ratites : 
+II.-Les tarifs d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés en
+métropole sont fixés par tonne de viande avec os comme suit : 
 
-6, 25 euros / t. 
+1° Animaux de plus de 24 mois de l'espèce bovine et gibiers ruminants d'élevage : 67 euros / t ; 
 
-2. Le poids de viande avec os des animaux abattus est déterminé dans les conditions prévues à l'article 111 quater LA de
+2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 15 euros / t ; 
+
+3° Animaux des espèces ovine et caprine : 63 euros / t ; 
+
+4° Animaux de l'espèce porcine : 0 euro / t ; 
+
+5° Volailles de chair (hors poules pondeuses), palmipèdes à foie gras, lapins, gibiers d'élevage non ruminants et ratites : 0
+euro / t ; 
+
+6° Poules pondeuses : 30, 5 euros / t ; 
+
+7° Animaux de l'espèce équine : 0 euro / t. 
+
+III.-Le poids de viande avec os des animaux abattus est déterminé dans les conditions prévues à l'article 111 quater LA de
 l'annexe III.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 29 juillet 2008 - art. 1
+  - Arrêté du 13 juillet 2009 - art. 1
 
 _Cite_:
 
