@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2009-07-18
+Version Consolidée au 2009-07-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -3232,22 +3232,18 @@ _Cite_:
 ###### Article 24 bis
 
 En application du d du 2° du I de l'article 262 du code général des impôts, est exonérée la livraison qui porte sur des biens
-acquis dans le même magasin et dont la valeur globale, taxe sur la valeur ajoutée comprise, excède 175 euros.
+acquis dans un magasin ou acquis le même jour dans plusieurs magasins disséminés dans une même ville et identifiés sous le
+même numéro TVA intracommunautaire, et dont la valeur globale, taxe sur la valeur ajoutée comprise, excède 175 €.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-  - HISTO: Edition du 31 mars 2002
+  - Arrêté du 3 juillet 2009 - art. 5
 
 _Cite_:
 
-  - CGI 262
+  - Code général des impôts, CGI. - art. 262
 
 
 ###### Article 24 ter
