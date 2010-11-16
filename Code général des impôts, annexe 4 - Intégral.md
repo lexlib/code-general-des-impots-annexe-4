@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2010-11-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z quinquies)](#2)
@@ -65,9 +65,9 @@ Version Consolidée au 2010-11-14
             - [II : Opérations exonérées (art. 24 bis à 24 A)](#62)
               - [1° : Exonérations des livraisons de biens à emporter dans les bagages personnels des voyageurs (art. 24 bis à 24 ter)](#63)
               - [2° : Transports de voyageurs par trains internationaux (art. 24 A)](#64)
-          - [Section III : Liquidation de la taxe (art. 28-00 A à 29 F)](#65)
+          - [Section III : Liquidation de la taxe (art. 28-00 A à 29 G)](#65)
             - [0I : Limitation du droit à déduction concernant certains biens et services (art. 28-00 A)](#66)
-            - [II : Régime suspensif (art. 29 A à 29 F)](#67)
+            - [II : Régime suspensif (art. 29 A à 29 G)](#67)
           - [Section IV : Calcul de la taxe (art. 30-00 A à 31)](#68)
             - [0I : Taux normal (art. 30-00 A)](#69)
             - [I : Taux réduit (art. 30-0 B à 31)](#70)
@@ -3434,176 +3434,172 @@ _Cite_:
 La liste des biens négociés sur un marché à terme international pouvant être stockés dans un entrepôt fiscal mentionné au d
 du 2° du I de l'article 277 A du code général des impôts est fixée ainsi qu'il suit :
 
-CODE N.C. : DESCRIPTION DES BIENS.
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ CODE N.C.                   │ DESCRIPTION DES BIENS                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 8001                        │ Etain.                                                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7402                        │ Cuivre.                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7403                        │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7405                        │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7408                        │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7901                        │ Zinc.                                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7502                        │ Nickel.                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7601                        │ Aluminium.                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7801                        │ Plomb.                                                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ex 8112.92                  │ Indium.                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ex 8112.99                  │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1001 à 1005                 │ Céréales.                                                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1006 : uniquement le riz    │                                                                                             ┃
+┃ brut                        │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1007 à 1008                 │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1201 à 1207                 │ Graines et fruits oléagineux.                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 0801                        │ Noix de coco, noix du Brésil et noix de cajou.                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 0802                        │ Autres fruits à coques.                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 0711.20                     │ Olives.                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1201 à 1207                 │ Graines et semences (y compris les graines de soya).                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 0901.11.00                  │ Café non torréfié.                                                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 0901.12.00                  │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 0902                        │ Thé.                                                                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1801                        │ Cacao, en fèves et brisures de fèves, brut ou torréfié.                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1701.11                     │ Sucre brut.                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1701.12                     │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4001                        │ Caoutchouc, sous formes primaires ou en plaques, feuilles ou bandes.                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4002                        │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5101                        │ Laine.                                                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Chapitres 28 et 29          │ Produits chimiques en vrac.                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7106                        │ Argent.                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7110.11.00                  │ Platine (palladium, rhodium).                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7110.21.00                  │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7110.31.00                  │                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 0701                        │ Pommes de terre.                                                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1507 à 1515                 │ Graisses et huiles végétales et leurs fractions, brutes, raffinées, mais non chimiquement   ┃
+┃                             │ modifiées.                                                                                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-8001 : Etain.
-
-7402 : Cuivre. 
-
-7403 : -
-
-7405 : -
-
-7408 : -
-
-7901 : Zinc. 
-
-7502 : Nickel. 
-
-7601 : Aluminium. 
-
-7801 : Plomb. 
-
-Ex 8112.91 : Indium. 
-
-Ex 8112.99 : -
-
-1001 à 1005 : Céréales. 
-
-1006 : uniquement le riz brut
-
-1007 à 1008
-
-1201 à 1207 : Graines et fruits oléagineux. 
-
-0801 : Noix de coco, noix du Brésil et noix de cajou. 
-
-0802 : Autres fruits à coques. 
-
-0711.20 : Olives. 
-
-1201 à 1207 : Graines et semences (y compris les graines de soya). <r> 0901.11.00 : Café non torréfié. 
-
-0901.12.00 : -
-
-0902 : Thé. 
-
-1801 : Cacao, en fèves et brisures de fèves, brut ou torréfié. 
-
-1701.11 : Sucre brut. 
-
-1701.12 : -
-
-4001 : Caoutchouc, sous formes primaires ou en plaques, feuilles ou bandes.
-
-4002 : -
-
-5101 : Laine. 
-
-Chapitres 28 et 29 : Produits chimiques en vrac. 
-
-7106 : Argent. 
-
-7110.11.00 : Platine (palladium, rhodium). 
-
-7110.21.00 : -
-
-7110.31.00 : -
-
-0701 : Pommes de terre. 
-
-1507 à 1515 : Graisses et huiles végétales et leurs fractions, brutes, raffinées, mais non chimiquement modifiées.
-
-</r>
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1996-07-25 art. 1 JORF 28 juillet 1996
-
-_Cite_:
-
-  - CGI 277 A
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1998-07-01 3D-4-98
-  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
-
-
-###### Article 29 B
-
-Il est statué sur les demandes d'autorisation d'ouverture d'entrepôt fiscal présentées en application du 2° du I de l'article
-277 A du code général des impôts :
-
-1° Pour les entrepôts destinés à la fabrication de biens réalisée en commun par des entreprises, dont l'une au moins n'a pas
-d'établissement en France, en exécution d'un contrat international fondé sur le partage de cette fabrication et la propriété
-indivise des biens produits entre les entreprises contractantes, par le ministre chargé du budget ;
-
-2° Pour les entrepôts de stockage de biens négociés sur un marché à terme international, par le directeur général des
-impôts ;
-
-3° Pour les entrepôts nationaux d'importation et d'exportation et pour le perfectionnement actif national :
-
-a) Par le receveur du bureau de douane dans le ressort duquel se trouvent les lieux de stockage ou de mise en oeuvre de l'un
-de ces régimes ;
-
-b) Par le directeur régional des douanes compétent, lorsque les lieux de stockage ou de mise en oeuvre de l'un de ces régimes
-relèvent du ressort territorial de plusieurs bureaux de douane, au sein d'une même circonscription douanière ;
-
-c) Par le directeur général des douanes et droits indirects dans les autres cas ou dans les cas visés aux a et b lorsque
-l'affaire est évoquée.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1996-07-25 art. 1 JORF 28 juillet 1996
-
-_Cite_:
-
-  - CGI 277 A
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1998-07-01 3D-4-98
-  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
-
-
-###### Article 29 C
-
-Le registre des stocks et des mouvements de biens prévu au 1° du III de l'article 277 A du code général des impôts comporte
-les mentions suivantes :
-
-a) Désignation du bien ;
-
-b) Quantité exprimée en masse nette, volume ou unité ;
-
-c) Eléments nécessaires à l'identification et au suivi du bien pendant la durée du placement ;
-
-d) Date d'entrée du bien sous le régime ;
-
-e) Adresse complète du lieu de provenance du bien ;
-
-f) Date de sortie du bien du régime ;
-
-g) Adresse complète du lieu de destination du bien à la sortie du régime.
-
-A l'issue de ces opérations, ce registre indique, pour chaque bien, les stocks détenus dans l'entrepôt.
-
-Pour les entrepôts mentionnés aux c et e du 2° du I de l'article 277 A du code général des impôts, le registre doit contenir
-également les indications nécessaires au suivi et à l'identification des biens qui font l'objet de prestations de services.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1996-05-28 art. 1 JORF 1er juin 1997
+  - Arrêté du 12 novembre 2010 - art. 1
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté 1996-07-25 art. 1 JORF 28 juillet 1996
+  - Code général des impôts, CGI. - art. 277 A
+
+
+###### Article 29 B
+
+Il est statué sur les demandes d'autorisation d'ouverture de régime suspensif présentées en application du 2° du I de
+l'article 277 A du code général des impôts : 
+
+1° Pour les entrepôts destinés à la fabrication de biens réalisée en commun par des entreprises, dont l'une au moins n'a pas
+d'établissement en France, en exécution d'un contrat international fondé sur le partage de cette fabrication et la propriété
+indivise des biens produits entre les entreprises contractantes, par le ministre chargé du budget ; 
+
+2° Pour les entrepôts de stockage de biens négociés sur un marché à terme international, par le directeur général des
+finances publiques ; 
+
+3° Pour le régime fiscal suspensif visé au a du 2° du I de l'article 277 A du code général des impôts : 
+
+a) Par le directeur régional des douanes compétent, lorsque les lieux de stockage ou de mise en œuvre de ce régime relèvent
+du ressort territorial de sa seule circonscription ; 
+
+b) Par le directeur régional des douanes compétent pour le lieu de tenue de la comptabilité-matières ou des registres,
+lorsque les lieux de stockage ou de mise en œuvre de ce régime relèvent de plusieurs circonscriptions douanières.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 12 novembre 2010 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 277 A
+
+
+###### Article 29 C
+
+Le registre des stocks et des mouvements de biens prévu au 1° du III de l'article 277 A du code général des impôts comporte
+les mentions suivantes : 
+
+a) Désignation du bien ; 
+
+b) Quantité exprimée en masse nette, volume ou unité ; 
+
+c) Eléments nécessaires à l'identification et au suivi du bien pendant la durée du placement ; 
+
+d) Date d'entrée du bien sous le régime ; 
+
+e) Adresse complète du lieu de provenance du bien ; 
+
+f) Date de sortie du bien du régime ; 
+
+g) Adresse complète du lieu de destination du bien à la sortie du régime ; 
+
+h) La fonction utilisée, lorsque l'assujetti qui a obtenu l'ouverture d'un régime fiscal suspensif mentionné au a du 2° du I
+de l'article 277 A du code général des impôts a sollicité l'application de plusieurs des fonctions visées aux a à e de
+l'article 85 E de l'annexe III. 
+
+A l'issue de ces opérations, ce registre indique, pour chaque bien, les stocks détenus sous le régime suspensif, le cas
+échéant par fonction mentionnée sur la déclaration d'ouverture d'un régime mentionné au a du 2° du I de l'article 277 A du
+code général des impôts. 
+
+Pour les régimes suspensifs mentionnés aux a et e du 2° du I de l'article 277 A du code général des impôts, le registre doit
+contenir également les indications nécessaires au suivi et à l'identification des biens qui font l'objet de prestations de
+services.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1997-05-28
 
+_Modifié par_:
+
+  - Arrêté du 12 novembre 2010 - art. 1
+
 _Cite_:
 
-  - CGI 277 A
+  - Code général des impôts, annexe 3, CGIAN3. - art. 85 E (V)
+  - Code général des impôts, CGI. - art. 277 A
 
 _Cité par_:
 
@@ -3611,109 +3607,113 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 29 E (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 29 F (V)
 
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1998-07-01 3D-4-98
-  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
-
 
 ###### Article 29 D
 
-Le registre relatif aux opérations réalisées sous l'un des régimes d'entrepôt fiscal prévu au 1° du III de l'article 277 A du
-code général des impôts indique, pour chaque bien, par livraison, importation ou acquisition intracommunautaire :
+Le registre relatif aux opérations réalisées sous l'un des régimes suspensifs prévu au 1° du III de l'article 277 A du code
+général des impôts indique, pour chaque bien, par livraison, importation ou acquisition intracommunautaire : 
 
-a) La date de l'opération ;
+a) La date de l'opération ; 
 
-b) Le montant de l'opération avec sa contre-valeur en euros, lorsque ce montant est exprimé en devises ;
+b) Le montant de l'opération avec sa contre-valeur en euros, lorsque ce montant est exprimé en devises ; 
 
-c) Les nom et adresse complète et, s'il y a lieu, le numéro d'identification à la T.V.A. du fournisseur ;
+c) Les nom et adresse complète et, s'il y a lieu, le numéro d'identification à la T.V.A. du fournisseur ; 
 
-d) Les nom et adresse complète et, s'il y a lieu, le numéro d'identification à la T.V.A. du client ;
+d) Les nom et adresse complète et, s'il y a lieu, le numéro d'identification à la T.V.A. du client ; 
 
-e) La désignation du bien et la référence dans le registre visé à l'article 29 C.
+e) La désignation du bien et la référence dans le registre visé à l'article 29 C ; 
 
-Pour les prestations de services, le registre contient, outre les mentions prévues aux a, b, c et d, la nature de l'opération
-et, s'il y a lieu, la désignation du bien auquel est afférente la prestation ainsi que la référence dans le registre visé à
-l'article 29 C.
+f) La fonction utilisée, lorsque l'assujetti qui a obtenu l'ouverture d'un régime fiscal suspensif mentionné au a du 2° du I
+de l'article 277 A du code général des impôts a sollicité l'application de plusieurs des fonctions visées aux a à e de
+l'article 85 E de l'annexe III. 
+
+Pour les prestations de services, le registre contient, outre les mentions prévues aux a, b, c, d et f, la nature de
+l'opération et, s'il y a lieu, la désignation du bien auquel est afférente la prestation ainsi que la référence dans le
+registre visé à l'article 29 C.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2001-09-03 art. 2 II JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Arrêté 2002-06-06
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002)
+  - Arrêté du 12 novembre 2010 - art. 1
 
 _Cite_:
 
-  - CGI 277 A
-  - CGIAN4 29 C
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
+  - Code général des impôts, annexe 3, CGIAN3. - art. 85 E
+  - Code général des impôts, annexe 4, CGIAN4. - art. 29 C
+  - Code général des impôts, CGI. - art. 277 A
 
 
 ###### Article 29 E
 
 Les registres visés aux articles 29 C et 29 D sont tenus sur support papier ou informatique. Ils doivent être identifiés. Ils
-retracent les mentions exigées dans l'ordre chronologique des opérations.
+retracent les mentions exigées dans l'ordre chronologique des opérations. 
 
-Ces informations sont conservées dans leur contenu originel.
+Ces informations sont conservées dans leur contenu originel. 
 
-Les registres sont conservés dans l'entrepôt fiscal.
+Les registres sont conservés au lieu de situation ou d'utilisation des biens ou des installations mentionné sur la demande
+d'autorisation d'ouverture du régime suspensif. 
 
 Leur conservation est assurée selon les modalités et dans les délais prévus à l'article L. 102 B du livre des procédures
 fiscales.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1996-07-25 art. 1 JORF 28 juillet 1996
+  - Arrêté du 12 novembre 2010 - art. 1
 
 _Cite_:
 
-  - CGIAN4 29 C, 29 D
-  - Livre des procédures fiscales - art. L102 B (M)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1998-07-01 3D-4-98
-  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
+  - Code général des impôts, annexe 4, CGIAN4. - art. 29 C (V)
+  - Livre des procédures fiscales - art. L102 B
 
 
 ###### Article 29 F
 
 Les registres visés aux articles 29 C et 29 D doivent être présentés à toute demande d'un agent de l'administration qui peut
-s'en faire délivrer copie.
+s'en faire délivrer copie. Les registres doivent être présentés de manière à pouvoir identifier et isoler chaque fonction
+utilisée lorsque l'assujetti qui a obtenu l'ouverture d'un régime fiscal suspensif mentionné au a du 2° du I de l'article 277
+A du code général des impôts a sollicité l'application de plusieurs des fonctions visées aux a à e de l'article 85 E de
+l'annexe III. 
 
 Si l'administration le demande, les registres tenus sur support informatique sont restitués sur support papier.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1996-07-25 art. 1 JORF 28 juillet 1996
+  - Arrêté du 12 novembre 2010 - art. 1
 
 _Cite_:
 
-  - CGIAN4 29 C, 29 D
+  - Code général des impôts, annexe 3, CGIAN3. - art. 85 E
+  - Code général des impôts, annexe 4, CGIAN4. - art. 29 C
+  - Code général des impôts, CGI. - art. 277 A
 
-**Liens**:
 
-  - HISTO: Edition du 11 avril 1997
-  - TXT_ASSOCIE: Instruction 1998-07-01 3D-4-98
-  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
+###### Article 29 G
+
+Lorsque l'assujetti qui a obtenu l'ouverture d'un régime fiscal suspensif mentionné au a du 2° du I de l'article 277 A du
+code général des impôts a sollicité l'application de plusieurs des fonctions visées aux a à e de l'article 85 E de l'annexe
+III au code général des impôts, la comptabilité-matières qu'il a été autorisé à tenir conformément aux dispositions du 1° du
+III de l'article 277 A du code général des impôts retrace distinctement les informations concernant les biens pour chaque
+fonction utilisée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 12 novembre 2010 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 85 E (V)
+  - Code général des impôts, CGI. - art. 277 A (V)
 
 
 ##### Section IV : Calcul de la taxe<a id=68></a>
