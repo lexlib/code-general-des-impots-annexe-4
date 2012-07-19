@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2012-05-24
+Version Consolidée au 2012-07-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -2940,9 +2940,11 @@ n'est pas déductible, au sens de l'article 216 A du code général des impôts,
 accordé la subvention ou consenti l'abandon. Toutefois, le résultat consolidé n'est pas modifié lorsque la société débitrice
 est susceptible de bénéficier des dispositions de ce même article.
 
-4. Si les résultats d'une exploitation sont imposables selon les modalités prévues à l'article 217 bis du code général des
-impôts, les sommes qui sont ajoutées ou retranchées pour la détermination du résultat consolidé ne sont retenues que pour les
-deux tiers de leur montant.
+4. (Sans objet) (1)
+
+**Nota:**
+
+(1) Conséquence de l'abrogation de l'article 217 bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -2950,18 +2952,17 @@ _Codifié par_:
 
   - Arrêté 2004-10-08
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 23 bis A, 223 A, 219, 39 octies A, 39 octies D, 39 octies, 217 undecies, 39 quinquies A, 216 A, 217 bis
-  - CGIAN2 116
+  - Arrêté du 27 juin 2012 - art. 1
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
+  - PERIME: Arrêté du 3 juin 2013 - art. 1
 
-_Modifié par_:
+_Cite_:
 
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 1 () JORF 27 mars 2004
+  - CGIAN2 116
 
 
 ##### Section II : Lieu d'imposition<a id=46></a>
@@ -5513,14 +5514,14 @@ _Cite_:
 
 ###### Article 50 sexies B
 
-I. - Toute entrée sur les lieux où sont organisés des spectacles visés au I de l'article 290 quater du code général des
+I. – Toute entrée sur les lieux où sont organisés des spectacles visés au I de l'article 290 quater du code général des
 impôts doit être constatée par la remise d'un billet extrait d'un carnet à souches ou d'un distributeur automatique ou, à
 défaut de remise d'un billet, être enregistrée et conservée dans un système informatisé, avant l'accès au lieu du spectacle.
 
-II. - Les exploitants de spectacles qui utilisent des systèmes de billetterie informatisée comportant ou non l'impression de
-billets doivent se conformer aux obligations prévues au cahier des charges annexé à l'arrêté du 8 mars 1993 modifié.
+II. – Les exploitants de spectacles qui utilisent des systèmes de billetterie informatisée comportant ou non l'impression de
+billets doivent se conformer aux obligations prévues au cahier des charges annexé à l'arrêté du 8 mars 1993.
 
-III. - L'entrée doit faire l'objet d'un contrôle manuel ou électronique. Lorsqu'un billet est imprimé, il doit rester entre
+III. – L'entrée doit faire l'objet d'un contrôle manuel ou électronique. Lorsqu'un billet est imprimé, il doit rester entre
 les mains du spectateur. Si ce billet comporte deux parties, l'une reste entre les mains du spectateur et l'autre est retenue
 au contrôle.
 
@@ -5550,26 +5551,17 @@ informatisé.
 
 Chaque billet ne peut être utilisé que pour la catégorie de places qui y est indiquée.
 
-IV. - Les obligations concernant les mentions à porter sur les billets d'entrée dans les établissements de spectacles
+IV. – Les obligations concernant les mentions à porter sur les billets d'entrée dans les établissements de spectacles
 cinématographiques, la fourniture et l'utilisation de ces billets sont fixées par la réglementation de l'industrie
 cinématographique.
 
 (2e à 6e alinéas supprimés)
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 3 et 13 du décret n° 2009-1254.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1993-03-08 annexe
-  - CGI 290 quater
 
 _Modifié par_:
 
-  - Arrêté du 27 avril 2010 - art. 1
+  - Arrêté du 27 juin 2012 - art. 1
 
 _Cité par_:
 
@@ -5577,6 +5569,10 @@ _Cité par_:
   - Décret n°2017-926 du 9 mai 2017 (VD)
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies C (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies E (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 290 quater
 
 
 ###### Article 50 sexies C
@@ -6192,11 +6188,15 @@ objets dans l'inventaire de l'établissement destinataire.
 
 3. La taxe sur la valeur ajoutée n'est pas due si la cession est faite au bénéfice de l'un des établissements visés au 1.
 
+**Nota:**
+
+Décret n° 2011-52 du 13 janvier 2011, art. 1er et 27.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-52 du 13 janvier 2011 - art. 27 (M)
+  - Arrêté du 27 juin 2012 - art. 1
 
 
 ##### Section VII : Régimes spéciaux<a id=91></a>
@@ -9123,9 +9123,9 @@ _Cité par_:
 
 ###### Article 50-00 C
 
-En application des articles 286 I et 286 J de l'annexe II du code général des impôts, et en fonction de l'activité des
-entrepositaires agréés concernés, chacun des comptes de la comptabilité matières doit reprendre notamment les informations
-suivantes : 
+En application de l'article 286 I et de l'article 286 J de l'annexe II au code général des impôts, et en fonction de
+l'activité des entrepositaires agréés concernés, chacun des comptes de la comptabilité matières doit reprendre notamment les
+informations suivantes : 
 
 1° La nature, le numéro et la date de départ ou de réception du document d'accompagnement mentionné aux articles 302 M et 302
 M ter dudit code ou des pièces justificatives des productions, des transformations, des détentions, des entrées et sorties de
@@ -9133,9 +9133,9 @@ produits des chais ou locaux du site d'exploitation ;
 
 2° La date des déclarations de mise en production d'alcool, de fabrication de mistelles, vermouths, vins de liqueur ou
 apéritifs à base de vin, de cidre ou de poiré, de fabrication de vins mousseux, et de fabrication de vins doux naturels,
-prévues aux articles 312, 343 et 416 dudit code ; 
+prévues aux articles 312,343 et 416 dudit code ; 
 
-3° La date des déclarations de récolte, des stocks et de production prévues aux articles 407, 408 et 410 bis dudit code ; 
+3° La date des déclarations de récolte, des stocks et de production prévues aux articles 407,408 et 410 bis dudit code ; 
 
 4° La date de la prise en charge des produits alcooligènes visés à l'article 338 du même code ; 
 
@@ -9161,18 +9161,19 @@ e) L'avis de blocage, l'engagement de garantie ou la mainlevée du porteur de wa
 de garantie. 
 
 8° La référence aux rhums traditionnels des départements d'outre-mer, soumis au tarif d'imposition prévu au 1° du I de
-l'article 403 au code général des impôts, sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
+l'article 403 du code général des impôts, sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
 subdivisée, selon le cas, par appellation d'origine ou par dénomination économique ou géographique.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 28 juillet 2011 - art. 1
+  - Arrêté du 27 juin 2012 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 408
   - Code général des impôts, CGI. - art. 302 G
   - Code général des impôts, CGI. - art. 312
@@ -14945,8 +14946,7 @@ _Cite_:
 
 Pour l'application des dispositions de l'article 1599 quater A bis du code général des impôts, sont considérés comme des
 matériels roulants relevant de la catégorie " Autre matériel " les matériels roulants de transport public ferroviaire de
-voyageurs qui circulent sur les lignes du réseau express régional mentionnées au troisième alinéa de l'article 2 de
-l'ordonnance n° 59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile-de-France. 
+voyageurs qui circulent sur les lignes du réseau express régional mentionnées à l'article L. 2142-3 du code des transports. 
 
 Les matériels roulants relevant de cette catégorie comprennent : 
 
@@ -14954,24 +14954,28 @@ Les matériels roulants relevant de cette catégorie comprennent :
 
 2° Les remorques qui sont des caisses non motorisées et qui accueillent des voyageurs.
 
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010, art. 3, 7 [39°] et 17.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 9 juin 2011 - art. 1
+  - Code des transports - art. L2142-3
+  - Code général des impôts, CGI. - art. 1599 quater A bis
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 159 decies (T)
+  - Arrêté du 27 juin 2012 - art. 1
 
 
 ###### Article 155-00 ter
 
 Pour l'application des dispositions de l'article 1599 quater A bis du code général des impôts, sont considérés comme des
 matériels roulants relevant de la catégorie " Métro " les matériels roulants de transport public guidé de voyageurs qui
-circulent sur les lignes mentionnées aux premier et deuxième alinéas de l'article 2 de l'ordonnance n° 59-151 du 7 janvier
-1959 relative à l'organisation des transports de voyageurs en Ile-de-France et dont la captation d'énergie s'effectue par un
-système d'alimentation électrique par troisième rail. 
+circulent sur les lignes mentionnées aux articles L. 2142-1 et L. 2142-2 du code des transports et dont la captation
+d'énergie s'effectue par un système d'alimentation électrique par troisième rail. 
 
 Les matériels roulants relevant de cette catégorie comprennent : 
 
@@ -14979,15 +14983,20 @@ Les matériels roulants relevant de cette catégorie comprennent :
 
 2° Les remorques qui sont des caisses non motorisées et qui accueillent des voyageurs.
 
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010, art. 3, 7 [39°] et 17.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 9 juin 2011 - art. 1
+  - Code des transports - art. L2142-1 (V)
+  - Code général des impôts, CGI. - art. 1599 quater A bis (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 159 nonies (T)
+  - Arrêté du 27 juin 2012 - art. 1
 
 
 #### Chapitre premier : Droits d'enregistrement<a id=194></a>
@@ -16658,84 +16667,84 @@ _Cite_:
 
 ###### Article 164 AM
 
-I.-Au sens du 3° de l'article 111 H ter de l'annexe III au code général des impôts : 
+I. – Au sens du 3° de l'article 111 H ter de l'annexe III au code général des impôts :
 
 1° Sont désignés sous le nom de " système informatique sécurisé " tous les matériels et logiciels informatiques permettant de
 mémoriser les données saisies par l'entremise de ces matériels ou logiciels, d'imprimer ces données et d'apposer, le cas
 échéant, par une fonction spécifique de ces matériels ou logiciels ou un logiciel distinct des empreintes ou marques
-destinées à : 
+destinées à :
 
 a) Valider, au sens de l'article 111 H ter précité, les documents, bons et certificats de circulation ou de livraison prévus
-par les réglementations dont l'application incombe à l'administration des douanes et droits indirects ; 
+par les réglementations dont l'application incombe à l'administration des douanes et droits indirects ;
 
 b) Attester le paiement ou la constatation des droits en remplacement des vignettes ou timbres fiscaux représentatifs des
-droits indirects, dont l'apposition est prévue par la réglementation fiscale. 
+droits indirects, dont l'apposition est prévue par la réglementation fiscale.
 
-2° Sont désignés sous le nom de : 
+2° Sont désignés sous le nom de :
 
 " matériel mécanique " tous les matériels et machines imprimant de façon mécanique ou digitale des empreintes destinées à
 valider les documents d'accompagnement mentionnés à l'article 302 M du code général des impôts et les documents, bons et
-certificats ou à attester le paiement ou la constatation des droits. 
+certificats ou à attester le paiement ou la constatation des droits.
 
-II.-Sauf autorisation de l'administration des douanes et droits indirects, les marques fiscales ou empreintes fournies par
-les matériels ou logiciels désignés au I doivent : 
+II. – Sauf autorisation de l'administration des douanes et droits indirects, les marques fiscales ou empreintes fournies par
+les matériels ou logiciels désignés au I doivent :
 
 1° Pour la validation des documents d'accompagnement mentionnés aux I et II de l'article 302 M du code général des impôts,
 bons et certificats de circulation ou de livraison, et pour les attestations de paiement ou de constatation des droits sur
-ces documents, comporter : 
+ces documents, comporter :
 
-a) L'effigie de la République française conforme au modèle agréé par l'administration des douanes ; 
+a) L'effigie de la République française conforme au modèle agréé par l'administration des douanes ;
 
 b) La mention : " Direction générale des douanes et droits indirects " ou " DGDDI " et " République française " ou " RF "
-entourant l'effigie ; 
+entourant l'effigie ;
 
-c) Le numéro d'identification attribué à chaque matériel dans les conditions prévues à l'article 164 AO ; 
+c) Le numéro d'identification attribué à chaque matériel dans les conditions prévues à l'article 164 AO ;
 
-d) Une lettre identifiant le constructeur ou le concepteur du matériel ; 
+d) Une lettre identifiant le constructeur ou le concepteur du matériel ;
 
-e) L'identification de l'utilisateur de la marque fiscale, par son numéro d'agrément attribué par l'administration ; 
+e) L'identification de l'utilisateur de la marque fiscale, par son numéro d'agrément attribué par l'administration ;
 
-f) Un numéro particulier affecté à chaque empreinte dans une série séquentielle continue ; 
+f) Un numéro particulier affecté à chaque empreinte dans une série séquentielle continue ;
 
-g) La date et l'heure d'enlèvement ou de réception des produits exprimés en chiffres ; 
+g) La date et l'heure d'enlèvement ou de réception des produits exprimés en chiffres ;
 
 h) Pour les systèmes informatiques sécurisés ou les logiciels de validation et d'attestation des paiements, une signature
 électronique ou numérique et une ou plusieurs informations complémentaires, correspondant à chacun des usages autorisés, à
-savoir selon les cas l'indication : 
+savoir selon les cas l'indication :
 
 1. Des mots : " en droits acquittés ", " en exonération " ou " en suspension de droits " pour distinguer les livraisons et
-réceptions effectuées en droits acquittés, en exonération ou en suspension des droits ; 
+réceptions effectuées en droits acquittés, en exonération ou en suspension des droits ;
 
 2. Des mots : " titre émis par anticipation " pour distinguer, dans la comptabilité matières, les opérations effectuées sous
-couvert d'un document d'accompagnement prévalidé par l'entrepositaire agréé effectuant l'enlèvement des produits. 
+couvert d'un document d'accompagnement prévalidé par l'entrepositaire agréé effectuant l'enlèvement des produits.
 
 Les empreintes doivent être nettes, sans maculatures d'aucune sorte, ne jamais être recouvertes par des mentions manuscrites
-ou imprimées et ne jamais recouvrir de telles mentions. 
+ou imprimées et ne jamais recouvrir de telles mentions.
 
 2° Pour l'impression des marques fiscales représentatives des droits indirects attestant du paiement ou de la constatation
 des droits indirects sur les vins, autres boissons fermentées, produits intermédiaires et alcools, sur les capsules ou sur
 les dispositifs de fermeture, non récupérables, des récipients contenant ces boissons, ces marques fiscales doivent
-comporter : 
+comporter :
 
 a) Une couronne d'un diamètre d'au moins 23 millimètres dont le fond est conforme aux normes déterminées par arrêté du
-ministre chargé du budget et dans laquelle sont inscrits : 
+ministre chargé du budget et dans laquelle sont inscrits :
 
 1. Le numéro d'agrément du responsable de l'embouteillage, selon les normes déterminées par arrêté du ministre chargé du
-budget ; 
+budget ;
 
 2. La marque d'identification du fabricant des capsules, selon les normes déterminées par arrêté du ministre chargé du
-budget. 
+budget.
 
 b) Au centre de la couronne, une surface circulaire d'un diamètre de 15 millimètres dont le fond est conforme aux normes
-déterminées par arrêté du ministre chargé du budget et dans laquelle sont inscrits : 
+déterminées par arrêté du ministre chargé du budget et dans laquelle sont inscrits :
 
-1. L'effigie de la République française conforme au modèle agréé par l'administration des douanes ; 
+1. L'effigie de la République française conforme au modèle agréé par l'administration des douanes ;
 
 2. La mention : " Direction générale des douanes et droits indirects " ou " DGDDI " et " République française " ou " RF "
-entourant l'effigie ; 
+entourant l'effigie ;
 
 3. Le volume net exprimé en centilitres et, pour les alcools, le titre alcoométrique volumique du liquide renfermé dans les
-bouteilles ou récipients sur lesquels sont apposées les capsules. 
+bouteilles ou récipients sur lesquels sont apposées les capsules.
 
 Un spécimen des marques fiscales ou empreintes agréées par l'administration est déposé auprès du service des douanes et
 droits indirects.
@@ -16744,7 +16753,7 @@ droits indirects.
 
 _Modifié par_:
 
-  - Arrêté du 28 juillet 2011 - art. 1
+  - Arrêté du 27 juin 2012 - art. 1
 
 _Cite_:
 
@@ -18143,15 +18152,14 @@ _Cité par_:
 ###### Article 198 septies
 
 Les receveurs des impôts sont chargés de recouvrer les produits (y compris les charges et taxes correspondantes) provenant
-des locations des immeubles domaniaux bâtis ainsi que ceux provenant de la cession d'immeubles réalisée conformément à
-l'article R. 135 du code du domaine de l'Etat.
+des locations des immeubles domaniaux bâtis ainsi que ceux provenant de la cession d'immeubles réalisée conformément aux
+articles R. 3211-32 du code général de la propriété des personnes publiques et 6 du décret n° 2011-1612 du 22 novembre 2011.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011, art. 2, 3-I [1°] et 6.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1966-09-20 art. 4 JORF 28 octobre 1966
-  - Arrêté 1989-04-19 art. 1 JORF 24 mai 1989 en vigueur le 1er juillet 1989
 
 _Codifié par_:
 
@@ -18159,11 +18167,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. R135 (V)
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 6 (V)
+  - Code général de la propriété des personnes publiques. - art. R3211-32
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 11 avril 1997
+  - Arrêté du 27 juin 2012 - art. 1
 
 
 #### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=252></a>
