@@ -1,31 +1,31 @@
 # Article 50 quaterdecies-0 A
 
 Le tarif de la redevance sanitaire de première mise sur le marché des produits de la pêche et de l'aquaculture s'établit
-comme suit (par tonne) :
+comme suit (par tonne) : 
 
-<table cellpadding="0" align="center" border="1" cellspacing="0" width="680">
+<table border="1" width="680">
   <tbody>
     <tr>
-      <td width="529" valign="top">
+      <td align="center">
 
-Pour les 50 premières tonnes dans le mois
+Pour les 50 premières tonnes dans le mois 
 
 </td>
-      <td width="151" valign="top">
+      <td align="center">
 
-0,76 euro
+1 € 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td align="center">
 
-Pour les tonnes suivantes
+Pour les tonnes suivantes 
 
 </td>
-      <td valign="top" width="151">
+      <td align="center">
 
-0,38 euro
+0,50 € 
 
 </td>
     </tr>
@@ -33,31 +33,31 @@ Pour les tonnes suivantes
 </table>
 
 Le tarif de la redevance sanitaire pour les opérations de première vente réalisées dans les halles à marée s'établit comme
-suit (par tonne) :
+suit (par tonne) : 
 
-<table cellpadding="0" width="680" cellspacing="0" align="center" border="1">
+<table border="1" width="680">
   <tbody>
     <tr>
-      <td valign="top" width="529">
+      <td align="center">
 
-Pour les 50 premières tonnes dans le mois
+Pour les 50 premières tonnes dans le mois 
 
 </td>
-      <td valign="top" width="151">
+      <td align="center">
 
-0,46 euro
+0,50 € 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td align="center">
 
-Pour les tonnes suivantes
+Pour les tonnes suivantes 
 
 </td>
-      <td width="151" valign="top">
+      <td align="center">
 
-0,23 euro
+0,25 € 
 
 </td>
     </tr>
@@ -65,31 +65,31 @@ Pour les tonnes suivantes
 </table>
 
 Le tarif majoré de la redevance sanitaire pour les opérations de première vente réalisées en cas d'absence ou d'insuffisance
-de classement ou de calibrage (par tonne) :
+de classement ou de calibrage (par tonne) : 
 
-<table cellspacing="0" cellpadding="0" border="1" width="680" align="center">
+<table border="1" width="680">
   <tbody>
     <tr>
-      <td valign="top" width="529">
+      <td align="center">
 
-Pour les 50 premières tonnes dans le mois
+Pour les 50 premières tonnes dans le mois 
 
 </td>
-      <td width="151" valign="top">
+      <td align="center">
 
-0,76 euro
+1 € 
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td align="center">
 
-Pour les tonnes suivantes
+Pour les tonnes suivantes 
 
 </td>
-      <td valign="top" width="151">
+      <td align="center">
 
-0,38 euro
+0,50 € 
 
 </td>
     </tr>
@@ -97,28 +97,18 @@ Pour les tonnes suivantes
 </table>
 
 Le montant maximum perçu par lot de poissons des espèces visées au II de l'article 267 quater F de l'annexe II au code
-général des impôts est fixé à 50 euros.
+général des impôts est fixé à 50 €.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2000-05-09 art. 1 JORF 12 mai 2000 en vigueur le 1er janvier 2002
+  - Arrêté du 28 septembre 2012 - art. 1
 
 _Cite_:
 
-  - CGIAN2 267 quater F
+  - Code général des impôts, annexe 2, CGIAN2. - art. 267 quater F
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 302 bis WB (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-
-_Modifié par_:
-
-  - Règlement CE 1103/97 1997-06-17 art. 5 en vigueur le 1er janvier 2002
-  - Règlement CE 2866/98 1998-12-31 art. 1 JOCE 31 décembre 1998 en en vigueur le 1er janvier 2002
-  - Règlement CE 974/98 1998-05-03 art. 14 en vigueur le 1er janvier 2002
