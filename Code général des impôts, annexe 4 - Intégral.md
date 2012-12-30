@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2012-12-27
+Version Consolidée au 2012-12-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -38,7 +38,7 @@ Version Consolidée au 2012-12-27
             - [1° : Retenue à la source de l'impôt sur le revenu (art. 18)](#35)
             - [2° : Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable (art. 18-0 bis)](#36)
             - [3° : Réduction d'impôt pour l'acquisition de certains véhicules de tourisme outre-mer (art. 18-0 bis A)](#37)
-            - [4° : Réduction d'impôt accordée au titre d'une opération d'investissement locatif (art. 18-0 ter)](#38)
+            - [4° : Réduction d'impôt accordée au titre d'une opération d'investissement locatif (art. 18-0 bis B à 18-0 bis C)](#38)
             - [5° Crédit d'impôt pour dépenses d'équipement de l'habitation principale (art. 18 bis à 18 ter)](#39)
             - [6° : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer (art. 18 quater)](#40)
         - [Chapitre II : Impôt sur les sociétés (art. 22 à 23 I)](#41)
@@ -2277,40 +2277,54 @@ _Cite_:
 
 ##### 4° : Réduction d'impôt accordée au titre d'une opération d'investissement locatif<a id=38></a>
 
-###### Article 18-0 ter
+###### Article 18-0 bis B
 
-I.-Pour l'application de l'article 199 septvicies et du dernier alinéa du h du 1° du I de l'article 31 du code général des
+I. – Pour l'application de l'article 199 septvicies et du dernier alinéa du h du 1° du I de l'article 31 du code général des
 impôts, les communes se caractérisant par un déséquilibre entre l'offre et la demande de logements s'entendent de celles
 classées dans les zones A, B1 et B2 délimitées conformément à l'annexe à l'arrêté du 29 avril 2009 relatif au classement des
 communes par zone applicable à certaines aides au logement. 
 
-II.-Pour l'application du III de l'article 199 septvicies du code général des impôts, les plafonds de loyer applicables sont
-ceux mentionnés à l'article 2 terdecies B de l'annexe III au même code. 
+II. – Pour l'application du III de l'article 199 septvicies du code général des impôts, les plafonds de loyer applicables
+sont ceux mentionnés à l'article 2 terdecies B de l'annexe III au même code. 
 
-III.-Pour l'application du V de l'article 199 septvicies du code général des impôts, les plafonds de loyer et les plafonds de
-ressources des locataires applicables sont ceux mentionnés à l'article 2 terdecies C de l'annexe III au même code.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er et 3 de l'arrêté du 29 avril 2009.
+III. – Pour l'application du V de l'article 199 septvicies du code général des impôts, les plafonds de loyer et les plafonds
+de ressources des locataires applicables sont ceux mentionnés à l'article 2 terdecies C de l'annexe III au même code.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Cite_:
 
-  - Arrêté du 27 avril 2010 - art. 1
+  - Arrêté du 29 avril 2009 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C (V)
+  - Code général des impôts, CGI. - art. 199 septvicies (V)
+  - Code général des impôts, CGI. - art. 31 (V)
 
-**Liens**:
+_Créé par_:
 
-  - TRANSFERE: Arrêté du 29 décembre 2012 - art. 1
+  - Arrêté du 29 décembre 2012 - art. 1
+
+_Anciens textes_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 ter (T)
+
+
+###### Article 18-0 bis C
+
+Pour l'application du premier alinéa du IV de l'article 199 novovicies du code général des impôts, les communes se
+caractérisant par un déséquilibre important entre l'offre et la demande de logements s'entendent de celles classées dans les
+zones A et B1 telles qu'elles sont définies à l'article R. 304-1 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 29 décembre 2012 - art. 2
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
-
-_Nouveaux textes_:
-
-  - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis B (V)
+  - Code général des impôts, CGI. - art. 199 novovicies (V)
+  - Code de la construction et de l'habitation. - art. R304-1 (V)
 
 
 ##### 5° Crédit d'impôt pour dépenses d'équipement de l'habitation principale<a id=39></a>
@@ -14839,25 +14853,25 @@ _Cite_:
 
 ###### Article 155 bis A
 
-Les tarifs de la taxe minière sur l'or en Guyane applicables en 2011 sont fixés comme suit : 
+Les tarifs de la taxe minière sur l'or en Guyane applicables en 2012 sont fixés comme suit : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>
+      <td>
 
 CATÉGORIES D'ENTREPRISES 
 
-</th>
-      <th>
+</td>
+      <td>
 
 PAR KILOGRAMME 
 
 (extrait) 
 
-(en euros) 
+(en euros)
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -14867,7 +14881,7 @@ Petites et moyennes entreprises
 </td>
       <td align="center">
 
-297,62</td>
+363,41</td>
     </tr>
     <tr>
       <td align="center">
@@ -14877,7 +14891,7 @@ Autres entreprises
 </td>
       <td align="center">
 
-595,25</td>
+726,82</td>
     </tr>
   </tbody>
 </table>
@@ -14889,7 +14903,7 @@ l'Etat en application des articles 1641 et 1644 du code général des impôts.
 
 _Modifié par_:
 
-  - Arrêté du 23 décembre 2011 - art. 1
+  - Arrêté du 29 novembre 2012 - art. 1
 
 _Cite_:
 
