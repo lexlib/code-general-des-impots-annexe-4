@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2012-12-31
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -170,97 +170,99 @@ Version Consolidée au 2012-12-31
           - [Section 0I : Taxes foncières (art. 121-0 AA)](#167)
           - [Section II : Taxe professionnelle (art. 121 quinquies DB bis à 121 quinquies DB ter)](#168)
             - [1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire (art. 121 quinquies DB bis à 121 quinquies DB ter)](#169)
-          - [Section III : Commission consultative départementale des évaluations foncières (art. 121 quinquies DC à 121 quinquies DF)](#170)
-          - [Section IV : Autres impositions (art. 121 sexies)](#171)
-            - [I : Redevance communale des mines (art. 121 sexies)](#172)
-        - [Chapitre II : Contributions indirectes (art. 124 à 154)](#173)
-          - [Section unique : Impôt sur les spectacles, jeux et divertissements (art. 124 à 154)](#174)
-            - [I : Dispositions générales (art. 124 à 141)](#175)
-              - [1° : Déclaration d'existence (art. 124)](#176)
-              - [2° : Classement des spectacles (art. 126)](#177)
-              - [4° : Réunions sportives (art. 126 F)](#178)
-              - [5° : Contrôle des entrées dans les salles. Billets (art. 127 à 131 A)](#179)
-              - [6° : Assiette et contrôle de la taxe (art. 137 à 139)](#180)
-              - [7° : Fermeture des établissements (art. 141)](#181)
-            - [II : Dispositions particulières (art. 145 à 154)](#182)
-              - [1° : Etablissements où il est d'usage de consommer (art. 145)](#183)
-              - [2° : Cercles et maisons de jeux (art. 146 à 154)](#184)
-        - [Chapitre III : Enregistrement (art. 155 A à 155 B)](#185)
-          - [Section unique : Taxe locale d'équipement (art. 155 A à 155 B)](#186)
-      - [Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse (art. 155-0 bis à 155 bis A)](#187)
-        - [Chapitre unique : Impôts directs et taxes assimilées (art. 155-0 bis à 155 bis A)](#188)
-          - [Section I : Imposition forfaitaire sur les entreprises de réseaux (art. 155-0 bis)](#189)
-          - [Section II : Autres impositions (art. 155 bis A)](#190)
-      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 155-0 ter à 159 octies)](#191)
-        - [Chapitre 0I : Impôts directs et taxes assimilées (art. 155-0 ter à 155-00 ter)](#192)
-          - [Section unique : Imposition forfaitaire sur les entreprises de réseaux (art. 155-0 ter à 155-00 ter)](#193)
-        - [Chapitre premier : Droits d'enregistrement (art. 155 ter à 155 quater)](#194)
-          - [1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France (art. 155 ter)](#195)
-          - [2° : Taxe sur les certificats d'immatriculation des véhicules. (art. 155 quater)](#196)
-        - [Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées (art. 159 ter A à 159 AD)](#197)
-          - [Section II : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles (art. 159 ter A)](#198)
-            - [III : Huiles (art. 159 ter A)](#199)
-          - [Section III : Taxe d'abattage (art. 159 A)](#200)
-          - [Section IV : Fonds national du livre (art. 159 AA à 159 AD)](#201)
-            - [I : Redevance sur l'édition des ouvrages de librairie (art. 159 AA)](#202)
-            - [II : Taxe sur les appareils de reproduction ou d'impression (art. 159 AD)](#203)
-        - [Chapitre III : Enregistrement (art. 159 quater à 159 octies)](#204)
-          - [Section I : Fonds national de gestion des risques en agriculture (art. 159 quater)](#205)
-          - [Section II : Fonds de garantie des assurances obligatoires de dommages (art. 159 quinquies-0 A à 159 quinquies-0 B)](#206)
-            - [A : Accidents de circulation (art. 159 quinquies-0 A)](#207)
-            - [B : Accidents de chasse (art. 159 quinquies-0 B)](#208)
-          - [Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers (art. 159 octies)](#209)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 164 FB à 170 undecies)](#210)
-      - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AX)](#211)
-        - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#212)
-          - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#213)
-        - [Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs (art. 164 F novodecies A à 164 F novodecies B)](#214)
-        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F unvicies A à 164 F sexvicies)](#215)
-          - [Section I : Centres de gestion agréés (art. 164 F unvicies A à 164 F unvicies F)](#216)
-            - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#217)
-          - [Section II : Associations agréées des professions libérales (art. 164 F octovicies à 164 F sexvicies)](#218)
-        - [Chapitre III : Réglementation des machines à timbrer (art. 164 L à 164 AL bis)](#219)
-          - [I : Définitions (art. 164 L)](#220)
-          - [II : Dispositions communes (art. 164 M à 164 AL bis)](#221)
-            - [A : Caractéristiques générales des machines (art. 164 M à 164 O)](#222)
-            - [B : Agrément des machines (art. 164 P à 164 S)](#223)
-            - [C : Autorisation de placer les machines chez les usagers (art. 164 T à 164 V)](#224)
-            - [D : Obligations des concessionnaires (art. 164 AA à 164 Z)](#225)
-            - [E : Obligations des usagers (art. 164 AD à 164 AG)](#226)
-            - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#227)
-            - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#228)
-            - [H : Compétence des agents de la direction générale des douanes et droits indirects (art. 164 AL bis)](#229)
-        - [Chapitre IV : Systèmes informatiques sécurisés et matériels de validation (art. 164 AM à 164 AX)](#230)
-      - [Titre II : Dispositions diverses (art. 165 à 170 undecies)](#231)
-        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#232)
-        - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#233)
-        - [Section IV : Dispositions communes (art. 170 decies à 170 sexies)](#234)
-          - [Octroi de certains agréments fiscaux (art. 170 decies à 170 sexies)](#235)
-        - [Section V : Commissions administratives des impôts (art. 170 undecies)](#236)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#237)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#238)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188 ter)](#239)
-        - [3 : Paiement de l'impôt (art. 187 à 188 ter)](#240)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#241)
-      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H à 188-0 H)](#242)
-      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I à 188-0 I)](#243)
-      - [Section I quinquies : Prélèvement sur les dividendes (art. 188 K à 188 L)](#244)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#245)
-      - [Section III : Contributions indirectes (art. 193)](#246)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#247)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#248)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#249)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#250)
-        - [6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis (art. 198 septies)](#251)
-        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#252)
-      - [Section V : Dispositions communes (art. 199-0 à 204)](#253)
-        - [1° : Date de limite de paiement ou de prélèvement (art. 199-0)](#254)
-        - [2° : Paiement par chèques (art. 199 à 204)](#255)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#256)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#257)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#258)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#259)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#260)
+          - [Section II : Cotisation foncière des entreprises (art.  à 121 quinquies DB ter)](#170)
+            - [1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire (art.  à 121 quinquies DB ter)](#171)
+          - [Section III : Commission consultative départementale des évaluations foncières (art. 121 quinquies DC à 121 quinquies DF)](#172)
+          - [Section IV : Autres impositions (art. 121 sexies)](#173)
+            - [I : Redevance communale des mines (art. 121 sexies)](#174)
+        - [Chapitre II : Contributions indirectes (art. 124 à 154)](#175)
+          - [Section unique : Impôt sur les spectacles, jeux et divertissements (art. 124 à 154)](#176)
+            - [I : Dispositions générales (art. 124 à 141)](#177)
+              - [1° : Déclaration d'existence (art. 124)](#178)
+              - [2° : Classement des spectacles (art. 126)](#179)
+              - [4° : Réunions sportives (art. 126 F)](#180)
+              - [5° : Contrôle des entrées dans les salles. Billets (art. 127 à 131 A)](#181)
+              - [6° : Assiette et contrôle de la taxe (art. 137 à 139)](#182)
+              - [7° : Fermeture des établissements (art. 141)](#183)
+            - [II : Dispositions particulières (art. 145 à 154)](#184)
+              - [1° : Etablissements où il est d'usage de consommer (art. 145)](#185)
+              - [2° : Cercles et maisons de jeux (art. 146 à 154)](#186)
+        - [Chapitre III : Enregistrement (art. 155 A à 155 B)](#187)
+          - [Section unique : Taxe locale d'équipement (art. 155 A à 155 B)](#188)
+      - [Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse (art. 155-0 bis à 155 bis A)](#189)
+        - [Chapitre unique : Impôts directs et taxes assimilées (art. 155-0 bis à 155 bis A)](#190)
+          - [Section I : Imposition forfaitaire sur les entreprises de réseaux (art. 155-0 bis)](#191)
+          - [Section II : Autres impositions (art. 155 bis A)](#192)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 155-0 ter à 159 octies)](#193)
+        - [Chapitre 0I : Impôts directs et taxes assimilées (art. 155-0 ter à 155-00 ter)](#194)
+          - [Section unique : Imposition forfaitaire sur les entreprises de réseaux (art. 155-0 ter à 155-00 ter)](#195)
+        - [Chapitre premier : Droits d'enregistrement (art. 155 ter à 155 quater)](#196)
+          - [1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France (art. 155 ter)](#197)
+          - [2° : Taxe sur les certificats d'immatriculation des véhicules. (art. 155 quater)](#198)
+        - [Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées (art. 159 ter A à 159 AD)](#199)
+          - [Section II : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles (art. 159 ter A)](#200)
+            - [III : Huiles (art. 159 ter A)](#201)
+          - [Section III : Taxe d'abattage (art. 159 A)](#202)
+          - [Section IV : Fonds national du livre (art. 159 AA à 159 AD)](#203)
+            - [I : Redevance sur l'édition des ouvrages de librairie (art. 159 AA)](#204)
+            - [II : Taxe sur les appareils de reproduction ou d'impression (art. 159 AD)](#205)
+        - [Chapitre III : Enregistrement (art. 159 quater à 159 octies)](#206)
+          - [Section I : Fonds national de gestion des risques en agriculture (art. 159 quater)](#207)
+          - [Section II : Fonds de garantie des assurances obligatoires de dommages (art. 159 quinquies-0 A à 159 quinquies-0 B)](#208)
+            - [A : Accidents de circulation (art. 159 quinquies-0 A)](#209)
+            - [B : Accidents de chasse (art. 159 quinquies-0 B)](#210)
+          - [Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers (art. 159 octies)](#211)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 164 FB à 170 undecies)](#212)
+      - [Titre premier : Assiette et contrôle de l'impôt (art. 164 FB à 164 AX)](#213)
+        - [Chapitre premier : Obligations déclaratives (art. 164 FB à 164 FF)](#214)
+          - [I : Déclaration des comptes financiers (art. 164 FB à 164 FF)](#215)
+        - [Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs (art. 164 F novodecies A à 164 F novodecies B)](#216)
+        - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 164 F unvicies A à 164 F sexvicies)](#217)
+          - [Section I : Centres de gestion agréés (art. 164 F unvicies A à 164 F unvicies F)](#218)
+            - [Tenue des documents comptables de certains adhérents (art. 164 F unvicies A à 164 F unvicies F)](#219)
+          - [Section II : Associations agréées des professions libérales (art. 164 F octovicies à 164 F sexvicies)](#220)
+        - [Chapitre III : Réglementation des machines à timbrer (art. 164 L à 164 AL bis)](#221)
+          - [I : Définitions (art. 164 L)](#222)
+          - [II : Dispositions communes (art. 164 M à 164 AL bis)](#223)
+            - [A : Caractéristiques générales des machines (art. 164 M à 164 O)](#224)
+            - [B : Agrément des machines (art. 164 P à 164 S)](#225)
+            - [C : Autorisation de placer les machines chez les usagers (art. 164 T à 164 V)](#226)
+            - [D : Obligations des concessionnaires (art. 164 AA à 164 Z)](#227)
+            - [E : Obligations des usagers (art. 164 AD à 164 AG)](#228)
+            - [F : Responsabilités attachées à l'utilisation des machines (art. 164 AH à 164 AK)](#229)
+            - [G : Révocation des autorisations de placer et d'utiliser les machines (art. 164 AL)](#230)
+            - [H : Compétence des agents de la direction générale des douanes et droits indirects (art. 164 AL bis)](#231)
+        - [Chapitre IV : Systèmes informatiques sécurisés et matériels de validation (art. 164 AM à 164 AX)](#232)
+      - [Titre II : Dispositions diverses (art. 165 à 170 undecies)](#233)
+        - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#234)
+        - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#235)
+        - [Section IV : Dispositions communes (art. 170 decies à 170 sexies)](#236)
+          - [Octroi de certains agréments fiscaux (art. 170 decies à 170 sexies)](#237)
+        - [Section V : Commissions administratives des impôts (art. 170 undecies)](#238)
+  - [Livre II : Recouvrement de l'impôt (art. 187 à 207 sexies)](#239)
+    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#240)
+      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188 ter)](#241)
+        - [3 : Paiement de l'impôt (art. 187 à 188 ter)](#242)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#243)
+      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H à 188-0 H)](#244)
+      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I à 188-0 I)](#245)
+      - [Section I quinquies : Prélèvement sur les dividendes (art. 188 K à 188 L)](#246)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#247)
+      - [Section III : Contributions indirectes (art. 193)](#248)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#249)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#250)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#251)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#252)
+        - [6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis (art. 198 septies)](#253)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#254)
+      - [Section V : Dispositions communes (art. 199-0 à 204)](#255)
+        - [1° : Date de limite de paiement ou de prélèvement (art. 199-0)](#256)
+        - [2° : Paiement par chèques (art. 199 à 204)](#257)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#258)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#259)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#260)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#261)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#262)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -8694,56 +8696,52 @@ _Cite_:
 
 ###### Article 50 terdecies
 
-Le tarif de la redevance sanitaire d'abattage s'établit comme suit (par carcasse abattue) :
+Le tarif de la redevance sanitaire d'abattage s'établit comme suit (par carcasse abattue) : 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                    │ EN EUROS             ┃
-┃                                                    ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃                                                    │ Par carcasse abattue ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ a) Animaux de boucherie :                          │                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les gros bovins                               │ 4,12                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les veaux                                     │ 1,68                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les solipèdes domestiques                     │ 3,05                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les ovins et caprins :                        │                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ - d'un poids carcasse inférieur à 12 kilogrammes   │ 0,14                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ - d'un poids carcasse de 12 kilogrammes ou plus    │ 0,24                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les porcins :                                 │                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ - d'un poids carcasse inférieur à 25 kilogrammes   │ 0,38                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ - d'un poids carcasse de 25 kilogrammes ou plus    │ 0,79                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ b) Volailles et lapins :                           │                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les volailles du genre Gallus et les pintades │ 0,0046               ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les canards et les oies                       │ 0,01                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les dindes                                    │ 0,02                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les lapins domestiques                        │ 0,0046               ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ c) Gibier d'élevage et sauvage :                   │                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour le petit gibier à plumes                      │ 0,0046               ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour le petit gibier à poils                       │ 0,01                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les ratites (autruche, émeu, nandou)          │ 0,04                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour le sanglier                                   │ 1,30                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les ruminants                                 │ 0,46                 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━┓
+┃                                                                                                          │ EN EUROS       ┃
+┃                                                                                                          ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                                                                                          │ Par carcasse   ┃
+┃                                                                                                          │ abattue        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ A. - Ongulés domestiques                                                                                 │                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les bovins adultes                                                                                  │ 5              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les jeunes bovins, au sens de l'annexe VI ter point 1 b du règlement (CE) n° 2074/2005, c'est-à-    │ 2              ┃
+┃ dire les bovins de moins de 8 mois (usuellement appelés veaux)                                           │                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les solipèdes et équidés                                                                            │ 3              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les ovins et caprins : - d'un poids carcasse inférieur à 12 kilogrammes - d'un poids carcasse de 12 │ 0,15 0,25      ┃
+┃ kilogrammes ou plus                                                                                      │                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les porcins : - d'un poids carcasse inférieur à 25 kilogrammes - d'un poids carcasse de 25 kilo-    │ 0,50 1         ┃
+┃ grammes ou plus                                                                                          │                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ B. - Volailles et lagomorphes                                                                            │                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les volailles de l'espèce Gallus et les pintades                                                    │ 0,005          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les canards et les oies                                                                             │ 0,01           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les dindes                                                                                          │ 0,025          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les lapins d'élevage                                                                                │ 0,005          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ C. - Gibier ongulé d'élevage et gibier sauvage                                                           │                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour le petit gibier à plumes                                                                            │ 0,005          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour le petit gibier à poils                                                                             │ 0,01           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les ratites (autruche, émeu, nandou)                                                                │ 0,5            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour le sanglier                                                                                         │ 1,5            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les ruminants                                                                                       │ 0,5            ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -8751,14 +8749,7 @@ Le tarif de la redevance sanitaire d'abattage s'établit comme suit (par carcass
 
 _Modifié par_:
 
-  - Arrêté 2001-12-19 art. 1 JORF 23 décembre 2001 en vigueur le 1er janvier 2002
-  - Règlement CE 1103/97 1997-06-17 art. 5 en vigueur le 1er janvier 2002
-  - Règlement CE 2866/98 1998-12-31 art. 1 JOCE 31 décembre 1998 en vigueur le 1er janvier 2002
-  - Règlement CE 974/98 1998-05-03 art. 14 en vigueur le 1er janvier 2002
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
+  - Arrêté du 26 décembre 2012 - art. 1
 
 
 #### Chapitre III : Redevance sanitaire de découpage<a id=96></a>
@@ -8768,23 +8759,19 @@ _Modifié par_:
 Le tarif de la redevance sanitaire de découpage s'établit comme suit (par tonne) :
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┓
-┃                                                   │ EN EUROS  ┃
-┃                                                   ├┈┈┈┈┈┈┈┈┈┈┈┨
-┃                                                   │ Par tonne ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les viandes de boucherie                     │ 1,68      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les viandes de volailles et de lapin         │ 1,35      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Pour les viandes de gibier d'élevage et sauvage : │           ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
-┃ - petit gibier à plumes, petit gibier à poils     │ 1,35      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
-┃ - ratites (autruche, émeu, nandou)                │ 2,90      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
-┃ - sanglier et ruminants                           │ 1,68      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┓
+┃                                                                                                                │ EN EUROS ┃
+┃                                                                                                                ├┈┈┈┈┈┈┈┈┈┈┨
+┃                                                                                                                │ Par      ┃
+┃                                                                                                                │ tonne    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les viandes d'ongulés domestiques                                                                         │ 2        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les viandes de volailles et de lapin d'élevage                                                            │ 1,5      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ Pour les viandes de gibier d'élevage et sauvage : - petit gibier à plumes, petit gibier à poils - ratites (au- │ 1,5 3 2  ┃
+┃ truche, emeu, nandou) - sanglier et ruminants                                                                  │          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━┛
 </pre>
 
 
@@ -8792,7 +8779,7 @@ Le tarif de la redevance sanitaire de découpage s'établit comme suit (par tonn
 
 _Modifié par_:
 
-  - Arrêté du 17 septembre 1999 - art. 2 JORF 21 septembre 1999 en vigueur le 1er janvier 2002, v. init.
+  - Arrêté du 12 octobre 2012 - art. 6
 
 
 #### Chapitre III bis : Redevances sanitaires sur les produits de la pêche et de l'aquaculture<a id=97></a>
@@ -13843,7 +13830,11 @@ _Cite_:
   - CGIAN3 322 G
 
 
-##### Section III : Commission consultative départementale des évaluations foncières<a id=170></a>
+##### Section II : Cotisation foncière des entreprises<a id=170></a>
+
+##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire<a id=171></a>
+
+##### Section III : Commission consultative départementale des évaluations foncières<a id=172></a>
 
 ###### Article 121 quinquies DC
 
@@ -13945,9 +13936,9 @@ La commission entend les fonctionnaires ainsi que toutes les personnalités dont
 
 
 
-##### Section IV : Autres impositions<a id=171></a>
+##### Section IV : Autres impositions<a id=173></a>
 
-##### I : Redevance communale des mines<a id=172></a>
+##### I : Redevance communale des mines<a id=174></a>
 
 ###### Article 121 sexies
 
@@ -13978,13 +13969,13 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 313 (V)
 
 
-#### Chapitre II : Contributions indirectes<a id=173></a>
+#### Chapitre II : Contributions indirectes<a id=175></a>
 
-##### Section unique : Impôt sur les spectacles, jeux et divertissements<a id=174></a>
+##### Section unique : Impôt sur les spectacles, jeux et divertissements<a id=176></a>
 
-##### I : Dispositions générales<a id=175></a>
+##### I : Dispositions générales<a id=177></a>
 
-##### 1° : Déclaration d'existence<a id=176></a>
+##### 1° : Déclaration d'existence<a id=178></a>
 
 ###### Article 124
 
@@ -14006,7 +13997,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1565 (V)
 
 
-##### 2° : Classement des spectacles<a id=177></a>
+##### 2° : Classement des spectacles<a id=179></a>
 
 ###### Article 126
 
@@ -14031,7 +14022,7 @@ _Cite_:
   - Loi du 1er juillet 1901 (V)
 
 
-##### 4° : Réunions sportives<a id=178></a>
+##### 4° : Réunions sportives<a id=180></a>
 
 ###### Article 126 F
 
@@ -14054,7 +14045,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1561 (V)
 
 
-##### 5° : Contrôle des entrées dans les salles. Billets<a id=179></a>
+##### 5° : Contrôle des entrées dans les salles. Billets<a id=181></a>
 
 ###### Article 127
 
@@ -14247,7 +14238,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1564 (V)
 
 
-##### 6° : Assiette et contrôle de la taxe<a id=180></a>
+##### 6° : Assiette et contrôle de la taxe<a id=182></a>
 
 ###### Article 137
 
@@ -14314,7 +14305,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 127 (V)
 
 
-##### 7° : Fermeture des établissements<a id=181></a>
+##### 7° : Fermeture des établissements<a id=183></a>
 
 ###### Article 141
 
@@ -14329,9 +14320,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1822 (V)
 
 
-##### II : Dispositions particulières<a id=182></a>
+##### II : Dispositions particulières<a id=184></a>
 
-##### 1° : Etablissements où il est d'usage de consommer<a id=183></a>
+##### 1° : Etablissements où il est d'usage de consommer<a id=185></a>
 
 ###### Article 145
 
@@ -14387,7 +14378,7 @@ _Modifié par_:
   - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
 
 
-##### 2° : Cercles et maisons de jeux<a id=184></a>
+##### 2° : Cercles et maisons de jeux<a id=186></a>
 
 ###### Article 146
 
@@ -14652,9 +14643,9 @@ _Modifié par_:
   - TXT_ASSOCIE: Note 1993-01-11 4F-1-93
 
 
-#### Chapitre III : Enregistrement<a id=185></a>
+#### Chapitre III : Enregistrement<a id=187></a>
 
-##### Section unique : Taxe locale d'équipement<a id=186></a>
+##### Section unique : Taxe locale d'équipement<a id=188></a>
 
 ###### Article 155 A
 
@@ -14741,11 +14732,11 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 155 A
 
 
-### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse<a id=187></a>
+### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse<a id=189></a>
 
-#### Chapitre unique : Impôts directs et taxes assimilées<a id=188></a>
+#### Chapitre unique : Impôts directs et taxes assimilées<a id=190></a>
 
-##### Section I : Imposition forfaitaire sur les entreprises de réseaux<a id=189></a>
+##### Section I : Imposition forfaitaire sur les entreprises de réseaux<a id=191></a>
 
 ###### Article 155-0 bis
 
@@ -14828,7 +14819,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1599 quater A (V)
 
 
-##### Section II : Autres impositions<a id=190></a>
+##### Section II : Autres impositions<a id=192></a>
 
 ###### Article 155 bis A
 
@@ -14890,11 +14881,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1644
 
 
-### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=191></a>
+### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=193></a>
 
-#### Chapitre 0I : Impôts directs et taxes assimilées<a id=192></a>
+#### Chapitre 0I : Impôts directs et taxes assimilées<a id=194></a>
 
-##### Section unique : Imposition forfaitaire sur les entreprises de réseaux<a id=193></a>
+##### Section unique : Imposition forfaitaire sur les entreprises de réseaux<a id=195></a>
 
 ###### Article 155-0 ter
 
@@ -14953,9 +14944,9 @@ _Modifié par_:
   - Arrêté du 27 juin 2012 - art. 1
 
 
-#### Chapitre premier : Droits d'enregistrement<a id=194></a>
+#### Chapitre premier : Droits d'enregistrement<a id=196></a>
 
-##### 1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France<a id=195></a>
+##### 1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France<a id=197></a>
 
 ###### Article 155 ter
 
@@ -15146,7 +15137,7 @@ _Anciens textes_:
   - CGIAN4 159 sexies A
 
 
-##### 2° : Taxe sur les certificats d'immatriculation des véhicules.<a id=196></a>
+##### 2° : Taxe sur les certificats d'immatriculation des véhicules.<a id=198></a>
 
 ###### Article 155 quater
 
@@ -15172,11 +15163,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1599 sexdecies (V)
 
 
-#### Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées<a id=197></a>
+#### Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées<a id=199></a>
 
-##### Section II : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles<a id=198></a>
+##### Section II : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles<a id=200></a>
 
-##### III : Huiles<a id=199></a>
+##### III : Huiles<a id=201></a>
 
 ###### Article 159 ter A
 
@@ -15205,7 +15196,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1609 vicies (V)
 
 
-##### Section III : Taxe d'abattage<a id=200></a>
+##### Section III : Taxe d'abattage<a id=202></a>
 
 ###### Article 159 A
 
@@ -15226,11 +15217,11 @@ ruminants d'élevage : 58 €/t ;
 II.-Les taux d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés en
 métropole sont fixés par tonne de viande avec os comme suit : 
 
-1° Animaux de plus de 24 mois de l'espèce bovine et gibiers ruminants d'élevage : 73,7 €/t ; 
+1° Animaux de plus de 24 mois de l'espèce bovine et gibiers ruminants d'élevage : 77,4 €/t ; 
 
-2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 16,5 €/t ; 
+2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 17,3 €/t ; 
 
-3° Animaux des espèces ovine et caprine : 69,3 €/t ; 
+3° Animaux des espèces ovine et caprine : 72,8 €/t ; 
 
 4° Animaux de l'espèce porcine : 0 €/t ; 
 
@@ -15248,7 +15239,7 @@ l'annexe III.
 
 _Modifié par_:
 
-  - Arrêté du 1er décembre 2011 - art. 1
+  - Arrêté du 24 décembre 2012 - art. 1
 
 _Cite_:
 
@@ -15256,9 +15247,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1609 septvicies
 
 
-##### Section IV : Fonds national du livre<a id=201></a>
+##### Section IV : Fonds national du livre<a id=203></a>
 
-##### I : Redevance sur l'édition des ouvrages de librairie<a id=202></a>
+##### I : Redevance sur l'édition des ouvrages de librairie<a id=204></a>
 
 ###### Article 159 AA
 
@@ -15281,7 +15272,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1609 duodecies (V)
 
 
-##### II : Taxe sur les appareils de reproduction ou d'impression<a id=203></a>
+##### II : Taxe sur les appareils de reproduction ou d'impression<a id=205></a>
 
 ###### Article 159 AD
 
@@ -15308,9 +15299,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1609 terdecies (V)
 
 
-#### Chapitre III : Enregistrement<a id=204></a>
+#### Chapitre III : Enregistrement<a id=206></a>
 
-##### Section I : Fonds national de gestion des risques en agriculture<a id=205></a>
+##### Section I : Fonds national de gestion des risques en agriculture<a id=207></a>
 
 ###### Article 159 quater
 
@@ -15344,9 +15335,9 @@ _Cite_:
   - Code de la route. - art. R311-1
 
 
-##### Section II : Fonds de garantie des assurances obligatoires de dommages<a id=206></a>
+##### Section II : Fonds de garantie des assurances obligatoires de dommages<a id=208></a>
 
-##### A : Accidents de circulation<a id=207></a>
+##### A : Accidents de circulation<a id=209></a>
 
 ###### Article 159 quinquies-0 A
 
@@ -15374,7 +15365,7 @@ _Cite_:
   - Code des assurances - art. A421-3
 
 
-##### B : Accidents de chasse<a id=208></a>
+##### B : Accidents de chasse<a id=210></a>
 
 ###### Article 159 quinquies-0 B
 
@@ -15406,7 +15397,7 @@ _Cite_:
   - Code des assurances - art. A421-4
 
 
-##### Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers<a id=209></a>
+##### Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers<a id=211></a>
 
 ###### Article 159 octies
 
@@ -15448,13 +15439,13 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1635 bis M
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=210></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=212></a>
 
-### Titre premier : Assiette et contrôle de l'impôt<a id=211></a>
+### Titre premier : Assiette et contrôle de l'impôt<a id=213></a>
 
-#### Chapitre premier : Obligations déclaratives<a id=212></a>
+#### Chapitre premier : Obligations déclaratives<a id=214></a>
 
-##### I : Déclaration des comptes financiers<a id=213></a>
+##### I : Déclaration des comptes financiers<a id=215></a>
 
 ###### Article 164 FB
 
@@ -15604,7 +15595,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 FB
 
 
-#### Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs<a id=214></a>
+#### Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs<a id=216></a>
 
 ###### Article 164 F novodecies A
 
@@ -15740,11 +15731,11 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies A (P)
 
 
-#### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=215></a>
+#### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=217></a>
 
-##### Section I : Centres de gestion agréés<a id=216></a>
+##### Section I : Centres de gestion agréés<a id=218></a>
 
-##### Tenue des documents comptables de certains adhérents<a id=217></a>
+##### Tenue des documents comptables de certains adhérents<a id=219></a>
 
 ###### Article 164 F unvicies A
 
@@ -15917,7 +15908,7 @@ _Codifié par_:
   - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 
-##### Section II : Associations agréées des professions libérales<a id=218></a>
+##### Section II : Associations agréées des professions libérales<a id=220></a>
 
 ###### Article 164 F octovicies
 
@@ -16012,9 +16003,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 F septvicies (V)
 
 
-#### Chapitre III : Réglementation des machines à timbrer<a id=219></a>
+#### Chapitre III : Réglementation des machines à timbrer<a id=221></a>
 
-##### I : Définitions<a id=220></a>
+##### I : Définitions<a id=222></a>
 
 ###### Article 164 L
 
@@ -16046,9 +16037,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 73 (V)
 
 
-##### II : Dispositions communes<a id=221></a>
+##### II : Dispositions communes<a id=223></a>
 
-##### A : Caractéristiques générales des machines<a id=222></a>
+##### A : Caractéristiques générales des machines<a id=224></a>
 
 ###### Article 164 M
 
@@ -16115,7 +16106,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 M (V)
 
 
-##### B : Agrément des machines<a id=223></a>
+##### B : Agrément des machines<a id=225></a>
 
 ###### Article 164 P
 
@@ -16176,7 +16167,7 @@ des télécommunications (groupement de mécanisation postale). Ce dépôt ne do
 
 
 
-##### C : Autorisation de placer les machines chez les usagers<a id=224></a>
+##### C : Autorisation de placer les machines chez les usagers<a id=226></a>
 
 ###### Article 164 T
 
@@ -16226,7 +16217,7 @@ _Modifié par_:
   - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 
-##### D : Obligations des concessionnaires<a id=225></a>
+##### D : Obligations des concessionnaires<a id=227></a>
 
 ###### Article 164 AA
 
@@ -16353,7 +16344,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 X (V)
 
 
-##### E : Obligations des usagers<a id=226></a>
+##### E : Obligations des usagers<a id=228></a>
 
 ###### Article 164 AD
 
@@ -16479,7 +16470,7 @@ _Codifié par_:
   - Arrêté 2001-05-21
 
 
-##### F : Responsabilités attachées à l'utilisation des machines<a id=227></a>
+##### F : Responsabilités attachées à l'utilisation des machines<a id=229></a>
 
 ###### Article 164 AH
 
@@ -16554,7 +16545,7 @@ _Codifié par_:
   - Arrêté 1993-09-24
 
 
-##### G : Révocation des autorisations de placer et d'utiliser les machines<a id=228></a>
+##### G : Révocation des autorisations de placer et d'utiliser les machines<a id=230></a>
 
 ###### Article 164 AL
 
@@ -16577,7 +16568,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 54 A (V)
 
 
-##### H : Compétence des agents de la direction générale des douanes et droits indirects<a id=229></a>
+##### H : Compétence des agents de la direction générale des douanes et droits indirects<a id=231></a>
 
 ###### Article 164 AL bis
 
@@ -16603,7 +16594,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 L (V)
 
 
-#### Chapitre IV : Systèmes informatiques sécurisés et matériels de validation<a id=230></a>
+#### Chapitre IV : Systèmes informatiques sécurisés et matériels de validation<a id=232></a>
 
 ###### Article 164 AM
 
@@ -17099,9 +17090,9 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 L (V)
 
 
-### Titre II : Dispositions diverses<a id=231></a>
+### Titre II : Dispositions diverses<a id=233></a>
 
-#### Section I : Impôts directs et taxes assimilées<a id=232></a>
+#### Section I : Impôts directs et taxes assimilées<a id=234></a>
 
 ###### Article 165
 
@@ -17224,7 +17215,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 166
 
 
-#### Section III : Enregistrement, publicité foncière et timbre<a id=233></a>
+#### Section III : Enregistrement, publicité foncière et timbre<a id=235></a>
 
 ###### Article 169
 
@@ -17308,9 +17299,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1040
 
 
-#### Section IV : Dispositions communes<a id=234></a>
+#### Section IV : Dispositions communes<a id=236></a>
 
-##### Octroi de certains agréments fiscaux<a id=235></a>
+##### Octroi de certains agréments fiscaux<a id=237></a>
 
 ###### Article 170 decies
 
@@ -17564,7 +17555,7 @@ _Cite_:
   - HISTO: Edition du 31 août 2004
 
 
-#### Section V : Commissions administratives des impôts<a id=236></a>
+#### Section V : Commissions administratives des impôts<a id=238></a>
 
 ###### Article 170 undecies
 
@@ -17603,13 +17594,13 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1651 (V)
 
 
-# Livre II : Recouvrement de l'impôt<a id=237></a>
+# Livre II : Recouvrement de l'impôt<a id=239></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=238></a>
+## Chapitre premier : Paiement de l'impôt<a id=240></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=239></a>
+### Section I : Impôts directs et taxes assimilées<a id=241></a>
 
-#### 3 : Paiement de l'impôt<a id=240></a>
+#### 3 : Paiement de l'impôt<a id=242></a>
 
 ###### Article 187
 
@@ -17717,7 +17708,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730
 
 
-### Section I bis : Intérêts des bons de caisse<a id=241></a>
+### Section I bis : Intérêts des bons de caisse<a id=243></a>
 
 ###### Article 188 B
 
@@ -17800,7 +17791,7 @@ intérêt.
 
 
 
-### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=242></a>
+### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=244></a>
 
 ###### Article 188 H
 
@@ -17853,7 +17844,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 119 bis (V)
 
 
-### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=243></a>
+### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=245></a>
 
 ###### Article 188 I
 
@@ -17935,7 +17926,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 125-0 A (V)
 
 
-### Section I quinquies : Prélèvement sur les dividendes<a id=244></a>
+### Section I quinquies : Prélèvement sur les dividendes<a id=246></a>
 
 ###### Article 188 K
 
@@ -17996,7 +17987,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 125 A
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=245></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=247></a>
 
 ###### Article 189
 
@@ -18026,7 +18017,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1692 (V)
 
 
-### Section III : Contributions indirectes<a id=246></a>
+### Section III : Contributions indirectes<a id=248></a>
 
 ###### Article 193
 
@@ -18043,9 +18034,9 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 189 (V)
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=247></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=249></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=248></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=250></a>
 
 ###### Article 196 A
 
@@ -18061,7 +18052,7 @@ _Modifié par_:
   - Arrêté 1991-10-28 art. 2, art. 3 JORF 29 octobre 1991
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=249></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=251></a>
 
 ###### Article 198 quinquies
 
@@ -18072,7 +18063,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=250></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=252></a>
 
 ###### Article 198 sexies
 
@@ -18087,7 +18078,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis<a id=251></a>
+#### 6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis<a id=253></a>
 
 ###### Article 198 septies
 
@@ -18115,7 +18106,7 @@ _Modifié par_:
   - Arrêté du 27 juin 2012 - art. 1
 
 
-#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=252></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=254></a>
 
 ###### Article 198 octies
 
@@ -18136,9 +18127,9 @@ _Modifié par_:
   - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
 
 
-### Section V : Dispositions communes<a id=253></a>
+### Section V : Dispositions communes<a id=255></a>
 
-#### 1° : Date de limite de paiement ou de prélèvement<a id=254></a>
+#### 1° : Date de limite de paiement ou de prélèvement<a id=256></a>
 
 ###### Article 199-0
 
@@ -18160,7 +18151,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 39 (V)
 
 
-#### 2° : Paiement par chèques<a id=255></a>
+#### 2° : Paiement par chèques<a id=257></a>
 
 ###### Article 199
 
@@ -18218,9 +18209,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-## Chapitre I bis : Pénalités<a id=256></a>
+## Chapitre I bis : Pénalités<a id=258></a>
 
-### I : Impôts directs et taxes assimilées<a id=257></a>
+### I : Impôts directs et taxes assimilées<a id=259></a>
 
 ###### Article 207 quater A
 
@@ -18229,7 +18220,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=258></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=260></a>
 
 ###### Article 207 quater A bis
 
@@ -18251,9 +18242,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1737 (V)
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=259></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=261></a>
 
-### Publicité du privilège du Trésor<a id=260></a>
+### Publicité du privilège du Trésor<a id=262></a>
 
 ###### Article 207 sexies
 
