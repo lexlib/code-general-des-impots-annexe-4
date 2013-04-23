@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2013-04-10
+Version Consolidée au 2013-04-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -13735,7 +13735,7 @@ Le représentant du secrétaire d'Etat auprès du ministre de l'intérieur (DOM-
 
 Le représentant du ministre dont relève l'activité à encourager ; 
 
-Le directeur général du Centre d'analyse stratégique ; 
+Le Commissaire général à la stratégie et à la prospective ; 
 
 L'inspecteur général des finances chargé de la division des départements d'outre-mer ; 
 
@@ -13773,14 +13773,9 @@ Modification effectuée en conséquence de l'article 2 du décret n° 2010-291 d
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°52-152 du 13 février 1952 - art. 18
-
 _Modifié par_:
 
-  - Décret n°2010-291 du 18 mars 2010 - art. 2 (V)
-  - Arrêté du 9 juin 2011 - art. 1
+  - Décret n°2013-333 du 22 avril 2013 - art. 11
 
 
 #### Chapitre III : Déclarations des personnes physiques résidant en Principauté de Monaco<a id=163></a>
