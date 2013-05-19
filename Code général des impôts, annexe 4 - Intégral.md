@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2013-04-27
+Version Consolidée au 2013-05-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -82,64 +82,64 @@ Version Consolidée au 2013-04-27
               - [A : Déclarations d'existence et comptabilité. Déclarations de recettes (art. 32 à 41)](#79)
               - [B : Tenue des registres (art. 41 bis à 41 ter)](#80)
               - [C : Déclaration des échanges de biens entre Etats membres de la Communauté européenne (art. 41 sexies A à 41 sexies B)](#81)
-              - [D : Factures transmises par voie télématique (art.  à 41 sexies B)](#82)
-              - [D : Factures transmises par voie électronique (art. 41 nonies à 41 septies)](#83)
-              - [E : Remboursement de la taxe aux assujettis établis dans l'Union européenne (art. 41 decies à 41 undecies)](#84)
-            - [II : Obligations particulières (art. 42 à 50 sexies K)](#85)
-              - [A : Bâtiments de mer. Bâteaux. Pêche maritime. Aéronefs (art. 42 à 46)](#86)
-              - [D : Cautionnement des entreprises bénéficiaires du régime de la suspension de taxe (art. 49 à 50 bis)](#87)
-              - [G : Exploitants de spectacles (art. 50 sexies B à 50 sexies I)](#88)
-              - [H : Services fournis par voie électronique (art. 50 sexies J à 50 sexies K)](#89)
-          - [Section VI : Importations (art. 50 octies à 50 decies)](#90)
-            - [I : Franchises fiscales à l'importation (art. 50 octies à 50 septies)](#91)
-            - [II : Oeuvres d'art originales, timbres et objets de collection ou d'antiquité (art. 50 decies)](#92)
-          - [Section VII : Régimes spéciaux (art. 50 duodecies à 50 duodecies A)](#93)
-            - [I : Départements d'outre-mer (art. 50 duodecies à 50 undecies)](#94)
-            - [II : Corse (art. 50 duodecies A)](#95)
-        - [Chapitre 0 II : Taxe sur le chiffre d'affaires des exploitants agricoles (art. 50 terdecies-0)](#96)
-        - [Chapitre II : Redevance sanitaire d'abattage (art. 50 terdecies)](#97)
-        - [Chapitre III : Redevance sanitaire de découpage (art. 50 quaterdecies)](#98)
-        - [Chapitre III bis : Redevances sanitaires sur les produits de la pêche et de l'aquaculture (art. 50 quaterdecies-0 A à 50 quaterdecies-0 A bis)](#99)
-        - [Chapitre III ter : Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus (art. 50 quaterdecies-0 A ter)](#100)
-        - [Chapitre V : Contribution de solidarité territoriale (art. 50 quaterdecies B)](#101)
-      - [Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires (art. 50 quindecies)](#102)
-        - [Chapitre premier : Récépissé de consignation (art. 50 quindecies)](#103)
-      - [Titre III : Contributions indirectes (art. 50-00 A à 56 AQ)](#104)
-        - [Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés (art. 50-00 A à 50-0 I)](#105)
-          - [1° : Comptabilité matières des entrepositaires agréés (art. 50-00 A à 50-00 H)](#106)
-          - [1° - 0 bis : Destinataire enregistré (art. 50-00 I à 50-00 J)](#107)
-          - [1° bis : Attestation de consignation (art. 50-0 A)](#108)
-          - [1° ter : Représentant fiscal (art. 50-0 A bis)](#109)
-          - [3° : Capsules représentatives de droits (art. 50-0 C à 50-0 F)](#110)
-          - [4° Modalités d'exonération des droits d'accises sur les alcools et les boissons alcooliques (art. 50-0 G à 50-0 I)](#111)
-        - [Chapitre premier : Boissons (art. 50 A à 55 F)](#112)
-          - [Section I : Alcools (art. 50 A à 52 quater)](#113)
-            - [I : Production (art. 50 A à 52)](#114)
-              - [A : Alambics (art. 50 A à 51)](#115)
-              - [B : Rachat des alambics par l'État (art. 51 A à 51 H)](#116)
-              - [C : Dispositions générales. Conditions d'exercice de la profession de distillateur (art. 51 bis à 51 ter)](#117)
-              - [D : Règlement des distilleries (art. 51 septies à 51 octies B)](#118)
-                - [1° : Régime général (art. 51 septies à 51 septies J)](#119)
-                - [2° : Régime spécial (art. 51 octies à 51 octies B)](#120)
-              - [E : Teneur en alcool des produits de parfumerie et de toilette (art. 52)](#121)
-            - [II : Régime économique (art. 52 ter à 52 quater)](#122)
-              - [1° : Répartition du contingent des rhums (art. 52 ter)](#123)
-              - [2° : Régime de l'exportation préalable (art. 52 quater)](#124)
-          - [Section I bis : Circulation (art. 54-0 A à 54 bis)](#125)
-            - [I : Capsules représentatives de droits (art. 54-0 A à 54-0 BX)](#126)
-              - [A : Capsules représentatives des droits sur les alcools et boissons alcooliques (art. 54-0 B à 54-0 Z)](#127)
-                - [1 : Caractéristiques des capsules (art. 54-0 B à 54-0 E)](#128)
-                - [2 : Fabrication des capsules (art. 54-0 G à 54-0 T)](#129)
-                - [3 : Utilisation des capsules (art. 54-0 AA à 54-0 Z)](#130)
-              - [D : Emploi des capsules représentatives des droits par les récoltants (art. 54-0 BV à 54-0 BX)](#131)
-            - [II : Documents d'accompagnement (art. 54 A à 54 C)](#132)
-            - [III : Exemption des formalités à la circulation (art. 54 bis)](#133)
-          - [Section IV : Mise sur le marché des vins doux naturels à appellation d'origine contrôlée (art. 55 F)](#134)
-        - [Chapitre I ter A : Garantie des matières d'or, d'argent et de platine (art. 56 J bis à 56 J vicies)](#135)
-          - [1° : Organisation des bureaux de garantie (art. 56 J bis)](#136)
-          - [3° : Les commissionnaires en garantie (art. 56 J decies à 56 J undecies)](#137)
-          - [4° : Convention d'habilitation (art. 56 J duodecies)](#138)
-          - [4° bis : Organismes de contrôle agréés (art. 56 J terdecies)](#139)
+              - [D : Factures transmises par voie électronique (art. 41 nonies à 41 septies)](#82)
+              - [E : Remboursement de la taxe aux assujettis établis dans l'Union européenne (art. 41 decies à 41 undecies)](#83)
+            - [II : Obligations particulières (art. 42 à 50 sexies K)](#84)
+              - [A : Bâtiments de mer. Bâteaux. Pêche maritime. Aéronefs (art. 42 à 46)](#85)
+              - [D : Cautionnement des entreprises bénéficiaires du régime de la suspension de taxe (art. 49 à 50 bis)](#86)
+              - [G : Exploitants de spectacles (art. 50 sexies B à 50 sexies I)](#87)
+              - [H : Services fournis par voie électronique (art. 50 sexies J à 50 sexies K)](#88)
+          - [Section VI : Importations (art. 50 octies à 50 decies)](#89)
+            - [I : Franchises fiscales à l'importation (art. 50 octies à 50 septies)](#90)
+            - [II : Oeuvres d'art originales, timbres et objets de collection ou d'antiquité (art. 50 decies)](#91)
+          - [Section VII : Régimes spéciaux (art. 50 duodecies à 50 duodecies A)](#92)
+            - [I : Départements d'outre-mer (art. 50 duodecies à 50 undecies)](#93)
+            - [II : Corse (art. 50 duodecies A)](#94)
+        - [Chapitre 0 II : Taxe sur le chiffre d'affaires des exploitants agricoles (art. 50 terdecies-0)](#95)
+        - [Chapitre II : Redevance sanitaire d'abattage (art. 50 terdecies)](#96)
+        - [Chapitre III : Redevance sanitaire de découpage (art. 50 quaterdecies)](#97)
+        - [Chapitre III bis : Redevances sanitaires sur les produits de la pêche et de l'aquaculture (art. 50 quaterdecies-0 A à 50 quaterdecies-0 A bis)](#98)
+        - [Chapitre III ter : Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus (art. 50 quaterdecies-0 A ter)](#99)
+        - [Chapitre V : Contribution de solidarité territoriale (art. 50 quaterdecies B)](#100)
+      - [Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires (art. 50 quindecies)](#101)
+        - [Chapitre premier : Récépissé de consignation (art. 50 quindecies)](#102)
+      - [Titre III : Contributions indirectes (art. 50-00 A à 56 AQ)](#103)
+        - [Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés (art. 50-00 A à 50-0 I)](#104)
+          - [1° : Comptabilité matières des entrepositaires agréés (art. 50-00 A à 50-00 H)](#105)
+          - [1° - 0 bis : Destinataire enregistré (art. 50-00 I à 50-00 J)](#106)
+          - [1° bis : Attestation de consignation (art. 50-0 A)](#107)
+          - [1° ter : Représentant fiscal (art. 50-0 A bis)](#108)
+          - [3° : Capsules représentatives de droits (art. 50-0 C à 50-0 F)](#109)
+          - [4° Modalités d'exonération des droits d'accises sur les alcools et les boissons alcooliques (art. 50-0 G à 50-0 I)](#110)
+        - [Chapitre premier : Boissons (art. 50 A à 55 F)](#111)
+          - [Section I : Alcools (art. 50 A à 52 quater)](#112)
+            - [I : Production (art. 50 A à 52)](#113)
+              - [A : Alambics (art. 50 A à 51)](#114)
+              - [B : Rachat des alambics par l'État (art. 51 A à 51 H)](#115)
+              - [C : Dispositions générales. Conditions d'exercice de la profession de distillateur (art. 51 bis à 51 ter)](#116)
+              - [D : Règlement des distilleries (art. 51 septies à 51 octies B)](#117)
+                - [1° : Régime général (art. 51 septies à 51 septies J)](#118)
+                - [2° : Régime spécial (art. 51 octies à 51 octies B)](#119)
+              - [E : Teneur en alcool des produits de parfumerie et de toilette (art. 52)](#120)
+            - [II : Régime économique (art. 52 ter à 52 quater)](#121)
+              - [1° : Répartition du contingent des rhums (art. 52 ter)](#122)
+              - [2° : Régime de l'exportation préalable (art. 52 quater)](#123)
+          - [Section I bis : Circulation (art. 54-0 A à 54 bis)](#124)
+            - [I : Capsules représentatives de droits (art. 54-0 A à 54-0 BX)](#125)
+              - [A : Capsules représentatives des droits sur les alcools et boissons alcooliques (art. 54-0 B à 54-0 Z)](#126)
+                - [1 : Caractéristiques des capsules (art. 54-0 B à 54-0 E)](#127)
+                - [2 : Fabrication des capsules (art. 54-0 G à 54-0 T)](#128)
+                - [3 : Utilisation des capsules (art. 54-0 AA à 54-0 Z)](#129)
+              - [D : Emploi des capsules représentatives des droits par les récoltants (art. 54-0 BV à 54-0 BX)](#130)
+            - [II : Documents d'accompagnement (art. 54 A à 54 C)](#131)
+            - [III : Exemption des formalités à la circulation (art. 54 bis)](#132)
+          - [Section IV : Mise sur le marché des vins doux naturels à appellation d'origine contrôlée (art. 55 F)](#133)
+        - [Chapitre I ter A : Garantie des matières d'or, d'argent et de platine (art. 56 J bis à 56 J vicies)](#134)
+          - [1° : Organisation des bureaux de garantie (art. 56 J bis)](#135)
+          - [3° : Les commissionnaires en garantie (art. 56 J decies à 56 J undecies)](#136)
+          - [4° : Convention d'habilitation (art. 56 J duodecies)](#137)
+          - [4° bis : Organismes de contrôle agréés (art. 56 J terdecies)](#138)
+          - [4° ter : Organismes agréés (art. 56 j terdecies A à 56 j terdecies E)](#139)
           - [5° : Obligations des redevables (art. 56 J novodecies à 56 J vicies)](#140)
         - [Chapitre II : Tabacs (art. 56 AA à 56 AQ)](#141)
       - [Titre IV : Enregistrement, publicité foncière, timbre (art. 60 à 121 VA)](#142)
@@ -4924,9 +4924,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 96 L
 
 
-##### D : Factures transmises par voie télématique<a id=82></a>
-
-##### D : Factures transmises par voie électronique<a id=83></a>
+##### D : Factures transmises par voie électronique<a id=82></a>
 
 ###### Article 41 nonies
 
@@ -5067,7 +5065,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 96 G
 
 
-##### E : Remboursement de la taxe aux assujettis établis dans l'Union européenne<a id=84></a>
+##### E : Remboursement de la taxe aux assujettis établis dans l'Union européenne<a id=83></a>
 
 ###### Article 41 decies
 
@@ -5646,9 +5644,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 41 decies (V)
 
 
-##### II : Obligations particulières<a id=85></a>
+##### II : Obligations particulières<a id=84></a>
 
-##### A : Bâtiments de mer. Bâteaux. Pêche maritime. Aéronefs<a id=86></a>
+##### A : Bâtiments de mer. Bâteaux. Pêche maritime. Aéronefs<a id=85></a>
 
 ###### Article 42
 
@@ -5733,7 +5731,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 42 (V)
 
 
-##### D : Cautionnement des entreprises bénéficiaires du régime de la suspension de taxe<a id=87></a>
+##### D : Cautionnement des entreprises bénéficiaires du régime de la suspension de taxe<a id=86></a>
 
 ###### Article 49
 
@@ -5803,7 +5801,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 49 (V)
 
 
-##### G : Exploitants de spectacles<a id=88></a>
+##### G : Exploitants de spectacles<a id=87></a>
 
 ###### Article 50 sexies B
 
@@ -6037,7 +6035,7 @@ _Modifié par_:
   - Arrêté 2007-10-05 art. 7 JORF 7 octobre 2007
 
 
-##### H : Services fournis par voie électronique<a id=89></a>
+##### H : Services fournis par voie électronique<a id=88></a>
 
 ###### Article 50 sexies J
 
@@ -6088,9 +6086,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
 
 
-##### Section VI : Importations<a id=90></a>
+##### Section VI : Importations<a id=89></a>
 
-##### I : Franchises fiscales à l'importation<a id=91></a>
+##### I : Franchises fiscales à l'importation<a id=90></a>
 
 ###### Article 50 octies
 
@@ -6454,7 +6452,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 520 A
 
 
-##### II : Oeuvres d'art originales, timbres et objets de collection ou d'antiquité<a id=92></a>
+##### II : Oeuvres d'art originales, timbres et objets de collection ou d'antiquité<a id=91></a>
 
 ###### Article 50 decies
 
@@ -6492,9 +6490,9 @@ _Modifié par_:
   - Arrêté du 27 juin 2012 - art. 1
 
 
-##### Section VII : Régimes spéciaux<a id=93></a>
+##### Section VII : Régimes spéciaux<a id=92></a>
 
-##### I : Départements d'outre-mer<a id=94></a>
+##### I : Départements d'outre-mer<a id=93></a>
 
 ###### Article 50 duodecies
 
@@ -8908,7 +8906,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1784 (V)
 
 
-##### II : Corse<a id=95></a>
+##### II : Corse<a id=94></a>
 
 ###### Article 50 duodecies A
 
@@ -8969,7 +8967,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 297 (V)
 
 
-#### Chapitre 0 II : Taxe sur le chiffre d'affaires des exploitants agricoles<a id=96></a>
+#### Chapitre 0 II : Taxe sur le chiffre d'affaires des exploitants agricoles<a id=95></a>
 
 ###### Article 50 terdecies-0
 
@@ -8991,7 +8989,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 302 bis MB
 
 
-#### Chapitre II : Redevance sanitaire d'abattage<a id=97></a>
+#### Chapitre II : Redevance sanitaire d'abattage<a id=96></a>
 
 ###### Article 50 terdecies
 
@@ -9051,7 +9049,7 @@ _Modifié par_:
   - Arrêté du 26 décembre 2012 - art. 1
 
 
-#### Chapitre III : Redevance sanitaire de découpage<a id=98></a>
+#### Chapitre III : Redevance sanitaire de découpage<a id=97></a>
 
 ###### Article 50 quaterdecies
 
@@ -9081,7 +9079,7 @@ _Modifié par_:
   - Arrêté du 12 octobre 2012 - art. 6
 
 
-#### Chapitre III bis : Redevances sanitaires sur les produits de la pêche et de l'aquaculture<a id=99></a>
+#### Chapitre III bis : Redevances sanitaires sur les produits de la pêche et de l'aquaculture<a id=98></a>
 
 ###### Article 50 quaterdecies-0 A
 
@@ -9211,7 +9209,7 @@ _Modifié par_:
   - Arrêté du 28 septembre 2012 - art. 1
 
 
-#### Chapitre III ter : Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus<a id=100></a>
+#### Chapitre III ter : Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus<a id=99></a>
 
 ###### Article 50 quaterdecies-0 A ter
 
@@ -9233,7 +9231,7 @@ _Modifié par_:
   - Arrêté du 28 septembre 2012 - art. 1
 
 
-#### Chapitre V : Contribution de solidarité territoriale<a id=101></a>
+#### Chapitre V : Contribution de solidarité territoriale<a id=100></a>
 
 ###### Article 50 quaterdecies B
 
@@ -9251,9 +9249,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 302 bis ZC
 
 
-### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires<a id=102></a>
+### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires<a id=101></a>
 
-#### Chapitre premier : Récépissé de consignation<a id=103></a>
+#### Chapitre premier : Récépissé de consignation<a id=102></a>
 
 ###### Article 50 quindecies
 
@@ -9292,11 +9290,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 302 octies (V)
 
 
-### Titre III : Contributions indirectes<a id=104></a>
+### Titre III : Contributions indirectes<a id=103></a>
 
-#### Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés<a id=105></a>
+#### Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés<a id=104></a>
 
-##### 1° : Comptabilité matières des entrepositaires agréés<a id=106></a>
+##### 1° : Comptabilité matières des entrepositaires agréés<a id=105></a>
 
 ###### Article 50-00 A
 
@@ -9715,7 +9713,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
 
 
-##### 1° - 0 bis : Destinataire enregistré<a id=107></a>
+##### 1° - 0 bis : Destinataire enregistré<a id=106></a>
 
 ###### Article 50-00 I
 
@@ -9860,7 +9858,7 @@ _Créé par_:
   - Arrêté du 30 août 2011 - art. 1
 
 
-##### 1° bis : Attestation de consignation<a id=108></a>
+##### 1° bis : Attestation de consignation<a id=107></a>
 
 ###### Article 50-0 A
 
@@ -9948,7 +9946,7 @@ _Modifié par_:
   - Arrêté du 30 août 2011 - art. 2
 
 
-##### 1° ter : Représentant fiscal<a id=109></a>
+##### 1° ter : Représentant fiscal<a id=108></a>
 
 ###### Article 50-0 A bis
 
@@ -10003,7 +10001,7 @@ _Créé par_:
   - Arrêté du 30 août 2011 - art. 3
 
 
-##### 3° : Capsules représentatives de droits<a id=110></a>
+##### 3° : Capsules représentatives de droits<a id=109></a>
 
 ###### Article 50-0 C
 
@@ -10098,7 +10096,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 A (V)
 
 
-##### 4° Modalités d'exonération des droits d'accises sur les alcools et les boissons alcooliques<a id=111></a>
+##### 4° Modalités d'exonération des droits d'accises sur les alcools et les boissons alcooliques<a id=110></a>
 
 ###### Article 50-0 G
 
@@ -10263,13 +10261,13 @@ _Cite_:
   - Code général des impôts, CGI. - art. 302 D bis (V)
 
 
-#### Chapitre premier : Boissons<a id=112></a>
+#### Chapitre premier : Boissons<a id=111></a>
 
-##### Section I : Alcools<a id=113></a>
+##### Section I : Alcools<a id=112></a>
 
-##### I : Production<a id=114></a>
+##### I : Production<a id=113></a>
 
-##### A : Alambics<a id=115></a>
+##### A : Alambics<a id=114></a>
 
 ###### Article 50 A
 
@@ -10373,7 +10371,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L29 (V)
 
 
-##### B : Rachat des alambics par l'État<a id=116></a>
+##### B : Rachat des alambics par l'État<a id=115></a>
 
 ###### Article 51 A
 
@@ -10461,7 +10459,7 @@ En cas de refus, il ne peut déposer de nouvelle demande de rachat avant un an, 
 
 
 
-##### C : Dispositions générales. Conditions d'exercice de la profession de distillateur<a id=117></a>
+##### C : Dispositions générales. Conditions d'exercice de la profession de distillateur<a id=116></a>
 
 ###### Article 51 bis
 
@@ -10556,9 +10554,9 @@ c. Eventuellement, la date et la nature des autorisations obtenues par le requé
 
 
 
-##### D : Règlement des distilleries<a id=118></a>
+##### D : Règlement des distilleries<a id=117></a>
 
-##### 1° : Régime général<a id=119></a>
+##### 1° : Régime général<a id=118></a>
 
 ###### Article 51 septies
 
@@ -10750,7 +10748,7 @@ _Cite_:
   - Code général des impôts annexe 1, CGIAN1. - art. 75 (V)
 
 
-##### 2° : Régime spécial<a id=120></a>
+##### 2° : Régime spécial<a id=119></a>
 
 ###### Article 51 octies
 
@@ -10842,7 +10840,7 @@ _Cite_:
   - Code général des impôts annexe 1, CGIAN1. - art. 82 (V)
 
 
-##### E : Teneur en alcool des produits de parfumerie et de toilette<a id=121></a>
+##### E : Teneur en alcool des produits de parfumerie et de toilette<a id=120></a>
 
 ###### Article 52
 
@@ -10894,9 +10892,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 349 (V)
 
 
-##### II : Régime économique<a id=122></a>
+##### II : Régime économique<a id=121></a>
 
-##### 1° : Répartition du contingent des rhums<a id=123></a>
+##### 1° : Répartition du contingent des rhums<a id=122></a>
 
 ###### Article 52 ter
 
@@ -10925,7 +10923,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 362 (V)
 
 
-##### 2° : Régime de l'exportation préalable<a id=124></a>
+##### 2° : Régime de l'exportation préalable<a id=123></a>
 
 ###### Article 52 quater
 
@@ -10964,9 +10962,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
 
 
-##### Section I bis : Circulation<a id=125></a>
+##### Section I bis : Circulation<a id=124></a>
 
-##### I : Capsules représentatives de droits<a id=126></a>
+##### I : Capsules représentatives de droits<a id=125></a>
 
 ###### Article 54-0 A
 
@@ -10993,9 +10991,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 444 (V)
 
 
-##### A : Capsules représentatives des droits sur les alcools et boissons alcooliques<a id=127></a>
+##### A : Capsules représentatives des droits sur les alcools et boissons alcooliques<a id=126></a>
 
-##### 1 : Caractéristiques des capsules<a id=128></a>
+##### 1 : Caractéristiques des capsules<a id=127></a>
 
 ###### Article 54-0 B
 
@@ -11124,7 +11122,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 D
 
 
-##### 2 : Fabrication des capsules<a id=129></a>
+##### 2 : Fabrication des capsules<a id=128></a>
 
 ###### Article 54-0 G
 
@@ -11345,7 +11343,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 302 M (V)
 
 
-##### 3 : Utilisation des capsules<a id=130></a>
+##### 3 : Utilisation des capsules<a id=129></a>
 
 ###### Article 54-0 AA
 
@@ -11553,7 +11551,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 302 M (V)
 
 
-##### D : Emploi des capsules représentatives des droits par les récoltants<a id=131></a>
+##### D : Emploi des capsules représentatives des droits par les récoltants<a id=130></a>
 
 ###### Article 54-0 BV
 
@@ -11662,7 +11660,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
 
 
-##### II : Documents d'accompagnement<a id=132></a>
+##### II : Documents d'accompagnement<a id=131></a>
 
 ###### Article 54 A
 
@@ -11782,7 +11780,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 302 M (V)
 
 
-##### III : Exemption des formalités à la circulation<a id=133></a>
+##### III : Exemption des formalités à la circulation<a id=132></a>
 
 ###### Article 54 bis
 
@@ -11801,7 +11799,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 458 (V)
 
 
-##### Section IV : Mise sur le marché des vins doux naturels à appellation d'origine contrôlée<a id=134></a>
+##### Section IV : Mise sur le marché des vins doux naturels à appellation d'origine contrôlée<a id=133></a>
 
 ###### Article 55 F
 
@@ -11822,9 +11820,9 @@ _Modifié par_:
   - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 6 (V) JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 
-#### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine<a id=135></a>
+#### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine<a id=134></a>
 
-##### 1° : Organisation des bureaux de garantie<a id=136></a>
+##### 1° : Organisation des bureaux de garantie<a id=135></a>
 
 ###### Article 56 J bis
 
@@ -11850,7 +11848,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 191 (V)
 
 
-##### 3° : Les commissionnaires en garantie<a id=137></a>
+##### 3° : Les commissionnaires en garantie<a id=136></a>
 
 ###### Article 56 J decies
 
@@ -11899,8 +11897,8 @@ _Cite_:
 
 ###### Article 56 J octies
 
-L'agrément est accordé par le ministre de l'économie, des finances, et de l'industrie, pour une durée indéterminée, pour un
-ou plusieurs bureaux de garantie.
+L'agrément est accordé par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'industrie, pour une durée
+indéterminée, pour un ou plusieurs bureaux de garantie.
 
 Les décisions d'agrément sont notifiées aux bénéficiaires et publiées au Bulletin officiel des douanes.
 
@@ -11914,13 +11912,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
-  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
-  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
+  - Arrêté du 17 mai 2013 - art. 1
 
 
 ###### Article 56 J quinquies
@@ -12017,104 +12009,139 @@ _Codifié par_:
   - Arrêté 1995-12-11
 
 
-##### 4° : Convention d'habilitation<a id=138></a>
+##### 4° : Convention d'habilitation<a id=137></a>
 
 ###### Article 56 J duodecies
 
 Le cahier des charges prévu à l'article 275 bis C de l'annexe II au code général des impôts comprend la description des
-moyens et des méthodes de contrôles et essais mis en oeuvre par les professionnels habilités par une convention.
+moyens et des méthodes de contrôles et essais ainsi que des méthodes d'attestation de la garantie du titre mis en œuvre par
+les professionnels habilités par une convention. 
+
+L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur général
+des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des
+organismes agréés mentionnés à l'article 275 bis F de l'annexe II au code général des impôts. 
 
 La direction régionale des douanes et droits indirects de rattachement approuve le cahier des charges préalablement à
-l'habilitation du professionnel.
+l'habilitation du professionnel. 
 
-Le cahier des charges mentionné est composé notamment de :
+Le cahier des charges mentionné au premier alinéa est composé notamment : 
 
-a) Une documentation, relative à l'entreprise, fournissant :
+1° D'une documentation, relative à l'entreprise, fournissant : 
 
-1° La description de l'entreprise quant à ses structures juridiques et ses locaux ;
+a) La description de l'entreprise quant à ses structures juridiques et ses locaux ; 
 
-2° La description de l'organisation et des responsabilités de la direction de l'entreprise ;
+b) La description de l'organisation et des responsabilités de la direction de l'entreprise ; 
 
-b) Une documentation relative aux obligations de contrôle du titre des ouvrages indiquant :
+2° D'une documentation relative aux obligations de contrôle du titre des ouvrages indiquant : 
 
-1° Les sources d'approvisionnement des alliages, apprêts pour les fabricants, ainsi que les méthodes de contrôle des métaux
-précieux mises en oeuvre depuis leur acquisition jusqu'aux produits finis ;
+a) Les sources d'approvisionnement des alliages, apprêts pour les fabricants, ainsi que les méthodes de contrôle des métaux
+précieux mises en œuvre depuis leur acquisition jusqu'aux produits finis ; 
 
-2° Les méthodes d'analyses internes quand le contractant habilité a son laboratoire situé dans son entreprise ou externes des
-produits dans les autres cas ;
+b) Les méthodes d'analyses internes quand le contractant habilité a son laboratoire situé dans son entreprise ou externes des
+produits dans les autres cas ; 
 
-3° La méthode de gestion des échantillons lors des essais des ouvrages ;
+c) La méthode de gestion des échantillons lors des essais des ouvrages ; 
 
-4° La méthode de gestion des produits non conformes au titre légal prévu ;
+d) La méthode de gestion des produits non conformes au titre légal prévu ; 
 
-5° La mise en oeuvre des actions correctives pour les ouvrages aux titres non légaux ;
+e) La mise en œuvre des actions correctives pour les ouvrages aux titres non légaux ; 
 
-c) L'indication des obligations en matière de marquage des ouvrages, à savoir :
+3° D'une documentation relative aux méthodes utilisées pour attester la garantie du titre et à la mise en place du protocole
+de sécurité informatique en cas de marquage au laser, indiquant : 
 
-1° La conservation de la documentation relative à la délégation de poinçons ;
+a) L'installation et la configuration du poste informatique ; 
 
-2° Le respect des règles de marque ;
+b) La sécurisation des accès au poste de pilotage de la machine à graver au laser ; 
 
-3° La tenue d'une comptabilité matières du nombre d'ouvrages essayés, du nombre des ouvrages marqués par type de métal et du
-nombre des ouvrages reconnus aux titres non légaux.
+c) Les modalités de sauvegarde et d'archivage des données informatiques relatives au journal de suivi des ouvertures de
+session et des modifications des comptes d'utilisateurs ; 
+
+4° De l'indication des obligations en matière de marquage des ouvrages, précisant : 
+
+a) La conservation de la documentation relative à la délégation de poinçons ; 
+
+b) En cas de marquage au laser, la description du dessin de l'empreinte du poinçon à apposer sur l'ouvrage en or, argent et
+platine et le respect des profondeurs de gravure ; 
+
+c) Le respect des règles de marque ; 
+
+d) La tenue d'une comptabilité matières mentionnant le nombre et le poids des ouvrages essayés, détaillant les ouvrages
+marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523
+du code général des impôts et recensant les ouvrages reconnus aux titres non légaux.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 2004-07-28 art. 1 JORF 12 août 2004
-
-_Cite_:
-
-  - CGIAN2 275 bis C
+  - Arrêté du 17 mai 2013 - art. 1
 
 _Cité par_:
 
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
 
-**Liens**:
+_Cite_:
 
-  - TXT_SOURCE: Directive 98-34 CE 1998-06-22 (Parlement et Conseil)
-  - HISTO: Edition du 31 août 2004
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F (V)
+  - Code général des impôts, CGI. - art. 523 (V)
 
 
-##### 4° bis : Organismes de contrôle agréés<a id=139></a>
+##### 4° bis : Organismes de contrôle agréés<a id=138></a>
 
 ###### Article 56 J terdecies
 
 Le cahier des charges prévu à l'article 275 ter B de l'annexe II au code général des impôts comprend la description des
-moyens et des méthodes de contrôles et essais mis en oeuvre par les organismes de contrôle agréés.
+moyens et des méthodes de contrôles et essais ainsi que des méthodes d'attestation de la garantie du titre mis en œuvre par
+les organismes de contrôle agréés. 
 
-La direction générale des douanes et droits indirects et la direction générale des entreprises approuvent le cahier des
-charges préalablement à l'agrément de l'organisme de contrôle.
+L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur général
+des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des
+organismes agréés mentionnés à l'article 275 ter G de l'annexe II au code général des impôts. 
 
-Le cahier des charges est composé notamment de :
+La direction générale des douanes et droits indirects et la direction générale de la compétitivité, de l'industrie et des
+services approuvent le cahier des charges préalablement à l'agrément de l'organisme de contrôle. 
 
-a) Une documentation, relative à l'organisme de contrôle agréé, fournissant :
+Le cahier des charges mentionné au premier alinéa est composé notamment : 
 
-1° La description de l'organisme quant à ses structures juridiques et ses locaux ;
+1° D'une documentation, relative à l'organisme de contrôle agréé, fournissant : 
 
-2° La description de l'organisation et des responsabilités de la direction de l'entreprise ainsi que la compétence du
-personnel chargé de la détermination du titre des ouvrages ;
+a) La description de l'organisme quant à ses structures juridiques et ses locaux ; 
 
-b) Une documentation relative à la procédure d'analyse des ouvrages en métaux précieux qui reprend :
+b) La description de l'organisation et des responsabilités de la direction de l'entreprise ainsi que la compétence du
+personnel chargé de la détermination du titre des ouvrages ; 
 
-1° Les normes utilisées sur les méthodes de dosage des métaux précieux ;
+2° D'une documentation relative à la procédure d'analyse des ouvrages en métaux précieux qui reprend : 
 
-2° Les moyens et les méthodes de contrôle et d'essai des ouvrages des professionnels habilités par une convention et des
-ouvrages des professionnels non habilités ;
+a) Les normes utilisées sur les méthodes de dosage des métaux précieux ; 
 
-3° La méthode de gestion des échantillons lors des essais des ouvrages et la procédure mise en place en cas de découverte de
-produits non conformes au titre légal ;
+b) Les moyens et les méthodes de contrôle et d'essai des ouvrages des professionnels habilités par une convention et des
+ouvrages des professionnels non habilités ; 
 
-c) Une documentation relative aux obligations des organismes de contrôles agréés qui marquent éventuellement les ouvrages
-pour le compte des professionnels, à savoir :
+c) La méthode de gestion des échantillons lors des essais des ouvrages et la procédure mise en place en cas de découverte de
+produits non conformes au titre légal ; 
 
-1° Le respect des règles de marque ;
+3° D'une documentation relative aux méthodes utilisées pour attester la garantie du titre et à la mise en place du protocole
+de sécurité informatique en cas de marquage au laser, indiquant : 
 
-2° La tenue d'une comptabilité matières du nombre et poids des ouvrages essayés, du nombre et poids des ouvrages marqués et
-du nombre et poids des ouvrages reconnus aux titres non légaux.
+a) L'installation et la configuration du poste informatique ; 
+
+b) La sécurisation des accès au poste de pilotage de la machine à marquer au laser ; 
+
+c) Les modalités de sauvegarde et d'archivage des données informatiques relatives au journal de suivi des ouvertures de
+session et des modifications des comptes d'utilisateurs ; 
+
+4° D'une documentation relative aux obligations des organismes de contrôles agréés qui marquent éventuellement les ouvrages
+pour le compte des professionnels, précisant : 
+
+a) En cas du marquage au laser, la description du dessin de l'empreinte du poinçon à apposer sur l'ouvrage en or, argent et
+platine et le respect des profondeurs de gravure ; 
+
+b) Le respect des règles de marque ; 
+
+c) La tenue d'une comptabilité matières mentionnant le nombre et le poids des ouvrages essayés, détaillant les ouvrages
+marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523
+du code général des impôts et recensant les ouvrages reconnus aux titres non légaux.
 
 **Liens relatifs à cet article**
 
@@ -12122,22 +12149,189 @@ _Codifié par_:
 
   - Arrêté 2007-03-30
 
-_Cite_:
-
-  - CGIAN2 275 ter B
-
 _Modifié par_:
 
-  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
+  - Arrêté du 17 mai 2013 - art. 1
 
 _Cité par_:
 
   - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter B (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G (V)
+  - Code général des impôts, CGI. - art. 523 (V)
+
+
+##### 4° ter : Organismes agréés<a id=139></a>
+
+###### Article 56 j terdecies A
+
+Tout organisme qui souhaite obtenir l'agrément mentionné aux articles 275 bis F et 275 ter G de l'annexe II au code général
+des impôts doit déposer auprès de la direction générale des douanes et droits indirects un dossier attestant de sa
+compétence, de son expérience et de son honorabilité. Le dossier comprend un engagement à respecter le cahier des charges
+mentionné à l'article 56 J terdecies B. 
+
+En outre, l'organisme intéressé doit justifier être à jour de ses obligations sociales et fiscales. 
+
+La direction générale des douanes et droits indirects peut se faire présenter toute pièce complémentaire nécessaire à
+l'instruction du dossier. 
+
+L'agrément est accordé par le ministre chargé du budget et par le ministre chargé de l'industrie pour une durée de cinq ans.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 17 mai 2013 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies B
+
+
+###### Article 56 j terdecies B
+
+Le cahier des charges mentionné aux articles 275 bis C, 275 bis F et 275 ter G de l'annexe II au code général des impôts
+comprend : 
+
+1° La définition des missions de l'organisme agréé par le ministre chargé du budget et par le ministre chargé de
+l'industrie : 
+
+a) La réalisation de la version dématérialisée des poinçons attestant la garantie du titre ; 
+
+b) L'élaboration, la vente et le transfert des fichiers comportant la version dématérialisée des poinçons aux professionnels
+habilités et aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre par marquage au
+laser d'un poinçon ; 
+
+c) La vérification de la mise en place et de la conformité du protocole de sécurité informatique imposé aux professionnels
+habilités et aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre par marquage au
+laser d'un poinçon ; 
+
+2° Une documentation relative aux conditions d'exercice des missions mentionnées au 1° comportant : 
+
+a) Les modalités d'élaboration de la version dématérialisée des poinçons attestant la garantie du titre à partir des
+agrandissements photographiques des poinçons en acier détenus par la Monnaie de Paris et transmis par l'intermédiaire de la
+direction générale des douanes et droits indirects ; 
+
+b) Les modalités de conception et de gestion des fichiers comportant la version dématérialisée des poinçons attestant la
+garantie du titre par marquage au laser ; 
+
+c) Les modalités de transfert des fichiers comportant la version dématérialisée des poinçons aux professionnels habilités et
+aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre par marquage au laser. Ce
+transfert a lieu au moyen d'un support amovible en ayant recours à un procédé de cryptage. Une clef de décryptage est fournie
+par l'organisme agréé ; 
+
+d) La description de la sécurisation du poste informatique afin de garantir l'inviolabilité des fichiers comportant la
+version dématérialisée des poinçons attestant la garantie du titre par marquage au laser d'un poinçon et indiquant : 
+
+L'installation et la configuration du poste informatique ; 
+
+La sécurisation des accès au poste de travail, étant précisé que le local sécurisé de l'entreprise mentionné à l'article 275
+bis C de l'annexe II au code général des impôts doit s'entendre, dans le cas des équipements dédiés à la gravure au laser,
+comme le lieu sécurisé destiné à garantir l'inviolabilité des fichiers cryptés et de la clef de décryptage mentionnés au c du
+2° ; 
+
+Les modalités de sauvegarde et d'archivage des données ; 
+
+e) Les modalités de vérification de la mise en place et de la conformité du protocole de sécurité informatique imposé aux
+professionnels habilités et aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre
+par marquage au laser d'un poinçon, à savoir : 
+
+La réalisation, en présence d'un représentant de la direction régionale des douanes et droits indirects, d'un audit des
+professionnels habilités et des organismes de contrôle agréés préalablement à la délivrance de l'autorisation de marquage au
+laser ; 
+
+La transmission, par la direction régionale des douanes et droits indirects, du rapport d'audit signé conjointement par le
+représentant de la direction régionale des douanes et droits indirects et par l'organisme agréé, à la direction générale des
+douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 17 mai 2013 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies A (V)
+
+
+###### Article 56 j terdecies C
+
+Les services de la direction régionale des douanes et droits indirects de rattachement procèdent à un audit annuel de
+l'organisme agréé afin de vérifier le respect des prescriptions fixées par le cahier des charges.
+
+L'organisme agréé conserve toutes les pièces justifiant de l'exercice de ses activités pendant un délai de trois ans. Ces
+pièces justificatives sont tenues à la disposition de la direction générale des douanes et droits indirects et de la
+direction générale de la compétitivité, de l'industrie et des services.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 17 mai 2013 - art. 1
+
+
+###### Article 56 j terdecies D
+
+L'agrément est suspendu à titre conservatoire en cas de manquement constaté de l'organisme agréé : 
+
+1° Aux obligations résultant des articles 275 bis F et 275 ter G de l'annexe II au code général des impôts ; 
+
+2° Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux. 
+
+La suspension de l'agrément est prononcée à la diligence soit du directeur général des douanes et droits indirects soit du
+directeur général de la compétitivité, de l'industrie et des services.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 17 mai 2013 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G
+
+
+###### Article 56 j terdecies E
+
+L'agrément est retiré : 
+
+1° Soit à la demande de l'organisme agréé. Lorsqu'il ne remplit plus les conditions prévues par les articles 275 bis F et 275
+ter G de l'annexe II au code général des impôts, l'organisme est tenu de cesser sans délai ses activités ; 
+
+2° Soit d'office par l'administration lorsque l'organisme agréé a manqué : 
+
+a) Aux obligations résultant des articles 275 bis F et 275 ter G de l'annexe II au code général des impôts ; 
+
+b) Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux. 
+
+Le retrait de l'agrément est prononcé par le ministre chargé du budget et le ministre chargé de l'industrie. Il entraîne la
+cessation immédiate des activités exercées par l'organisme.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 17 mai 2013 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G
 
 
 ##### 5° : Obligations des redevables<a id=140></a>
@@ -12227,13 +12421,13 @@ de vente établis quotidiennement, reprenant au moins la référence des ouvrage
 l'établissement principal. Les magasins doivent être en mesure de communiquer leur situation de stock à tout moment, par le
 biais de l'établissement principal, à la demande du service. 
 
-Les dispositions des premier et deuxième alinéas de l'article L. 102 B du livre des procédures fiscales sont applicables.
+Les dispositions du I de l'article L. 102 B du livre des procédures fiscales sont applicables.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 16 décembre 2009 - art. 1
+  - Arrêté du 17 mai 2013 - art. 1
 
 _Cité par_:
 
@@ -12326,7 +12520,7 @@ leur poids, à condition que la référence renvoie à une facture. La facture p
 objets si l'identification reste possible par le numéro de série individuel ou la référence commerciale de l'ouvrage
 mentionnée dans un catalogue ou tout document de nature comptable ; 
 
-b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles L. 123-12 à L. 123-17 du code de commerce ou
+b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles L. 123-12 à L. 123-23 du code de commerce ou
 aux spécifications du 3° du I de l'article 286 du code général des impôts si les documents prévus à cet article sont
 accompagnés de fiches de stock ou d'un inventaire permanent ; 
 
@@ -12334,12 +12528,12 @@ c. Ou un registre établi au moyen d'un logiciel assurant une gestion permanente
 permettant l'identification des ouvrages et offrant toutes garanties en matière de preuve. Tout logiciel doit comporter les
 indications reprises à l'article 56 J quindecies. Toutefois, l'indication du poids et du titre des ouvrages n'est pas exigée
 si leur identification est possible soit par le numéro de série individuel, soit par la référence commerciale de l'ouvrage
-mentionnée dans un catalogue ou tout document de nature comptable.
+mentionnée dans un catalogue ou tout document de nature comptable. 
 
 L'opérateur doit être en mesure d'apporter la preuve de la fiabilité du système informatique utilisé et de la chronologie des
 écritures présentées sous forme de listes. Les feuillets informatiques doivent être identifiés, numérotés et datés sans
 possibilité de modifications afin d'assurer la chronologie des opérations enregistrées. Les modifications éventuelles doivent
-être justifiées par création d'un nouvel enregistrement informatique avec indication de son motif.
+être justifiées par création d'un nouvel enregistrement informatique avec indication de son motif. 
 
 L'opérateur doit être en mesure d'éditer quotidiennement les informations relatives aux seuls ouvrages en métaux précieux.
 Les enregistrements informatiques ou listages doivent pouvoir être présentés à toute réquisition du service dans les
@@ -12357,7 +12551,7 @@ c. Ou le registre établi au moyen du logiciel assurant la gestion permanente de
 enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par création d'un nouvel
 enregistrement avec indication de son motif et que le répertoire contenant ces informations soit spécifique et comprenne un
 système d'identification des pages par chiffre de contrôle, contenant un algorithme ou un système fondé notamment sur la date
-de l'opération, reporté en fin et en tête des pages imprimées quotidiennement.
+de l'opération, reporté en fin et en tête des pages imprimées quotidiennement. 
 
 L'opérateur doit être en mesure d'éditer quotidiennement les informations relatives aux seuls ouvrages en métaux précieux.
 
@@ -12365,12 +12559,11 @@ L'opérateur doit être en mesure d'éditer quotidiennement les informations rel
 
 _Modifié par_:
 
-  - Arrêté du 9 juin 2011 - art. 1
+  - Arrêté du 17 mai 2013 - art. 1
 
 _Cite_:
 
   - Code de commerce - art. L123-12
-  - Code de commerce - art. L123-17
   - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies
   - Code général des impôts, CGI. - art. 286
   - Code pénal - art. 321-7
