@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-07-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -14817,7 +14817,7 @@ _Cite_:
 
 ###### Article 155 bis A
 
-Les tarifs de la taxe minière sur l'or en Guyane applicables en 2013 sont fixés comme suit : 
+Les tarifs de la taxe minière sur l'or en Guyane applicables en 2014 sont fixés comme suit : 
 
 <table border="1">
   <tbody>
@@ -14845,7 +14845,7 @@ Petites et moyennes entreprises
 </td>
       <td align="center">
 
-417,42</td>
+341,75</td>
     </tr>
     <tr>
       <td align="center">
@@ -14855,7 +14855,7 @@ Autres entreprises
 </td>
       <td align="center">
 
-834,84</td>
+683,50</td>
     </tr>
   </tbody>
 </table>
@@ -14867,7 +14867,7 @@ l'Etat en application des articles 1641 et 1644 du code général des impôts.
 
 _Modifié par_:
 
-  - Arrêté du 15 octobre 2013 - art. 1
+  - Arrêté du 21 juillet 2014 - art. 1
 
 _Cite_:
 
