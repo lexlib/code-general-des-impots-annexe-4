@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2014-10-30
+Version Consolidée au 2014-12-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -3208,23 +3208,18 @@ _Cite_:
 
 ###### Article 24 ter
 
-La preuve de l'exportation est apportée au moyen du document justificatif de l'exportation dûment visé par le bureau de
-douane de sortie de la Communauté européenne.
+Après les mots : "au moyen", la fin de l'article est ainsi rédigée : "du bordereau de vente à l'exportation dûment visé par
+le service douanier de sortie de l'Union européenne".
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1996-01-25 art. 1 JORF 28 janvier 1996
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1998-02-03 JO du 5 mars 1998
-  - TXT_ASSOCIE: Instruction 1997-01-22 3A-1-97
 
 _Cité par_:
 
   - Arrêté du 3 juillet 2009 - art. 1 (Ab)
+
+_Modifié par_:
+
+  - Arrêté du 16 décembre 2014 - art. 1
 
 
 ##### 2° : Transports de voyageurs par trains internationaux<a id=62></a>
