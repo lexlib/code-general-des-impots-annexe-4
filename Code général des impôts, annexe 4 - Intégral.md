@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2015-03-01
+Version Consolidée au 2015-03-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -2192,20 +2192,34 @@ a) Chaudières à condensation utilisées comme mode de chauffage ou de producti
 
 b) Acquisition de matériaux d'isolation thermique : 
 
-1° Matériaux d'isolation thermique des parois opaques, dans la limite d'un plafond de dépenses fixé respectivement à 150 € et
-100 €, toutes taxes comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré de parois isolées par
-l'intérieur : 
+1° Pour les logements situés en métropole, matériaux d'isolation thermique des parois opaques, dans la limite d'un plafond de
+dépenses fixé respectivement à 150 € et 100 €, toutes taxes comprises, par mètre carré de parois isolées par l'extérieur et
+par mètre carré de parois isolées par l'intérieur : 
 
-Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, possédant une résistance supérieure ou égale à 3 mètres
-carrés Kelvin par watt (m2.K/W) ; 
+Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, possédant une résistance thermique supérieure ou égale
+à 3 mètres carrés Kelvin par watt (m2.K/W) ; 
 
-Murs en façade ou en pignon, possédant une résistance supérieure ou égale à 3,7 mètres carrés Kelvin par watt (m2.K/W) ;
+Murs en façade ou en pignon, possédant une résistance thermique supérieure ou égale à 3,7 mètres carrés Kelvin par watt
+(m2.K/W) ;
 
-Toitures-terrasses possédant une résistance supérieure ou égale à 4,5 m2.K/W ; 
+Toitures-terrasses possédant une résistance thermique supérieure ou égale à 4,5 m2.K/W ; 
 
 Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 7 m2.K/W ; 
 
 Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 6 m2.K/W ; 
+
+1° bis Pour les logements situés en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, matériaux d'isolation
+thermique des parois opaques, dans la limite d'un plafond de dépenses fixé respectivement à 150 € et 100 €, toutes taxes
+comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré de parois isolées par l'intérieur : 
+
+Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, possédant une résistance thermique supérieure ou égale
+à 3 mètres carrés Kelvin par watt (m2. K/W) ; 
+
+Murs en façade ou en pignon, possédant une résistance thermique supérieure ou égale à 0,5 mètre carré Kelvin par watt (m2. K/
+W) ; 
+
+Toitures-terrasses, planchers de combles perdus, rampants de toiture et plafonds de combles possédant une résistance
+thermique supérieure ou égale à 1,5 mètre carré Kelvin par watt (m2. K/W). 
 
 2° Matériaux d'isolation thermique des parois vitrées : 
 
@@ -2246,7 +2260,7 @@ des installations de chauffage permettant une répartition correcte de la chaleu
 permettant la mise en cascade de chaudières, à l'exclusion de l'installation de nouvelles chaudières, systèmes de télégestion
 de chaufferie assurant les fonctions de régulation et de programmation du chauffage, systèmes permettant la régulation
 centrale des équipements de production d'eau chaude sanitaire dans le cas de production combinée d'eau chaude sanitaire et
-d'eau destinée au chauffage, compteurs individuels d'énergie thermique et répartiteurs de frais de chauffage ; 
+d'eau destinée au chauffage ; 
 
 3. Acquisition : 
 
@@ -2422,7 +2436,66 @@ Matériels nécessaires à l'équilibrage et à la mesure de la chaleur qui vise
 Ces matériels peuvent être installés, selon le cas, avec le poste de livraison, dans les parties communes de l'immeuble
 collectif ou dans le logement ; 
 
-d) (Abrogé).
+d) (Abrogé) ;
+
+e) D'appareils installés dans un immeuble collectif permettant d'individualiser les frais de chauffage ou d'eau chaude
+sanitaire dans un bâtiment équipé d'une installation centrale ou alimenté par un réseau de chaleur : répartiteurs
+électroniques placés sur chaque radiateur ou compteurs d'énergie thermique placés à l'entrée du logement conformes à la
+réglementation résultant du décret n° 2001-387 du 3 mai 2001 relatif au contrôle des instruments de mesure ; 
+
+f) De systèmes de charge pour véhicule électrique qui s'entendent des bornes de recharge pour véhicules électriques et dont
+les types de prise respectent la norme IEC 62196-2 ainsi que la directive 2014/94/ UE du Parlement européen et du Conseil du
+22 octobre 2014 sur le déploiement d'une infrastructure pour carburants alternatifs ; 
+
+4. Pour les logements situés en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, acquisition : 
+
+a) D'équipements de raccordement à un réseau de froid, alimenté majoritairement par du froid d'origine renouvelable ou de
+récupération, qui s'entendent des éléments suivants : 
+
+Branchement privatif composé de tuyaux et de vannes qui permet de raccorder le réseau de froid au poste de livraison de
+l'immeuble ; 
+
+Poste de livraison ou sous-station, qui constitue l'échangeur entre le réseau de froid et l'immeuble ; 
+
+Matériels nécessaires à l'équilibrage et à la mesure de la quantité de froid qui visent à opérer une répartition correcte de
+celle-ci. Ces matériels peuvent être installés, selon le cas, avec le poste de livraison, dans les parties communes de
+l'immeuble collectif ou dans le logement ; 
+
+b) D'équipements ou de matériaux de protection des parois opaques ou vitrées contre les rayonnements solaires : 
+
+1° Systèmes de protection des parois opaques pour ce qui concerne la toiture : 
+
+a. Sur-toiture ventilée définie au deuxième alinéa de l'article 3 de l'arrêté du 25 mai 2011 relatif à l'application en
+outre-mer de dispositions concernant les avances remboursables sans intérêts destinées au financement de travaux de
+rénovation afin d'améliorer la performance énergétique des logements anciens ; 
+
+b. Systèmes de protection de la toiture définis aux quatrième et cinquième alinéas de l'article 3 de l'arrêté du 25 mai 2011
+précité ; 
+
+2° Systèmes de protection des parois opaques pour ce qui concerne les murs donnant sur l'extérieur : 
+
+a. Bardage ventilé ; 
+
+b. Pare-soleil horizontaux, 
+
+définis respectivement aux deuxième et troisième alinéas de l'article 4 de l'arrêté du 25 mai 2011 précité ; 
+
+3° Systèmes de protection des parois vitrées pour ce qui concerne les baies donnant sur l'extérieur : 
+
+a. Pare-soleil horizontaux ; 
+
+b. Brise-soleil verticaux ; 
+
+c. Protections solaires mobiles extérieures dans le plan de la baie ; 
+
+d. Lames orientables opaques ; 
+
+e. Films réfléchissants sur lames transparentes, 
+
+définis respectivement aux deuxième à sixième alinéas de l'article 5 de l'arrêté du 25 mai 2011 précité ; 
+
+c) D'équipements ou de matériaux visant à l'optimisation de la ventilation naturelle, notamment les brasseurs d'air fixes :
+ventilateurs de plafond.
 
 **Liens relatifs à cet article**
 
@@ -2439,7 +2512,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 29 décembre 2013 - art. 1
+  - Arrêté du 27 février 2015 - art. 1
 
 _Cite_:
 
@@ -2481,61 +2554,61 @@ _Cite_:
 ###### Article 18 quater
 
 I.-Sont prises en compte pour l'application du 6° du I de l'article 199 undecies C du code général des impôts les dépenses
-relatives à l'acquisition, à l'installation et à la pose : 
+relatives à l'acquisition, à l'installation et à la pose :
 
 1. De dispositifs constructifs, d'équipements ou de matériaux d'isolation thermique, dont la finalité essentielle est la
 protection contre le rayonnement solaire des parois opaques, en contact avec l'extérieur, et/ ou des baies, en contact avec
-l'extérieur, ou la ventilation naturelle de confort thermique, visant à limiter le recours à la climatisation : 
+l'extérieur, ou la ventilation naturelle de confort thermique, visant à limiter le recours à la climatisation :
 
-a) En Guadeloupe, en Martinique, en Guyane et à La Réunion, respectant les exigences des articles 5 (1°), 6,10 et 11 de
+a) En Guadeloupe, en Martinique, en Guyane et à La Réunion, respectant les exigences des articles 5 (1°), 6, 10 et 11 de
 l'arrêté du 17 avril 2009 définissant les caractéristiques thermiques minimales des bâtiments d'habitation neufs dans les
-départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ; 
+départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ;
 
 b) A Mayotte, respectant les exigences définies au 1 de la partie B de l'annexe 1 de l'arrêté préfectoral n° 192 PM/ SG/
 DE/08 du 15 octobre 2008 relatif aux subventions par l'Etat pour la construction, l'acquisition et l'amélioration de
-logements locatifs sociaux ; 
+logements locatifs sociaux ;
 
 c) En Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna, tels
-que : 
+que :
 
-1° Surtoiture ventilée ; 
+1° Surtoiture ventilée ;
 
-2° Isolation thermique ; 
+2° Isolation thermique ;
 
-3° Bardage ventilé ; 
+3° Bardage ventilé ;
 
-4° Pare-soleil horizontaux ; 
+4° Pare-soleil horizontaux ;
 
-5° Brise-soleil verticaux ; 
+5° Brise-soleil verticaux ;
 
-6° Protections solaires mobiles extérieures dans le plan des baies ; 
+6° Protections solaires mobiles extérieures dans le plan des baies ;
 
-7° Ventilateurs de plafond ; 
+7° Ventilateurs de plafond ;
 
-2. De matériaux d'isolation thermique, visant à maîtriser les besoins en chauffage : 
+2. De matériaux d'isolation thermique, visant à maîtriser les besoins en chauffage :
 
 a) Pour les bâtiments d'habitation construits à La Réunion à une altitude supérieure à 800 mètres, respectant les exigences
 de l'article 5 (2°) de l'arrêté du 17 avril 2009 définissant les caractéristiques thermiques minimales des bâtiments
-d'habitation neufs dans les départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ; 
+d'habitation neufs dans les départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ;
 
-b) A Saint-Pierre-et-Miquelon, visés au b du 2 de l'article 18 bis ; 
+b) A Saint-Pierre-et-Miquelon, visés aux 1° et 2° à 5° du b du 2 de l'article 18 bis ;
 
-3. D'appareils de régulation de chauffage, visés au c du 2 de l'article 18 bis ; 
+3. D'appareils de régulation de chauffage, visés au c du 2 de l'article 18 bis ;
 
 4. D'équipements de production d'énergie utilisant une source d'énergie renouvelable, visés au a du 3 de l'article 18 bis,
 sous réserve, en ce qui concerne les systèmes de fourniture d'électricité à partir de l'énergie solaire, pour la Guadeloupe,
 la Martinique, la Guyane, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Martin et Saint-Barthélemy, que les
-installations ne soient pas reliées au réseau du service public d'électricité ; 
+installations ne soient pas reliées au réseau du service public d'électricité ;
 
 5. De pompes à chaleur, autres que air/ air, dont la finalité essentielle est la production de chaleur ou d'eau chaude
 sanitaire, ainsi qu'au coût de la pose de l'échangeur souterrain des pompes à chaleur géothermiques, visées au b du 3 de
-l'article 18 bis ; 
+l'article 18 bis ;
 
 6. D'équipements de raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou par une
-installation de cogénération, visés au c du 3 de l'article 18 bis. 
+installation de cogénération, visés au c du 3 de l'article 18 bis.
 
 Pour l'application du présent article, le terme baie en contact avec l'extérieur s'entend d'une ouverture ménagée dans une
-paroi extérieure au logement servant à l'éclairage, au passage ou à l'aération. 
+paroi extérieure au logement servant à l'éclairage, au passage ou à l'aération.
 
 II.-Les dépenses mentionnées au I doivent être justifiées par une facture détaillée précisant leur nature exacte, leur coût
 et leur conformité aux critères techniques exigés.
@@ -2544,14 +2617,14 @@ et leur conformité aux critères techniques exigés.
 
 _Cite_:
 
-  - Arrêté du 17 avril 2009 (V)
-  - Arrêté du 17 avril 2009 - art. 5 (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (V)
-  - Code général des impôts, CGI. - art. 199 undecies C (V)
+  - Arrêté du 17 avril 2009
+  - Arrêté du 17 avril 2009 - art. 5
+  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (M)
+  - Code général des impôts, CGI. - art. 199 undecies C
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 29 octobre 2010 - art. 1
+  - Arrêté du 27 février 2015 - art. 1
 
 _Cité par_:
 
