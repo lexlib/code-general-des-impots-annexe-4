@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2015-08-28
+Version Consolidée au 2015-09-10
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -3131,13 +3131,13 @@ _Cite_:
 ###### Article 23 M bis
 
 Conformément aux dispositions du III de l'article 235 ter ZF du code général des impôts, le taux de la taxe sur le résultat
-des entreprises ferroviaires est fixé à 30,65 % pour l'année 2014.
+des entreprises ferroviaires est fixé à        12,68 % pour l'année 2015.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 22 octobre 2014 - art. 1
+  - Arrêté du 31 août 2015 - art. 1
 
 _Cite_:
 
@@ -8952,13 +8952,13 @@ _Modifié par_:
 ###### Article 50 quaterdecies B
 
 Le taux de la contribution de solidarité territoriale prévu à l'article 302 bis ZC du code général des impôts est fixé à
-1,944 % pour l'année 2014.
+1,994 212 % pour l'année 2015.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 22 octobre 2014 - art. 1
+  - Arrêté du 31 août 2015 - art. 1
 
 _Cite_:
 
