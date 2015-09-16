@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2015-09-10
+Version Consolidée au 2015-09-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -226,31 +226,29 @@ Version Consolidée au 2015-09-10
         - [Section IV : Dispositions communes (art. 170 decies à 170 sexies)](#223)
           - [Octroi de certains agréments fiscaux (art. 170 decies à 170 sexies)](#224)
         - [Section V : Commissions administratives des impôts (art. 170 undecies)](#225)
-  - [Livre II : Recouvrement de l'impôt (art. 187 à 218)](#226)
-    - [Chapitre premier : Paiement de l'impôt (art. 187 à 204)](#227)
-      - [Section I : Impôts directs et taxes assimilées (art. 187 à 188 ter)](#228)
-        - [3 : Paiement de l'impôt (art. 187 à 188 ter)](#229)
-      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#230)
-      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H à 188-0 H)](#231)
-      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I à 188-0 I)](#232)
-      - [Section I quinquies : Prélèvement sur les dividendes (art. 188 K à 188 L)](#233)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#234)
-      - [Section III : Contributions indirectes (art. 193)](#235)
-      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#236)
-        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#237)
-        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#238)
-        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#239)
-        - [6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis (art. 198 septies)](#240)
-        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#241)
-      - [Section V : Dispositions communes (art. 199-0 à 204)](#242)
-        - [1° : Date de limite de paiement ou de prélèvement (art. 199-0)](#243)
-        - [2° : Paiement par chèques (art. 199 à 204)](#244)
-    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#245)
-      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#246)
-      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#247)
-    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#248)
-      - [Publicité du privilège du Trésor (art. 207 sexies)](#249)
-    - [Chapitre III : Compétence des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 212 à 218)](#250)
+  - [Livre II : Recouvrement de l'impôt (art. 188 B à 218)](#226)
+    - [Chapitre premier : Paiement de l'impôt (art. 188 B à 204)](#227)
+      - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#228)
+      - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H à 188-0 H)](#229)
+      - [Section I quater : Prélèvement sur les produits de placements à revenu fixe (art. 188 I à 188-0 I)](#230)
+      - [Section I quinquies : Prélèvement sur les dividendes (art. 188 K à 188 L)](#231)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 189)](#232)
+      - [Section III : Contributions indirectes (art. 193)](#233)
+      - [Section IV : Enregistrement, publicité foncière et timbre (art. 196 A à 198 octies)](#234)
+        - [1 : Taxe spéciale sur les conventions d'assurances (art. 196 A)](#235)
+        - [4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés (art. 198 quinquies)](#236)
+        - [5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur (art. 198 sexies)](#237)
+        - [6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis (art. 198 septies)](#238)
+        - [7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur (art. 198 octies)](#239)
+      - [Section V : Dispositions communes (art. 199-0 à 204)](#240)
+        - [1° : Date de limite de paiement ou de prélèvement (art. 199-0)](#241)
+        - [2° : Paiement par chèques (art. 199 à 204)](#242)
+    - [Chapitre I bis : Pénalités (art. 207 quater A à 207 quater A bis)](#243)
+      - [I : Impôts directs et taxes assimilées (art. 207 quater A)](#244)
+      - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#245)
+    - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#246)
+      - [Publicité du privilège du Trésor (art. 207 sexies)](#247)
+    - [Chapitre III : Compétence des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 212 à 218)](#248)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -17200,117 +17198,7 @@ _Cite_:
 
 ## Chapitre premier : Paiement de l'impôt<a id=227></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=228></a>
-
-#### 3 : Paiement de l'impôt<a id=229></a>
-
-###### Article 187
-
-Les contribuables ont la faculté d'acquitter leurs contributions et taxes assimilées à la caisse d'un comptable du Trésor
-chargé du recouvrement des impôts directs autre que celui de la commune d'imposition.
-
-Ces versements sont admis sur la présentation d'un avis d'imposition, d'un extrait du rôle, d'un acte de poursuites ou d'une
-autre pièce officielle constatant la dette du contribuable.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
-
-
-###### Article 188
-
-Les contribuables restent débiteurs des frais de poursuites exposés par le comptable du Trésor chargé du recouvrement des
-impôts directs du lieu de l'imposition avant la réception de l'avis de recouvrement que le comptable du Trésor qui a reçu les
-fonds est tenu de transmettre sans retard par la poste.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
-
-
-###### Article 188 bis
-
-1. Le paiement des impôts directs peut s'effectuer, sur option du contribuable, par prélèvement opéré à l'initiative du
-Trésor public sur un compte visé à l'article 1681 D du code général des impôts. 
-
-2. L'option est formulée dans les conditions prévues à l'article 376 ter de l'annexe II au code général des impôts. Elle peut
-être exercée jusqu'à la date limite de paiement ou dans le délai spécifique fixé par arrêté pour chaque échéance d'impôt (1).
-Elle est valable sans limitation de durée. 
-
-3. Le contribuable peut renoncer à son option en adressant, au comptable chargé du recouvrement, une dénonciation dix jours
-ouvrés au moins avant la date limite de paiement de l'impôt concerné. 
-
-4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 du code général des
-impôts.
-
-**Nota:**
-
-(1) : Dispositions applicables à compter du 1er janvier 2004.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 2006-03-24
-
-_Modifié par_:
-
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005
-
-_Abrogé par_:
-
-  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
-
-_Cite_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 376 ter
-  - Code général des impôts, CGI. - art. 1681 D
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 199 novodecies (P)
-
-
-###### Article 188 ter
-
-Pour l'application du 5 de l'article 1730 du code général des impôts, le télérèglement des impôts directs s'effectue sur
-option du contribuable, qui ordonne l'opération sur l'un des comptes mentionnés à l'article 1681 D du même code. 
-
-Cette option peut être exercée, sans majoration, jusqu'au cinquième jour, à minuit, qui suit la date limite de paiement pour
-les acomptes et le solde de l'impôt sur le revenu, la taxe foncière, la taxe d'habitation, les contributions sociales et la
-taxe sur les logements vacants. 
-
-Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 du code général des
-impôts. 
-
-L'option est exercée expressément à chaque échéance d'impôt.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 2006-03-24
-
-_Modifié par_:
-
-  - Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
-
-_Abrogé par_:
-
-  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 1681 D
-  - Code général des impôts, CGI. - art. 1730
-
-
-### Section I bis : Intérêts des bons de caisse<a id=230></a>
+### Section I bis : Intérêts des bons de caisse<a id=228></a>
 
 ###### Article 188 B
 
@@ -17393,7 +17281,7 @@ intérêt.
 
 
 
-### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=231></a>
+### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises<a id=229></a>
 
 ###### Article 188 H
 
@@ -17446,7 +17334,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 119 bis (V)
 
 
-### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=232></a>
+### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=230></a>
 
 ###### Article 188 I
 
@@ -17528,7 +17416,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 125-0 A (V)
 
 
-### Section I quinquies : Prélèvement sur les dividendes<a id=233></a>
+### Section I quinquies : Prélèvement sur les dividendes<a id=231></a>
 
 ###### Article 188 K
 
@@ -17589,7 +17477,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 125 A
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=234></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=232></a>
 
 ###### Article 189
 
@@ -17619,7 +17507,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1692 (V)
 
 
-### Section III : Contributions indirectes<a id=235></a>
+### Section III : Contributions indirectes<a id=233></a>
 
 ###### Article 193
 
@@ -17636,9 +17524,9 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 189 (V)
 
 
-### Section IV : Enregistrement, publicité foncière et timbre<a id=236></a>
+### Section IV : Enregistrement, publicité foncière et timbre<a id=234></a>
 
-#### 1 : Taxe spéciale sur les conventions d'assurances<a id=237></a>
+#### 1 : Taxe spéciale sur les conventions d'assurances<a id=235></a>
 
 ###### Article 196 A
 
@@ -17654,7 +17542,7 @@ _Modifié par_:
   - Arrêté 1991-10-28 art. 2, art. 3 JORF 29 octobre 1991
 
 
-#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=238></a>
+#### 4 : Recouvrement des droits et taxes exigibles en cas de caducité du régime fiscal de faveur appliqué à des mutations à titre onéreux de terrains à bâtir et d'immeubles assimilés<a id=236></a>
 
 ###### Article 198 quinquies
 
@@ -17665,7 +17553,7 @@ terrains et immeubles sont situés.
 
 
 
-#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=239></a>
+#### 5 : Recouvrement des droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur<a id=237></a>
 
 ###### Article 198 sexies
 
@@ -17680,7 +17568,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BF (V)
 
 
-#### 6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis<a id=240></a>
+#### 6 : Recouvrement du produit provenant des locations et des cessions d'immeubles domaniaux bâtis<a id=238></a>
 
 ###### Article 198 septies
 
@@ -17708,7 +17596,7 @@ _Modifié par_:
   - Arrêté du 27 juin 2012 - art. 1
 
 
-#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=241></a>
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur<a id=239></a>
 
 ###### Article 198 octies
 
@@ -17729,9 +17617,9 @@ _Modifié par_:
   - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
 
 
-### Section V : Dispositions communes<a id=242></a>
+### Section V : Dispositions communes<a id=240></a>
 
-#### 1° : Date de limite de paiement ou de prélèvement<a id=243></a>
+#### 1° : Date de limite de paiement ou de prélèvement<a id=241></a>
 
 ###### Article 199-0
 
@@ -17753,7 +17641,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 39 (V)
 
 
-#### 2° : Paiement par chèques<a id=244></a>
+#### 2° : Paiement par chèques<a id=242></a>
 
 ###### Article 199
 
@@ -17811,9 +17699,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 382 (VT)
 
 
-## Chapitre I bis : Pénalités<a id=245></a>
+## Chapitre I bis : Pénalités<a id=243></a>
 
-### I : Impôts directs et taxes assimilées<a id=246></a>
+### I : Impôts directs et taxes assimilées<a id=244></a>
 
 ###### Article 207 quater A
 
@@ -17822,7 +17710,7 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 
 
-### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=247></a>
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.<a id=245></a>
 
 ###### Article 207 quater A bis
 
@@ -17844,9 +17732,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1737 (V)
 
 
-## Chapitre I bis A : Sûretés et privilèges<a id=248></a>
+## Chapitre I bis A : Sûretés et privilèges<a id=246></a>
 
-### Publicité du privilège du Trésor<a id=249></a>
+### Publicité du privilège du Trésor<a id=247></a>
 
 ###### Article 207 sexies
 
@@ -17865,7 +17753,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 396 bis (V)
 
 
-## Chapitre III : Compétence des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=250></a>
+## Chapitre III : Compétence des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=248></a>
 
 ###### Article 212
 
