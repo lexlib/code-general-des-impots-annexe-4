@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-02-27
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -17337,6 +17337,32 @@ _Cité par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 238 bis (V)
+
+
+###### Article 170 septies I
+
+Les agréments prévus aux II et V de l'article 156 bis du code général des impôts sont délivrés par le directeur régional des
+finances publiques d'Auvergne-Rhône-Alpes et du département du Rhône. 
+
+L'agrément est délivré par le ministre chargé du budget lorsque l'affaire est évoquée par le ministre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 10 février 2016 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Arrêté du 10 février 2016 - art., v. init.
+
+_Abrogé par_:
+
+  - Arrêté du 15 juin 2018 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 156 bis
 
 
 ###### Article 170 sexies
