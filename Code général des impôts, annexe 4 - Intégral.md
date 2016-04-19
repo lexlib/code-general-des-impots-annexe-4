@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2016-03-01
+Version Consolidée au 2016-04-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -11170,7 +11170,9 @@ e) Les opérateurs peuvent substituer une capsule générique de couleur lie-de-
 verte ou bleue. Cette possibilité ne concerne pas les vins mousseux à appellation d'origine contrôlée "Champagne", les vins
 doux naturels à appellation d'origine contrôlée, ni les boissons fiscalement assimilées au vin (cas prévus aux a et b) ;
 
-f) Jaune d'or (Pantone 1225 C) pour le cognac et l'armagnac.
+f) Jaune d'or (Pantone 1225 C) pour le cognac et l'armagnac ;
+
+g) Blanc (Pantone Gris 1C) pour les alcools. 
 
 Les couleurs du fond et de ces indications doivent être suffisamment contrastées pour en permettre une lecture aisée.
 
@@ -11178,7 +11180,7 @@ Les couleurs du fond et de ces indications doivent être suffisamment contrasté
 
 _Modifié par_:
 
-  - Arrêté du 12 février 2015 - art. 1
+  - Arrêté du 8 avril 2016 - art. 1
 
 _Cité par_:
 
