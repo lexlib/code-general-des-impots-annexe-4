@@ -1,15 +1,15 @@
 # Article 18 quater
 
-I.-Sont prises en compte pour l'application du 6° du I de l'article 199 undecies C du code général des impôts les dépenses
+I. – Sont prises en compte pour l'application du 6° du I de l'article 199 undecies C du code général des impôts les dépenses
 relatives à l'acquisition, à l'installation et à la pose :
 
 1. De dispositifs constructifs, d'équipements ou de matériaux d'isolation thermique, dont la finalité essentielle est la
 protection contre le rayonnement solaire des parois opaques, en contact avec l'extérieur, et/ ou des baies, en contact avec
 l'extérieur, ou la ventilation naturelle de confort thermique, visant à limiter le recours à la climatisation :
 
-a) En Guadeloupe, en Martinique, en Guyane et à La Réunion, respectant les exigences des articles 5 (1°), 6, 10 et 11 de
-l'arrêté du 17 avril 2009 définissant les caractéristiques thermiques minimales des bâtiments d'habitation neufs dans les
-départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ;
+a) En Guadeloupe, en Martinique, en Guyane et à La Réunion, respectant les exigences des articles 5 (1°), 6 et 10 de l'arrêté
+du 17 avril 2009 définissant les caractéristiques thermiques minimales des bâtiments d'habitation neufs dans les départements
+de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ;
 
 b) A Mayotte, respectant les exigences définies au 1 de la partie B de l'annexe 1 de l'arrêté préfectoral n° 192 PM/ SG/
 DE/08 du 15 octobre 2008 relatif aux subventions par l'Etat pour la construction, l'acquisition et l'amélioration de
@@ -57,8 +57,12 @@ installation de cogénération, visés au c du 3 de l'article 18 bis.
 Pour l'application du présent article, le terme baie en contact avec l'extérieur s'entend d'une ouverture ménagée dans une
 paroi extérieure au logement servant à l'éclairage, au passage ou à l'aération.
 
-II.-Les dépenses mentionnées au I doivent être justifiées par une facture détaillée précisant leur nature exacte, leur coût
+II. – Les dépenses mentionnées au I doivent être justifiées par une facture détaillée précisant leur nature exacte, leur coût
 et leur conformité aux critères techniques exigés.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'arrêté du 11 janvier 2016, art. 1er-10°.
 
 **Liens relatifs à cet article**
 
@@ -66,12 +70,12 @@ _Cite_:
 
   - Arrêté du 17 avril 2009
   - Arrêté du 17 avril 2009 - art. 5
-  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (M)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis
   - Code général des impôts, CGI. - art. 199 undecies C
 
 _Modifié par_:
 
-  - Arrêté du 27 février 2015 - art. 1
+  - Arrêté du 2 mai 2017 - art. 1
 
 _Cité par_:
 
