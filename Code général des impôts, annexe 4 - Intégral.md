@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2017-08-14
+Version Consolidée au 2017-08-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -3498,30 +3498,65 @@ _Modifié par_:
 ###### Article 24 A
 
 ((La liste des transports de voyageurs effectués par trains internationaux mentionnée au 9° du II de l'article 262 du code
-général des impôts est fixée comme suit)) (1) : 
+général des impôts est fixée comme suit)) (1) :
 
-1° Transports effectués en trafic international sur des relations comprenant, en plus des parcours initiaux ou terminaux
-éventuels l'un des parcours suivant ou vice versa : 
+1° Transports empruntant l'une des sections-frontières du réseau ferré national suivantes :
 
-Paris-Londres, Paris-Bruxelles, Paris-Luxembourg, Paris-Dusseldorf Paris-Cologne, Paris-Francfort, Paris-Stuttgart, Paris-
-Munich, Paris-Bâle, Paris-Berne, Paris-Lausanne, Paris-Genève, Paris-Turin ; 
+Calais-Fréthun-Fréthun-tunnel ;
 
-Paris-Milan, Paris-Barcelone, Paris-Madrid, Paris-Bilbao ; 
+Tourcoing-Mouscron ;
 
-Strasbourg-Bruxelles, Strasbourg-Francfort, Strasbourg-Londres ; 
+Baisieux-Tournai ;
 
-Lille-Londres, Lille-Bruxelles, Lille-Bale ; Lyon-Londres, Lyon-Bruxelles, Lyon-Luxembourg, Lyon-Cologne, Lyon-Francfort,
-Lyon-Genève, Lyon-Milan, Lyon-Barcelone ; Marseille-Londres, Marseille-Genève, Marseille-Rome ; Nice-Copenhague, Nice-Genève,
-Nice-Zurich, Nice-Gênes, Nice-Londres, Nice-Milan, Nice-Barcelone, Nice-Madrid, Nice-Lisbonne, Nice-Francfort, Nice-
-Luxembourg, Nice-Bruxelles ; Bordeaux-Bilbao, Bordeaux-Genève, Bordeaux-Londres ; 
+Wannehain-Antoing ;
 
-Toulouse-Genève, Toulouse-Barcelone ; Lourdes-Bruxelles, Lourdes-Dublin, Lourdes-Cork ; 
+Haumont-Quevy le Petit ;
+
+Jeumont-Erquelinnes ;
+
+Thionville (Zoufftgen)-Bettembourg ;
+
+Forbach-Saarbrücken ;
+
+Wissembourg-Winden ;
+
+Lauterbourg-Wörth (Berg (Pfaltz)) ;
+
+Strasbourg Port du Rhin-Kehl ;
+
+Bantzenheim (Chalampé)-Neuenburg (Baden) ;
+
+Saint-Louis-Basel ;
+
+Delle-Boncourt ;
+
+Pontarlier-Les Verrières ;
+
+Les Longevilles-Rochejean-Vallorbe ;
+
+Longeray Léaz (Fort l'Ecluse)-La Plaine ;
+
+Annemasse-Genève Eaux-Vives (Chêne-Bourg) ;
+
+Vallorcine-le-Buet-Le Châtelard ;
+
+Modane-Bardonecchia ;
+
+Breil-sur-Roya-Coni ;
+
+Menton-Vintimille ;
+
+Cerbère-Port-Bou ;
+
+Hendaye-Irùn ;
+
+Perpignan-Figueras ;
 
 2° Transports de groupes en trafic international dont l'effectif correspond au moins à la capacité d'une voiture-lits ou
 d'une voiture du chemin de fer au départ et à destination de localités desservies par des aérodromes ouverts au trafic des
-passagers. 
+passagers.
 
-((3° Transports effectués dans le cadre de la liaison fixe transmanche)) (1). 
+((3° Transports effectués dans le cadre de la liaison fixe transmanche)) (1).
 
 (1) Modifications de l'arrêté.
 
@@ -3529,11 +3564,11 @@ passagers.
 
 _Modifié par_:
 
-  - Arrêté 1994-06-16 art. 1 JORF 25 juin 1994
+  - Arrêté du 16 août 2017 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 262 (V)
+  - Code général des impôts, CGI. - art. 262
 
 
 ##### Section III : Liquidation de la taxe<a id=61></a>
