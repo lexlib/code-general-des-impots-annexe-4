@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2017-08-20
+Version Consolidée au 2017-09-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -17641,20 +17641,20 @@ _Cite_:
 
 ###### Article 170 undecies
 
-En application du III de l'article 347 de l'annexe III au code général des impôts, si le président de la commission
-départementale des impôts directs et des taxes sur le chiffre d'affaires instituée aux articles 1651 et suivants du code
-général des impôts le juge utile, le nombre de suppléants peut être augmenté : 
+En application du III de l'article 347 de l'annexe III au code général des impôts, si le président de la commission des
+impôts directs et des taxes sur le chiffre d'affaires instituée aux articles 1651 et suivants du code général des impôts le
+juge utile, le nombre de suppléants peut être augmenté :
 
-1. pour la ville de Paris : 
+1. pour la ville de Paris :
 
 a) jusqu'à cent cinquante, en ce qui concerne les représentants des contribuables désignés par la chambre de commerce et
-d'industrie territoriale ; 
+d'industrie territoriale ;
 
 b) jusqu'à cinquante, en ce qui concerne les représentants des contribuables désignés par la chambre des métiers et de
-l'artisanat et par les organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux ; 
+l'artisanat et par les organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux ;
 
-2. pour les départements de plus de 600 000 habitants dans les mêmes conditions qu'au 1, le nombre de suppléants peut être
-porté respectivement à soixante et à trente.
+2. pour les départements de plus de 600 000 habitants dans le ressort du tribunal administratif dans les mêmes conditions
+qu'au 1, le nombre de suppléants peut être porté respectivement à soixante et à trente.
 
 **Nota:**
 
@@ -17668,12 +17668,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 9 juin 2011 - art. 1
+  - Arrêté du 1er juin 2017 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 347 (V)
-  - Code général des impôts, CGI. - art. 1651 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 347
+  - Code général des impôts, CGI. - art. 1651
 
 
 # Livre II : Recouvrement de l'impôt<a id=226></a>
@@ -18468,7 +18468,7 @@ _Cite_:
 
 ###### Article 217
 
-I. – Un agent délégataire relevant de la direction générale des finances publiques ne peut statuer :
+I.-Un agent délégataire relevant de la direction générale des finances publiques ne peut statuer :
 
 a) Sur une demande pour laquelle les services de direction ou ceux de l'administration centrale doivent être consultés ou
 sont déjà saisis ;
@@ -18485,11 +18485,11 @@ il a apposé son visa ;
 
 e) Sur une demande contentieuse qui porte sur une imposition faisant suite à une procédure de contrôle dont il a eu à
 connaître dans le cadre d'un recours hiérarchique, de premier ou de deuxième niveau, ou en visant le rapport à la commission
-départementale des impôts directs et des taxes sur le chiffre d'affaires, à la Commission nationale des impôts directs et des
-taxes sur le chiffre d'affaires ou à la commission départementale de conciliation, prévues respectivement aux articles 1651,
-1651 H et 1653 A du code général des impôts.
+des impôts directs et des taxes sur le chiffre d'affaires, à la Commission nationale des impôts directs et des taxes sur le
+chiffre d'affaires ou à la commission départementale de conciliation, prévues respectivement aux articles 1651, 1651 H et
+1653 A du code général des impôts.
 
-II. – Un agent délégataire relevant de la direction générale des douanes et droits indirects ne peut statuer :
+II.-Un agent délégataire relevant de la direction générale des douanes et droits indirects ne peut statuer :
 
 a) Sur une demande pour laquelle les services de direction ou ceux de l'administration centrale doivent être consultés ou
 sont déjà saisis ;
@@ -18503,15 +18503,13 @@ dans le cas où il exerce lui-même les fonctions de responsable dudit service.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 30 mai 2013 - art. 1
+  - Arrêté du 1er juin 2017 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1651 (VT)
-  - Code général des impôts, CGI. - art. 1651 H (V)
-  - Code général des impôts, CGI. - art. 1653 A (V)
+  - Code général des impôts, CGI. - art. 1651
 
 
 ###### Article 218
