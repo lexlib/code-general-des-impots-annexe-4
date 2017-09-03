@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-09-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -17709,21 +17709,21 @@ _Cite_:
 ###### Article 188 C
 
 Les personnes morales visées à l'article 108 du code général des impôts versent l'impôt afférent aux intérêts de bons de
-caisse à la recette des impôts de la direction des résidents à l'étranger et des services généraux.
+caisse à la recette des impôts de la          direction des impôts des non-résidents.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
 
 _Codifié par_:
 
   - Arrêté 2005-04-06
 
+_Modifié par_:
+
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 108 (V)
+  - Code général des impôts, CGI. - art. 108
 
 
 ###### Article 188 D
@@ -17770,50 +17770,50 @@ intérêt.
 1. La retenue opérée par les agences ou succursales des établissements de crédit peut faire l'objet de versements globaux.
 Dans ce cas l'organisme centralisateur dresse et conserve pour chaque versement un état faisant apparaître le montant des
 sommes versées pour le compte de chacune des agences ou succursales. Les liasses visées au 3 de l'article 17 A sont
-conservées soit par l'organisme centralisateur soit par l'agence ou succursale.
+conservées soit par l'organisme centralisateur soit par l'agence ou succursale. 
 
-2. La possibilité d'effectuer des versements globaux est subordonnée au dépôt d'une déclaration à la direction des résidents
-à l'étranger et des services généraux. Cette déclaration, établie sur papier libre, est signée de la personne habilitée à
-engager l'établissement justifiant de son identité et de l'étendue de ses pouvoirs et contient la désignation de chacune des
-agences ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu où seront conservées les
-liasses visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle déclaration souscrite
-dans les mêmes formes. Chaque déclaration prend effet dès le versement afférent au mois au cours duquel elle intervient.
+2. La possibilité d'effectuer des versements globaux est subordonnée au dépôt d'une déclaration à la          direction des
+impôts des non-résidents. Cette déclaration, établie sur papier libre, est signée de la personne habilitée à engager
+l'établissement justifiant de son identité et de l'étendue de ses pouvoirs et contient la désignation de chacune des agences
+ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu où seront conservées les liasses
+visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle déclaration souscrite dans les
+mêmes formes. Chaque déclaration prend effet dès le versement afférent au mois au cours duquel elle intervient.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
 
 _Codifié par_:
 
   - Arrêté 2005-04-06
 
+_Modifié par_:
+
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
+
 _Cité par_:
 
-  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 188 L (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 17 A (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 I (VD)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 188 L (VD)
 
 
 ###### Article 188-0 H
 
 La retenue à la source prévue au 2 de l'article 119 bis du code général des impôts est versée à la recette des impôts de la
-direction des résidents à l'étranger et des services généraux.
+direction des impôts des non-résidents.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
 
 _Codifié par_:
 
   - Arrêté 2005-04-06
 
+_Modifié par_:
+
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 119 bis (V)
+  - Code général des impôts, CGI. - art. 119 bis
 
 
 ### Section I quater : Prélèvement sur les produits de placements à revenu fixe<a id=230></a>
@@ -17823,8 +17823,8 @@ _Cite_:
 Le prélèvement opéré par les agences et succursales des établissements de crédit par les caisses publiques et par les caisses
 d'épargne peut faire l'objet de versements globaux dans les conditions prévues à l'article 188 H. 
 
-La déclaration préalable qui doit être adressée à la direction des résidents à l'étranger et des services généraux peut viser
-à la fois le versement de la retenue à la source prévue audit article et celui du prélèvement. 
+La déclaration préalable qui doit être adressée à la          direction des impôts des non-résidents peut viser à la fois le
+versement de la retenue à la source prévue audit article et celui du prélèvement. 
 
 Ces dispositions ne sont pas applicables au prélèvement dû à raison des revenus, produits et gains mentionnés à l'article 125
 D du code général des impôts.
@@ -17833,7 +17833,7 @@ D du code général des impôts.
 
 _Modifié par_:
 
-  - Arrêté 2006-04-14 art. 1 JORF 16 avril 2006
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
 
 _Cité par_:
 
@@ -17841,15 +17841,15 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 188 H (V)
-  - Code général des impôts, CGI. - art. 125 D (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 188 H
+  - Code général des impôts, CGI. - art. 125 D
 
 
 ###### Article 188 J
 
 Le service des impôts compétent pour recouvrer l'impôt mentionné à l'article 381 K de l'annexe III au code général des impôts
-est la recette de la direction des résidents à l'étranger et des services généraux, quel que soit le lieu de situation de la
-collectivité émettrice.
+est la recette de la          direction des impôts des non-résidents, quel que soit le lieu de situation de la collectivité
+émettrice.
 
 **Liens relatifs à cet article**
 
@@ -17859,25 +17859,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 381 K (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 381 K
 
 
 ###### Article 188-0 I
 
 I. – Le prélèvement sur les produits de placements à revenu fixe prévu à l'article 125 A du code général des impôts est versé
-à la recette des impôts de la direction des résidents à l'étranger et des services généraux, lorsqu'il est dû à raison de
-revenus, produits et gains mentionnés aux articles 125-0 A et 125 A du code précité.
+à la recette des impôts de la          direction des impôts des non-résidents, lorsqu'il est dû à raison de revenus, produits
+et gains mentionnés aux articles 125-0 A et 125 A du code précité. 
 
 II. – Le prélèvement mentionné au I dû à raison des revenus, produits et gains visés aux I et II de l'article 125 D du code
-général des impôts est versé :
+général des impôts est versé : 
 
-1° A la recette des impôts des non-résidents de la direction des résidents à l'étranger et des services généraux, lorsqu'il
-est acquitté par la personne qui assure le paiement desdits revenus, produits et gains et qu'elle est mandatée à cet effet
-par le contribuable ;
+1° A la recette des impôts des non-résidents de la          direction des impôts des non-résidents, lorsqu'il est acquitté
+par la personne qui assure le paiement desdits revenus, produits et gains et qu'elle est mandatée à cet effet par le
+contribuable ; 
 
 2° Au service des impôts du domicile du contribuable, lorsque ce dernier effectue lui-même le paiement dudit prélèvement.
 
@@ -17889,13 +17889,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2007-03-30 art. 1 JORF 31 mars 2007
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 125 A (V)
-  - Code général des impôts, CGI. - art. 125 D (V)
-  - Code général des impôts, CGI. - art. 125-0 A (V)
+  - Code général des impôts, CGI. - art. 125 A
+  - Code général des impôts, CGI. - art. 125 D
+  - Code général des impôts, CGI. - art. 125-0 A
 
 
 ### Section I quinquies : Prélèvement sur les dividendes<a id=231></a>
@@ -17904,9 +17904,9 @@ _Cite_:
 
 Le prélèvement prévu à l'article 117 quater du code général des impôts est versé : 
 
-1° A la recette des impôts des non-résidents de la direction des résidents à l'étranger et des services généraux, lorsqu'il
-est opéré par la personne mentionnée au II de l'article 117 quater précité ou par celle mentionnée au b du III du même
-article et mandatée par le contribuable à cet effet ; 
+1° A la recette des impôts des non-résidents de la          direction des impôts des non-résidents, lorsqu'il est opéré par
+la personne mentionnée au II de l'article 117 quater précité ou par celle mentionnée au b du III du même article et mandatée
+par le contribuable à cet effet ; 
 
 2° Par exception au 1°, au service des impôts auquel doit parvenir la déclaration de résultat de la personne mentionnée au II
 de l'article 117 quater précité ou, à défaut d'une telle déclaration, au service des impôts dont relève son siège social,
@@ -17918,9 +17918,9 @@ sécurité sociale ;
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 15 septembre 2008 - art. 1
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
 
 _Cite_:
 
@@ -17934,18 +17934,18 @@ Le prélèvement prévu à l'article 117 quater du code général des impôts op
 établissements de crédit, par les caisses publiques et par les caisses d'épargne peut faire l'objet de versements globaux
 dans les conditions prévues à l'article 188 H. 
 
-La déclaration préalable qui doit être adressée à la direction des résidents à l'étranger et des services généraux peut viser
-à la fois le versement de la retenue prévue au 2 de l'article 119 bis du code général des impôts et celui des prélèvements
-mentionnés aux articles 125 A et 117 quater du même code. 
+La déclaration préalable qui doit être adressée à la          direction des impôts des non-résidents peut viser à la fois le
+versement de la retenue prévue au 2 de l'article 119 bis du code général des impôts et celui des prélèvements mentionnés aux
+articles 125 A et 117 quater du même code. 
 
 Ces dispositions ne sont pas applicables lorsque le prélèvement est acquitté dans les conditions du III de l'article 117
 quater précité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 15 septembre 2008 - art. 1
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
 
 _Cité par_:
 
@@ -17953,7 +17953,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 188 H
+  - Code général des impôts, annexe 4, CGIAN4. - art. 188 H (VD)
   - Code général des impôts, CGI. - art. 117 quater
   - Code général des impôts, CGI. - art. 119 bis
   - Code général des impôts, CGI. - art. 125 A
