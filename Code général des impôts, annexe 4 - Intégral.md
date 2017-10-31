@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2017-09-04
+Version Consolidée au 2017-11-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -14560,26 +14560,29 @@ _Modifié par_:
 
 ###### Article 121 Z quinquies
 
-Les personnes physiques qui résident habituellement dans la Principauté de Monaco, qu'elles soient ou non fiscalement
-domiciliées en France, souscrivent au service des impôts de Menton les déclarations : 
+I. – Les personnes physiques qui résident habituellement dans la Principauté de Monaco, qu'elles soient ou non fiscalement
+domiciliées en France, souscrivent au service des impôts de Menton les déclarations :
 
-1° D'impôt sur le revenu ; 
+1° d'impôt sur le revenu ;
 
-2° D'impôt de solidarité sur la fortune ; 
-
-3° De dons manuels ; 
-
-4° De droits de succession ; 
+2° d'impôt de solidarité sur la fortune.
 
 Les personnes physiques dont le domicile fiscal est situé ou est réputé se situer en France et qui exercent une activité
 professionnelle dans la Principauté de Monaco déposent également les déclarations spéciales prévues par les articles 53 A et
 97 du code général des impôts auprès de ce service.
 
+II. – Les personnes physiques qui résident habituellement dans la Principauté de Monaco, qu'elles soient ou non fiscalement
+domiciliées en France, souscrivent au service départemental de l'enregistrement de Nice les déclarations :
+
+1° de don manuel ;
+
+2° de succession.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 2006-12-05 art. 1 JORF 16 décembre 2006
+  - Arrêté du 13 octobre 2017 - art. 1
 
 _Cité par_:
 
@@ -14587,8 +14590,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 53 A (V)
-  - Code général des impôts, CGI. - art. 97 (V)
+  - Code général des impôts, CGI. - art. 53 A
+  - Code général des impôts, CGI. - art. 97
 
 
 #### Chapitre IV : Réductions d'impôts au titre des dons aux organismes dont le siège est situé dans un Etat membre de l'Union européenne ou partie à l'Espace économique européen<a id=162></a>
