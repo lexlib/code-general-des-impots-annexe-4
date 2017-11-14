@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2017-11-01
+Version Consolidée au 2017-11-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -15796,21 +15796,21 @@ _Cite_:
 
 ###### Article 155 bis A
 
-Les tarifs de la taxe minière sur l'or en Guyane applicables en 2016 sont fixés comme suit : 
+Les tarifs de la taxe minière sur l'or en Guyane applicables en 2017 sont fixés comme suit :
 
 <table border="1">
   <tbody>
     <tr>
       <td>
 
-CATÉGORIES D'ENTREPRISES 
+CATÉGORIES D'ENTREPRISES
 
 </td>
       <td>
 
-PAR KILOGRAMME 
+PAR KILOGRAMME
 
-(extrait) 
+(extrait)
 
 (en euros)
 
@@ -15819,22 +15819,22 @@ PAR KILOGRAMME
     <tr>
       <td align="center">
 
-Petites et moyennes entreprises 
+Petites et moyennes entreprises
 
 </td>
       <td align="center">
 
-336,00</td>
+362,95</td>
     </tr>
     <tr>
       <td align="center">
 
-Autres entreprises 
+Autres entreprises
 
 </td>
       <td align="center">
 
-672,01</td>
+725,90</td>
     </tr>
   </tbody>
 </table>
@@ -15846,7 +15846,7 @@ l'Etat en application des articles 1641 et 1644 du code général des impôts.
 
 _Modifié par_:
 
-  - Arrêté du 15 novembre 2016 - art. 1
+  - Arrêté du 3 novembre 2017 - art. 1
 
 _Cite_:
 
