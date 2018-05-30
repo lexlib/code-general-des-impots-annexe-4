@@ -5,7 +5,7 @@ domiciliées en France, souscrivent au service des impôts de Menton les déclar
 
 1° d'impôt sur le revenu ;
 
-2° d'impôt de solidarité sur la fortune.
+2° d'impôt sur la fortune immobilière.
 
 Les personnes physiques dont le domicile fiscal est situé ou est réputé se situer en France et qui exercent une activité
 professionnelle dans la Principauté de Monaco déposent également les déclarations spéciales prévues par les articles 53 A et
@@ -22,7 +22,7 @@ domiciliées en France, souscrivent au service départemental de l'enregistremen
 
 _Modifié par_:
 
-  - Arrêté du 13 octobre 2017 - art. 1
+  - Arrêté du 29 mai 2018 - art. 1
 
 _Cité par_:
 
