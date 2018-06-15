@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2018-06-06
+Version Consolidée au 2018-06-16
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -11645,29 +11645,77 @@ _Cité par_:
 
 ###### Article 52 ter
 
-Le contingent annuel d'exportation de 120 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
+Le contingent annuel d'exportation de 144 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
 réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie et, d'autre part, entre les
-départements d'outre-mer, jusqu'au 31 décembre 2013, conformément au tableau ci-après : 
+départements d'outre-mer, conformément au tableau ci-après :
 
-Martinique : rhum traditionnel agricole, 43 157,76 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 11 327,78
-hectolitres d'alcool pur ; 
+<table border="1">
+  <tbody>
+    <tr>
+      <th> </th>
+      <th>
 
-Guadeloupe : rhum traditionnel agricole, 11 285 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 30 823,89
-hectolitres d'alcool pur ; 
+rhum traditionnel agricole</th>
+      <th>
 
-Réunion : rhum traditionnel de sucrerie, 22 905,57 hectolitres d'alcool pur ; 
+rhum traditionnel de sucrerie</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Guyane : rhum traditionnel agricole, 500 hectolitres d'alcool pur.
+Martinique</td>
+      <td align="justify">
+
+52 789,1 hectolitres d'alcool pur</td>
+      <td align="justify">
+
+11 327,78 hectolitres d'alcool pur</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Guadeloupe</td>
+      <td align="justify">
+
+17 007,36 hectolitres d'alcool pur</td>
+      <td align="justify">
+
+34 522,76 hectolitres d'alcool pur</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+La Réunion</td>
+      <td align="justify">
+
+0 hectolitres d'alcool pur</td>
+      <td align="justify">
+
+27 353 hectolitres d'alcool pur</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Guyane</td>
+      <td align="justify">
+
+1 000 hectolitres d'alcool pur</td>
+      <td align="justify">
+
+0 hectolitres d'alcool pur</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 9 octobre 2012 - art. 1
+  - Arrêté du 13 juin 2018 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 362 (V)
+  - Code général des impôts, CGI. - art. 362
 
 
 ##### 2° : Régime de l'exportation préalable<a id=122></a>
