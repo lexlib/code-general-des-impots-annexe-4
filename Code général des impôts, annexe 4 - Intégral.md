@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2018-06-16
+Version Consolidée au 2018-06-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -2015,49 +2015,49 @@ _Cité par_:
 
 ###### Article 18
 
-Pour l'année 2017, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2018, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
+      <td align="center" rowspan="2">
 
-TAUX APPLICABLES</th>
-      <th colspan="5">
+Taux
 
-LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+applicables</td>
+      <td align="center" colspan="5">
 
-</th>
+Limite des tranches selon la période à laquelle se rapportent les paiements</td>
     </tr>
     <tr>
-      <th>
+      <td align="center">
 
 Année
 
-(en euros)</th>
-      <th>
+(en euros)</td>
+      <td align="center">
 
 Trimestre
 
-(en euros)</th>
-      <th>
+(en euros)</td>
+      <td align="center">
 
 Mois
 
-(en euros)</th>
-      <th>
+(en euros)</td>
+      <td align="center">
 
 Semaine
 
-(en euros)</th>
-      <th>
+(en euros)</td>
+      <td align="center">
 
-Jour ou fraction
+Jour
 
-de jour
+ou fraction de jour
 
-(en euros)</th>
+(en euros)</td>
     </tr>
     <tr>
       <td align="center">
@@ -2072,22 +2072,22 @@ de jour
     <tr>
       <td align="center">
 
-– moins de</td>
+- moins de</td>
       <td align="center">
 
-14 461</td>
+14 605</td>
       <td align="center">
 
-3 615</td>
+3 651</td>
       <td align="center">
 
-1 205</td>
+1 217</td>
       <td align="center">
 
-278</td>
+281</td>
       <td align="center">
 
-46</td>
+47</td>
     </tr>
     <tr>
       <td align="center">
@@ -2105,19 +2105,19 @@ de jour
 - de</td>
       <td align="center">
 
-14 461</td>
+14 605</td>
       <td align="center">
 
-3 615</td>
+3 651</td>
       <td align="center">
 
-1 205</td>
+1 217</td>
       <td align="center">
 
-278</td>
+281</td>
       <td align="center">
 
-46</td>
+47</td>
     </tr>
     <tr>
       <td align="center">
@@ -2125,19 +2125,19 @@ de jour
 - à</td>
       <td align="center">
 
-41 951</td>
+42 370</td>
       <td align="center">
 
-10 488</td>
+10 593</td>
       <td align="center">
 
-3 496</td>
+3 531</td>
       <td align="center">
 
-807</td>
+815</td>
       <td align="center">
 
-134</td>
+136</td>
     </tr>
     <tr>
       <td align="center">
@@ -2152,35 +2152,35 @@ de jour
     <tr>
       <td align="center">
 
-– au delà de</td>
+- au delà de</td>
       <td align="center">
 
-41 951</td>
+42 370</td>
       <td align="center">
 
-10 488</td>
+10 593</td>
       <td align="center">
 
-3 496</td>
+3 531</td>
       <td align="center">
 
-807</td>
+815</td>
       <td align="center">
 
-134</td>
+136</td>
     </tr>
   </tbody>
 </table>
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2-I 2° de la loi n° 2016-1917 du 29 décembre 2016.
+Modifications effectuées en conséquence de l'article 2-2° a de la loi n° 2017-1837 du 30 décembre 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 2 mai 2017 - art. 1
+  - Arrêté du 20 juin 2018 - art. 1
 
 
 ##### 2° : Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable<a id=33></a>
@@ -2250,20 +2250,24 @@ _Anciens textes_:
 
 ###### Article 18-0 bis C
 
-Pour l'application du premier alinéa du IV de l'article 199 novovicies du code général des impôts, les communes se
-caractérisant par un déséquilibre important entre l'offre et la demande de logements s'entendent de celles classées dans les
-zones A et B1 telles qu'elles sont définies à l'article R. 304-1 du code de la construction et de l'habitation.
+Pour l'application du IV de l'article 199 novovicies du code général des impôts, les communes se caractérisant par un
+déséquilibre important entre l'offre et la demande de logements s'entendent de celles classées dans les zones A et B1 telles
+qu'elles sont définies à l'article R. 304-1 du code de la construction et de l'habitation.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 68-I-1° et III de la loi n° 2017-1837 du 30 décembre 2017.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 29 décembre 2012 - art. 2
+  - Arrêté du 20 juin 2018 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 199 novovicies (V)
-  - Code de la construction et de l'habitation. - art. R304-1 (V)
+  - Code général des impôts, CGI. - art. 199 novovicies
+  - Code de la construction et de l'habitation. - art. R304-1
 
 
 ##### 5° : Crédit d'impôt pour la transition énergétique<a id=35></a>
@@ -10577,7 +10581,7 @@ Les pertes ou déchets constatés en cours d'élaboration, de transformation et 
 alcooliques, doivent être inscrits par l'entrepositaire agréé dans la colonne “ sorties ” de sa comptabilité matières, par
 tarif d'imposition et par produit concerné tel que défini aux articles 286 I et 286 J de l'annexe II au code général des
 impôts. L'exonération attribuée s'applique par entrepôt fiscal suspensif de droits d'accises, par type d'opération et selon
-les distinctions prévues aux articles 286 I et J de l'annexe II au code général des impôts. 
+les distinctions prévues aux articles 286 I et 286 J de l'annexe II au code général des impôts.
 
 Les pertes accidentelles doivent être signalées immédiatement à l'administration. Elles sont inscrites en sorties dans la
 comptabilité matières. Ces pertes ne font pas l'objet d'une taxation dès lors qu'elles sont admises par l'administration
@@ -10585,13 +10589,13 @@ après examen de la demande d'admission en décharge présentée par l'entreposi
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 9 août 2017 - art. 1
+  - Arrêté du 20 juin 2018 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
 
 
 ###### Article 50-0 K
@@ -10874,6 +10878,12 @@ et la cave coopérative ayant le même type d'activité, peuvent opter pour un t
 l'élaboration, le stockage, le conditionnement et le stockage après conditionnement) de 3,5 % sur le stock moyen si le
 stockage s'effectue en cuves étanches ou de 6 % sur le stock moyen si le stockage s'effectue sous bois.
 
+Pour les vins doux naturels à appellation d'origine contrôlée et les vins de liqueur mentionnés à l'article 417 bis du code
+général des impôts, et en lieu et place des taux cités aux articles 50-0 K et 50-0 L, l'entrepositaire agréé récoltant
+vinificateur peut opter pour un taux annuel de pertes global (comprenant l'élaboration, le stockage, le conditionnement et le
+stockage après conditionnement) de 3,5 % sur le stock moyen si le stockage s'effectue en cuves étanches ou de 6 % sur le
+stock moyen si le stockage s'effectue sous bois.
+
 L'opérateur qui souhaite bénéficier de cette option, doit en faire la déclaration auprès de l'administration des douanes et
 droits indirects, avant le début de la campagne viticole. Cette déclaration se fait par voie informatique, mais il peut être
 accepté, à titre exceptionnel, qu'elle se fasse sur support papier si l'opérateur est dans l'incapacité de la dématérialiser.
@@ -10881,9 +10891,9 @@ L'option sera renouvelée chaque année par tacite reconduction sauf si l'opéra
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 9 août 2017 - art. 1
+  - Arrêté du 15 juin 2018 - art. 1
 
 _Cite_:
 
@@ -10894,17 +10904,17 @@ _Cite_:
 ###### Article 50-0 N
 
 Pour les alcools produits à partir d'unités agréées sous le régime général des distilleries industrielles, tel que prévu aux
-articles 311 biset 57 à 77 de l'annexe I au CGI, l'entrepositaire agréé peut opter pour un taux annuel de pertes global de
-1,5 % sur les quantités expédiées.
+articles 311 biset 57 à 77 de l'annexe I au code général des impôts, l'entrepositaire agréé peut opter pour un taux annuel de
+pertes global de 1,5 % sur les quantités expédiées.
 
 L'opérateur qui souhaite bénéficier de cette option doit en faire la demande auprès de l'administration des douanes et droits
 indirects, avant le début de son exercice commercial.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 9 août 2017 - art. 1
+  - Arrêté du 20 juin 2018 - art. 1
 
 _Cite_:
 
