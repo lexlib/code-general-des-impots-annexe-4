@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2018-07-08
+Version Consolidée au 2018-07-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -229,7 +229,7 @@ Version Consolidée au 2018-07-08
         - [Section IV : Dispositions communes (art. 170 decies à 170 sexies)](#226)
           - [Octroi de certains agréments fiscaux (art. 170 decies à 170 sexies)](#227)
         - [Section V : Commissions administratives des impôts (art. 170 undecies)](#228)
-  - [Livre II : Recouvrement de l'impôt (art. 188 B à 218)](#229)
+  - [Livre II : Recouvrement de l'impôt (art. 188 B à 219)](#229)
     - [Chapitre premier : Paiement de l'impôt (art. 188 B à 204)](#230)
       - [Section I bis : Intérêts des bons de caisse (art. 188 B à 188 F)](#231)
       - [Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises (art. 188 H à 188-0 H)](#232)
@@ -251,7 +251,7 @@ Version Consolidée au 2018-07-08
       - [II : Taxes sur le chiffre d'affaires et taxes assimilées. (art. 207 quater A bis)](#248)
     - [Chapitre I bis A : Sûretés et privilèges (art. 207 sexies)](#249)
       - [Publicité du privilège du Trésor (art. 207 sexies)](#250)
-    - [Chapitre III : Compétence des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 212 à 218)](#251)
+    - [Chapitre III : Compétence des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 212 à 219)](#251)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -18810,5 +18810,32 @@ _Cite_:
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 216 (V)
+
+
+###### Article 219
+
+Par dérogation aux dispositions de l'article 213, le directeur chargé de la direction des impôts des non-résidents peut
+déléguer sa signature aux agents de cette direction exerçant leurs fonctions au sein du service des impôts des entreprises
+étrangères, à l'effet de signer les décisions de restitution ou de rejet s'agissant des demandes de remboursement de crédit
+de taxe sur la valeur ajoutée : 
+
+a. dans la limite de 300 000 €, pour les agents de catégorie A titulaires d'un grade supérieur à celui d'inspecteur des
+finances publiques ; 
+
+b. dans la limite de 80 000 €, pour les inspecteurs des finances publiques ; 
+
+c. dans la limite de 30 000 €, pour les agents de catégorie B ; 
+
+d. dans la limite de 5 000 €, pour les agents de catégorie C.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 27 juin 2018 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 213
 
 
