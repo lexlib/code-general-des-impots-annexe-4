@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2018-08-29
+Version Consolidée au 2018-09-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -3522,13 +3522,13 @@ _Cite_:
 ###### Article 23 M bis
 
 Conformément aux dispositions du III de l'article 235 ter ZF du code général des impôts, le taux de la taxe sur le résultat
-des entreprises ferroviaires est fixé à 13,9971 % pour l'année 2017.
+des entreprises ferroviaires est fixé à        11,39852 % pour l'année 2018.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 30 décembre 2017 - art. 1
+  - Arrêté du 28 août 2018 - art. 1
 
 _Cite_:
 
@@ -9407,13 +9407,13 @@ _Modifié par_:
 ###### Article 50 quaterdecies B
 
 Le taux de la contribution de solidarité territoriale prévu à l'article 302 bis ZC du code général des impôts est fixé à
-0,943 % pour l'année 2017.
+0,34213 % pour l'année 2018.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 29 décembre 2017 - art. 1
+  - Arrêté du 28 août 2018 - art. 1
 
 _Cite_:
 
@@ -18234,8 +18234,14 @@ _Cite_:
 
 ###### Article 188 C
 
-Les personnes morales visées à l'article 108 du code général des impôts versent l'impôt afférent aux intérêts de bons de
-caisse à la recette des impôts de la          direction des impôts des non-résidents.
+Les personnes morales visées à l'article 108 du code général des impôts versent l'impôt afférent aux intérêts des bons de
+caisse au service des impôts auquel doit parvenir leur déclaration de résultat ou, à défaut d'une telle déclaration, au
+service des impôts dont relève leur siège social.
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 28 août 2018, les présentes dispositions s'appliquent aux déclarations souscrites
+au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -18245,7 +18251,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
+  - Arrêté du 28 août 2018 - art. 1
 
 _Cite_:
 
@@ -18293,17 +18299,17 @@ intérêt.
 
 ###### Article 188 H
 
-1. La retenue opérée par les agences ou succursales des établissements de crédit peut faire l'objet de versements globaux.
-Dans ce cas l'organisme centralisateur dresse et conserve pour chaque versement un état faisant apparaître le montant des
-sommes versées pour le compte de chacune des agences ou succursales. Les liasses visées au 3 de l'article 17 A sont
-conservées soit par l'organisme centralisateur soit par l'agence ou succursale. 
+1. La retenue opérée par les agences ou succursales des établissements de crédit ou des entreprises fait l'objet de
+versements globaux. L'organisme centralisateur dresse et conserve pour chaque versement un état faisant apparaître le montant
+des sommes versées pour le compte de chacune des agences ou succursales. Les liasses visées au 3 de l'article 17 A sont
+conservées soit par l'organisme centralisateur soit par l'agence ou succursale.
 
-2. La possibilité d'effectuer des versements globaux est subordonnée au dépôt d'une déclaration à la          direction des
-impôts des non-résidents. Cette déclaration, établie sur papier libre, est signée de la personne habilitée à engager
-l'établissement justifiant de son identité et de l'étendue de ses pouvoirs et contient la désignation de chacune des agences
-ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu où seront conservées les liasses
-visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle déclaration souscrite dans les
-mêmes formes. Chaque déclaration prend effet dès le versement afférent au mois au cours duquel elle intervient.
+2. (Abrogé)
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 28 août 2018, les présentes dispositions s'appliquent aux déclarations souscrites
+au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -18313,7 +18319,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
+  - Arrêté du 28 août 2018 - art. 1
 
 _Cité par_:
 
@@ -18324,8 +18330,14 @@ _Cité par_:
 
 ###### Article 188-0 H
 
-La retenue à la source prévue au 2 de l'article 119 bis du code général des impôts est versée à la recette des impôts de la
-direction des impôts des non-résidents.
+La retenue à la source prévue au 2 de l'article 119 bis du code général des impôts est versée au service des impôts auquel
+doit parvenir la déclaration de résultat du redevable ou, à défaut d'une telle déclaration, au service des impôts dont relève
+son siège social.
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 28 août 2018, les présentes dispositions s'appliquent aux déclarations souscrites
+au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -18335,7 +18347,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
+  - Arrêté du 28 août 2018 - art. 1
 
 _Cite_:
 
@@ -18347,19 +18359,22 @@ _Cite_:
 ###### Article 188 I
 
 Le prélèvement opéré par les agences et succursales des établissements de crédit par les caisses publiques et par les caisses
-d'épargne peut faire l'objet de versements globaux dans les conditions prévues à l'article 188 H. 
-
-La déclaration préalable qui doit être adressée à la          direction des impôts des non-résidents peut viser à la fois le
-versement de la retenue à la source prévue audit article et celui du prélèvement. 
+d'épargne ou par les succursales des entreprises fait l'objet de versements globaux dans les conditions prévues à l'article
+188 H.
 
 Ces dispositions ne sont pas applicables au prélèvement dû à raison des revenus, produits et gains mentionnés à l'article 125
 D du code général des impôts.
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 28 août 2018, les présentes dispositions s'appliquent aux déclarations souscrites
+au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre 2018.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
+  - Arrêté du 28 août 2018 - art. 1
 
 _Cité par_:
 
@@ -18374,8 +18389,13 @@ _Cite_:
 ###### Article 188 J
 
 Le service des impôts compétent pour recouvrer l'impôt mentionné à l'article 381 K de l'annexe III au code général des impôts
-est la recette de la          direction des impôts des non-résidents, quel que soit le lieu de situation de la collectivité
-émettrice.
+est le service des impôts auquel doit parvenir la déclaration de résultat ou, à défaut d'une telle déclaration, au service
+des impôts dont relève le siège social de la collectivité émettrice.
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 28 août 2018, les présentes dispositions s'appliquent aux déclarations souscrites
+au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -18385,7 +18405,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
+  - Arrêté du 28 août 2018 - art. 1
 
 _Cite_:
 
@@ -18395,8 +18415,9 @@ _Cite_:
 ###### Article 188-0 I
 
 I. – Le prélèvement sur les produits de placements à revenu fixe prévu à l'article 125 A du code général des impôts est versé
-à la recette des impôts de la direction des impôts des non-résidents, lorsqu'il est dû à raison de revenus, produits et gains
-mentionnés aux articles 125-0 A et 125 A du code précité.
+au service des impôts auquel doit parvenir la déclaration de résultat du redevable ou, à défaut d'une telle déclaration, au
+service des impôts dont il relève, lorsqu'il est dû à raison de revenus, produits et gains mentionnés aux articles 125-0 A et
+125 A du code précité.
 
 II. – Le prélèvement mentionné au I dû à raison des revenus, produits et gains visés aux I et II de l'article 125 D du code
 général des impôts est versé :
@@ -18406,9 +18427,10 @@ personne qui assure le paiement desdits revenus, produits et gains et qu'elle es
 
 2° Au service des impôts du domicile du contribuable, lorsque ce dernier effectue lui-même le paiement dudit prélèvement.
 
-III.-Le prélèvement mentionné au I sur les intérêts dus par les offices notariaux au titre des produits de compte de
-consignation, de dépôt spécifique et de titres consignés est versé au service des impôts auquel doit parvenir la déclaration
-de résultat du redevable ou, à défaut d'une telle déclaration, au service des impôts dont il relève.
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 28 août 2018, les présentes dispositions s'appliquent aux déclarations souscrites
+au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -18418,7 +18440,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 20 novembre 2017 - art. 1
+  - Arrêté du 28 août 2018 - art. 1
 
 _Cite_:
 
@@ -18431,25 +18453,27 @@ _Cite_:
 
 ###### Article 188 K
 
-Le prélèvement prévu à l'article 117 quater du code général des impôts est versé : 
+Le prélèvement prévu à l'article 117 quater du code général des impôts est versé :
 
-1° A la recette des impôts des non-résidents de la          direction des impôts des non-résidents, lorsqu'il est opéré par
-la personne mentionnée au II de l'article 117 quater précité ou par celle mentionnée au b du III du même article et mandatée
-par le contribuable à cet effet ; 
+1° A la recette des impôts des non-résidents de la direction des impôts des non-résidents, lorsqu'il est opéré par la
+personne mentionnée au b du III de l'article 117 quater précité et mandatée par le contribuable à cet effet ;
 
-2° Par exception au 1°, au service des impôts auquel doit parvenir la déclaration de résultat de la personne mentionnée au II
-de l'article 117 quater précité ou, à défaut d'une telle déclaration, au service des impôts dont relève son siège social,
-lorsque le prélèvement est opéré par cette personne et que celle-ci est, à la date de paiement dudit prélèvement, redevable
-uniquement de ce prélèvement ou des prélèvements sociaux dus en application du 1° du I de l'article L. 136-7 du code de la
-sécurité sociale ; 
+2° Service des impôts auquel doit parvenir la déclaration de résultat de la personne mentionnée au II de l'article 117 quater
+précité ou, à défaut d'une telle déclaration, au service des impôts dont relève son siège social, lorsque le prélèvement est
+opéré par cette personne ;
 
 3° Au service des impôts du domicile du contribuable, lorsque ce dernier effectue lui-même le paiement dudit prélèvement.
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 28 août 2018, les présentes dispositions s'appliquent aux déclarations souscrites
+au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre 2018.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
+  - Arrêté du 28 août 2018 - art. 1
 
 _Cite_:
 
@@ -18460,21 +18484,22 @@ _Cite_:
 ###### Article 188 L
 
 Le prélèvement prévu à l'article 117 quater du code général des impôts opéré par les agences et succursales des
-établissements de crédit, par les caisses publiques et par les caisses d'épargne peut faire l'objet de versements globaux
-dans les conditions prévues à l'article 188 H. 
-
-La déclaration préalable qui doit être adressée à la          direction des impôts des non-résidents peut viser à la fois le
-versement de la retenue prévue au 2 de l'article 119 bis du code général des impôts et celui des prélèvements mentionnés aux
-articles 125 A et 117 quater du même code. 
+établissements de crédit, par les caisses publiques, par les caisses d'épargne et par les entreprises fait l'objet de
+versements globaux dans les conditions prévues à l'article 188 H.
 
 Ces dispositions ne sont pas applicables lorsque le prélèvement est acquitté dans les conditions du III de l'article 117
 quater précité.
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 28 août 2018, les présentes dispositions s'appliquent aux déclarations souscrites
+au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre 2018.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
+  - Arrêté du 28 août 2018 - art. 1
 
 _Cité par_:
 
