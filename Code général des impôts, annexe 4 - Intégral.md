@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2018-12-31
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -1192,22 +1192,27 @@ _Cite_:
 
 En application du 2° de l'article 87 A du code général des impôts, la déclaration mentionnée à l'article 87-0 A du même code
 souscrite par les redevables n'entrant pas dans le champ de l'article L. 133-5-3 du code de la sécurité sociale est déposée
-au plus tard le 10 du mois suivant celui au cours duquel les sommes ont été précomptées. 
+au plus tard le 10 de chaque mois.
 
 Si le délai imparti pour effectuer la déclaration expire un jour férié ou non ouvré, il est prorogé jusqu'au jour ouvrable
 suivant.
 
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 22 décembre 2017, les présentes dispositions entrent en vigueur le 1er janvier
+2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 9 mai 2017 - art. 1
+  - Arrêté du 22 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 87 A (VD)
-  - Code général des impôts, CGI. - art. 87-0 A (VD)
-  - Code de la sécurité sociale. - art. L133-5-3 (VD)
+  - Code général des impôts, CGI. - art. 87 A
+  - Code général des impôts, CGI. - art. 87-0 A
+  - Code de la sécurité sociale. - art. L133-5-3
 
 
 ##### Section III : Revenus des capitaux mobiliers<a id=21></a>
@@ -6345,30 +6350,30 @@ _Modifié par_:
 ###### Article 50 sexies J
 
 Les informations prévues au 2 de l'article 298 sexdecies F et au V de l'article 298 sexdecies G du code général des impôts
-sont les suivantes : 
+sont les suivantes :
 
-a. Raison sociale ; 
+a. Raison sociale ;
 
-b. Adresses physique et postale (si différentes) ; 
+b. Adresses physique et postale (si différentes) ;
 
-c. Adresse (s) électronique (s) ; 
+c. Adresse (s) électronique (s) ;
 
-d. Nom de la personne physique à contacter dans l'entreprise ; 
+d. Nom de la personne physique à contacter dans l'entreprise ;
 
-e. Numéro de téléphone et adresse électronique du contact ; 
+e. Numéro de téléphone et adresse électronique du contact ;
 
-f. Description de l'activité ; 
+f. Description de l'activité ;
 
-g. Numéro d'identification fiscal national ; 
+g. Numéro d'identification fiscal national ;
 
-h. Déclaration attestant, le cas échéant, que l'entreprise n'est pas identifiée dans un Etat membre de la Communauté
-européenne aux fins de la taxe sur la valeur ajoutée.
+h. Déclaration attestant, le cas échéant, que l'entreprise n'a pas établi le siège de son activité économique sur le
+territoire de l'Union européenne et qu'elle n'y dispose pas d'un établissement stable.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 30 décembre 2014 - art. 1
+  - Arrêté du 28 novembre 2018 - art. 1
 
 _Cite_:
 
