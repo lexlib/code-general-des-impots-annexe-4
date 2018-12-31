@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2018-06-06
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -934,22 +934,27 @@ _Cite_:
 
 En application du 2° de l'article 87 A du code général des impôts, la déclaration mentionnée à l'article 87-0 A du même code
 souscrite par les redevables n'entrant pas dans le champ de l'article L. 133-5-3 du code de la sécurité sociale est déposée
-au plus tard le 10 du mois suivant celui au cours duquel les sommes ont été précomptées. 
+au plus tard le 10 de chaque mois.
 
 Si le délai imparti pour effectuer la déclaration expire un jour férié ou non ouvré, il est prorogé jusqu'au jour ouvrable
 suivant.
 
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 22 décembre 2017, les présentes dispositions entrent en vigueur le 1er janvier
+2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 9 mai 2017 - art. 1
+  - Arrêté du 22 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 87 A (VD)
-  - Code général des impôts, CGI. - art. 87-0 A (VD)
-  - Code de la sécurité sociale. - art. L133-5-3 (VD)
+  - Code général des impôts, CGI. - art. 87 A
+  - Code général des impôts, CGI. - art. 87-0 A
+  - Code de la sécurité sociale. - art. L133-5-3
 
 
 ##### Section III : Revenus des capitaux mobiliers<a id=21></a>
