@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -2029,35 +2029,23 @@ fixée comme suit :
 
 1. (Paragraphe abrogé)
 
-2. Acquisition des équipements et matériaux suivants :
-
-a) Chaudières à haute performance énergétique, autres que celles utilisant le fioul comme source d'énergie, respectant les
-conditions suivantes :
-
-1° Lorsque la puissance est inférieure ou égale à 70 kW, une efficacité énergétique saisonnière pour le chauffage, définie
-selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 portant application de la directive 2009/125/CE du
-Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage
-des locaux et aux dispositifs de chauffage mixtes, supérieure ou égale à 90 % ;
-
-2° Lorsque la puissance est supérieure à 70 kW, une efficacité utile pour le chauffage, définie selon le règlement (UE) n°
-813/2013 de la commission du 2 août 2013 précité, supérieure ou égale à :
-
-– 87 %, mesurée à 100 % de la puissance thermique nominale ; et
-
-– 95,5 %, mesurée à 30 % de la puissance thermique nominale ;
-
-a bis) Chaudières à très haute performance énergétique utilisant le fioul comme source d'énergie et respectant les conditions
+a) Chaudières à très haute performance énergétique autres que celles utilisant le fioul comme source d'énergie, dans la
+limite d'un plafond de dépenses fixé à 3 350 €, toutes taxes comprises, par logement, et respectant les conditions
 suivantes :
 
 1° Lorsque la puissance est inférieure ou égale à 70 kW, une efficacité énergétique saisonnière pour le chauffage, définie
-selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013 précité, supérieure ou égale à 91 % ;
+selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/ CE du
+Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage
+des locaux et aux dispositifs de chauffage mixtes, supérieure ou égale à 92 % ;
 
-2° Lorsque la puissance est supérieure à 70 kW, une efficacité utile pour le chauffage, définie selon le règlement (UE) n°
-813/2013 de la Commission du 2 août 2013 précité, supérieure ou égale à :
+2° Lorsque la puissance est supérieure à 70 kW, chaudières à condensation présentant une efficacité utile pour le chauffage,
+définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013 précité, supérieure ou égale à :
 
-- 88 %, mesurée à 100 % de la puissance thermique nominale ; et
+- 87 %, mesurée à 100 % de la puissance thermique nominale ; et
 
-- 96,5 %, mesurée à 30 % de la puissance thermique nominale ;
+- 95,5 %, mesurée à 30 % de la puissance thermique nominale ;
+
+a bis) (Abrogé) ;
 
 b) Matériaux d'isolation thermique :
 
@@ -2077,8 +2065,8 @@ Murs en façade ou en pignon, possédant une résistance thermique supérieure o
 Toitures-terrasses possédant une résistance thermique supérieure ou égale à 4,5 m
   <sup>2</sup>. K/W ;
 
-Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 7 m 
-  <sup>2</sup>. K/ W ;
+Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 7 m
+  <sup>2</sup>. K/W ;
 
 Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 6 m
   <sup>2</sup>. K/W ;
@@ -2100,7 +2088,8 @@ Toitures-terrasses, planchers de combles perdus, rampants de toiture et plafonds
 thermique supérieure ou égale à 1,5 mètre carré Kelvin par watt (m
   <sup>2</sup>. K/W).
 
-2° Matériaux d'isolation thermique des parois vitrées :
+2° Matériaux d'isolation thermique des parois vitrées, dans la limite d'un plafond de dépenses par équipement fixé à 670 €,
+toutes taxes comprises, un équipement s'entend d'une menuiserie et des parois vitrées qui lui sont associées :
 
 Fenêtres ou porte-fenêtres avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,3 watt par mètre carré
 Kelvin (W/ m
@@ -2115,25 +2104,17 @@ Fenêtres en toitures avec un coefficient de transmission thermique (Uw) inféri
   <sup>2</sup>. K) et un facteur de transmission solaire (Sw) inférieur ou égal à 0,36. Le facteur de transmission solaire Sw
 est évalué selon la norme XP P 50-777 et le coefficient de transmission thermique Uw selon la norme NF EN 14 351-1 ;
 
-Vitrages de remplacement à isolation renforcée dénommés également vitrages à faible émissivité, installés sur une menuiserie
-existante et dont le coefficient de transmission thermique du vitrage (Ug) est inférieur ou égal à 1,1 W/ m
-  <sup>2</sup>. K. Le coefficient de transmission thermique des vitrages Ug est évalué selon la norme NF EN 1279 ;
-
 Doubles fenêtres, consistant en la pose sur la baie existante d'une seconde fenêtre à double vitrage renforcé, dont le
 coefficient de transmission thermique (Uw) est inférieur ou égal à 1,8 W/ m
   <sup>2</sup>. K et le facteur de transmission solaire (Sw) supérieur ou égal à 0,32. Le facteur de transmission solaire Sw
 est évalué selon la norme XP P 50-777 et le coefficient de transmission thermique Uw selon la norme NF EN 14 351-1 ;
 
-3° Volets isolants : volets isolants caractérisés par une résistance thermique additionnelle apportée par l'ensemble volet-
-lame d'air ventilé supérieure à 0,22 m
-  <sup>2</sup>. K/ W ;
+3° (Abrogé) ;
 
 4° Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire
 avec un isolant de classe supérieure ou égale à 3 selon la norme NF EN 12 828 ;
 
-5° Portes d'entrée donnant sur l'extérieur présentant un coefficient Ud inférieur ou égal à 1,7 W/ m
-  <sup>2</sup>. K. Le coefficient de transmission thermique Ud des portes d'entrée donnant sur l'extérieur est évalué selon
-la norme NF EN 14 351-1 ;
+5° (Abrogé) ;
 
 c) Acquisition d'appareils de régulation de chauffage permettant le réglage manuel ou automatique et la programmation des
 équipements de chauffage ou de production d'eau chaude sanitaire :
@@ -2160,21 +2141,79 @@ a) Equipements de production d'énergie utilisant une source d'énergie renouvel
 de capteurs solaires, disposant d'une certification CSTBat ou Solar Keymark ou équivalente, dans la limite d'un plafond de
 dépenses par mètre carré hors tout de capteurs, fixé à :
 
-– 1 000 €, toutes taxes comprises, pour les capteurs solaires à circulation de liquide produisant uniquement de l'énergie
-thermique ;
+<table border="1">
+  <tbody>
+    <tr>
+      <th rowspan="2">
 
-– 400 €, toutes taxes comprises, pour les capteurs solaires à air produisant uniquement de l'énergie thermique ;
+Type de capteur solaire</th>
+      <th colspan="2">
 
-– 400 €, toutes taxes comprises, pour les capteurs solaires à circulation de liquide hybrides produisant de l'énergie
-thermique et électrique, dans la limite de 10 m
-  <sup>2 </sup>;
+Plafonds de dépenses par mètre carré hors tout de capteurs</th>
+    </tr>
+    <tr>
+      <th>
 
-– 200 €, toutes taxes comprises, pour les capteurs solaires à air hybrides produisant de l'énergie thermique et électrique,
-dans la limite de 20 m
-  <sup>2</sup>.
+Ménages remplissant la condition de revenus
 
-Pour l'application du présent 1°, les équipements de production de chauffage ou de fourniture d'eau chaude sanitaire
-fonctionnant à l'énergie solaire doivent respecter selon la technologie employée :
+mentionnée au 4 bis de l'
+
+article 200 quater
+			du code général des impôts </th>
+      <th>
+
+Autres ménages</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Thermique à circulation de liquide</td>
+      <td align="center">
+
+1 300 € TTC</td>
+      <td align="center">
+
+1 000 € TTC</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Thermique à air</td>
+      <td align="center">
+
+520 € TTC</td>
+      <td align="center">
+
+400 € TTC</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Hybride thermique et électrique à circulation de liquide, dans la limite de 10 m
+        <sup>2</sup>
+      </td>
+      <td align="center">
+
+520 € TTC</td>
+      <td align="center">
+
+400 € TTC</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Hybride thermique et électrique à air, dans la limite de 20 m
+        <sup>2</sup>
+      </td>
+      <td align="center">
+
+260 € TTC</td>
+      <td align="center">
+
+200 € TTC</td>
+    </tr>
+  </tbody>
+</table>
 
 a. Pour les équipements de production de chauffage fonctionnant à l'énergie solaire : une efficacité énergétique saisonnière,
 définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité, supérieure ou égale à 90 % ;
@@ -2357,9 +2396,11 @@ c. Pompes à chaleur géothermiques sol/ sol pour lesquelles l'efficacité éner
 calculée selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité pour une température d'évaporation fixe
 de-5° C et une température de condensation de 35° C.
 
-2° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire, dans la limite d'un plafond de dépenses fixé à 3 000
-€, toutes taxes comprises, pour lesquelles l'efficacité énergétique pour le chauffage de l'eau, définie selon le règlement
-délégué (UE) n° 812/2013 précité, est supérieure ou égale à :
+2° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire, dans la limite d'un plafond de dépenses fixé à 4 000
+€, toutes taxes comprises, pour les ménages remplissant la condition de revenus mentionnée au 4 bis de l'article 200 quater
+du code général des impôts, et à 3 000 €, toutes taxes comprises, pour les autres ménages, pour lesquelles l'efficacité
+énergétique pour le chauffage de l'eau, définie selon le règlement délégué (UE) n° 812/2013 précité, est supérieure ou égale
+à :
 
 <table border="1">
   <tbody>
@@ -2412,7 +2453,8 @@ Matériels nécessaires à l'équilibrage et à la mesure de la chaleur qui vise
 Ces matériels peuvent être installés, selon le cas, avec le poste de livraison, dans les parties communes de l'immeuble
 collectif ou dans le logement ;
 
-d) (Abrogé) ;
+d) Chaudières à micro-cogénération gaz d'une puissance apparente de production électrique inférieure ou égale à 3 kilovolt-
+ampères par logement, dans la limite d'un plafond de dépenses fixé à 3 350 €, toutes taxes comprises ;
 
 e) D'appareils installés dans un immeuble collectif permettant d'individualiser les frais de chauffage ou d'eau chaude
 sanitaire dans un bâtiment équipé d'une installation centrale ou alimenté par un réseau de chaleur : répartiteurs
@@ -2422,6 +2464,21 @@ réglementation résultant du décret n° 2001-387 du 3 mai 2001 relatif au cont
 f) De systèmes de charge pour véhicule électrique qui s'entendent des bornes de recharge pour véhicules électriques et dont
 les types de prise respectent la norme IEC 62196-2 ainsi que la directive 2014/94/UE du Parlement européen et du Conseil du
 22 octobre 2014 sur le déploiement d'une infrastructure pour carburants alternatifs ;
+
+3 bis. Dépose d'une cuve à fioul, d'un réservoir de fioul ou d'un stockage de fioul, au sens de l'arrêté du 1er juillet 2004
+fixant les règles techniques et de sécurité applicables au stockage de produits pétroliers dans les lieux non visés par la
+législation des installations classées ni la réglementation des établissements recevant du public :
+
+a) Non enterré en plein air, mentionné au titre IV de l'arrêté du 1er juillet 2004 précité ;
+
+b) A rez-de-chaussée ou en sous-sol d'un bâtiment, mentionné au titre V du même arrêté ;
+
+c) Enterré, mentionné au titre VI du même arrêté ;
+
+d) Autre, mentionné au titre VII du même arrêté ;
+
+Les modalités d'abandon de la cuve, du réservoir ou du stockage de fioul respectent les exigences définies à l'article 28 du
+même arrêté.
 
 4. Pour les logements situés en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, acquisition :
 
@@ -2603,12 +2660,12 @@ _Cité par_:
   - Arrêté du 2 décembre 2014 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies-0 AA (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater (M)
   - Code général des impôts, annexe 4, CGIAN4. - art. 30-0 D (V)
 
 _Modifié par_:
 
-  - Arrêté du 30 décembre 2017 - art. 1
+  - Arrêté du 1er mars 2019 - art. 1
 
 
 ###### Article 18 ter
