@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2019-03-17
+Version Consolidée au 2019-03-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -34,7 +34,7 @@ Version Consolidée au 2019-03-17
           - [Section IV : Calcul de l'impôt (art. 18 à 18 quater)](#31)
             - [1° : Retenue à la source de l'impôt sur le revenu (art. 18)](#32)
             - [2° : Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable (art. 18-0 bis)](#33)
-            - [4° : Réduction d'impôt accordée au titre d'une opération d'investissement locatif (art. 18-0 bis B à 18-0 bis C)](#34)
+            - [4° : Réduction d'impôt accordée au titre d'une opération d'investissement locatif (art. 18-0 bis B à 18-0 bis D)](#34)
             - [5° : Crédit d'impôt pour la transition énergétique (art. 18 bis à 18 ter)](#35)
             - [6° : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer (art. 18 quater)](#36)
         - [Chapitre II : Impôt sur les sociétés (art. 22 à 23 I)](#37)
@@ -2174,6 +2174,27 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 199 novovicies
   - Code de la construction et de l'habitation. - art. R304-1
+
+
+###### Article 18-0 bis D
+
+Pour l'application du  IV bis de l'article 199 novovicies du code général des impôts , le centre des communes dont le besoin
+de réhabilitation de l'habitat en centre-ville est particulièrement marqué ou qui ont conclu une convention d'opération de
+revitalisation de territoire s'entend, dans la limite du territoire de ces communes, des zones de bâti continu de la commune.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 26 mars 2019 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 10 avril 2020 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 199 novovicies
 
 
 ##### 5° : Crédit d'impôt pour la transition énergétique<a id=35></a>
