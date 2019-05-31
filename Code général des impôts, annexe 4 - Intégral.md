@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -12128,13 +12128,6 @@ _Modifié par_:
 
 ###### Article 54-0 U
 
-Les entrepositaires agréés de boissons, tels qu'ils sont définis à l'article 302 G du code général des impôts, doivent
-utiliser obligatoirement les capsules prévues par l'article 444 du même code pour toutes leurs livraisons de vins en
-bouteilles ou en récipients de trois litres au plus. 
-
-Pour des raisons d'ordre économique ou technique, l'administration peut accorder des dérogations à l'emploi obligatoire des
-capsules fiscales pour le conditionnement des vins visés au premier alinéa. 
-
 Sous réserve des dispositions prévues à l'article 54-0 BV pour ce qui concerne le vin, les entrepositaires agréés fournissent
 une caution garantissant le paiement des droits correspondant aux capsules reçues, utilisées ou ressortant en manquants aux
 inventaires ou à la comptabilité matières visée à l'article 54-0 Y.
@@ -12147,7 +12140,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
+  - Arrêté du 12 juin 2018 - art. 1
 
 _Cité par_:
 
@@ -12155,10 +12148,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BV (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Y (V)
-  - Code général des impôts, CGI. - art. 302 G (V)
-  - Code général des impôts, CGI. - art. 444 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BV
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Y
 
 
 ###### Article 54-0 V
