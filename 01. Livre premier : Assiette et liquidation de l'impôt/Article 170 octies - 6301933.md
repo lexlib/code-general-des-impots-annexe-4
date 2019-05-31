@@ -1,19 +1,20 @@
 # Article 170 octies
 
-Les compétences attribuées aux directeurs des services fiscaux du département au chef-lieu duquel est localisée une direction
-de contrôle fiscal par les articles 170 quinquies à 170 septies F et 170 septies H sont exercées pour la région d'Ile-de-
-France par le directeur chargé de la direction spécialisée des impôts pour la région d'Ile-de-France et pour Paris et dans
-les départements d'outre-mer par le directeur des services fiscaux territorialement compétent.
+Les compétences attribuées aux directeurs départementaux ou, le cas échéant, régionaux des finances publiques du département
+au chef-lieu duquel est localisée une direction de contrôle fiscal par les articles 170 quinquies à 170 septies F et 170
+septies H sont exercées pour la région d'Ile-de-France par le directeur régional des finances publiques d'Ile-de-France et de
+Paris et dans les départements d'outre-mer par le directeur régional des finances publiques territorialement compétent.
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 14 mai 2019, ces dispositions s'appliquent aux demandes d'agrément reçues par
+l'administration fiscale à compter du 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 2001-03-14 art. 2 JORF 22 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 2001-03-14 art. 3
+  - Arrêté du 14 mai 2019 - art. 1
 
 _Cité par_:
 
@@ -21,5 +22,5 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 170 quinquies (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies H (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 170 quinquies (VD)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies H
