@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2019-03-28
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -227,8 +227,8 @@ Version Consolidée au 2019-03-28
       - [Titre II : Dispositions diverses (art. 165 à 170 undecies)](#224)
         - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#225)
         - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#226)
-        - [Section IV : Dispositions communes (art. 170 decies à 170 sexies)](#227)
-          - [Octroi de certains agréments fiscaux (art. 170 decies à 170 sexies)](#228)
+        - [Section IV : Dispositions communes (art. 170 decies à 170 ter)](#227)
+          - [Octroi de certains agréments fiscaux (art. 170 decies à 170 ter)](#228)
         - [Section V : Commissions administratives des impôts (art. 170 undecies)](#229)
   - [Livre II : Recouvrement de l'impôt (art. 188 B à 219)](#230)
     - [Chapitre premier : Paiement de l'impôt (art. 188 B à 204)](#231)
@@ -12360,13 +12360,6 @@ _Modifié par_:
 
 ###### Article 54-0 U
 
-Les entrepositaires agréés de boissons, tels qu'ils sont définis à l'article 302 G du code général des impôts, doivent
-utiliser obligatoirement les capsules prévues par l'article 444 du même code pour toutes leurs livraisons de vins en
-bouteilles ou en récipients de trois litres au plus. 
-
-Pour des raisons d'ordre économique ou technique, l'administration peut accorder des dérogations à l'emploi obligatoire des
-capsules fiscales pour le conditionnement des vins visés au premier alinéa. 
-
 Sous réserve des dispositions prévues à l'article 54-0 BV pour ce qui concerne le vin, les entrepositaires agréés fournissent
 une caution garantissant le paiement des droits correspondant aux capsules reçues, utilisées ou ressortant en manquants aux
 inventaires ou à la comptabilité matières visée à l'article 54-0 Y.
@@ -12379,7 +12372,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
+  - Arrêté du 12 juin 2018 - art. 1
 
 _Cité par_:
 
@@ -12387,10 +12380,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BV (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Y (V)
-  - Code général des impôts, CGI. - art. 302 G (V)
-  - Code général des impôts, CGI. - art. 444 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BV
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Y
 
 
 ###### Article 54-0 V
@@ -18269,6 +18260,27 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 A bis
   - Code général des impôts, CGI. - art. 223 C
   - Code général des impôts, CGI. - art. 223 G
+
+
+###### Article 170 ter
+
+L'avis conforme prévu à l'article 795 A du code général des impôts est délivré par le directeur départemental ou, le cas
+échéant, régional des finances publiques du département de situation du bien.
+
+**Nota:**
+
+Aux termes de l'article 2 de l'arrêté du 24 avril 2019, les dispositions du présent article s'appliquent aux demandes de
+convention ou d'adhésion à des conventions existantes reçues par l'administration fiscale à compter du 1er juin 2019.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 24 avril 2019 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 795 A
 
 
 #### Section V : Commissions administratives des impôts<a id=229></a>
