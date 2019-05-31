@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2019-03-28
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -227,8 +227,8 @@ Version Consolidée au 2019-03-28
       - [Titre II : Dispositions diverses (art. 165 à 170 undecies)](#224)
         - [Section I : Impôts directs et taxes assimilées (art. 165 à 167)](#225)
         - [Section III : Enregistrement, publicité foncière et timbre (art. 169 à 170)](#226)
-        - [Section IV : Dispositions communes (art. 170 decies à 170 sexies)](#227)
-          - [Octroi de certains agréments fiscaux (art. 170 decies à 170 sexies)](#228)
+        - [Section IV : Dispositions communes (art. 170 decies à 170 ter)](#227)
+          - [Octroi de certains agréments fiscaux (art. 170 decies à 170 ter)](#228)
         - [Section V : Commissions administratives des impôts (art. 170 undecies)](#229)
   - [Livre II : Recouvrement de l'impôt (art. 188 B à 219)](#230)
     - [Chapitre premier : Paiement de l'impôt (art. 188 B à 204)](#231)
@@ -12380,13 +12380,6 @@ _Modifié par_:
 
 ###### Article 54-0 U
 
-Les entrepositaires agréés de boissons, tels qu'ils sont définis à l'article 302 G du code général des impôts, doivent
-utiliser obligatoirement les capsules prévues par l'article 444 du même code pour toutes leurs livraisons de vins en
-bouteilles ou en récipients de trois litres au plus. 
-
-Pour des raisons d'ordre économique ou technique, l'administration peut accorder des dérogations à l'emploi obligatoire des
-capsules fiscales pour le conditionnement des vins visés au premier alinéa. 
-
 Sous réserve des dispositions prévues à l'article 54-0 BV pour ce qui concerne le vin, les entrepositaires agréés fournissent
 une caution garantissant le paiement des droits correspondant aux capsules reçues, utilisées ou ressortant en manquants aux
 inventaires ou à la comptabilité matières visée à l'article 54-0 Y.
@@ -12399,7 +12392,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
+  - Arrêté du 12 juin 2018 - art. 1
 
 _Cité par_:
 
@@ -12407,10 +12400,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BV (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Y (V)
-  - Code général des impôts, CGI. - art. 302 G (V)
-  - Code général des impôts, CGI. - art. 444 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BV
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Y
 
 
 ###### Article 54-0 V
@@ -18138,20 +18129,21 @@ _Cite_:
 
 ###### Article 170 octies
 
-Les compétences attribuées aux directeurs des services fiscaux du département au chef-lieu duquel est localisée une direction
-de contrôle fiscal par les articles 170 quinquies à 170 septies F et 170 septies H sont exercées pour la région d'Ile-de-
-France par le directeur chargé de la direction spécialisée des impôts pour la région d'Ile-de-France et pour Paris et dans
-les départements d'outre-mer par le directeur des services fiscaux territorialement compétent.
+Les compétences attribuées aux directeurs départementaux ou, le cas échéant, régionaux des finances publiques du département
+au chef-lieu duquel est localisée une direction de contrôle fiscal par les articles 170 quinquies à 170 septies F et 170
+septies H sont exercées pour la région d'Ile-de-France par le directeur régional des finances publiques d'Ile-de-France et de
+Paris et dans les départements d'outre-mer par le directeur régional des finances publiques territorialement compétent.
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 14 mai 2019, ces dispositions s'appliquent aux demandes d'agrément reçues par
+l'administration fiscale à compter du 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 2001-03-14 art. 2 JORF 22 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 2001-03-14 art. 3
+  - Arrêté du 14 mai 2019 - art. 1
 
 _Cité par_:
 
@@ -18159,8 +18151,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 170 quinquies (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies H (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 170 quinquies (VD)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies H
 
 
 ###### Article 170 quinquies
@@ -18170,10 +18162,9 @@ Il est statué sur les demandes d'agrément présentées pour l'application de l
 1° Par le ministre chargé du budget, après avis du comité interministériel des aides à la localisation des activités institué
 par l'article 1er de l'arrêté du 10 juillet 1982 : 
 
-a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 7,6 millions d'euros
-d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 150 millions d'euros
-ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse 150 millions
-d'euros ; 
+a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 15 millions d'euros
+d'investissements hors taxes ou engagés par une personne morale mentionnée à l'article 344-0 A de l'annexe III au code
+général des impôts ; 
 
 b. Pour les créations, et extensions de services de direction, d'études, d'ingénierie et d'informatique ; 
 
@@ -18181,57 +18172,60 @@ c. Pour les opérations liées à celles mentionnées aux a et b ;
 
 d. (Abrogé) ; 
 
-2° Dans les autres cas, par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction
-de contrôle fiscal dans le ressort de laquelle est situé l'établissement.
+2° Dans les autres cas, par le directeur départemental ou, le cas échéant, régional des finances publiques du département au
+chef-lieu duquel est localisée la direction de contrôle fiscal dans le ressort de laquelle est situé l'établissement.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'art. 87, X  [1°, a] de la loi n° 2006-1771 du 30 décembre 2006.
+Conformément à l'article 2 de l'arrêté du 14 mai 2019, ces dispositions s'appliquent aux demandes d'agrément reçues par
+l'administration fiscale à compter du 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 3 juin 2013 - art. 1
+  - Arrêté du 14 mai 2019 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
+  - Code général des impôts, CGI. - art. 1465
 
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (V)
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 1465 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (VD)
 
 
 ###### Article 170 septies F
 
-I. Il est statué par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction de
-contrôle fiscal dans le ressort de laquelle l'entreprise a son siège sur les demandes d'agrément présentées en application de
-l'article 44 septies du code général des impôts. 
+I.-Il est statué par le directeur départemental ou, le cas échéant, régional des finances publiques du département au chef-
+lieu duquel est localisée la direction de contrôle fiscal dans le ressort de laquelle l'entreprise a son siège sur les
+demandes d'agrément présentées en application de l'article 44 septies du code général des impôts. 
 
-II. Toutefois, la décision prévue au I est prise par le ministre chargé du budget : 
+II.-Toutefois, la décision prévue au I est prise par le ministre chargé du budget : 
 
-1. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 7 600 000 €
-d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 150 000 000 € ou dont
-le capital est détenu à plus de 50% par une entreprise dont le chiffre d'affaires consolidé dépasse 150 000 000 € ; 
+1. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 15 millions d'euros
+d'investissements hors taxes ou engagés par une personne morale mentionnée à l'article 344-0 A de l'annexe III au code
+général des impôts ; 
 
 2. Pour les opérations présentant des difficultés particulières ou évoquées par le ministre.
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 14 mai 2019, ces dispositions s'appliquent aux demandes d'agrément reçues par
+l'administration fiscale à compter du 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
+  - Arrêté du 14 mai 2019 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 44 septies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
+  - Code général des impôts, CGI. - art. 44 septies
 
 
 ###### Article 170 septies H
@@ -18265,22 +18259,22 @@ _Cite_:
 
 ###### Article 170 sexies
 
-Il est statué sur les demandes d'agrément présentées pour l'application du II de l'article 209 du code général des impôts : 
+Il est statué sur les demandes d'agrément présentées pour l'application du II de l'article 209 du code général des impôts :
 
-a) Par le ministre chargé du budget : 
+a) Par le ministre chargé du budget :
 
 1° Lorsque la demande est présentée par une société tête de groupe au sens de l'article 223 A du code général des impôts ou
 par un établissement public industriel et commercial tête de groupe au sens de l'article 223 A bis du même code, à raison
 d'un déficit d'ensemble au sens de l'article 223 C ou sur une créance de report en arrière des déficits d'ensemble au sens de
-l'article 223 G, quel que soit leur montant ; 
+l'article 223 G, quel que soit leur montant ;
 
 2° Ou, lorsque la demande est présentée par une personne morale mentionnée à l'article 344-0 A de l'annexe III au code
-général des impôts ; 
+général des impôts ;
 
-3° Ou, lorsque la demande porte pour une même opération, sur des déficits dont le montant global est supérieur à 1,5 million
-d'euros ; 
+3° Ou, lorsque la demande porte pour une même opération, sur des déficits dont le montant global est supérieur à 10 millions
+d'euros ;
 
-4° Ou lorsque l'opération présente des difficultés particulières ou est évoquée par le ministre ; 
+4° Ou lorsque l'opération présente des difficultés particulières ou est évoquée par le ministre ;
 
 b) Dans les autres cas, par le directeur départemental ou, le cas échéant, régional des finances publiques du département au
 chef-lieu duquel est localisée la direction de contrôle fiscal dans le ressort de laquelle l'entreprise a son siège.
@@ -18290,11 +18284,14 @@ chef-lieu duquel est localisée la direction de contrôle fiscal dans le ressort
 Arrêté du 16 décembre 2016, article 2 : Ces dispositions s'appliquent aux demandes d'agrément reçues par l'administration
 fiscale à compter du 1er janvier 2017.
 
+Conformément à l'article 2 de l'arrêté du 14 mai 2019, ces dispositions s'appliquent aux demandes d'agrément reçues par
+l'administration fiscale à compter du 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 16 décembre 2016 - art. 1
+  - Arrêté du 14 mai 2019 - art. 1
 
 _Cite_:
 
@@ -18304,6 +18301,27 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 A bis
   - Code général des impôts, CGI. - art. 223 C
   - Code général des impôts, CGI. - art. 223 G
+
+
+###### Article 170 ter
+
+L'avis conforme prévu à l'article 795 A du code général des impôts est délivré par le directeur départemental ou, le cas
+échéant, régional des finances publiques du département de situation du bien.
+
+**Nota:**
+
+Aux termes de l'article 2 de l'arrêté du 24 avril 2019, les dispositions du présent article s'appliquent aux demandes de
+convention ou d'adhésion à des conventions existantes reçues par l'administration fiscale à compter du 1er juin 2019.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 24 avril 2019 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 795 A
 
 
 #### Section V : Commissions administratives des impôts<a id=229></a>
