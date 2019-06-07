@@ -20,10 +20,10 @@ f) La date de naissance ;
 g) Lorsque le montant total brut des transactions réalisées par l'utilisateur au titre de l'année considérée, est supérieur
 ou égal à 1 000 euros, l'opérateur de plateforme :
 
-i) Soit vérifie les nom de famille ou d'usage, prénoms, date de naissance de l'utilisateur, notamment sur présentation par
+1° Soit vérifie les noms de famille ou d'usage, prénoms, date de naissance de l'utilisateur, notamment sur présentation par
 l'utilisateur d'une copie d'une pièce d'identité ;
 
-ii) Soit indique à l'administration le numéro d'inscription au fichier de simplification des procédures d'imposition (SPI) de
+2° Soit indique à l'administration le numéro d'inscription au fichier de simplification des procédures d'imposition (SPI) de
 l'utilisateur, après en avoir vérifié la structure, le format et l'algorithme.
 
 2. Pour une personne morale ou une personne physique agissant à titre professionnel :
@@ -40,9 +40,9 @@ d) L'adresse électronique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 27 décembre 2018 - art. 1
+  - Arrêté du 6 juin 2019 - art. 1
 
 _Cite_:
 
