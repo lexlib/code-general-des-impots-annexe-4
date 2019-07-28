@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2019-07-01
+Version Consolidée au 2019-07-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -16131,7 +16131,7 @@ _Cite_:
 
 ###### Article 155 bis A
 
-Les tarifs de la taxe minière sur l'or en Guyane applicables en 2018 sont fixés comme suit :
+Les tarifs de la taxe minière sur l'or en Guyane applicables en 2019 sont fixés comme suit :
 
 <table border="1">
   <tbody>
@@ -16159,7 +16159,7 @@ Petites et moyennes entreprises
 </td>
       <td align="center">
 
-358,30</td>
+345,23</td>
     </tr>
     <tr>
       <td align="center">
@@ -16169,7 +16169,7 @@ Autres entreprises
 </td>
       <td align="center">
 
-716,60</td>
+690,47</td>
     </tr>
   </tbody>
 </table>
@@ -16181,7 +16181,7 @@ l'Etat en application des articles 1641 et 1644 du code général des impôts.
 
 _Modifié par_:
 
-  - Arrêté du 2 août 2018 - art. 1
+  - Arrêté du 23 juillet 2019 - art. 1
 
 _Cite_:
 
