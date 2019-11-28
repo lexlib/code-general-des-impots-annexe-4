@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2019-08-31
+Version Consolidée au 2019-11-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -6815,7 +6815,7 @@ Sables naturels de toute espèce, même colorés, à l'exclusion des sables mét
     <tr>
       <td>
 
-25-13-11
+25-13-10
 
 </td>
       <td>
@@ -6824,14 +6824,6 @@ Pierre ponce.
 
 </td>
     </tr>
-    <tr>
-      <td>
-
-25-13-19
-
-</td>
-      <td>
-    </td></tr>
     <tr>
       <td>
 
@@ -6907,18 +6899,6 @@ Oxyde de zinc.
     <tr>
       <td>
 
-28-24-20
-
-</td>
-      <td>
-
-Minium et mine orange.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
 Chapitre 31
 
 </td>
@@ -6952,26 +6932,6 @@ Tous produits de ces positions.
 
 </td>
     </tr>
-    <tr>
-      <td>
-
-32-12-90-11
-
-</td>
-      <td>
-
-Tous produits de ces positions.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-32-12-90-19
-
-</td>
-      <td>
-    </td></tr>
     <tr>
       <td>
 
@@ -7055,18 +7015,6 @@ Ex 39-25
 
 Articles d'équipement pour la construction en matières plastiques, non dénommés ni compris ailleurs (éléments fixes
 uniquement).
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-40-11
-
-</td>
-      <td>
-
-Chambres à air et pneumatiques, pour véhicules à traction animale.
 
 </td>
     </tr>
@@ -7186,7 +7134,7 @@ Bois marquetés et bois incrustés.
     <tr>
       <td>
 
-Ex 44-21-90
+Ex-44-21-91
 
 </td>
       <td>
@@ -7277,18 +7225,6 @@ Chappes d'étanchéité du numéro ci-contre.
       <td>
 
 Tous produits de ces positions.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-68-12-90
-
-</td>
-      <td>
-
-Carreaux de revêtement à base d'amiante.
 
 </td>
     </tr>
@@ -7701,28 +7637,8 @@ Autres ouvrages en aluminium, autres.
 </td>
     </tr>
     <tr>
-      <td>
-
-Ex 78-03
-
-</td>
-      <td>
-
-Barres creuses en plomb.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-78-05
-
-</td>
-      <td>
-
-Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en plomb.
-
-</td>
+      <td align="center">Ex-78-06</td>
+      <td>Autres ouvrages en plomb (barres creuses, tubes, tuyaux et accessoires de tuyauterie uniquement)</td>
     </tr>
     <tr>
       <td>
@@ -7749,28 +7665,9 @@ Tôles, feuilles et bandes en zinc pour la construction.
 </td>
     </tr>
     <tr>
-      <td>
-
-79-06
-
-</td>
-      <td>
-
-Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en zinc.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-79-07-10
-
-</td>
-      <td>
-
-Gouttières, faîtages, lucarnes et autres ouvrages façonnés, en zinc pour le bâtiment.
-
-</td>
+      <td align="center">Ex-79-07</td>
+      <td>Autres ouvrages en zinc (tubes, tuyaux et accessoires de tuyauterie, gouttières, faîtages, lucarnes et autres
+ouvrages façonnés pour le bâtiment uniquement)</td>
     </tr>
     <tr>
       <td>
@@ -7799,16 +7696,8 @@ Barres creuses en étain.
 </td>
     </tr>
     <tr>
-      <td>
-
-80-06
-
-</td>
-      <td>
-
-Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en étain.
-
-</td>
+      <td align="center">Ex-80-07</td>
+      <td>Autres ouvrages en étain (tubes, tuyaux et accessoires de tuyauterie uniquement)</td>
     </tr>
     <tr>
       <td>
@@ -8399,7 +8288,7 @@ Tous produits de cette position.
     <tr>
       <td>
 
-85-07 à 85-08
+85-07
 
 </td>
       <td>
@@ -8421,9 +8310,13 @@ Tous produits de ces positions.
 </td>
     </tr>
     <tr>
+      <td align="center">85-17-12</td>
+      <td>Téléphones pour réseaux cellulaires et autres réseaux sans fil.</td>
+    </tr>
+    <tr>
       <td>
 
-85-25-10
+85-25-50
 
 </td>
       <td>
@@ -8433,14 +8326,6 @@ appareil de réception ou un appareil d'enregistrement ou de reproduction du son
 
 </td>
     </tr>
-    <tr>
-      <td>
-
-85-25-20
-
-</td>
-      <td>
-    </td></tr>
     <tr>
       <td>
 
@@ -8819,7 +8704,7 @@ Autres sièges en pierre.
     <tr>
       <td>
 
-Ex 94-03-80
+Ex 94-03-89
 
 </td>
       <td>
@@ -8862,7 +8747,7 @@ II. – La liste des produits cités au I est complétée par le pain (ex 19-05)
 
 _Modifié par_:
 
-  - Arrêté 2003-03-04 art. 1, art. 2, art. 3 JORF 11 mars 2003
+  - Arrêté du 13 novembre 2019 - art. 1
 
 
 ###### Article 50 undecies
