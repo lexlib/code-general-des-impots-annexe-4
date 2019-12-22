@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2019-11-29
+Version Consolidée au 2019-12-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -13825,7 +13825,12 @@ Ventes de meubles à l'amiable ;
 
 Promesses unilatérales de ventes ;
 
-promesses unilatérales d'achat.
+promesses unilatérales d'achat ;
+
+Affirmations sacramentelles ;
+
+Attestations immobilières après décès, règlements de copropriété, états descriptifs de division et leurs modificatifs exclus
+de la formalité fusionnée en application du 1° de l'article 249 de l'annexe 3 au présent code.
 
 **Liens relatifs à cet article**
 
@@ -13836,7 +13841,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 9 novembre 2018 - art. 1
+  - Arrêté du 18 décembre 2019 - art. 1
 
 
 ##### 2° : Bureaux compétents<a id=145></a>
