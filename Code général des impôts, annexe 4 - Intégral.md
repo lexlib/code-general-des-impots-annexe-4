@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -3571,15 +3571,13 @@ comprennent :
 
 2° Son lieu d'établissement au 1er janvier de l'année de la transmission du document mentionné ;
 
-3° Son numéro de taxe sur la valeur ajoutée intracommunautaire ou, s'il en est dépourvu, ses numéros d'identité définis à l'
-article R. 123-221 du code de commerce ou, pour une entreprise non résidente, son numéro d'immatriculation auprès de
-l'administration fiscale de son pays de résidence.
+3° Son numéro d'identité mentionné au premier alinéa de l'article R. 123-221 du code de commerce.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 27 décembre 2018 - art. 1
+  - Arrêté du 30 décembre 2019 - art. 1
 
 _Cite_:
 
