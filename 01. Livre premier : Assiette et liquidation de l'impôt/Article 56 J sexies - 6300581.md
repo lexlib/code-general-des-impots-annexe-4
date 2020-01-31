@@ -1,16 +1,24 @@
 # Article 56 J sexies
 
-La direction générale des douanes et droits indirects accuse réception de la demande et procède sans délai à une enquête.
+La direction interrégionale ou régionale mentionnée à l'article 56 J quinquies accuse réception de la demande et procède sans
+délai à une enquête.
 
-La direction générale des douanes et droits indirects peut se faire présenter toute pièce complémentaire nécessaire à
-l'instruction de la demande et statue dans le délai de deux mois suivant la date de réception de la demande.
+La direction interrégionale ou régionale mentionnée à l'article 56 J quinquies peut se faire présenter toute pièce
+complémentaire nécessaire à l'instruction de la demande et statue dans le délai de deux mois suivant la date de réception de
+la demande.
+
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1995-04-27 art. 2 JORF 5 mai 1995
 
 _Codifié par_:
 
   - Arrêté 1995-12-11
+
+_Modifié par_:
+
+  - Arrêté du 13 janvier 2020 - art. 1
