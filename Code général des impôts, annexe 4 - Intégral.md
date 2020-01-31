@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2020-01-02
+Version Consolidée au 2020-02-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -10373,27 +10373,34 @@ _Cite_:
 ###### Article 50-0 C
 
 Les capsules représentatives de droits destinées à être apposées, dans les autres Etats membres de la Communauté européenne,
-sur les bouteilles et récipients doivent comporter les mentions suivantes : 
+sur les bouteilles et récipients doivent comporter les mentions suivantes :
 
-a) Le numéro d'agrément délivré par l'administration des douanes et droits indirects précédé du sigle du pays (DE pour
-Allemagne, IT pour Italie, FI pour Finlande, SE pour Suède, AT pour Autriche, BE pour Belgique, DK pour Danemark, EL pour
-Grèce, ES pour Espagne, GB pour Grande-Bretagne, IE pour Irlande, LU pour Luxembourg, NL pour Pays-Bas et PT pour
-Portugal) ; 
+a) Le numéro d'agrément délivré par la direction interrégionale des douanes et droits indirects territorialement compétente
+ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, par la direction régionale des douanes et droits indirects précédé
+du sigle du pays (DE pour Allemagne, IT pour Italie, FI pour Finlande, SE pour Suède, AT pour Autriche, BE pour Belgique, DK
+pour Danemark, EL pour Grèce, ES pour Espagne, GB pour Grande-Bretagne, IE pour Irlande, LU pour Luxembourg, NL pour Pays-Bas
+et PT pour Portugal) ;
 
 b) La marque du fabricant des capsules ou, le cas échéant, celle du fabricant des marques fiscales servant à la fabrication
-des capsules. 
+des capsules.
 
-Ces mentions sont apposées conformément à la description qui en est faite au II de l'article 164 AM. 
+Ces mentions sont apposées conformément à la description qui en est faite au II de l'article 164 AM.
 
 Les indications reprises au a doivent concorder avec celles figurant soit sur les étiquettes apposées sur les bouteilles ou
 récipients, soit sur les bouteilles ou récipients eux-mêmes. Ces indications doivent être apposées avant leur livraison à
 l'utilisateur.
 
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 2000-09-22 art. 1 JORF 5 octobre 2000
+  - Arrêté du 13 janvier 2020 - art. 1
 
 _Cité par_:
 
@@ -10403,7 +10410,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM
 
 
 ###### Article 50-0 D
@@ -12711,33 +12718,45 @@ _Cite_:
 
 ###### Article 56 J nonies
 
-Le commissionnaire en garantie est tenu de porter à la connaissance de la direction générale des douanes et droits indirects
-tout changement affectant les justificatifs visés à l'article 56 J quinquies ainsi que tout changement relatif aux personnes
-physiques habilitées à représenter les personnes morales agréées.
+Le commissionnaire en garantie est tenu de porter à la connaissance de l'autorité administrative désignée à l'article 56 J
+quinquies tout changement affectant les justificatifs visés à l'article 56 J quinquies ainsi que tout changement relatif aux
+personnes physiques habilitées à représenter les personnes morales agréées.
+
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1995-04-27 art. 5 JORF 5 mai 1995
 
 _Codifié par_:
 
   - Arrêté 1995-12-11
 
+_Modifié par_:
+
+  - Arrêté du 13 janvier 2020 - art. 1
+
 _Cite_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quinquies (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quinquies (VD)
 
 
 ###### Article 56 J octies
 
-L'agrément est accordé par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'industrie, pour une durée
-indéterminée, pour un ou plusieurs bureaux de garantie.
+L'agrément est accordé par  décision du directeur interrégional ou régional territorialement compétent au sens de l'article
+56 J quinquies, pour une durée indéterminée, pour un ou plusieurs bureaux de garantie.
 
-Les décisions d'agrément sont notifiées aux bénéficiaires et publiées au Bulletin officiel des douanes.
+Les décisions d'agrément sont notifiées aux bénéficiaires.
 
 Les décisions rejetant les demandes d'agrément sont motivées et notifiées aux requérants.
+
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -12747,25 +12766,28 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 17 mai 2013 - art. 1
+  - Arrêté du 13 janvier 2020 - art. 1
 
 
 ###### Article 56 J quinquies
 
 Les personnes physiques ou morales qui veulent exercer la profession de commissionnaire en garantie prévue au I de l'article
-535 du code général des impôts doivent déposer auprès de la direction générale des douanes et droits indirects une demande
-écrite en vue de leur agrément indiquant leurs nom et adresse et le ou les bureaux de garantie auprès desquels ils désirent
-exercer leur activité. 
+535 du code général des impôts doivent déposer auprès de la  direction interrégionale des douanes et droits indirects
+territorialement compétente ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, de la direction régionale des douanes et
+droits indirects une demande écrite en vue de leur agrément indiquant leurs nom et adresse et le ou les bureaux de garantie
+auprès desquels ils désirent exercer leur activité.
 
 La demande est accompagnée, pour les personnes physiques, de l'extrait du casier judiciaire ou, à défaut, toute pièce en
 tenant lieu, et d'un justificatif d'identité, pour les personnes morales, de l'extrait du registre du commerce et des
 sociétés.
 
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1995-04-27 art. 1 JORF 5 mai 1995
 
 _Codifié par_:
 
@@ -12774,12 +12796,16 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J nonies (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J nonies (VD)
   - Code général des impôts, annexe 4, CGIAN4. - art. 56 J septies (V)
+
+_Modifié par_:
+
+  - Arrêté du 13 janvier 2020 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 535 (V)
+  - Code général des impôts, CGI. - art. 535
 
 
 ###### Article 56 J septies
@@ -12808,40 +12834,54 @@ _Cite_:
 
 ###### Article 56 J sexies
 
-La direction générale des douanes et droits indirects accuse réception de la demande et procède sans délai à une enquête.
+La direction interrégionale ou régionale mentionnée à l'article 56 J quinquies accuse réception de la demande et procède sans
+délai à une enquête.
 
-La direction générale des douanes et droits indirects peut se faire présenter toute pièce complémentaire nécessaire à
-l'instruction de la demande et statue dans le délai de deux mois suivant la date de réception de la demande.
+La direction interrégionale ou régionale mentionnée à l'article 56 J quinquies peut se faire présenter toute pièce
+complémentaire nécessaire à l'instruction de la demande et statue dans le délai de deux mois suivant la date de réception de
+la demande.
+
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1995-04-27 art. 2 JORF 5 mai 1995
 
 _Codifié par_:
 
   - Arrêté 1995-12-11
+
+_Modifié par_:
+
+  - Arrêté du 13 janvier 2020 - art. 1
 
 
 ###### Article 56 J undecies
 
 En cas de manquement aux dispositions légales ou réglementaires applicables en matière de garantie des métaux précieux,
-l'agrément est retiré par décision motivée du directeur général des douanes et droits indirects et mention du retrait de
-l'agrément est faite au Bulletin officiel des douanes.
+l'agrément est retiré par décision motivée du directeur interrégional ou régional compétent au sens de l'article 56 J
+quinquies.
 
-Le directeur général des douanes et droits indirects peut, sans délai, à titre conservatoire, suspendre l'agrément d'une
-personne morale ou physique qui ne respecte pas ses obligations.
+Le directeur interrégional ou régional compétent au sens de l'article 56 J quinquies peut, sans délai, à titre conservatoire,
+suspendre l'agrément d'une personne morale ou physique qui ne respecte pas ses obligations.
+
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1995-04-27 art. 7 JORF 5 mai 1995
 
 _Codifié par_:
 
   - Arrêté 1995-12-11
+
+_Modifié par_:
+
+  - Arrêté du 13 janvier 2020 - art. 1
 
 
 ##### 4° : Convention d'habilitation<a id=136></a>
@@ -12850,76 +12890,83 @@ _Codifié par_:
 
 Le cahier des charges prévu à l'article 275 bis C de l'annexe II au code général des impôts comprend la description des
 moyens et des méthodes de contrôles et essais ainsi que des méthodes d'attestation de la garantie du titre mis en œuvre par
-les professionnels habilités par une convention. 
+les professionnels habilités par une convention.
 
-L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur général
-des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des
-organismes agréés mentionnés à l'article 275 bis F de l'annexe II au code général des impôts. 
+L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur
+interrégional des douanes et droits indirects territorialement compétent ou, en Guadeloupe, en Guyane, à La Réunion et à
+Mayotte, au directeur régional des douanes et droits indirects. Elle est accordée après vérification de la conformité du
+protocole de sécurité par des organismes agréés mentionnés à l'article 275 bis F de l'annexe II au code général des impôts.
 
 La direction régionale des douanes et droits indirects de rattachement approuve le cahier des charges préalablement à
-l'habilitation du professionnel. 
+l'habilitation du professionnel.
 
-Le cahier des charges mentionné au premier alinéa est composé notamment : 
+Le cahier des charges mentionné au premier alinéa est composé notamment :
 
-1° D'une documentation, relative à l'entreprise, fournissant : 
+1° D'une documentation, relative à l'entreprise, fournissant :
 
-a) La description de l'entreprise quant à ses structures juridiques et ses locaux ; 
+a) La description de l'entreprise quant à ses structures juridiques et ses locaux ;
 
-b) La description de l'organisation et des responsabilités de la direction de l'entreprise ; 
+b) La description de l'organisation et des responsabilités de la direction de l'entreprise ;
 
-2° D'une documentation relative aux obligations de contrôle du titre des ouvrages indiquant : 
+2° D'une documentation relative aux obligations de contrôle du titre des ouvrages indiquant :
 
 a) Les sources d'approvisionnement des alliages, apprêts pour les fabricants, ainsi que les méthodes de contrôle des métaux
-précieux mises en œuvre depuis leur acquisition jusqu'aux produits finis ; 
+précieux mises en œuvre depuis leur acquisition jusqu'aux produits finis ;
 
 b) Les méthodes d'analyses internes quand le contractant habilité a son laboratoire situé dans son entreprise ou externes des
-produits dans les autres cas ; 
+produits dans les autres cas ;
 
-c) La méthode de gestion des échantillons lors des essais des ouvrages ; 
+c) La méthode de gestion des échantillons lors des essais des ouvrages ;
 
-d) La méthode de gestion des produits non conformes au titre légal prévu ; 
+d) La méthode de gestion des produits non conformes au titre légal prévu ;
 
-e) La mise en œuvre des actions correctives pour les ouvrages aux titres non légaux ; 
+e) La mise en œuvre des actions correctives pour les ouvrages aux titres non légaux ;
 
 3° D'une documentation relative aux méthodes utilisées pour attester la garantie du titre et à la mise en place du protocole
-de sécurité informatique en cas de marquage au laser, indiquant : 
+de sécurité informatique en cas de marquage au laser, indiquant :
 
-a) L'installation et la configuration du poste informatique ; 
+a) L'installation et la configuration du poste informatique ;
 
-b) La sécurisation des accès au poste de pilotage de la machine à graver au laser ; 
+b) La sécurisation des accès au poste de pilotage de la machine à graver au laser ;
 
 c) Les modalités de sauvegarde et d'archivage des données informatiques relatives au journal de suivi des ouvertures de
-session et des modifications des comptes d'utilisateurs ; 
+session et des modifications des comptes d'utilisateurs ;
 
-4° De l'indication des obligations en matière de marquage des ouvrages, précisant : 
+4° De l'indication des obligations en matière de marquage des ouvrages, précisant :
 
-a) La conservation de la documentation relative à la délégation de poinçons ; 
+a) La conservation de la documentation relative à la délégation de poinçons ;
 
 b) En cas de marquage au laser, la description du dessin de l'empreinte du poinçon à apposer sur l'ouvrage en or, argent et
-platine et le respect des profondeurs de gravure ; 
+platine et le respect des profondeurs de gravure ;
 
-c) Le respect des règles de marque ; 
+c) Le respect des règles de marque ;
 
 d) La tenue d'une comptabilité matières mentionnant le nombre et le poids des ouvrages essayés, détaillant les ouvrages
 marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523
 du code général des impôts et recensant les ouvrages reconnus aux titres non légaux.
 
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 17 mai 2013 - art. 1
 
 _Cité par_:
 
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
 
+_Modifié par_:
+
+  - Arrêté du 13 janvier 2020 - art. 1
+
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F (V)
-  - Code général des impôts, CGI. - art. 523 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F
+  - Code général des impôts, CGI. - art. 523
 
 
 ##### 4° bis : Organismes de contrôle agréés<a id=137></a>
@@ -12928,51 +12975,52 @@ _Cite_:
 
 Le cahier des charges prévu à l'article 275 ter B de l'annexe II au code général des impôts comprend la description des
 moyens et des méthodes de contrôles et essais ainsi que des méthodes d'attestation de la garantie du titre mis en œuvre par
-les organismes de contrôle agréés. 
+les organismes de contrôle agréés.
 
-L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur général
-des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des
-organismes agréés mentionnés à l'article 275 ter G de l'annexe II au code général des impôts. 
+L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur
+interrégional des douanes et droits indirects territorialement compétent ou, en Guadeloupe, en Guyane, à La Réunion et à
+Mayotte, au directeur régional des douanes et droits indirects. Elle est accordée après vérification de la conformité du
+protocole de sécurité par des organismes agréés mentionnés à l'article 275 ter G de l'annexe II au code général des impôts.
 
-La direction générale des douanes et droits indirects et la direction générale des entreprises approuvent le cahier des
-charges préalablement à l'agrément de l'organisme de contrôle. 
+La direction interrégionale ou régionale compétente mentionnée au deuxième alinéa approuve le cahier des charges
+préalablement à l'agrément de l'organisme de contrôle.
 
-Le cahier des charges mentionné au premier alinéa est composé notamment : 
+Le cahier des charges mentionné au premier alinéa est composé notamment :
 
-1° D'une documentation, relative à l'organisme de contrôle agréé, fournissant : 
+1° D'une documentation, relative à l'organisme de contrôle agréé, fournissant :
 
-a) La description de l'organisme quant à ses structures juridiques et ses locaux ; 
+a) La description de l'organisme quant à ses structures juridiques et ses locaux ;
 
 b) La description de l'organisation et des responsabilités de la direction de l'entreprise ainsi que la compétence du
-personnel chargé de la détermination du titre des ouvrages ; 
+personnel chargé de la détermination du titre des ouvrages ;
 
-2° D'une documentation relative à la procédure d'analyse des ouvrages en métaux précieux qui reprend : 
+2° D'une documentation relative à la procédure d'analyse des ouvrages en métaux précieux qui reprend :
 
-a) Les normes utilisées sur les méthodes de dosage des métaux précieux ; 
+a) Les normes utilisées sur les méthodes de dosage des métaux précieux ;
 
 b) Les moyens et les méthodes de contrôle et d'essai des ouvrages des professionnels habilités par une convention et des
-ouvrages des professionnels non habilités ; 
+ouvrages des professionnels non habilités ;
 
 c) La méthode de gestion des échantillons lors des essais des ouvrages et la procédure mise en place en cas de découverte de
-produits non conformes au titre légal ; 
+produits non conformes au titre légal ;
 
 3° D'une documentation relative aux méthodes utilisées pour attester la garantie du titre et à la mise en place du protocole
-de sécurité informatique en cas de marquage au laser, indiquant : 
+de sécurité informatique en cas de marquage au laser, indiquant :
 
-a) L'installation et la configuration du poste informatique ; 
+a) L'installation et la configuration du poste informatique ;
 
-b) La sécurisation des accès au poste de pilotage de la machine à marquer au laser ; 
+b) La sécurisation des accès au poste de pilotage de la machine à marquer au laser ;
 
 c) Les modalités de sauvegarde et d'archivage des données informatiques relatives au journal de suivi des ouvertures de
-session et des modifications des comptes d'utilisateurs ; 
+session et des modifications des comptes d'utilisateurs ;
 
 4° D'une documentation relative aux obligations des organismes de contrôles agréés qui marquent éventuellement les ouvrages
-pour le compte des professionnels, précisant : 
+pour le compte des professionnels, précisant :
 
 a) En cas du marquage au laser, la description du dessin de l'empreinte du poinçon à apposer sur l'ouvrage en or, argent et
-platine et le respect des profondeurs de gravure ; 
+platine et le respect des profondeurs de gravure ;
 
-b) Le respect des règles de marque ; 
+b) Le respect des règles de marque ;
 
 c) La tenue d'une comptabilité matières mentionnant le nombre et le poids des ouvrages essayés, détaillant les ouvrages
 marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523
@@ -12981,6 +13029,10 @@ du code général des impôts et recensant les ouvrages reconnus aux titres non 
 **Nota:**
 
 Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -12995,7 +13047,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 3 juin 2015 - art. 1
+  - Arrêté du 13 janvier 2020 - art. 1
 
 _Cite_:
 
@@ -13009,91 +13061,103 @@ _Cite_:
 ###### Article 56 j terdecies A
 
 Tout organisme qui souhaite obtenir l'agrément mentionné aux articles 275 bis F et 275 ter G de l'annexe II au code général
-des impôts doit déposer auprès de la direction générale des douanes et droits indirects un dossier attestant de sa
-compétence, de son expérience et de son honorabilité. Le dossier comprend un engagement à respecter le cahier des charges
-mentionné à l'article 56 J terdecies B. 
+des impôts doit déposer auprès de la direction interrégionale ou régionale compétente au sens de l'article 56 J terdecies un
+dossier attestant de sa compétence, de son expérience et de son honorabilité. Le dossier comprend un engagement à respecter
+le cahier des charges mentionné à l'article 56 J terdecies B.
 
-En outre, l'organisme intéressé doit justifier être à jour de ses obligations sociales et fiscales. 
+En outre, l'organisme intéressé doit justifier être à jour de ses obligations sociales et fiscales.
 
-La direction générale des douanes et droits indirects peut se faire présenter toute pièce complémentaire nécessaire à
-l'instruction du dossier. 
+La direction mentionnée au premier alinéa peut se faire présenter toute pièce complémentaire nécessaire à l'instruction du
+dossier.
 
-L'agrément est accordé par le ministre chargé du budget et par le ministre chargé de l'industrie pour une durée de cinq ans.
+L'agrément est accordé par la direction mentionnée au premier alinéa pour une durée de cinq ans.
+
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 17 mai 2013 - art. 1
+  - Arrêté du 13 janvier 2020 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F
+  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G
   - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies B
 
 
 ###### Article 56 j terdecies B
 
 Le cahier des charges mentionné aux articles 275 bis C, 275 bis F et 275 ter G de l'annexe II au code général des impôts
-comprend : 
+comprend :
 
-1° La définition des missions de l'organisme agréé par le ministre chargé du budget et par le ministre chargé de
-l'industrie : 
+1° La définition des missions de l'organisme agréé par le directeur interrégional des douanes et droits indirects
+territorialement compétent ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, par le directeur régional des douanes et
+droits indirects :
 
-a) La réalisation de la version dématérialisée des poinçons attestant la garantie du titre ; 
+a) La réalisation de la version dématérialisée des poinçons attestant la garantie du titre ;
 
 b) L'élaboration, la vente et le transfert des fichiers comportant la version dématérialisée des poinçons aux professionnels
 habilités et aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre par marquage au
-laser d'un poinçon ; 
+laser d'un poinçon ;
 
 c) La vérification de la mise en place et de la conformité du protocole de sécurité informatique imposé aux professionnels
 habilités et aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre par marquage au
-laser d'un poinçon ; 
+laser d'un poinçon ;
 
-2° Une documentation relative aux conditions d'exercice des missions mentionnées au 1° comportant : 
+2° Une documentation relative aux conditions d'exercice des missions mentionnées au 1° comportant :
 
 a) Les modalités d'élaboration de la version dématérialisée des poinçons attestant la garantie du titre à partir des
-agrandissements photographiques des poinçons en acier détenus par la Monnaie de Paris et transmis par l'intermédiaire de la
-direction générale des douanes et droits indirects ; 
+agrandissements photographiques des poinçons en acier détenus par la Monnaie de Paris et transmis par l'intermédiaire de
+l'administration des douanes et droits indirects ;
 
 b) Les modalités de conception et de gestion des fichiers comportant la version dématérialisée des poinçons attestant la
-garantie du titre par marquage au laser ; 
+garantie du titre par marquage au laser ;
 
 c) Les modalités de transfert des fichiers comportant la version dématérialisée des poinçons aux professionnels habilités et
 aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre par marquage au laser. Ce
 transfert a lieu au moyen d'un support amovible en ayant recours à un procédé de cryptage. Une clef de décryptage est fournie
-par l'organisme agréé ; 
+par l'organisme agréé ;
 
 d) La description de la sécurisation du poste informatique afin de garantir l'inviolabilité des fichiers comportant la
-version dématérialisée des poinçons attestant la garantie du titre par marquage au laser d'un poinçon et indiquant : 
+version dématérialisée des poinçons attestant la garantie du titre par marquage au laser d'un poinçon et indiquant :
 
-L'installation et la configuration du poste informatique ; 
+L'installation et la configuration du poste informatique ;
 
 La sécurisation des accès au poste de travail, étant précisé que le local sécurisé de l'entreprise mentionné à l'article 275
 bis C de l'annexe II au code général des impôts doit s'entendre, dans le cas des équipements dédiés à la gravure au laser,
 comme le lieu sécurisé destiné à garantir l'inviolabilité des fichiers cryptés et de la clef de décryptage mentionnés au c du
-2° ; 
+2° ;
 
-Les modalités de sauvegarde et d'archivage des données ; 
+Les modalités de sauvegarde et d'archivage des données ;
 
 e) Les modalités de vérification de la mise en place et de la conformité du protocole de sécurité informatique imposé aux
 professionnels habilités et aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre
-par marquage au laser d'un poinçon, à savoir : 
+par marquage au laser d'un poinçon, à savoir :
 
 La réalisation, en présence d'un représentant de la direction régionale des douanes et droits indirects, d'un audit des
 professionnels habilités et des organismes de contrôle agréés préalablement à la délivrance de l'autorisation de marquage au
-laser ; 
+laser ;
 
 La transmission, par la direction régionale des douanes et droits indirects, du rapport d'audit signé conjointement par le
-représentant de la direction régionale des douanes et droits indirects et par l'organisme agréé, à la direction générale des
-douanes et droits indirects.
+représentant de la direction régionale des douanes et droits indirects et par l'organisme agréé.
+
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 17 mai 2013 - art. 1
+  - Arrêté du 13 janvier 2020 - art. 1
 
 _Cite_:
 
@@ -13112,40 +13176,47 @@ Les services de la direction régionale des douanes et droits indirects de ratta
 l'organisme agréé afin de vérifier le respect des prescriptions fixées par le cahier des charges.
 
 L'organisme agréé conserve toutes les pièces justifiant de l'exercice de ses activités pendant un délai de trois ans. Ces
-pièces justificatives sont tenues à la disposition de la direction générale des douanes et droits indirects et de la
-direction générale des entreprises.
+pièces justificatives sont tenues à la disposition de l'administration des douanes et droits indirects.
 
 **Nota:**
 
 Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
 
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 3 juin 2015 - art. 1
+  - Arrêté du 13 janvier 2020 - art. 1
 
 
 ###### Article 56 j terdecies D
 
-L'agrément est suspendu à titre conservatoire en cas de manquement constaté de l'organisme agréé : 
+L'agrément est suspendu à titre conservatoire en cas de manquement constaté de l'organisme agréé :
 
-1° Aux obligations résultant des articles 275 bis F et 275 ter G de l'annexe II au code général des impôts ; 
+1° Aux obligations résultant des articles 275 bis F et 275 ter G de l'annexe II au code général des impôts ;
 
-2° Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux. 
+2° Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux.
 
-La suspension de l'agrément est prononcée à la diligence soit du directeur général des douanes et droits indirects soit du
-directeur général des entreprises.
+La suspension de l'agrément est prononcée à la diligence du directeur interrégional ou régional des douanes et droits
+indirects compétent mentionné au 1° de l'article 56 J terdecies B.
 
 **Nota:**
 
 Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
 
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 3 juin 2015 - art. 1
+  - Arrêté du 13 janvier 2020 - art. 1
 
 _Cite_:
 
@@ -13155,25 +13226,31 @@ _Cite_:
 
 ###### Article 56 j terdecies E
 
-L'agrément est retiré : 
+L'agrément est retiré :
 
 1° Soit à la demande de l'organisme agréé. Lorsqu'il ne remplit plus les conditions prévues par les articles 275 bis F et 275
-ter G de l'annexe II au code général des impôts, l'organisme est tenu de cesser sans délai ses activités ; 
+ter G de l'annexe II au code général des impôts, l'organisme est tenu de cesser sans délai ses activités ;
 
-2° Soit d'office par l'administration lorsque l'organisme agréé a manqué : 
+2° Soit d'office par l'administration lorsque l'organisme agréé a manqué :
 
-a) Aux obligations résultant des articles 275 bis F et 275 ter G de l'annexe II au code général des impôts ; 
+a) Aux obligations résultant des articles 275 bis F et 275 ter G de l'annexe II au code général des impôts ;
 
-b) Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux. 
+b) Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux.
 
-Le retrait de l'agrément est prononcé par le ministre chargé du budget et le ministre chargé de l'industrie. Il entraîne la
-cessation immédiate des activités exercées par l'organisme.
+Le retrait de l'agrément est prononcé par le directeur interrégional ou régional des douanes et droits indirects compétent
+mentionné au 1° de l'article 56 J terdecies B. Il entraîne la cessation immédiate des activités exercées par l'organisme.
+
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 17 mai 2013 - art. 1
+  - Arrêté du 13 janvier 2020 - art. 1
 
 _Cite_:
 
@@ -18029,12 +18106,12 @@ _Cite_:
 
 I. – L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur
 départemental ou le directeur régional des finances publiques du département dans lequel le programme d'investissement est
-réalisé lorsque son montant total n'excède pas 5 millions d'euros, à l'exception du secteur du logement.
+réalisé lorsque son montant total n'excède pas 10 millions d'euros, à l'exception du secteur du logement.
 
-La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 5 millions
-d'euros ou qu'il est réalisé dans plus d'un département d'outre-mer, à Saint-Martin, à Saint-Barthélemy, en Polynésie
-française, aux îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie ou à Saint-
-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
+La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 10
+millions d'euros ou qu'il est réalisé dans plus d'un département d'outre-mer, à Saint-Martin, à Saint-Barthélemy, en
+Polynésie française, aux îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie
+ou à Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
 
 I bis. – Dans le secteur du logement, l'agrément prévu au 4 de l'article 199 undecies A, au VII de l'article 199 undecies C,
 aux II quater et III de l'article 217 undecies et au VII de l'article 244 quater W du code général des impôts, est délivré
@@ -18063,11 +18140,15 @@ IV. – (Dispositions devenues sans objet).
 
 Modifications effectuées en conséquence de l'article 106-I [2°] de la loi n° 2016-1918 du 29 décembre 2016.
 
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 16 mai 2018 - art. 1
+  - Arrêté du 13 janvier 2020 - art. 1
 
 _Cité par_:
 

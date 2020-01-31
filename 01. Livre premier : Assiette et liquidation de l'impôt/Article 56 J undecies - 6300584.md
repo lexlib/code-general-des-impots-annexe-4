@@ -1,18 +1,24 @@
 # Article 56 J undecies
 
 En cas de manquement aux dispositions légales ou réglementaires applicables en matière de garantie des métaux précieux,
-l'agrément est retiré par décision motivée du directeur général des douanes et droits indirects et mention du retrait de
-l'agrément est faite au Bulletin officiel des douanes.
+l'agrément est retiré par décision motivée du directeur interrégional ou régional compétent au sens de l'article 56 J
+quinquies.
 
-Le directeur général des douanes et droits indirects peut, sans délai, à titre conservatoire, suspendre l'agrément d'une
-personne morale ou physique qui ne respecte pas ses obligations.
+Le directeur interrégional ou régional compétent au sens de l'article 56 J quinquies peut, sans délai, à titre conservatoire,
+suspendre l'agrément d'une personne morale ou physique qui ne respecte pas ses obligations.
+
+**Nota:**
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1995-04-27 art. 7 JORF 5 mai 1995
 
 _Codifié par_:
 
   - Arrêté 1995-12-11
+
+_Modifié par_:
+
+  - Arrêté du 13 janvier 2020 - art. 1
