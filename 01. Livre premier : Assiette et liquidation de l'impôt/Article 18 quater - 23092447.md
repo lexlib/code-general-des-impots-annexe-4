@@ -38,21 +38,24 @@ a) Pour les bâtiments d'habitation construits à La Réunion à une altitude su
 de l'article 5 (2°) de l'arrêté du 17 avril 2009 définissant les caractéristiques thermiques minimales des bâtiments
 d'habitation neufs dans les départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ;
 
-b) A Saint-Pierre-et-Miquelon, visés aux 1° et 2° à 5° du b du 2 du Ide l'article 18 bis ;
+b) A Saint-Pierre-et-Miquelon, visés aux 1° et 2° à 5° du b du 2 du Ide l'article 18 bis  dans sa rédaction en vigueur au 31
+décembre 2019 ;
 
-3. D'appareils de régulation de chauffage, visés au c du 2 du I de l'article 18 bis ;
+3. D'appareils de régulation de chauffage, visés au c du 2 du I de l'article 18 bis dans sa rédaction en vigueur au 31
+décembre 2019 ;
 
 4. D'équipements de production d'énergie utilisant une source d'énergie renouvelable, visés au a du 3 du I de l'article 18
-bis, sous réserve, en ce qui concerne les systèmes de fourniture d'électricité à partir de l'énergie solaire, pour la
-Guadeloupe, la Martinique, la Guyane, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Martin et Saint-Barthélemy, que
-les installations ne soient pas reliées au réseau du service public d'électricité ;
+bis dans sa rédaction en vigueur au 31 décembre 2019, sous réserve, en ce qui concerne les systèmes de fourniture
+d'électricité à partir de l'énergie solaire, pour la Guadeloupe, la Martinique, la Guyane, La Réunion, Mayotte, Saint-Pierre-
+et-Miquelon, Saint-Martin et Saint-Barthélemy, que les installations ne soient pas reliées au réseau du service public
+d'électricité ;
 
 5. De pompes à chaleur, autres que air/ air, dont la finalité essentielle est la production de chaleur ou d'eau chaude
 sanitaire, ainsi qu'au coût de la pose de l'échangeur souterrain des pompes à chaleur géothermiques, visées au b du 3 du I de
-l'article 18 bis ;
+l'article 18 bis dans sa rédaction en vigueur au 31 décembre 2019 ;
 
 6. D'équipements de raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou par une
-installation de cogénération, visés au c du 3 du I de l'article 18 bis.
+installation de cogénération, visés au c du 3 du I de l'article 18 bis dans sa rédaction en vigueur au 31 décembre 2019.
 
 Pour l'application du présent article, le terme baie en contact avec l'extérieur s'entend d'une ouverture ménagée dans une
 paroi extérieure au logement servant à l'éclairage, au passage ou à l'aération.
@@ -66,12 +69,12 @@ _Cite_:
 
   - Arrêté du 17 avril 2009
   - Arrêté du 17 avril 2009 - art. 5
-  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (M)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis
   - Code général des impôts, CGI. - art. 199 undecies C
 
 _Modifié par_:
 
-  - Arrêté du 30 décembre 2017 - art. 1
+  - Arrêté du 13 février 2020 - art. 2
 
 _Cité par_:
 
