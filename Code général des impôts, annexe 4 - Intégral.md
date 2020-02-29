@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2020-02-15
+Version Consolidée au 2020-03-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 01 à 170 undecies)](#1)
     - [Première partie : Impôts d'État (art. 01 à 121 Z sexies)](#2)
@@ -882,80 +882,80 @@ Puissance administrative</td>
 Jusqu'à 5 000 km</td>
       <td align="center">
 
-De 5 001 km à 20 000 km</td>
+De 5 001 à 20 000 km</td>
       <td align="center">
 
-Au delà de 20 000 km</td>
+Au-delà de 20 000 km</td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify">
 
 3 CV et moins</td>
       <td align="center">
 
-d* 0,451</td>
+d * 0,456</td>
       <td align="center">
 
-(d* 0,270) + 906</td>
+(d * 0,273) + 915</td>
       <td align="center">
 
-d* 0,315</td>
+d * 0,318</td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify">
 
 4 CV</td>
       <td align="center">
 
-d* 0,518</td>
+d * 0,523</td>
       <td align="center">
 
-(d* 0,291) + 1136</td>
+(d * 0,294) + 1147</td>
       <td align="center">
 
-d* 0,349</td>
+d * 0,352</td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify">
 
 5 CV</td>
       <td align="center">
 
-d* 0,543</td>
+d * 0,548</td>
       <td align="center">
 
-(d* 0,305) + 1188</td>
+(d * 0,308) + 1200</td>
       <td align="center">
 
-d* 0,364</td>
+d * 0,368</td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify">
 
 6 CV</td>
       <td align="center">
 
-d* 0,568</td>
+d * 0,574</td>
       <td align="center">
 
-(d* 0,32) + 1244</td>
+(d * 0,323) + 1256</td>
       <td align="center">
 
-d* 0,382</td>
+d * 0,386</td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify">
 
 7 CV et plus</td>
       <td align="center">
 
-d* 0,595</td>
+d * 0,601</td>
       <td align="center">
 
-(d* 0,337) + 1288</td>
+(d * 0,34) + 1301</td>
       <td align="center">
 
-d* 0,401</td>
+d * 0,405</td>
     </tr>
     <tr>
       <td align="center" colspan="4">
@@ -964,6 +964,8 @@ d représente la distance parcourue en kilomètres</td>
     </tr>
   </tbody>
 </table>
+
+.
 
 <table border="1">
   <tbody>
@@ -981,52 +983,52 @@ Puissance administrative</td>
 Jusqu'à 3 000 km</td>
       <td align="center">
 
-De 3 001 km à 6 000 km</td>
+De 3 001 à 6 000 km</td>
       <td align="center">
 
-Au delà de 6 000 km</td>
+Au-delà de 6 000 km</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="justify">
 
 1 ou 2 CV</td>
       <td align="center">
 
-d* 0,338</td>
+d * 0,341</td>
       <td align="center">
 
-(d* 0,084) + 760</td>
+(d * 0,085) + 768</td>
       <td align="center">
 
-d* 0,211</td>
+d * 0,213</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="justify">
 
-3, 4, 5 CV</td>
+3,4,5 CV</td>
       <td align="center">
 
-d* 0,4</td>
+d * 0,404</td>
       <td align="center">
 
-(d* 0,07) + 989</td>
+(d * 0,071) + 999</td>
       <td align="center">
 
-d* 0,235</td>
+d * 0,237</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="justify">
 
 plus de 5 CV</td>
       <td align="center">
 
-d* 0,518</td>
+d * 0,523</td>
       <td align="center">
 
-(d* 0,067) + 1351</td>
+(d * 0,068) + 1365</td>
       <td align="center">
 
-d* 0,292</td>
+d * 0,295</td>
     </tr>
     <tr>
       <td align="center" colspan="4">
@@ -1036,34 +1038,34 @@ d représente la distance parcourue en kilomètres</td>
   </tbody>
 </table>
 
+.
+
 <table border="1">
   <tbody>
     <tr>
-      <th colspan="3">
-
-Tarif applicable aux cyclomoteurs</th>
+      <th colspan="3">TARIF APPLICABLE AUX CYCLOMOTEURS</th>
     </tr>
     <tr>
       <td align="center">
 
-Jusqu'à 2 000 km</td>
+Jusqu'à 3 000 km</td>
       <td align="center">
 
-De 2 001 km à 5 000 km</td>
+De 3 001 km à 6 000 km</td>
       <td align="center">
 
-Au delà de 5 000 km</td>
+Au-delà de 6 000 km</td>
     </tr>
     <tr>
       <td align="center">
 
-d* 0,269</td>
+d * 0,272</td>
       <td align="center">
 
-(d* 0,063) + 412</td>
+(d * 0,064) + 416</td>
       <td align="center">
 
-d* 0,146</td>
+d * 0,147</td>
     </tr>
     <tr>
       <td align="center" colspan="3">
@@ -1073,13 +1075,11 @@ d représente la distance parcourue en kilomètres</td>
   </tbody>
 </table>
 
-.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 11 mars 2019 - art. 1
+  - Arrêté du 26 février 2020 - art. 1
 
 _Cite_:
 
